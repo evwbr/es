@@ -8,23 +8,22 @@
 <atom:link href="https://evwbr.github.io/es/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/es/</link>
 <description>Notícias do Espírito Santo (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Mon, 16 Mar 2026 11:03:23 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Mar 2026 12:01:51 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Serra recebe 2ª edição da Feira Inova ES Mulheres Empreendedoras de 20 a 22 de março]]></title>
-<link>https://evwbr.github.io/es/p/esmulti_e817955e3f38383f24c0153fe904455aa841ce29/</link>
+<title><![CDATA[Vila Velha lança módulo digital para consulta de medicamentos nas unidades de saúde]]></title>
+<link>https://evwbr.github.io/es/p/esmulti_6e5a598b0e80560bc10dcfaf5e6a00e67428f0e9/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Mon, 16 Mar 2026 10:59:21 GMT</pubDate>
+<pubDate>Mon, 16 Mar 2026 11:05:40 GMT</pubDate>
 <category><![CDATA[Espírito Santo]]></category>
-<guid isPermaLink="false"><![CDATA[esmulti:e817955e3f38383f24c0153fe904455aa841ce29]]></guid>
-<description><![CDATA[A 2ª edição da Feira Inova ES Mulheres Empreendedoras acontece de 20 a 22 de março ao lado do Parque da Cidade, no bairro Valparaíso, Serra.]]></description>
+<guid isPermaLink="false"><![CDATA[esmulti:6e5a598b0e80560bc10dcfaf5e6a00e67428f0e9]]></guid>
+<description><![CDATA[Prefeitura de Vila Velha disponibiliza ferramenta online para consulta rápida do estoque de medicamentos nas unidades de saúde.]]></description>
 <content:encoded><![CDATA[
-<p>O evento reúne iniciativas lideradas por mulheres e valoriza a produção local, com estandes de produtos artesanais, comidas típicas, doces, petiscos e outras opções gastronômicas.</p>
-<p>Além da gastronomia e artesanato, a feira oferece shows e atividades culturais durante os três dias de programação, das 17h às 23h.</p>
-<p>A proposta é estimular a geração de renda, ampliar a visibilidade de pequenos negócios e promover a troca de experiências entre empreendedoras capixabas.</p>
-<p>A iniciativa conta com apoio da Prefeitura da Serra, por meio da Secretaria de Políticas Públicas para as Mulheres (Seppom) e da Agência de Desenvolvimento das Micro e Pequenas Empresas e do Empreendedorismo (Aderes).</p>
-<p>A feira reúne empreendimentos de diversas áreas, como artesanato, alimentação, agroindústria e economia solidária.</p>
-<p>A secretária de Direitos Humanos e Cidadania da Serra, Lilian Mota, destaca a feira como um espaço para fortalecer o trabalho das mulheres, incentivar a autonomia financeira e dar visibilidade aos talentos locais.</p>
+<p>A Secretaria de Tecnologia e Inovação da Prefeitura de Vila Velha desenvolveu um módulo digital que permite à população consultar os medicamentos disponíveis para retirada nas unidades de saúde do município.</p>
+<p>A funcionalidade foi criada a partir de uma demanda da Secretaria de Saúde e está disponível no site da Prefeitura e no aplicativo Vila Velha On.</p>
+<p>A ferramenta possibilita a pesquisa de medicamentos e a verificação das unidades de saúde onde estão disponíveis, além de mostrar o estoque atualizado.</p>
+<p>O sistema está integrado à base de dados da gestão farmacêutica do município, garantindo atualização constante das informações.</p>
+<p>A consulta pode ser feita pelo portal da Prefeitura ou pelo aplicativo Vila Velha On, disponível gratuitamente para celulares.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
