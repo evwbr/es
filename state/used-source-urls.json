@@ -1,4 +1,9 @@
 {
+  "source:a8fd92d58e0bc5824e29efe91d7f7526419c6ff1": {
+    "ts": 1778979208235,
+    "url": "https://eshoje.com.br/policia/2026/05/perseguicao-com-tiros-termina-com-invasao-de-predio-e-prisao-em-vitoria",
+    "title": "Perseguição com tiros termina com invasão de prédio e prisão em Vitória"
+  },
   "source:a7dafd684f3b0fdf47dbcd57c1365bb248eafd89": {
     "ts": 1778975608899,
     "url": "https://eshoje.com.br/policia/2026/05/jovem-em-situacao-de-risco-e-resgatada-as-margens-da-br-101-no-sul-do-es",
@@ -39,9 +44,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a8fd92d58e0bc5824e29efe91d7f7526419c6ff1": {
-    "ts": 1778979208235,
-    "url": "https://eshoje.com.br/policia/2026/05/perseguicao-com-tiros-termina-com-invasao-de-predio-e-prisao-em-vitoria",
-    "title": "Perseguição com tiros termina com invasão de prédio e prisão em Vitória"
+  "source:7c0a5d1ca93e21de4d103891433c6f9c67d874ef": {
+    "ts": 1779026008368,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/explosao-em-alojamento-no-es-chega-a-quarta-morte-apos-11-dias",
+    "title": "Quarta vítima morre após explosão em alojamento de Vila Valério"
+  },
+  "source:f693e8c5be44b1a9246c4ca5052e811be25b1776": {
+    "ts": 1779026008368,
+    "url": "https://eshoje.com.br/saude/2026/05/doacao-de-orgaos-em-colatina-da-nova-chance-a-seis-pacientes-no-es",
+    "title": "Hospital Meridional realiza captação de múltiplos órgãos para transplante no Espírito Santo"
   }
 }
