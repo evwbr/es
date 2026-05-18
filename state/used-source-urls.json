@@ -1,4 +1,24 @@
 {
+  "source:34609a698e7d583b4239bf1727dabed3d8d7d694": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/policia/2026/05/suspeito-de-vandalizar-igreja-catolica-e-furtar-templo-e-preso-no-es",
+    "title": "Suspeito de invasão e vandalismo em igreja é preso em Nova Venécia"
+  },
+  "source:3aa866d44379f3e53468da5bad1f62b496001e9d": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/tribunal-de-contas-multa-servidoras-apos-falhas-em-compras-em-sao-gabriel-da-palha",
+    "title": "Tribunal multa servidoras por falhas em contratação pública no município"
+  },
+  "source:8957b23677b5ec338f56e9a42f41a7e023f7b399": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/caminhada-em-vila-velha-marca-dia-de-combate-a-exploracao-sexual-de-criancas",
+    "title": "Vila Velha realiza caminhada com estudantes para combater abuso e exploração sexual infantojuvenil"
+  },
+  "source:1b6a3df410d1a2fff53e2efcd940551bb77ee8fd": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/morre-geovani-silva-idolo-do-vasco-e-do-futebol-capixaba",
+    "title": "Ex-jogador capixaba Geovani Silva morre aos 62 anos após parada cardíaca em Vila Velha"
+  },
   "source:7c0a5d1ca93e21de4d103891433c6f9c67d874ef": {
     "ts": 1779026008368,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/explosao-em-alojamento-no-es-chega-a-quarta-morte-apos-11-dias",
@@ -54,24 +74,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:34609a698e7d583b4239bf1727dabed3d8d7d694": {
-    "ts": 1779105266589,
-    "url": "https://eshoje.com.br/policia/2026/05/suspeito-de-vandalizar-igreja-catolica-e-furtar-templo-e-preso-no-es",
-    "title": "Suspeito de invasão e vandalismo em igreja é preso em Nova Venécia"
+  "source:9d413e954871c49e09d09679f7c51c9d793fb9c0": {
+    "ts": 1779112466554,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/tecnica-de-enfermagem-morre-em-acidente-de-moto-na-segunda-ponte",
+    "title": "Técnica de enfermagem morre em acidente de moto na Segunda Ponte entre Vitória e Vila Velha"
   },
-  "source:3aa866d44379f3e53468da5bad1f62b496001e9d": {
-    "ts": 1779105266589,
-    "url": "https://eshoje.com.br/politica/justica/2026/05/tribunal-de-contas-multa-servidoras-apos-falhas-em-compras-em-sao-gabriel-da-palha",
-    "title": "Tribunal multa servidoras por falhas em contratação pública no município"
+  "source:59e815f7a1602e61187a0ffd66b531e9431a9779": {
+    "ts": 1779112466554,
+    "url": "https://eshoje.com.br/policia/2026/05/operacao-escobar-prende-um-dos-mais-procurados-do-es",
+    "title": "Polícia Civil prende traficante capixaba em mansão no Rio de Janeiro com apoio do Ministério Público"
   },
-  "source:8957b23677b5ec338f56e9a42f41a7e023f7b399": {
-    "ts": 1779105266589,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/caminhada-em-vila-velha-marca-dia-de-combate-a-exploracao-sexual-de-criancas",
-    "title": "Vila Velha realiza caminhada com estudantes para combater abuso e exploração sexual infantojuvenil"
-  },
-  "source:1b6a3df410d1a2fff53e2efcd940551bb77ee8fd": {
-    "ts": 1779105266589,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/morre-geovani-silva-idolo-do-vasco-e-do-futebol-capixaba",
-    "title": "Ex-jogador capixaba Geovani Silva morre aos 62 anos após parada cardíaca em Vila Velha"
+  "source:a4251e5764493a74495fc7431475b238abf60dc6": {
+    "ts": 1779112466554,
+    "url": "https://www.espiritosantonoticias.com.br/geovani-silva-assembleia-decreta-luto-oficial-pela-morte-do-ex-deputado",
+    "title": "Morre Geovani Silva, ex-jogador de futebol e deputado estadual do Espírito Santo"
   }
 }
