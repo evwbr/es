@@ -1,4 +1,29 @@
 {
+  "source:f74413f05267a0a44a92450b52a24931894135dc": {
+    "ts": 1779116068615,
+    "url": "https://eshoje.com.br/policia/2026/05/detento-beneficiado-com-saida-temporaria-do-dia-das-maes-e-encontrado-morto-na-serra",
+    "title": "Homem é assassinado durante saída temporária no bairro Central Carapina, Serra"
+  },
+  "source:4d97cf2fcd5d3d899904ca5ecf8f4fba865294da": {
+    "ts": 1779116068615,
+    "url": "https://www.espiritosantonoticias.com.br/ultrapassagem-em-trecho-da-br-101-termina-com-duas-mortes-em-itapemirim",
+    "title": "Motociclista e motorista morrem em colisão envolvendo moto, carro e carreta na rodovia do Espírito Santo"
+  },
+  "source:c8c33977989e6aee1b83609c7a75fd7828604b70": {
+    "ts": 1779116068615,
+    "url": "https://www.espiritosantonoticias.com.br/batida-frontal-envolvendo-van-da-saude-provoca-morte-e-mobiliza-helicoptero-na-br-101",
+    "title": "Acidente na BR-101 em Linhares deixa 17 feridos e causa congestionamento"
+  },
+  "source:24767e6f3cb4f90aeb36ac056236ba890aa89cf4": {
+    "ts": 1779116068615,
+    "url": "https://www.espiritosantonoticias.com.br/motociclista-morre-apos-acidente-em-alegre-e-motorista-foge-sem-prestar-socorro",
+    "title": "Motociclista morre após colisão com carro em Anutiba, motorista foge do local"
+  },
+  "source:5058df23eae6724c4b87ab0be90b5db21a7af67d": {
+    "ts": 1779116068615,
+    "url": "https://eshoje.com.br/policia/2026/05/homem-e-encontrado-morto-com-faca-cravada-no-rosto-em-linhares",
+    "title": "Homem é encontrado morto com faca cravada no rosto em Linhares"
+  },
   "source:9d413e954871c49e09d09679f7c51c9d793fb9c0": {
     "ts": 1779112466554,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/tecnica-de-enfermagem-morre-em-acidente-de-moto-na-segunda-ponte",
@@ -89,29 +114,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f74413f05267a0a44a92450b52a24931894135dc": {
-    "ts": 1779116068615,
-    "url": "https://eshoje.com.br/policia/2026/05/detento-beneficiado-com-saida-temporaria-do-dia-das-maes-e-encontrado-morto-na-serra",
-    "title": "Homem é assassinado durante saída temporária no bairro Central Carapina, Serra"
+  "source:339ea3dba1ccd8dee9156af141fa3ab35563598e": {
+    "ts": 1779119669695,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/familia-quer-processar-escola-apos-sumico-de-adolescente",
+    "title": "Família de adolescente que desapareceu após sair de escola em Viana pretende processar unidade de ensino"
   },
-  "source:4d97cf2fcd5d3d899904ca5ecf8f4fba865294da": {
-    "ts": 1779116068615,
-    "url": "https://www.espiritosantonoticias.com.br/ultrapassagem-em-trecho-da-br-101-termina-com-duas-mortes-em-itapemirim",
-    "title": "Motociclista e motorista morrem em colisão envolvendo moto, carro e carreta na rodovia do Espírito Santo"
+  "source:f2e2293b2f9947ced4427acf516f18793530b6d2": {
+    "ts": 1779119669695,
+    "url": "https://eshoje.com.br/policia/2026/05/homem-baleado-tenta-escapar-da-morte-mas-cai-sem-vida-em-vila-velha",
+    "title": "Homem de 40 anos é morto a tiros em Vila Velha após tentativa de fuga"
   },
-  "source:c8c33977989e6aee1b83609c7a75fd7828604b70": {
-    "ts": 1779116068615,
-    "url": "https://www.espiritosantonoticias.com.br/batida-frontal-envolvendo-van-da-saude-provoca-morte-e-mobiliza-helicoptero-na-br-101",
-    "title": "Acidente na BR-101 em Linhares deixa 17 feridos e causa congestionamento"
+  "source:ed7ab9d8235d8b86b2e89f3f16a003e9d06c3d3e": {
+    "ts": 1779119669695,
+    "url": "https://www.espiritosantonoticias.com.br/cronica-palavras-inspiracao-e-transformacao",
+    "title": "Alunos de escolas públicas do Espírito Santo são premiados em cerimônia que celebra a Educação e a Democracia"
   },
-  "source:24767e6f3cb4f90aeb36ac056236ba890aa89cf4": {
-    "ts": 1779116068615,
-    "url": "https://www.espiritosantonoticias.com.br/motociclista-morre-apos-acidente-em-alegre-e-motorista-foge-sem-prestar-socorro",
-    "title": "Motociclista morre após colisão com carro em Anutiba, motorista foge do local"
-  },
-  "source:5058df23eae6724c4b87ab0be90b5db21a7af67d": {
-    "ts": 1779116068615,
-    "url": "https://eshoje.com.br/policia/2026/05/homem-e-encontrado-morto-com-faca-cravada-no-rosto-em-linhares",
-    "title": "Homem é encontrado morto com faca cravada no rosto em Linhares"
+  "source:541b324902bea65f43e853efa7a65101d8f19ca4": {
+    "ts": 1779119669695,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/homem-se-afoga-durante-pescaria-e-corpo-e-encontrado-em-rio-de-cachoeiro-de-itapemirim",
+    "title": "Homem morre afogado em rio de Pacotuba, Cachoeiro de Itapemirim"
   }
 }
