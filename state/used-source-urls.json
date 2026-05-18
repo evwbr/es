@@ -1,4 +1,14 @@
 {
+  "source:7c0a5d1ca93e21de4d103891433c6f9c67d874ef": {
+    "ts": 1779026008368,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/explosao-em-alojamento-no-es-chega-a-quarta-morte-apos-11-dias",
+    "title": "Quarta vítima morre após explosão em alojamento de Vila Valério"
+  },
+  "source:f693e8c5be44b1a9246c4ca5052e811be25b1776": {
+    "ts": 1779026008368,
+    "url": "https://eshoje.com.br/saude/2026/05/doacao-de-orgaos-em-colatina-da-nova-chance-a-seis-pacientes-no-es",
+    "title": "Hospital Meridional realiza captação de múltiplos órgãos para transplante no Espírito Santo"
+  },
   "source:a8fd92d58e0bc5824e29efe91d7f7526419c6ff1": {
     "ts": 1778979208235,
     "url": "https://eshoje.com.br/policia/2026/05/perseguicao-com-tiros-termina-com-invasao-de-predio-e-prisao-em-vitoria",
@@ -44,14 +54,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7c0a5d1ca93e21de4d103891433c6f9c67d874ef": {
-    "ts": 1779026008368,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/explosao-em-alojamento-no-es-chega-a-quarta-morte-apos-11-dias",
-    "title": "Quarta vítima morre após explosão em alojamento de Vila Valério"
+  "source:34609a698e7d583b4239bf1727dabed3d8d7d694": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/policia/2026/05/suspeito-de-vandalizar-igreja-catolica-e-furtar-templo-e-preso-no-es",
+    "title": "Suspeito de invasão e vandalismo em igreja é preso em Nova Venécia"
   },
-  "source:f693e8c5be44b1a9246c4ca5052e811be25b1776": {
-    "ts": 1779026008368,
-    "url": "https://eshoje.com.br/saude/2026/05/doacao-de-orgaos-em-colatina-da-nova-chance-a-seis-pacientes-no-es",
-    "title": "Hospital Meridional realiza captação de múltiplos órgãos para transplante no Espírito Santo"
+  "source:3aa866d44379f3e53468da5bad1f62b496001e9d": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/tribunal-de-contas-multa-servidoras-apos-falhas-em-compras-em-sao-gabriel-da-palha",
+    "title": "Tribunal multa servidoras por falhas em contratação pública no município"
+  },
+  "source:8957b23677b5ec338f56e9a42f41a7e023f7b399": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/caminhada-em-vila-velha-marca-dia-de-combate-a-exploracao-sexual-de-criancas",
+    "title": "Vila Velha realiza caminhada com estudantes para combater abuso e exploração sexual infantojuvenil"
+  },
+  "source:1b6a3df410d1a2fff53e2efcd940551bb77ee8fd": {
+    "ts": 1779105266589,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/morre-geovani-silva-idolo-do-vasco-e-do-futebol-capixaba",
+    "title": "Ex-jogador capixaba Geovani Silva morre aos 62 anos após parada cardíaca em Vila Velha"
   }
 }
