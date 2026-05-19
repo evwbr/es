@@ -1,4 +1,9 @@
 {
+  "source:f0c3326dc77097707934fa8699bbf1127f00c525": {
+    "ts": 1779159267396,
+    "url": "https://www.espiritosantonoticias.com.br/marataizes-municipio-disputa-hoje-etapa-nacional-do-premio-prefeitura-empreendedora",
+    "title": "Marataízes representa o Espírito Santo na etapa nacional do Prêmio Sebrae Prefeitura Empreendedora"
+  },
   "source:7302564e5b04fd0d45bc8cd6fcdb586256364692": {
     "ts": 1779144866618,
     "url": "https://eshoje.com.br/policia/2026/05/fiscalizacao-flagra-irregularidades-e-motorista-de-van-escolar-sem-cnh-em-vitoria",
@@ -194,9 +199,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f0c3326dc77097707934fa8699bbf1127f00c525": {
-    "ts": 1779159267396,
-    "url": "https://www.espiritosantonoticias.com.br/marataizes-municipio-disputa-hoje-etapa-nacional-do-premio-prefeitura-empreendedora",
-    "title": "Marataízes representa o Espírito Santo na etapa nacional do Prêmio Sebrae Prefeitura Empreendedora"
+  "source:05d30c3e6d6688ecc2fd71e04e1263db08c9409f": {
+    "ts": 1779191666724,
+    "url": "https://eshoje.com.br/policia/2026/05/es-registra-12-homicidios-em-72-horas-e-governador-reage-com-operacao-em-vila-velha",
+    "title": "Governo do ES determina operação especial após 12 homicídios em três dias"
+  },
+  "source:856447ddadd5c2367b79751dee54378fa5ead626": {
+    "ts": 1779191666724,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/br-101-sera-fechada-por-uma-hora-para-explosao-de-rochas-em-anchieta",
+    "title": "Trecho da BR-101 Sul entre Anchieta e Iconha terá interdição para detonação de rochas nesta terça-feira"
   }
 }
