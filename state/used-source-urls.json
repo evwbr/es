@@ -1,4 +1,14 @@
 {
+  "source:5190ed49d12621464453f35beb8c8764469536f5": {
+    "ts": 1779310466788,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/frente-fria-traz-chuva-para-o-espirito-santo-e-temperaturas-podem-chegar-a-13c",
+    "title": "Frente fria provoca alerta de temporais e queda de granizo no Espírito Santo"
+  },
+  "source:9a71fd2ae0eb0f00a37ec81fe46414c3170a031b": {
+    "ts": 1779310466788,
+    "url": "https://eshoje.com.br/politica/2026/05/ministra-carmem-lucia-esta-confirmada-no-congresso-estadual-da-advocacia-da-oab-es-em-agosto",
+    "title": "Ministra Cármen Lúcia é destaque no Congresso Estadual da Advocacia em Vitória"
+  },
   "source:e9a7eb000e3229b4b78bf4e8422e9904718d1bb2": {
     "ts": 1779306866379,
     "url": "https://eshoje.com.br/policia/2026/05/adolescente-de-15-anos-e-apreendido-com-conteudo-de-ameacas-e-simbolos-nazistas-no-es",
@@ -459,14 +469,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:5190ed49d12621464453f35beb8c8764469536f5": {
-    "ts": 1779310466788,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/frente-fria-traz-chuva-para-o-espirito-santo-e-temperaturas-podem-chegar-a-13c",
-    "title": "Frente fria provoca alerta de temporais e queda de granizo no Espírito Santo"
-  },
-  "source:9a71fd2ae0eb0f00a37ec81fe46414c3170a031b": {
-    "ts": 1779310466788,
-    "url": "https://eshoje.com.br/politica/2026/05/ministra-carmem-lucia-esta-confirmada-no-congresso-estadual-da-advocacia-da-oab-es-em-agosto",
-    "title": "Ministra Cármen Lúcia é destaque no Congresso Estadual da Advocacia em Vitória"
+  "source:9b0baa6d194f39ef1283a7d3eb781df5cd46334a": {
+    "ts": 1779314066542,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/1a-corrida-do-gari-grande-sao-pedro-tera-alteracoes-no-transito-neste-sabado-23",
+    "title": "Corrida do Gari altera trânsito em bairros da Grande São Pedro, em Vitória, no sábado"
   }
 }
