@@ -1,4 +1,24 @@
 {
+  "source:45b62f9a0e0e6943df15e55d3a53edbbc01048dc": {
+    "ts": 1779274466832,
+    "url": "https://eshoje.com.br/politica/2026/05/mesmo-proibido-de-ir-a-brasilia-pastor-fabiano-e-aposta-do-pl-para-deputado-federal",
+    "title": "Vereador Pastor Fabiano assume liderança do PL em Vila Velha e muda pré-candidatura para Câmara dos Deputados em 2026"
+  },
+  "source:8ecd2060a9da250c1638ac1645d89f714a5ae23f": {
+    "ts": 1779274466832,
+    "url": "https://eshoje.com.br/politica/2026/05/justica-manda-ex-prefeito-devolver-r-256-mil-apos-eleicao-anulada-em-castelo",
+    "title": "Ex-prefeito de Castelo é condenado a ressarcir União por custos de eleição suplementar de 2019"
+  },
+  "source:b804a54188b6e224da3489e2d2a8faf1fbf9b18c": {
+    "ts": 1779274466832,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/stj-mantem-prisao-de-ex-juiz-condenado-a-24-anos-por-morte-de-magistrado-no-es",
+    "title": "Ex-juiz Leopoldo é mantido preso por assassinato de magistrado no Espírito Santo"
+  },
+  "source:d098b3c69e71d9f8dd474803569eef9561fd9079": {
+    "ts": 1779274466832,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-integrada-combate-rachas-na-serra",
+    "title": "Detran-ES realiza blitz para coibir corridas ilegais e manobras perigosas em evento de carros antigos"
+  },
   "source:f61a64b531b92467e9c27a1dfa52f242df6aa2f6": {
     "ts": 1779224066557,
     "url": "https://eshoje.com.br/esportes/2026/05/delegacao-capixaba-conquista-12-medalhas-de-ouro-no-circuito-nacional-norte-nordeste-de-wrestling",
@@ -329,24 +349,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:45b62f9a0e0e6943df15e55d3a53edbbc01048dc": {
-    "ts": 1779274466832,
-    "url": "https://eshoje.com.br/politica/2026/05/mesmo-proibido-de-ir-a-brasilia-pastor-fabiano-e-aposta-do-pl-para-deputado-federal",
-    "title": "Vereador Pastor Fabiano assume liderança do PL em Vila Velha e muda pré-candidatura para Câmara dos Deputados em 2026"
+  "source:f3aaf31a3b5b1b346824ad87d3e558ef5e450fb0": {
+    "ts": 1779278067046,
+    "url": "https://eshoje.com.br/policia/2026/05/operacao-integrada-combate-rachas-na-serra",
+    "title": "Blitz na Serra aborda 217 veículos e autua motoristas por direção sob efeito de álcool e falta de habilitação"
   },
-  "source:8ecd2060a9da250c1638ac1645d89f714a5ae23f": {
-    "ts": 1779274466832,
-    "url": "https://eshoje.com.br/politica/2026/05/justica-manda-ex-prefeito-devolver-r-256-mil-apos-eleicao-anulada-em-castelo",
-    "title": "Ex-prefeito de Castelo é condenado a ressarcir União por custos de eleição suplementar de 2019"
+  "source:793d7e097085f896e5aca608d5814e667c5689ea": {
+    "ts": 1779278067046,
+    "url": "https://eshoje.com.br/saude/2026/05/ales-aprova-regras-para-atuacao-de-propagandistas-de-medicamentos-em-hospitais",
+    "title": "Assembleia Legislativa aprova normas para atuação de propagandistas de medicamentos no Espírito Santo"
   },
-  "source:b804a54188b6e224da3489e2d2a8faf1fbf9b18c": {
-    "ts": 1779274466832,
-    "url": "https://eshoje.com.br/politica/justica/2026/05/stj-mantem-prisao-de-ex-juiz-condenado-a-24-anos-por-morte-de-magistrado-no-es",
-    "title": "Ex-juiz Leopoldo é mantido preso por assassinato de magistrado no Espírito Santo"
+  "source:84a77128a37b56f64a71b229fd235eae183888fa": {
+    "ts": 1779278067046,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/cachoeiro-de-itapemirim-tera-espaco-motoboy-com-internet-e-pontos-de-apoio",
+    "title": "Cachoeiro de Itapemirim planeja espaço de apoio para motoboys com programa 'Motoboy Legal'"
   },
-  "source:d098b3c69e71d9f8dd474803569eef9561fd9079": {
-    "ts": 1779274466832,
-    "url": "https://www.espiritosantonoticias.com.br/operacao-integrada-combate-rachas-na-serra",
-    "title": "Detran-ES realiza blitz para coibir corridas ilegais e manobras perigosas em evento de carros antigos"
+  "source:47202c438fa0b493973fa0b764daa09b7c966d95": {
+    "ts": 1779278067046,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/desfile-civico-militar-em-vila-velha-vai-liberar-quatro-vias-na-rodovia-do-sol",
+    "title": "Recapeamento da Rodovia do Sol é suspenso temporariamente para desfile cívico em Vila Velha"
   }
 }
