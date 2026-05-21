@@ -1,4 +1,9 @@
 {
+  "source:5845bb98d038a5d38273dedcb4b4f0a106d11340": {
+    "ts": 1779389666364,
+    "url": "https://eshoje.com.br/policia/2026/05/filho-agride-e-enforca-mae-de-84-anos-em-jardim-camburi-e-acaba-baleado-pela-policia",
+    "title": "Idosa de 84 anos é agredida e enforcada pelo filho em Jardim Camburi, Vitória"
+  },
   "source:9b729c2e6cf383bc761f4f31fc11ad23502383a4": {
     "ts": 1779386067544,
     "url": "https://eshoje.com.br/saude/2026/05/carreta-da-saude-oferece-mamografias-ultrassons-e-consultas-para-mulheres-em-vila-velha",
@@ -564,9 +569,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:5845bb98d038a5d38273dedcb4b4f0a106d11340": {
-    "ts": 1779389666364,
-    "url": "https://eshoje.com.br/policia/2026/05/filho-agride-e-enforca-mae-de-84-anos-em-jardim-camburi-e-acaba-baleado-pela-policia",
-    "title": "Idosa de 84 anos é agredida e enforcada pelo filho em Jardim Camburi, Vitória"
+  "source:28388000b4f88bbedb575ddd1fec5dab5ebd429d": {
+    "ts": 1779393266896,
+    "url": "https://eshoje.com.br/policia/2026/05/criminosos-criam-site-falso-para-aplicar-golpe-do-ipva-no-es-veja-como-identificar-fraude",
+    "title": "Detran-ES alerta para golpes com sites falsos que cobram IPVA e licenciamento"
+  },
+  "source:d4e64b230e6de9c72ff6f80b645cf1402327e8de": {
+    "ts": 1779393266896,
+    "url": "https://eshoje.com.br/policia/2026/05/oficial-de-justica-e-flagrado-com-moto-furtada-em-vitoria",
+    "title": "Oficial de Justiça é detido em Vitória por conduzir moto com registro de furto"
   }
 }
