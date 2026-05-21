@@ -1,4 +1,14 @@
 {
+  "source:8f1004db8b74c011882a77fc37163470da244124": {
+    "ts": 1779378866527,
+    "url": "https://eshoje.com.br/policia/2026/05/homem-e-preso-apos-arrombar-maquinas-em-shopping-de-vila-velha",
+    "title": "Homem é preso em flagrante por furtar dinheiro de máquinas em shopping de Vila Velha"
+  },
+  "source:01da4486064b6175bf7d55e360e30562e99c1c8c": {
+    "ts": 1779378866527,
+    "url": "https://www.espiritosantonoticias.com.br/adolescente-morre-apos-caminhao-cair-de-ponte-em-rio-no-interior-de-cachoeiro",
+    "title": "Jovem de 17 anos morre em acidente com caminhão na localidade de Monte Líbano, Cachoeiro de Itapemirim"
+  },
   "source:f6dbd8d4b71ab7689d9faf1b0c5940a18217339b": {
     "ts": 1779371667461,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/internas-do-centro-prisional-feminino-de-colatina-levam-cuidados-de-beleza-a-idosas-em-acao-solidaria",
@@ -539,14 +549,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:8f1004db8b74c011882a77fc37163470da244124": {
-    "ts": 1779378866527,
-    "url": "https://eshoje.com.br/policia/2026/05/homem-e-preso-apos-arrombar-maquinas-em-shopping-de-vila-velha",
-    "title": "Homem é preso em flagrante por furtar dinheiro de máquinas em shopping de Vila Velha"
-  },
-  "source:01da4486064b6175bf7d55e360e30562e99c1c8c": {
-    "ts": 1779378866527,
-    "url": "https://www.espiritosantonoticias.com.br/adolescente-morre-apos-caminhao-cair-de-ponte-em-rio-no-interior-de-cachoeiro",
-    "title": "Jovem de 17 anos morre em acidente com caminhão na localidade de Monte Líbano, Cachoeiro de Itapemirim"
+  "source:274713ed586e1d8aac6030190402ec3bc9644095": {
+    "ts": 1779382467473,
+    "url": "https://eshoje.com.br/policia/2026/05/b20-r-62-mil-drogas-armas-e-suspeitos-ligados-ao-pcv",
+    "title": "Operação em Cariacica apreende mais de R$ 62 mil, drogas, armas e veículos ligados ao tráfico"
   }
 }
