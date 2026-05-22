@@ -1,4 +1,14 @@
 {
+  "source:a8364209c0355d0de1f6c931cfd0510c4d34bdff": {
+    "ts": 1779454467780,
+    "url": "https://eshoje.com.br/policia/2026/05/reus-pegam-mais-de-90-anos-por-ataque-em-supermercado",
+    "title": "Dois homens são condenados a mais de 90 anos de prisão pelo assassinato de operadora de caixa na Serra"
+  },
+  "source:14df7aa26b814a71e04d7762d28fe13df886e79a": {
+    "ts": 1779454467780,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/es-lidera-ranking-nacional-de-responsabilidade-fiscal-e-todos-os-municipios-cumprem-regra-de-ouro",
+    "title": "Espírito Santo lidera cumprimento da Regra de Ouro entre estados brasileiros em 2025"
+  },
   "source:af0342fe7214f85f92d52d57b92e9dd6ba951425": {
     "ts": 1779450866550,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/festa-de-491-anos-de-vila-velha-comeca-hoje-com-transposicao-do-fogo-simbolico",
@@ -594,14 +604,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a8364209c0355d0de1f6c931cfd0510c4d34bdff": {
-    "ts": 1779454467780,
-    "url": "https://eshoje.com.br/policia/2026/05/reus-pegam-mais-de-90-anos-por-ataque-em-supermercado",
-    "title": "Dois homens são condenados a mais de 90 anos de prisão pelo assassinato de operadora de caixa na Serra"
+  "source:362b3fdead8212e22acf4feb68bbb082d4cc8d62": {
+    "ts": 1779458066450,
+    "url": "https://eshoje.com.br/policia/2026/05/cabo-da-pm-e-preso-suspeito-de-atuar-a-favor-do-trafico-no-es",
+    "title": "Cabo da Polícia Militar do Espírito Santo é preso suspeito de envolvimento com tráfico de drogas"
   },
-  "source:14df7aa26b814a71e04d7762d28fe13df886e79a": {
-    "ts": 1779454467780,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/es-lidera-ranking-nacional-de-responsabilidade-fiscal-e-todos-os-municipios-cumprem-regra-de-ouro",
-    "title": "Espírito Santo lidera cumprimento da Regra de Ouro entre estados brasileiros em 2025"
+  "source:daba72b158da304f3770d12708895e7cf463ced2": {
+    "ts": 1779458066450,
+    "url": "https://www.espiritosantonoticias.com.br/pces-e-gcm-deflagram-operacao-b20-prendem-dois-suspeitos-e-apreendem-mais-de-r-62-mil-em-especie",
+    "title": "Polícia prende dois suspeitos e apreende mais de R$ 62 mil em operação contra tráfico em Cariacica"
+  },
+  "source:8c2ba4ca72e7f226f5f4a19d2e309556e82b753c": {
+    "ts": 1779458066450,
+    "url": "https://www.espiritosantonoticias.com.br/piuma-leva-sua-folia-para-a-feira-dos-municipios-2026",
+    "title": "Piúma apresenta cultura e tradição do Carnaval na Feira dos Municípios na Serra"
   }
 }
