@@ -1,4 +1,14 @@
 {
+  "source:1c733cd5cae0b830028e176bd3c0f07ab6505bda": {
+    "ts": 1779468866464,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/servidores-da-serra-terao-reajuste-de-55-a-partir-de-maio",
+    "title": "Prefeitura da Serra anuncia reajuste salarial de 5,5% para servidores municipais a partir de maio"
+  },
+  "source:efef6f0386e6e9912b244bf4892182239e79f761": {
+    "ts": 1779468866464,
+    "url": "https://www.espiritosantonoticias.com.br/batalhao-de-missoes-especiais-da-pmes-participa-de-operacao-nacional-contra-criminalidade",
+    "title": "Polícias militares de todo o Brasil realizam operação entre maio e junho de 2026"
+  },
   "source:faf49e0e448295a910835536459a6a8ca7e74480": {
     "ts": 1779465266752,
     "url": "https://www.espiritosantonoticias.com.br/prf-ecovias-101-e-antt-discutem-acoes-para-reforcar-seguranca-nas-rodovias-do-es",
@@ -644,14 +654,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1c733cd5cae0b830028e176bd3c0f07ab6505bda": {
-    "ts": 1779468866464,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/servidores-da-serra-terao-reajuste-de-55-a-partir-de-maio",
-    "title": "Prefeitura da Serra anuncia reajuste salarial de 5,5% para servidores municipais a partir de maio"
-  },
-  "source:efef6f0386e6e9912b244bf4892182239e79f761": {
-    "ts": 1779468866464,
-    "url": "https://www.espiritosantonoticias.com.br/batalhao-de-missoes-especiais-da-pmes-participa-de-operacao-nacional-contra-criminalidade",
-    "title": "Polícias militares de todo o Brasil realizam operação entre maio e junho de 2026"
+  "source:a04ec0184daee528f64825bf7a3d06f1f2609465": {
+    "ts": 1779472466359,
+    "url": "https://eshoje.com.br/policia/2026/05/golpe-da-maquininha-suspeito-de-trocar-cartoes-de-vitimas-durante-pagamentos-e-preso-no-es",
+    "title": "Homem é preso em Vitória suspeito de aplicar golpe da maquininha em idosos"
   }
 }
