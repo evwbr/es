@@ -1,4 +1,9 @@
 {
+  "source:a04ec0184daee528f64825bf7a3d06f1f2609465": {
+    "ts": 1779472466359,
+    "url": "https://eshoje.com.br/policia/2026/05/golpe-da-maquininha-suspeito-de-trocar-cartoes-de-vitimas-durante-pagamentos-e-preso-no-es",
+    "title": "Homem é preso em Vitória suspeito de aplicar golpe da maquininha em idosos"
+  },
   "source:1c733cd5cae0b830028e176bd3c0f07ab6505bda": {
     "ts": 1779468866464,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/servidores-da-serra-terao-reajuste-de-55-a-partir-de-maio",
@@ -654,9 +659,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a04ec0184daee528f64825bf7a3d06f1f2609465": {
-    "ts": 1779472466359,
-    "url": "https://eshoje.com.br/policia/2026/05/golpe-da-maquininha-suspeito-de-trocar-cartoes-de-vitimas-durante-pagamentos-e-preso-no-es",
-    "title": "Homem é preso em Vitória suspeito de aplicar golpe da maquininha em idosos"
+  "source:88c0650bbd9a087edfa44d2c2e409151c7445c44": {
+    "ts": 1779476066230,
+    "url": "https://eshoje.com.br/esportes/2026/05/vila-velha-recebe-full-race-com-circuito-fitness-inedito-no-espirito-santo",
+    "title": "Full Race - Level Edition estreia em Vila Velha com prova inovadora no estacionamento do Shopping Praia da Costa"
+  },
+  "source:b0a1348077180979f32295e713f363ebf6492752": {
+    "ts": 1779476066230,
+    "url": "https://eshoje.com.br/saude/2026/05/vitoria-amplia-atendimentos-especializados-para-pessoas-com-deficiencia-e-tea",
+    "title": "Vitória amplia consultas e testes para pessoas com deficiência intelectual e autismo"
+  },
+  "source:8968d18dd59c738eef1fd90702af6de119ba3212": {
+    "ts": 1779476066230,
+    "url": "https://eshoje.com.br/politica/2026/05/solange-lube-e-reune-liderancas-femininas-de-viana-e-cariacica",
+    "title": "Solange Lube reúne lideranças femininas em Viana e destaca papel das mulheres na política capixaba"
+  },
+  "source:030135f5cbcb9462e8d6f4f7abb88ce96fbb0e5c": {
+    "ts": 1779476066230,
+    "url": "https://eshoje.com.br/policia/2026/05/confusao-por-pontos-de-venda-de-pipoca-vai-parar-em-delegacia-no-es",
+    "title": "Discussão entre vendedores ambulantes termina na delegacia no Centro de Vitória"
   }
 }
