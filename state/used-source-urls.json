@@ -1,4 +1,14 @@
 {
+  "source:440478520d19dac730ea2c22e29bb15eeef5b93e": {
+    "ts": 1779483267640,
+    "url": "https://eshoje.com.br/esportes/2026/05/capixaba-e-a-melhor-goleira-de-beach-soccer-do-mundo",
+    "title": "Letícia Lopes é eleita melhor goleira do mundo no beach soccer"
+  },
+  "source:90ee6e9931e46d07fd0d6658c534bf0ac4aae7e3": {
+    "ts": 1779483267640,
+    "url": "https://eshoje.com.br/economia/2026/05/maior-evento-fitness-do-pais-reunira-grandes-nomes-do-fisiculturismo-da-saude-e-do-empresariado-brasileiro-em-vitoria",
+    "title": "Vitória recebe evento que reúne fisiculturismo, saúde e empreendedorismo no mercado fitness"
+  },
   "source:2935a50c179c59a0e2196f2883f495862e2cfb76": {
     "ts": 1779479666549,
     "url": "https://eshoje.com.br/policia/2026/05/jovem-que-estava-ha-dias-desaparecido-e-encontrado-morto-na-serra",
@@ -694,14 +704,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:440478520d19dac730ea2c22e29bb15eeef5b93e": {
-    "ts": 1779483267640,
-    "url": "https://eshoje.com.br/esportes/2026/05/capixaba-e-a-melhor-goleira-de-beach-soccer-do-mundo",
-    "title": "Letícia Lopes é eleita melhor goleira do mundo no beach soccer"
-  },
-  "source:90ee6e9931e46d07fd0d6658c534bf0ac4aae7e3": {
-    "ts": 1779483267640,
-    "url": "https://eshoje.com.br/economia/2026/05/maior-evento-fitness-do-pais-reunira-grandes-nomes-do-fisiculturismo-da-saude-e-do-empresariado-brasileiro-em-vitoria",
-    "title": "Vitória recebe evento que reúne fisiculturismo, saúde e empreendedorismo no mercado fitness"
+  "source:f4904c9a62184efef92e7f1671f7dc581e1816b9": {
+    "ts": 1779508467096,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/alunos-de-vitoria-vao-ganhar-cartao-de-r-100-para-comprar-livros",
+    "title": "Vitória lança cartão de R$ 100 para incentivar leitura entre estudantes da rede municipal"
   }
 }
