@@ -1,4 +1,14 @@
 {
+  "source:612d346ca3530028d8074cadf6d85ee8bd2360f8": {
+    "ts": 1779638066998,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/novo-viaduto-em-alto-lage-provoca-mudancas-no-fluxo-de-avenida-em-cariacica",
+    "title": "Desvios provisórios começam na Avenida Mário Gurgel para obras do novo viaduto em Cariacica"
+  },
+  "source:fedd9f47ee3089eaf188ae633b87359aca1beb18": {
+    "ts": 1779638066998,
+    "url": "https://eshoje.com.br/policia/2026/05/apos-chacina-em-cariacica-homem-e-preso-em-flagrante-caso-segue-sob-investigacao",
+    "title": "Homem de 28 anos é preso em flagrante após chacina com quatro mortos em Cariacica"
+  },
   "source:19794ad081fa3d1a8acd0acee93b0b058086901e": {
     "ts": 1779580466459,
     "url": "https://eshoje.com.br/policia/2026/05/quatro-homens-da-mesma-familia-sao-mortos-a-tiros-em-cariacica-amigo-e-baleado",
@@ -729,14 +739,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:612d346ca3530028d8074cadf6d85ee8bd2360f8": {
-    "ts": 1779638066998,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/novo-viaduto-em-alto-lage-provoca-mudancas-no-fluxo-de-avenida-em-cariacica",
-    "title": "Desvios provisórios começam na Avenida Mário Gurgel para obras do novo viaduto em Cariacica"
-  },
-  "source:fedd9f47ee3089eaf188ae633b87359aca1beb18": {
-    "ts": 1779638066998,
-    "url": "https://eshoje.com.br/policia/2026/05/apos-chacina-em-cariacica-homem-e-preso-em-flagrante-caso-segue-sob-investigacao",
-    "title": "Homem de 28 anos é preso em flagrante após chacina com quatro mortos em Cariacica"
+  "source:0fa81397d84871609595dc9df96744b4959e9c48": {
+    "ts": 1779641666273,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/semana-comeca-com-tempo-firme-no-es-confira",
+    "title": "Espírito Santo terá tempo firme e baixa possibilidade de chuva nesta segunda-feira"
   }
 }
