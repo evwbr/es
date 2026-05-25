@@ -1,4 +1,14 @@
 {
+  "source:af8ee1e874403f5be7daa9c672034564e5d5744b": {
+    "ts": 1779731666912,
+    "url": "https://eshoje.com.br/esportes/2026/05/irmaos-capixabas-brilham-no-sul-americano-de-kart-4t-e-joaquim-emerick-conquista-titulo-continental",
+    "title": "Irmãos capixabas se destacam no Sul-americano de Kart 4T no Rio Grande do Sul"
+  },
+  "source:ab5027896763edaaa67dd357b3762001b061cc8d": {
+    "ts": 1779731666912,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/apos-pedido-do-mpf-justica-determina-regularizacao-de-empresas-na-ilha-da-fumaca-em-vitoria",
+    "title": "Justiça Federal determina regularização ambiental e suspende atividades irregulares na Ilha da Fumaça, em Vitória"
+  },
   "source:a8e005bdb8e30d83f093507207c09e9713a8a47e": {
     "ts": 1779728066209,
     "url": "https://eshoje.com.br/policia/2026/05/operacao-no-es-prende-35-por-crimes-contra-criancas",
@@ -829,14 +839,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:af8ee1e874403f5be7daa9c672034564e5d5744b": {
-    "ts": 1779731666912,
-    "url": "https://eshoje.com.br/esportes/2026/05/irmaos-capixabas-brilham-no-sul-americano-de-kart-4t-e-joaquim-emerick-conquista-titulo-continental",
-    "title": "Irmãos capixabas se destacam no Sul-americano de Kart 4T no Rio Grande do Sul"
+  "source:cdbe7f52369edc112aa621830f7110ae5ce90471": {
+    "ts": 1779735266148,
+    "url": "https://eshoje.com.br/policia/2026/05/policia-descarta-motivacao-politica-e-revela-o-que-estaria-por-tras-da-morte-de-suplente-no-es",
+    "title": "Polícia Civil conclui inquérito sobre assassinato de Renato Rosa em Vila Valério"
   },
-  "source:ab5027896763edaaa67dd357b3762001b061cc8d": {
-    "ts": 1779731666912,
-    "url": "https://eshoje.com.br/politica/justica/2026/05/apos-pedido-do-mpf-justica-determina-regularizacao-de-empresas-na-ilha-da-fumaca-em-vitoria",
-    "title": "Justiça Federal determina regularização ambiental e suspende atividades irregulares na Ilha da Fumaça, em Vitória"
+  "source:622b02d62d2cde928681aef8f28486aed452c946": {
+    "ts": 1779735266148,
+    "url": "https://www.espiritosantonoticias.com.br/crise-de-ciumes-termina-em-agressao-a-mae-com-bebe-e-disparos-dentro-de-residencia",
+    "title": "Homem com histórico criminal agride ex-companheira e dispara tiros em residência de Vargem Alta"
+  },
+  "source:bbc56d5b8de934ef0687b708e73da9cf66c5bf84": {
+    "ts": 1779735266148,
+    "url": "https://www.espiritosantonoticias.com.br/acidente-na-es-060-motociclista-de-61-anos-morre-apos-colisao-com-carro-em-marataizes",
+    "title": "Motociclista morre após colisão com carro no Trevo de Lagoa Funda, em Marataízes"
+  },
+  "source:5cdae82ee638abe605ac5bdb72ad39eda2e7aff6": {
+    "ts": 1779735266148,
+    "url": "https://eshoje.com.br/policia/2026/05/dupla-e-presa-apos-golpe-na-compra-de-bicicletas-eletricas-no-norte-do-es",
+    "title": "Dois jovens são presos por aplicar golpe em loja de bicicletas elétricas em Linhares"
+  },
+  "source:ee685add5edd35e4a89dd4625b73ae63e1cb1e28": {
+    "ts": 1779735266148,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/mais-de-40-atracoes-culturais-na-feira-dos-municipios",
+    "title": "Feira dos Municípios reúne cultura, gastronomia e shows no Espírito Santo a partir de quinta-feira"
   }
 }
