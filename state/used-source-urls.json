@@ -1,4 +1,19 @@
 {
+  "source:a8e031afd632908cc2586aa2160ed1d3df88e316": {
+    "ts": 1779713666497,
+    "url": "https://eshoje.com.br/policia/2026/05/guarda-prende-foragido-por-homicidio-na-rodoviaria-de-vitoria",
+    "title": "Guarda Municipal prende homem com mandado de prisão por homicídio em Vitória"
+  },
+  "source:e3ebc62ce178cd4a58709a5458c49239d2d636f8": {
+    "ts": 1779713666497,
+    "url": "https://eshoje.com.br/saude/2026/05/cariacica-abre-mais-de-13-mil-vagas-para-consultas-medicas-e-odontologicas-nesta-segunda-25",
+    "title": "Cariacica oferece mais de 13 mil vagas para consultas médicas e odontológicas em junho"
+  },
+  "source:1e6abc11b1ba733b9140ff8c9e3bb776e99f8946": {
+    "ts": 1779713666497,
+    "url": "https://www.espiritosantonoticias.com.br/clube-de-futebol-feminino-de-sao-mateus-celebra-cinco-anos-de-fundacao-e-apoio-da-suzano",
+    "title": "Harpia FC anuncia parceria com Suzano para fortalecer futebol feminino em São Mateus"
+  },
   "source:72936afc74e5ebe5c28b0f1e16aeeeefea825092": {
     "ts": 1779710068865,
     "url": "https://eshoje.com.br/policia/2026/05/casal-morre-e-filhos-gemeos-ficam-feridos-em-engavetamento-na-rodovia-do-contorno",
@@ -769,19 +784,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a8e031afd632908cc2586aa2160ed1d3df88e316": {
-    "ts": 1779713666497,
-    "url": "https://eshoje.com.br/policia/2026/05/guarda-prende-foragido-por-homicidio-na-rodoviaria-de-vitoria",
-    "title": "Guarda Municipal prende homem com mandado de prisão por homicídio em Vitória"
+  "source:ca7d03c44d3a2b0c7ba6992d80db4281d013666d": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/policia/2026/05/meeiro-e-morto-a-tiros-apos-dupla-encapuzada-invadir-residencia-em-linhares",
+    "title": "Meeiro é morto com tiro na cabeça em bairro de Linhares"
   },
-  "source:e3ebc62ce178cd4a58709a5458c49239d2d636f8": {
-    "ts": 1779713666497,
-    "url": "https://eshoje.com.br/saude/2026/05/cariacica-abre-mais-de-13-mil-vagas-para-consultas-medicas-e-odontologicas-nesta-segunda-25",
-    "title": "Cariacica oferece mais de 13 mil vagas para consultas médicas e odontológicas em junho"
+  "source:bf00d22bbb370702be269197ad2da3eb63c2e1ac": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/economia/2026/05/com-26-mil-pes-plantados-vila-velha-prepara-estreia-no-mercado-do-cafe",
+    "title": "Vila Velha investe em cultivo de café conilon com expectativa de colheita superior a 600 sacas em 2027"
   },
-  "source:1e6abc11b1ba733b9140ff8c9e3bb776e99f8946": {
-    "ts": 1779713666497,
-    "url": "https://www.espiritosantonoticias.com.br/clube-de-futebol-feminino-de-sao-mateus-celebra-cinco-anos-de-fundacao-e-apoio-da-suzano",
-    "title": "Harpia FC anuncia parceria com Suzano para fortalecer futebol feminino em São Mateus"
+  "source:c46b9a1eb5f758b73c476d8ae97657eb844d2f02": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/policia/2026/05/corpo-de-homem-e-encontrado-em-area-de-eucalipto-na-serra",
+    "title": "Corpo é encontrado na Serra e caso é encaminhado para DHPP"
+  },
+  "source:b8ea77c4269897c2a43e23440fa80e128bfb7963": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/politica/2026/05/deputado-quer-proibir-uso-de-coleiras-eletronicas-em-animais-no-es",
+    "title": "Projeto de Lei na Assembleia Legislativa proíbe uso de coleiras eletrônicas e ultrassônicas em animais no Espírito Santo"
   }
 }
