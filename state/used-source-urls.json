@@ -1,4 +1,9 @@
 {
+  "source:72936afc74e5ebe5c28b0f1e16aeeeefea825092": {
+    "ts": 1779710068865,
+    "url": "https://eshoje.com.br/policia/2026/05/casal-morre-e-filhos-gemeos-ficam-feridos-em-engavetamento-na-rodovia-do-contorno",
+    "title": "Casal morre e filhos gêmeos ficam gravemente feridos em engavetamento na BR-101 em Cariacica"
+  },
   "source:873b657ef52e50ff3f93bf2bf48bffdc81f5a46b": {
     "ts": 1779659666637,
     "url": "https://www.espiritosantonoticias.com.br/familia-assassinada-em-chacina-em-cariacica-teria-enfrentado-imposicoes-do-trafico-diz-pm",
@@ -764,9 +769,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:72936afc74e5ebe5c28b0f1e16aeeeefea825092": {
-    "ts": 1779710068865,
-    "url": "https://eshoje.com.br/policia/2026/05/casal-morre-e-filhos-gemeos-ficam-feridos-em-engavetamento-na-rodovia-do-contorno",
-    "title": "Casal morre e filhos gêmeos ficam gravemente feridos em engavetamento na BR-101 em Cariacica"
+  "source:a8e031afd632908cc2586aa2160ed1d3df88e316": {
+    "ts": 1779713666497,
+    "url": "https://eshoje.com.br/policia/2026/05/guarda-prende-foragido-por-homicidio-na-rodoviaria-de-vitoria",
+    "title": "Guarda Municipal prende homem com mandado de prisão por homicídio em Vitória"
+  },
+  "source:e3ebc62ce178cd4a58709a5458c49239d2d636f8": {
+    "ts": 1779713666497,
+    "url": "https://eshoje.com.br/saude/2026/05/cariacica-abre-mais-de-13-mil-vagas-para-consultas-medicas-e-odontologicas-nesta-segunda-25",
+    "title": "Cariacica oferece mais de 13 mil vagas para consultas médicas e odontológicas em junho"
+  },
+  "source:1e6abc11b1ba733b9140ff8c9e3bb776e99f8946": {
+    "ts": 1779713666497,
+    "url": "https://www.espiritosantonoticias.com.br/clube-de-futebol-feminino-de-sao-mateus-celebra-cinco-anos-de-fundacao-e-apoio-da-suzano",
+    "title": "Harpia FC anuncia parceria com Suzano para fortalecer futebol feminino em São Mateus"
   }
 }
