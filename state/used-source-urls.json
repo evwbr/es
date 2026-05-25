@@ -1,4 +1,9 @@
 {
+  "source:a8e005bdb8e30d83f093507207c09e9713a8a47e": {
+    "ts": 1779728066209,
+    "url": "https://eshoje.com.br/policia/2026/05/operacao-no-es-prende-35-por-crimes-contra-criancas",
+    "title": "Operação no Espírito Santo combate abuso e exploração sexual infantojuvenil em 78 municípios"
+  },
   "source:50023842b978902824c3bd1b96c9e22f6994d6f3": {
     "ts": 1779724467833,
     "url": "https://eshoje.com.br/policia/2026/05/briga-em-bar-termina-em-tiros-e-deixa-tres-feridos-em-linhares",
@@ -824,9 +829,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a8e005bdb8e30d83f093507207c09e9713a8a47e": {
-    "ts": 1779728066209,
-    "url": "https://eshoje.com.br/policia/2026/05/operacao-no-es-prende-35-por-crimes-contra-criancas",
-    "title": "Operação no Espírito Santo combate abuso e exploração sexual infantojuvenil em 78 municípios"
+  "source:af8ee1e874403f5be7daa9c672034564e5d5744b": {
+    "ts": 1779731666912,
+    "url": "https://eshoje.com.br/esportes/2026/05/irmaos-capixabas-brilham-no-sul-americano-de-kart-4t-e-joaquim-emerick-conquista-titulo-continental",
+    "title": "Irmãos capixabas se destacam no Sul-americano de Kart 4T no Rio Grande do Sul"
+  },
+  "source:ab5027896763edaaa67dd357b3762001b061cc8d": {
+    "ts": 1779731666912,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/apos-pedido-do-mpf-justica-determina-regularizacao-de-empresas-na-ilha-da-fumaca-em-vitoria",
+    "title": "Justiça Federal determina regularização ambiental e suspende atividades irregulares na Ilha da Fumaça, em Vitória"
   }
 }
