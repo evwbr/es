@@ -1,4 +1,24 @@
 {
+  "source:ca7d03c44d3a2b0c7ba6992d80db4281d013666d": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/policia/2026/05/meeiro-e-morto-a-tiros-apos-dupla-encapuzada-invadir-residencia-em-linhares",
+    "title": "Meeiro é morto com tiro na cabeça em bairro de Linhares"
+  },
+  "source:bf00d22bbb370702be269197ad2da3eb63c2e1ac": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/economia/2026/05/com-26-mil-pes-plantados-vila-velha-prepara-estreia-no-mercado-do-cafe",
+    "title": "Vila Velha investe em cultivo de café conilon com expectativa de colheita superior a 600 sacas em 2027"
+  },
+  "source:c46b9a1eb5f758b73c476d8ae97657eb844d2f02": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/policia/2026/05/corpo-de-homem-e-encontrado-em-area-de-eucalipto-na-serra",
+    "title": "Corpo é encontrado na Serra e caso é encaminhado para DHPP"
+  },
+  "source:b8ea77c4269897c2a43e23440fa80e128bfb7963": {
+    "ts": 1779717266604,
+    "url": "https://eshoje.com.br/politica/2026/05/deputado-quer-proibir-uso-de-coleiras-eletronicas-em-animais-no-es",
+    "title": "Projeto de Lei na Assembleia Legislativa proíbe uso de coleiras eletrônicas e ultrassônicas em animais no Espírito Santo"
+  },
   "source:a8e031afd632908cc2586aa2160ed1d3df88e316": {
     "ts": 1779713666497,
     "url": "https://eshoje.com.br/policia/2026/05/guarda-prende-foragido-por-homicidio-na-rodoviaria-de-vitoria",
@@ -784,24 +804,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ca7d03c44d3a2b0c7ba6992d80db4281d013666d": {
-    "ts": 1779717266604,
-    "url": "https://eshoje.com.br/policia/2026/05/meeiro-e-morto-a-tiros-apos-dupla-encapuzada-invadir-residencia-em-linhares",
-    "title": "Meeiro é morto com tiro na cabeça em bairro de Linhares"
+  "source:4548134e1f46a7f0656d02c3e5c6c7986ccf16ac": {
+    "ts": 1779720866386,
+    "url": "https://eshoje.com.br/policia/2026/05/mulher-e-agredida-com-bebe-no-colo-e-ex-e-preso-por-tentativa-de-feminicidio-em-vargem-alt",
+    "title": "Ex-companheiro agride mulher e faz disparos em residência de Vargem Alta"
   },
-  "source:bf00d22bbb370702be269197ad2da3eb63c2e1ac": {
-    "ts": 1779717266604,
-    "url": "https://eshoje.com.br/economia/2026/05/com-26-mil-pes-plantados-vila-velha-prepara-estreia-no-mercado-do-cafe",
-    "title": "Vila Velha investe em cultivo de café conilon com expectativa de colheita superior a 600 sacas em 2027"
+  "source:60acf87a40f64f8344a3008c23b64dd67d7366e1": {
+    "ts": 1779720866386,
+    "url": "https://eshoje.com.br/policia/2026/05/apos-engavetamento-fatal-prf-reforca-alerta-em-trecho-perigoso-da-br-101",
+    "title": "Trecho da BR-101 entre Viana e Cariacica registra 218 acidentes e 10 mortes em quatro meses"
   },
-  "source:c46b9a1eb5f758b73c476d8ae97657eb844d2f02": {
-    "ts": 1779717266604,
-    "url": "https://eshoje.com.br/policia/2026/05/corpo-de-homem-e-encontrado-em-area-de-eucalipto-na-serra",
-    "title": "Corpo é encontrado na Serra e caso é encaminhado para DHPP"
-  },
-  "source:b8ea77c4269897c2a43e23440fa80e128bfb7963": {
-    "ts": 1779717266604,
-    "url": "https://eshoje.com.br/politica/2026/05/deputado-quer-proibir-uso-de-coleiras-eletronicas-em-animais-no-es",
-    "title": "Projeto de Lei na Assembleia Legislativa proíbe uso de coleiras eletrônicas e ultrassônicas em animais no Espírito Santo"
+  "source:cf84e5fc190749a4a59c4f550e096269e20d101b": {
+    "ts": 1779720866386,
+    "url": "https://www.espiritosantonoticias.com.br/tragedia-na-rodovia-do-contorno-saiba-quem-era-o-casal-de-viana-que-morreu-em-engavetamento-com-8-veiculos",
+    "title": "Motorista de carreta é preso após engavetamento fatal na BR-101 em Nova Brasília"
   }
 }
