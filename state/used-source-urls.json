@@ -1,4 +1,14 @@
 {
+  "source:4b5d977493352fde7a0cb530a9cd24833772f0bf": {
+    "ts": 1779742467092,
+    "url": "https://eshoje.com.br/policia/2026/05/ex-e-suspeito-de-invadir-casa-e-assassinar-mulher-no-norte-do-es",
+    "title": "Mulher é assassinada a tiros em Ponto Belo; ex-companheiro é suspeito"
+  },
+  "source:644e4384f7a00c242e4cf75de3da59fb52b9f596": {
+    "ts": 1779742467092,
+    "url": "https://eshoje.com.br/esportes/serie-d/2026/05/rafael-soriano-destaca-forca-do-elenco-apos-triunfo-do-vitoria-no-classico",
+    "title": "Vitória vence Rio Branco por 2 a 0 e assume liderança do Grupo A12"
+  },
   "source:cdbe7f52369edc112aa621830f7110ae5ce90471": {
     "ts": 1779735266148,
     "url": "https://eshoje.com.br/policia/2026/05/policia-descarta-motivacao-politica-e-revela-o-que-estaria-por-tras-da-morte-de-suplente-no-es",
@@ -864,14 +874,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4b5d977493352fde7a0cb530a9cd24833772f0bf": {
-    "ts": 1779742467092,
-    "url": "https://eshoje.com.br/policia/2026/05/ex-e-suspeito-de-invadir-casa-e-assassinar-mulher-no-norte-do-es",
-    "title": "Mulher é assassinada a tiros em Ponto Belo; ex-companheiro é suspeito"
-  },
-  "source:644e4384f7a00c242e4cf75de3da59fb52b9f596": {
-    "ts": 1779742467092,
-    "url": "https://eshoje.com.br/esportes/serie-d/2026/05/rafael-soriano-destaca-forca-do-elenco-apos-triunfo-do-vitoria-no-classico",
-    "title": "Vitória vence Rio Branco por 2 a 0 e assume liderança do Grupo A12"
+  "source:a3c00a62d95308fc224daaa2becdb01ca5732c52": {
+    "ts": 1779749666656,
+    "url": "https://eshoje.com.br/policia/2026/05/eletricista-e-detido-no-aquaviario-apos-der-flagrado-por-cameras-de-reconhecimento-facial",
+    "title": "Guarda Municipal prende eletricista em Vitória por dívida alimentícia com mandado de prisão de Minas Gerais"
   }
 }
