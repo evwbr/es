@@ -1,4 +1,19 @@
 {
+  "source:b16e77f75016f096af4e6e90f8612db211c0f282": {
+    "ts": 1779828866534,
+    "url": "https://eshoje.com.br/saude/2026/05/cancer-de-mama-tumores-agressivos-pesquisa-ufes",
+    "title": "Pesquisa do Hucam-Ufes usa inteligência artificial para identificar resistência ao tratamento do câncer de mama"
+  },
+  "source:92457054e5cc1f8736d99d6585e72e40239a7cdf": {
+    "ts": 1779828866534,
+    "url": "https://eshoje.com.br/policia/2026/05/homem-que-matou-ex-namorada-em-ponto-belo-e-preso-e-confessa-crime",
+    "title": "Homem é preso suspeito de matar ex-namorada em Ponto Belo, ES"
+  },
+  "source:bdbce8b2293932b66c3b346dd0b0771e27bd9269": {
+    "ts": 1779828866534,
+    "url": "https://eshoje.com.br/politica/2026/05/prefeita-diz-que-vitoria-e-a-segunda-cidade-mais-competitiva-do-brasil-e-promete-apoio-total-a-industria",
+    "title": "Prefeita de Vitória destaca potencial da cidade para apoiar crescimento industrial do Espírito Santo"
+  },
   "source:b0ad84ee861076d256af0423b72f78d32faa4aa1": {
     "ts": 1779825267030,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-com-risco-de-granizo",
@@ -964,19 +979,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b16e77f75016f096af4e6e90f8612db211c0f282": {
-    "ts": 1779828866534,
-    "url": "https://eshoje.com.br/saude/2026/05/cancer-de-mama-tumores-agressivos-pesquisa-ufes",
-    "title": "Pesquisa do Hucam-Ufes usa inteligência artificial para identificar resistência ao tratamento do câncer de mama"
-  },
-  "source:92457054e5cc1f8736d99d6585e72e40239a7cdf": {
-    "ts": 1779828866534,
-    "url": "https://eshoje.com.br/policia/2026/05/homem-que-matou-ex-namorada-em-ponto-belo-e-preso-e-confessa-crime",
-    "title": "Homem é preso suspeito de matar ex-namorada em Ponto Belo, ES"
-  },
-  "source:bdbce8b2293932b66c3b346dd0b0771e27bd9269": {
-    "ts": 1779828866534,
-    "url": "https://eshoje.com.br/politica/2026/05/prefeita-diz-que-vitoria-e-a-segunda-cidade-mais-competitiva-do-brasil-e-promete-apoio-total-a-industria",
-    "title": "Prefeita de Vitória destaca potencial da cidade para apoiar crescimento industrial do Espírito Santo"
+  "source:8379e4c6b7475fbfd8e3655fe7ad89aee7d033e7": {
+    "ts": 1779832467168,
+    "url": "https://eshoje.com.br/policia/2026/05/abaixo-da-media-nacional-letalidade-juvenil-recua-no-es-mas-apagao-esconde-crimes-contra-minorias",
+    "title": "Espírito Santo registra queda histórica na taxa de homicídios entre jovens e enfrenta subnotificação em crimes contra minorias"
   }
 }
