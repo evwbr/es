@@ -1,4 +1,14 @@
 {
+  "source:49e4bbd7d809c44074c0b6b9dbe6f562eea41359": {
+    "ts": 1779821666489,
+    "url": "https://eshoje.com.br/policia/2026/05/vinicius-junior-e-famosinho-sao-presos-por-envolvimento-em-homicidio-no-es",
+    "title": "Polícia Civil conclui investigação de homicídio em Vila Velha com quatro suspeitos foragidos"
+  },
+  "source:6bb3bfcdf27ec7e8bb8597f5d6b10aa184ec25de": {
+    "ts": 1779821666489,
+    "url": "https://eshoje.com.br/esportes/2026/05/capixabas-conquistam-tres-medalhas-no-brasileiro-sub-15-de-judo",
+    "title": "Judô capixaba conquista três medalhas no Brasileiro Sub-15 e assegura vaga no Pan-Americano"
+  },
   "source:064907fa72c07319e62f5d6fe74a60fb6b1642f7": {
     "ts": 1779818066497,
     "url": "https://www.espiritosantonoticias.com.br/pedro-canario-pf-investiga-corrupcao-e-desvio-de-recursos-publicos-no-espirito-santo",
@@ -939,14 +949,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:49e4bbd7d809c44074c0b6b9dbe6f562eea41359": {
-    "ts": 1779821666489,
-    "url": "https://eshoje.com.br/policia/2026/05/vinicius-junior-e-famosinho-sao-presos-por-envolvimento-em-homicidio-no-es",
-    "title": "Polícia Civil conclui investigação de homicídio em Vila Velha com quatro suspeitos foragidos"
+  "source:b0ad84ee861076d256af0423b72f78d32faa4aa1": {
+    "ts": 1779825267030,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-com-risco-de-granizo",
+    "title": "Seis cidades do sul do Espírito Santo entram em alerta para tempestade com risco de granizo"
   },
-  "source:6bb3bfcdf27ec7e8bb8597f5d6b10aa184ec25de": {
-    "ts": 1779821666489,
-    "url": "https://eshoje.com.br/esportes/2026/05/capixabas-conquistam-tres-medalhas-no-brasileiro-sub-15-de-judo",
-    "title": "Judô capixaba conquista três medalhas no Brasileiro Sub-15 e assegura vaga no Pan-Americano"
+  "source:65dd78e73acf5fc6425eb6be7cdb262b8357a276": {
+    "ts": 1779825267030,
+    "url": "https://eshoje.com.br/saude/2026/05/glaucoma-silencioso-exige-atencao-alerta-especialista",
+    "title": "Especialistas alertam para importância do diagnóstico precoce do glaucoma no Espírito Santo"
+  },
+  "source:6f0abe2f8ac9efe3290bc1cb9c0f9b99b89ce7ee": {
+    "ts": 1779825267030,
+    "url": "https://eshoje.com.br/esportes/2026/05/capixaba-e-campeao-mundial-de-kickboxing-na-argentina",
+    "title": "Capixaba Demer Leite Matias conquista título mundial de kickboxing em Buenos Aires"
   }
 }
