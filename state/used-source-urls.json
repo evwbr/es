@@ -1,4 +1,19 @@
 {
+  "source:064907fa72c07319e62f5d6fe74a60fb6b1642f7": {
+    "ts": 1779818066497,
+    "url": "https://www.espiritosantonoticias.com.br/pedro-canario-pf-investiga-corrupcao-e-desvio-de-recursos-publicos-no-espirito-santo",
+    "title": "Polícia investiga organização criminosa por corrupção e lavagem de dinheiro em evento no Espírito Santo"
+  },
+  "source:f53351f15e71da8df4c42b2b9bae6889f1841051": {
+    "ts": 1779818066497,
+    "url": "https://eshoje.com.br/politica/2026/05/desequilibrio-fiscal-mpc-es-defende-rejeicao-das-contas-da-prefeitura-de-sao-jose-do-calcado",
+    "title": "MPC-ES pede rejeição das contas de 2023 da Prefeitura de São José do Calçado por desequilíbrio fiscal"
+  },
+  "source:36589720126ad8930e0467e6cbe0e7196405deff": {
+    "ts": 1779818066497,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-na-br-101-no-es-interditam-pista-nesta-terca-em-anchieta",
+    "title": "Rodovia BR-101 terá bloqueio de 20 minutos para obras de duplicação entre Anchieta e Iconha"
+  },
   "source:b54c79b3425b0eab5893e87668f8bbaa737a12f3": {
     "ts": 1779814466713,
     "url": "https://eshoje.com.br/politica/2026/05/hartung-diz-que-grupos-no-poder-se-sentem-donos-e-defende-renovacao-politica-no-espirito-santo",
@@ -924,19 +939,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:064907fa72c07319e62f5d6fe74a60fb6b1642f7": {
-    "ts": 1779818066497,
-    "url": "https://www.espiritosantonoticias.com.br/pedro-canario-pf-investiga-corrupcao-e-desvio-de-recursos-publicos-no-espirito-santo",
-    "title": "Polícia investiga organização criminosa por corrupção e lavagem de dinheiro em evento no Espírito Santo"
+  "source:49e4bbd7d809c44074c0b6b9dbe6f562eea41359": {
+    "ts": 1779821666489,
+    "url": "https://eshoje.com.br/policia/2026/05/vinicius-junior-e-famosinho-sao-presos-por-envolvimento-em-homicidio-no-es",
+    "title": "Polícia Civil conclui investigação de homicídio em Vila Velha com quatro suspeitos foragidos"
   },
-  "source:f53351f15e71da8df4c42b2b9bae6889f1841051": {
-    "ts": 1779818066497,
-    "url": "https://eshoje.com.br/politica/2026/05/desequilibrio-fiscal-mpc-es-defende-rejeicao-das-contas-da-prefeitura-de-sao-jose-do-calcado",
-    "title": "MPC-ES pede rejeição das contas de 2023 da Prefeitura de São José do Calçado por desequilíbrio fiscal"
-  },
-  "source:36589720126ad8930e0467e6cbe0e7196405deff": {
-    "ts": 1779818066497,
-    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-na-br-101-no-es-interditam-pista-nesta-terca-em-anchieta",
-    "title": "Rodovia BR-101 terá bloqueio de 20 minutos para obras de duplicação entre Anchieta e Iconha"
+  "source:6bb3bfcdf27ec7e8bb8597f5d6b10aa184ec25de": {
+    "ts": 1779821666489,
+    "url": "https://eshoje.com.br/esportes/2026/05/capixabas-conquistam-tres-medalhas-no-brasileiro-sub-15-de-judo",
+    "title": "Judô capixaba conquista três medalhas no Brasileiro Sub-15 e assegura vaga no Pan-Americano"
   }
 }
