@@ -1,4 +1,9 @@
 {
+  "source:82f106bca29cd1a27d9db9de126d8a5161da39da": {
+    "ts": 1779800067849,
+    "url": "https://eshoje.com.br/policia/2026/05/pf-prende-prefeito-e-ex-prefeito-de-pedro-canario",
+    "title": "Operação no Espírito Santo cumpre mandados e afasta servidores por suspeita de corrupção e lavagem de dinheiro"
+  },
   "source:d3cfb081add3977b21744f0fc48e29b2193f3f8b": {
     "ts": 1779792866644,
     "url": "https://eshoje.com.br/politica/2026/05/eleicao-da-camara-de-vila-velha-vai-parar-no-stf-apos-acao-para-barrar-votacao",
@@ -889,9 +894,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:82f106bca29cd1a27d9db9de126d8a5161da39da": {
-    "ts": 1779800067849,
-    "url": "https://eshoje.com.br/policia/2026/05/pf-prende-prefeito-e-ex-prefeito-de-pedro-canario",
-    "title": "Operação no Espírito Santo cumpre mandados e afasta servidores por suspeita de corrupção e lavagem de dinheiro"
+  "source:473a40fa8e8e26af31071796d640e45981e8fbcd": {
+    "ts": 1779803666499,
+    "url": "https://eshoje.com.br/policia/2026/05/idoso-e-preso-apos-matar-nora-a-tiros-durante-discussao-em-bar-de-domingos-martins",
+    "title": "Idoso é preso após matar a tiros a nora durante discussão em Domingos Martins"
+  },
+  "source:372f7a95d0b061863426bd682a6266900163178a": {
+    "ts": 1779803666499,
+    "url": "https://eshoje.com.br/policia/2026/05/pm-apreende-mais-de-8-kg-de-maconha-em-casa-usada-para-trafico-em-cariacica",
+    "title": "Polícia apreende mais de 8 quilos de maconha em residência no bairro Castelo Branco, Cariacica"
   }
 }
