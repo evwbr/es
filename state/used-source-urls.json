@@ -1,4 +1,14 @@
 {
+  "source:b54c79b3425b0eab5893e87668f8bbaa737a12f3": {
+    "ts": 1779814466713,
+    "url": "https://eshoje.com.br/politica/2026/05/hartung-diz-que-grupos-no-poder-se-sentem-donos-e-defende-renovacao-politica-no-espirito-santo",
+    "title": "Ex-governador Renato Casagrande destaca necessidade de renovação política e aposta em logística e turismo para o Espírito Santo"
+  },
+  "source:9ed7d3010383027c6feeeae43667851039221dce": {
+    "ts": 1779814466713,
+    "url": "https://eshoje.com.br/policia/2026/05/cabine-de-caminhao-e-destruida-por-incendio-em-bairro-da-serra",
+    "title": "Incêndio em caminhão causa transtornos no trânsito no bairro Civit II, na Serra"
+  },
   "source:905b6dcb0358952d7525df8b313255710ba62382": {
     "ts": 1779807266258,
     "url": "https://eshoje.com.br/policia/2026/05/idoso-de-71-anos-e-preso-suspeito-de-estuprar-a-neta-de-10-anos-no-norte-do-estado",
@@ -914,14 +924,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b54c79b3425b0eab5893e87668f8bbaa737a12f3": {
-    "ts": 1779814466713,
-    "url": "https://eshoje.com.br/politica/2026/05/hartung-diz-que-grupos-no-poder-se-sentem-donos-e-defende-renovacao-politica-no-espirito-santo",
-    "title": "Ex-governador Renato Casagrande destaca necessidade de renovação política e aposta em logística e turismo para o Espírito Santo"
+  "source:064907fa72c07319e62f5d6fe74a60fb6b1642f7": {
+    "ts": 1779818066497,
+    "url": "https://www.espiritosantonoticias.com.br/pedro-canario-pf-investiga-corrupcao-e-desvio-de-recursos-publicos-no-espirito-santo",
+    "title": "Polícia investiga organização criminosa por corrupção e lavagem de dinheiro em evento no Espírito Santo"
   },
-  "source:9ed7d3010383027c6feeeae43667851039221dce": {
-    "ts": 1779814466713,
-    "url": "https://eshoje.com.br/policia/2026/05/cabine-de-caminhao-e-destruida-por-incendio-em-bairro-da-serra",
-    "title": "Incêndio em caminhão causa transtornos no trânsito no bairro Civit II, na Serra"
+  "source:f53351f15e71da8df4c42b2b9bae6889f1841051": {
+    "ts": 1779818066497,
+    "url": "https://eshoje.com.br/politica/2026/05/desequilibrio-fiscal-mpc-es-defende-rejeicao-das-contas-da-prefeitura-de-sao-jose-do-calcado",
+    "title": "MPC-ES pede rejeição das contas de 2023 da Prefeitura de São José do Calçado por desequilíbrio fiscal"
+  },
+  "source:36589720126ad8930e0467e6cbe0e7196405deff": {
+    "ts": 1779818066497,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-na-br-101-no-es-interditam-pista-nesta-terca-em-anchieta",
+    "title": "Rodovia BR-101 terá bloqueio de 20 minutos para obras de duplicação entre Anchieta e Iconha"
   }
 }
