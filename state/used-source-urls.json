@@ -1,4 +1,9 @@
 {
+  "source:d3787a31e16f5218022f80d9e8922799071e784a": {
+    "ts": 1779904466787,
+    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/05/eleicoes-es-da-vitoria-deputado-federal-ricardo-ferraco",
+    "title": "Deputado Da Vitória confirma candidatura à reeleição para a Câmara dos Deputados no Espírito Santo"
+  },
   "source:13a6bdc3f955fd1114544d9deeb11379daf4f58b": {
     "ts": 1779900866405,
     "url": "https://eshoje.com.br/policia/2026/05/guarda-de-vitoria-flagra-26-irregularidades-em-caminhoes-durante-operacao",
@@ -1074,9 +1079,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:d3787a31e16f5218022f80d9e8922799071e784a": {
-    "ts": 1779904466787,
-    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/05/eleicoes-es-da-vitoria-deputado-federal-ricardo-ferraco",
-    "title": "Deputado Da Vitória confirma candidatura à reeleição para a Câmara dos Deputados no Espírito Santo"
+  "source:f0b885e4d9ced2821205e264e5118f5e309ccde2": {
+    "ts": 1779908067030,
+    "url": "https://eshoje.com.br/politica/justica/2026/05/mpes-denuncia-advogados-e-guarda-municipal-por-ligacao-com-faccao-criminosa-em-vila-velha",
+    "title": "Justiça de Vila Velha recebe denúncia contra grupo ligado ao tráfico e determina prisões preventivas"
+  },
+  "source:7fff02808b6678faa97e945b5a410c25d6fda7b0": {
+    "ts": 1779908067030,
+    "url": "https://eshoje.com.br/policia/2026/05/acusado-de-matar-breno-rezende-na-rua-da-lama-vai-a-juri-popular-em-agosto",
+    "title": "Empresário acusado de matar jovem em bar de Vitória será julgado em agosto"
   }
 }
