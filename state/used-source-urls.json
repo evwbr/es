@@ -1,4 +1,19 @@
 {
+  "source:a2b394a0eb091c43255bd7891779403f2435c93e": {
+    "ts": 1780001666614,
+    "url": "https://eshoje.com.br/economia/economia-e-mercado/2026/05/o-que-as-obras-da-ecovias-capixaba-movimentam-na-economia-do-espirito-santo",
+    "title": "Modernização da BR-101 no Espírito Santo gera 4 mil empregos e impulsiona economia local e nacional"
+  },
+  "source:2d38141e67db6da6be2a2f4ba4e588ef4e83cfd8": {
+    "ts": 1780001666614,
+    "url": "https://eshoje.com.br/esportes/2026/05/capixaba-estreia-entre-os-destaques-do-trofeu-academia-fia-karting-e-termina-etapa-da-belgica-em-7o-lugar",
+    "title": "Piloto capixaba João Paulo Bonadiman termina em 7º lugar no Troféu Academia FIA Karting Júnior"
+  },
+  "source:4b6728685c09765a425479bf748642e6fcba150f": {
+    "ts": 1780001666614,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/carro-eletrico-no-es-direito-a-carregador-em-condominio-vira-projeto-de-lei",
+    "title": "Projeto de lei no Espírito Santo autoriza instalação de carregadores de carros elétricos em vagas privativas de condomínios"
+  },
   "source:7f350d831b94815611d2e35b0d6c3b9f8b18cd87": {
     "ts": 1779994466797,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/tapetes-gigantes-e-ate-no-calcadao-da-praia-a-celebracao-de-corpus-christi-no-es-alem-de-castelo",
@@ -1234,19 +1249,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a2b394a0eb091c43255bd7891779403f2435c93e": {
-    "ts": 1780001666614,
-    "url": "https://eshoje.com.br/economia/economia-e-mercado/2026/05/o-que-as-obras-da-ecovias-capixaba-movimentam-na-economia-do-espirito-santo",
-    "title": "Modernização da BR-101 no Espírito Santo gera 4 mil empregos e impulsiona economia local e nacional"
-  },
-  "source:2d38141e67db6da6be2a2f4ba4e588ef4e83cfd8": {
-    "ts": 1780001666614,
-    "url": "https://eshoje.com.br/esportes/2026/05/capixaba-estreia-entre-os-destaques-do-trofeu-academia-fia-karting-e-termina-etapa-da-belgica-em-7o-lugar",
-    "title": "Piloto capixaba João Paulo Bonadiman termina em 7º lugar no Troféu Academia FIA Karting Júnior"
-  },
-  "source:4b6728685c09765a425479bf748642e6fcba150f": {
-    "ts": 1780001666614,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/carro-eletrico-no-es-direito-a-carregador-em-condominio-vira-projeto-de-lei",
-    "title": "Projeto de lei no Espírito Santo autoriza instalação de carregadores de carros elétricos em vagas privativas de condomínios"
+  "source:ba259a27eef0329eb662e3dc8efa2f35ec84c0d9": {
+    "ts": 1780005266326,
+    "url": "https://eshoje.com.br/policia/2026/05/policia-apreende-mais-de-mil-figurinhas-da-copa-do-mundo-falsificadas-no-es",
+    "title": "Polícia Civil apreende mais de mil figurinhas falsificadas da Copa do Mundo em Guaçuí"
   }
 }
