@@ -1,4 +1,14 @@
 {
+  "source:ecfd7e6b9d940a2b83779a538509c398c56bca5b": {
+    "ts": 1779980070605,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/aquaviario-comeca-a-operar-na-rodoviaria-de-vitoria-nesta-sexta-29",
+    "title": "Governo do ES inaugura nova estação do sistema aquaviário na Rodoviária de Vitória"
+  },
+  "source:ffd9bf737237d2705c52d90e0e27cd3815131c39": {
+    "ts": 1779980070605,
+    "url": "https://eshoje.com.br/saude/2026/05/hospital-de-colatina-atinge-em-maio-total-de-doacoes-de-corneas-de-2025",
+    "title": "Hospital Estadual Sílvio Avidos em Colatina alcança recorde na captação de córneas em 2026"
+  },
   "source:248cf1e5276ea6ad30a72ecb9c73a75f9baa7e0f": {
     "ts": 1779976466518,
     "url": "https://eshoje.com.br/saude/2026/05/maio-vermelho-cancer-de-boca-deve-atingir-510-pessoas-no-es",
@@ -1174,14 +1184,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ecfd7e6b9d940a2b83779a538509c398c56bca5b": {
-    "ts": 1779980070605,
-    "url": "https://eshoje.com.br/espirito-santo/2026/05/aquaviario-comeca-a-operar-na-rodoviaria-de-vitoria-nesta-sexta-29",
-    "title": "Governo do ES inaugura nova estação do sistema aquaviário na Rodoviária de Vitória"
+  "source:7e0acc947cdc93b4277540f44dfb2369924ac582": {
+    "ts": 1779983666400,
+    "url": "https://eshoje.com.br/esportes/2026/05/com-lesao-de-grau-2-neymar-deve-desfalcar-brasil-no-inicio-da-copa-do-mundo",
+    "title": "Lesão de Neymar na panturrilha é mais grave e pode afastá-lo do início da Copa do Mundo"
   },
-  "source:ffd9bf737237d2705c52d90e0e27cd3815131c39": {
-    "ts": 1779980070605,
-    "url": "https://eshoje.com.br/saude/2026/05/hospital-de-colatina-atinge-em-maio-total-de-doacoes-de-corneas-de-2025",
-    "title": "Hospital Estadual Sílvio Avidos em Colatina alcança recorde na captação de córneas em 2026"
+  "source:7f28f9956f2f61acc0594ec2a7f513c679698c87": {
+    "ts": 1779983666400,
+    "url": "https://eshoje.com.br/politica/2026/05/estamos-diante-de-um-momento-historico-para-os-trabalhadores-e-trabalhadoras",
+    "title": "Comissão da Câmara aprova PEC que reduz jornada de trabalho e acaba com escala 6×1"
   }
 }
