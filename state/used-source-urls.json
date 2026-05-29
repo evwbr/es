@@ -1,4 +1,9 @@
 {
+  "source:06f5e570a15031e2f9a0ef8889f6546a2b791926": {
+    "ts": 1780077266912,
+    "url": "https://eshoje.com.br/policia/2026/05/idoso-suspeito-de-atacar-e-assediar-criancas-proximo-de-escola-e-preso-no-sul-do-es",
+    "title": "Homem de 78 anos é preso em Cachoeiro de Itapemirim por suspeita de crimes sexuais contra adolescentes em Presidente Kennedy"
+  },
   "source:f010c63a07ebbe70585f58a015ca336a2e892532": {
     "ts": 1780073666687,
     "url": "https://www.espiritosantonoticias.com.br/idoso-de-78-anos-e-preso-suspeito-de-perseguir-e-tentar-beijar-estudantes-em-presidente-kennedy",
@@ -1334,9 +1339,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:06f5e570a15031e2f9a0ef8889f6546a2b791926": {
-    "ts": 1780077266912,
-    "url": "https://eshoje.com.br/policia/2026/05/idoso-suspeito-de-atacar-e-assediar-criancas-proximo-de-escola-e-preso-no-sul-do-es",
-    "title": "Homem de 78 anos é preso em Cachoeiro de Itapemirim por suspeita de crimes sexuais contra adolescentes em Presidente Kennedy"
+  "source:bbdf2da3490c1c1243e6d3536b417fab055edbf8": {
+    "ts": 1780080866549,
+    "url": "https://eshoje.com.br/economia/2026/05/garimpo-no-precinho-encontro-de-brechos-movimenta-grande-vitoria-neste-sabado",
+    "title": "Parque da Cidade em Laranjeiras recebe 9ª edição do Circulando - Encontro de Brechós neste fim de semana"
+  },
+  "source:85c7d5665dfc07165337acba6c88b92eb71b8f26": {
+    "ts": 1780080866549,
+    "url": "https://eshoje.com.br/saude/2026/05/alerta-vermelho-hemoes-clama-por-doadores-de-sangue",
+    "title": "Hemoes convoca doadores para reforçar estoques de sangue em cinco cidades do Espírito Santo"
+  },
+  "source:f5c89505a70a1a5af9603372db70861f2fd27bd1": {
+    "ts": 1780080866549,
+    "url": "https://eshoje.com.br/policia/2026/05/corpo-em-decomposicao-e-encontrado-dentro-de-apartamento-em-guarapari",
+    "title": "Corpo em decomposição é encontrado em apartamento na Praia do Morro, Guarapari"
   }
 }
