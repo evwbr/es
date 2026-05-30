@@ -1,4 +1,9 @@
 {
+  "source:b0fc8d2245c8b8f67978fd3af864c3a07981bd3b": {
+    "ts": 1780149266894,
+    "url": "https://eshoje.com.br/policia/2026/05/motociclista-morre-colisao-carro-br262-viana",
+    "title": "Motociclista morre em colisão com carro na BR-262 em Viana"
+  },
   "source:3a7ab78a8d1fe82ecb7105f8bb9a486f4cda5910": {
     "ts": 1780091666831,
     "url": "https://eshoje.com.br/policia/2026/05/homem-morre-e-outro-e-baleado-apos-ataque-a-tiros-em-lava-jato-de-vitoria",
@@ -1379,9 +1384,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b0fc8d2245c8b8f67978fd3af864c3a07981bd3b": {
-    "ts": 1780149266894,
-    "url": "https://eshoje.com.br/policia/2026/05/motociclista-morre-colisao-carro-br262-viana",
-    "title": "Motociclista morre em colisão com carro na BR-262 em Viana"
+  "source:a9389e44767020353ba1d76133a984e5f6e7ef0b": {
+    "ts": 1780152866301,
+    "url": "https://eshoje.com.br/policia/2026/05/motorista-morto-tiros-picape-vila-velha",
+    "title": "Motorista é morto a tiros em ataque em Riviera da Barra, Vila Velha"
+  },
+  "source:f6a02a1a7e56e55bd17b90ab596ffb41935c1bb4": {
+    "ts": 1780152866301,
+    "url": "https://eshoje.com.br/espirito-santo/2026/05/acidentes-bikes-eletricas-es-regulamentacao-detran",
+    "title": "Acidentes com bicicletas elétricas crescem no Espírito Santo e Detran-ES busca ampliar fiscalização"
   }
 }
