@@ -1,4 +1,14 @@
 {
+  "source:3a7ab78a8d1fe82ecb7105f8bb9a486f4cda5910": {
+    "ts": 1780091666831,
+    "url": "https://eshoje.com.br/policia/2026/05/homem-morre-e-outro-e-baleado-apos-ataque-a-tiros-em-lava-jato-de-vitoria",
+    "title": "Homem morre e outro fica ferido após ataque a tiros em lava-jato no bairro Maruípe, Vitória"
+  },
+  "source:23815bf1ceeb90b099dda6b4739b33ad7ea954ab": {
+    "ts": 1780091666831,
+    "url": "https://www.espiritosantonoticias.com.br/mst-invade-propriedade-privada-na-safra-e-ferraco-reage-rapido-e-inadmissivel",
+    "title": "Prefeito de Cachoeiro de Itapemirim cobra reintegração de posse após invasão do MST em área urbana"
+  },
   "source:968a596e23aa1ea2c609588882b1fe8c5de8bf65": {
     "ts": 1780084466230,
     "url": "https://eshoje.com.br/espirito-santo/2026/05/vai-chover-veja-como-fica-o-tempo-no-ultimo-final-de-semana-de-maio-no-es",
@@ -1369,14 +1379,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3a7ab78a8d1fe82ecb7105f8bb9a486f4cda5910": {
-    "ts": 1780091666831,
-    "url": "https://eshoje.com.br/policia/2026/05/homem-morre-e-outro-e-baleado-apos-ataque-a-tiros-em-lava-jato-de-vitoria",
-    "title": "Homem morre e outro fica ferido após ataque a tiros em lava-jato no bairro Maruípe, Vitória"
-  },
-  "source:23815bf1ceeb90b099dda6b4739b33ad7ea954ab": {
-    "ts": 1780091666831,
-    "url": "https://www.espiritosantonoticias.com.br/mst-invade-propriedade-privada-na-safra-e-ferraco-reage-rapido-e-inadmissivel",
-    "title": "Prefeito de Cachoeiro de Itapemirim cobra reintegração de posse após invasão do MST em área urbana"
+  "source:b0fc8d2245c8b8f67978fd3af864c3a07981bd3b": {
+    "ts": 1780149266894,
+    "url": "https://eshoje.com.br/policia/2026/05/motociclista-morre-colisao-carro-br262-viana",
+    "title": "Motociclista morre em colisão com carro na BR-262 em Viana"
   }
 }
