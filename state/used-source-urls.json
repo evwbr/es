@@ -1,4 +1,9 @@
 {
+  "source:25b8a4d0f02d3f3761d5d35bc8cd709cf03b530d": {
+    "ts": 1780160066316,
+    "url": "https://eshoje.com.br/policia/2026/05/menino-morre-incendio-casa-colatina",
+    "title": "Menino de 3 anos morre em incêndio residencial no bairro São Miguel, em Colatina"
+  },
   "source:585d6188187361320fabf9c9d334d0a5f4dbac05": {
     "ts": 1780156466859,
     "url": "https://eshoje.com.br/policia/2026/05/motociclistas-tentam-fugir-de-blitz-e-sao-detidos-em-vitoria",
@@ -1399,9 +1404,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:25b8a4d0f02d3f3761d5d35bc8cd709cf03b530d": {
-    "ts": 1780160066316,
-    "url": "https://eshoje.com.br/policia/2026/05/menino-morre-incendio-casa-colatina",
-    "title": "Menino de 3 anos morre em incêndio residencial no bairro São Miguel, em Colatina"
+  "source:7c6fcfc7e736ee47f002873c130ef2763089ccbb": {
+    "ts": 1780167266914,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/05/giro-rapido-agenda-frenetica-de-ricardo-ferraco-e-mais-um-flagrante-em-pedro-canario",
+    "title": "Governador Ricardo Ferraço cumpre agenda intensa em diversas cidades do Espírito Santo neste fim de semana"
   }
 }
