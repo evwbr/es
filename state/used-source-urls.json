@@ -1,4 +1,9 @@
 {
+  "source:6b063fbd3c101b790d79619e300c19df014ef466": {
+    "ts": 1780246466223,
+    "url": "https://eshoje.com.br/policia/2026/05/proprietario-e-a-segunda-vitima-de-ataque-em-lava-jato-em-vitoria",
+    "title": "Ataque a tiros em lava jato de Vitória deixa duas mortes"
+  },
   "source:5051692f340e1c4f3faf05768097485745db1da8": {
     "ts": 1780239266414,
     "url": "https://eshoje.com.br/policia/2026/05/mais-leis-vao-trazer-protecao-real-as-mulheres",
@@ -1434,9 +1439,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:6b063fbd3c101b790d79619e300c19df014ef466": {
-    "ts": 1780246466223,
-    "url": "https://eshoje.com.br/policia/2026/05/proprietario-e-a-segunda-vitima-de-ataque-em-lava-jato-em-vitoria",
-    "title": "Ataque a tiros em lava jato de Vitória deixa duas mortes"
+  "source:d607144c1d527bd135da9bc4e02dd29286a6ee91": {
+    "ts": 1780250066194,
+    "url": "https://eshoje.com.br/policia/2026/05/veiculo-sai-da-rodovia-deixa-um-morto-e-outro-ferido-em-ibatiba",
+    "title": "Saída de pista na zona rural de Ibatiba deixa uma pessoa morta e outra ferida"
+  },
+  "source:c4250cbd93f634b0d4e9c81192dc77dba6f16a0e": {
+    "ts": 1780250066194,
+    "url": "https://eshoje.com.br/policia/2026/05/colisao-frontal-e-explosao-motociclista-morre-apos-bater-em-caminhao-na-regiao-serrana-do-es",
+    "title": "Colisão entre motocicleta e caminhão na ES 164 em Itaguaçu deixa motociclista morto"
   }
 }
