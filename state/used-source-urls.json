@@ -1,4 +1,14 @@
 {
+  "source:4ae0b135ffa8bb2da4cf68596c99e8ed474d6f07": {
+    "ts": 1780343666466,
+    "url": "https://eshoje.com.br/esportes/2026/06/capixaba-e-medalhista-de-bronze-no-campeonato-mundial-de-jiu-jitsu",
+    "title": "Thaís Loureiro conquista bronze no Mundial de Jiu-Jitsu em Long Beach"
+  },
+  "source:318871d17a0f4df853f22c7058fc172bd979ba0d": {
+    "ts": 1780343666466,
+    "url": "https://eshoje.com.br/esportes/2026/06/montanhas-capixabas-recebem-rodada-do-brasileiro-de-enduro-com-mais-de-160-pilotos",
+    "title": "Venda Nova do Imigrante recebe terceira rodada do Campeonato Brasileiro de Enduro 2026 com recorde de pilotos"
+  },
   "source:16cd3acf60b596cef9b757214afb6d9fc22ebf55": {
     "ts": 1780340066281,
     "url": "https://eshoje.com.br/policia/2026/06/pf-prende-62-procurados-pela-justica-no-espirito-santo-em-2026",
@@ -1534,14 +1544,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4ae0b135ffa8bb2da4cf68596c99e8ed474d6f07": {
-    "ts": 1780343666466,
-    "url": "https://eshoje.com.br/esportes/2026/06/capixaba-e-medalhista-de-bronze-no-campeonato-mundial-de-jiu-jitsu",
-    "title": "Thaís Loureiro conquista bronze no Mundial de Jiu-Jitsu em Long Beach"
-  },
-  "source:318871d17a0f4df853f22c7058fc172bd979ba0d": {
-    "ts": 1780343666466,
-    "url": "https://eshoje.com.br/esportes/2026/06/montanhas-capixabas-recebem-rodada-do-brasileiro-de-enduro-com-mais-de-160-pilotos",
-    "title": "Venda Nova do Imigrante recebe terceira rodada do Campeonato Brasileiro de Enduro 2026 com recorde de pilotos"
+  "source:8225fe6b6b31dfb0d6b6f4ec732389d7b656d8af": {
+    "ts": 1780347266566,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/corpus-christi-tapetes-unidades-prisionais-es-sejus",
+    "title": "Detentos de unidades prisionais do Espírito Santo produzem 316 metros de tapetes de Corpus Christi"
   }
 }
