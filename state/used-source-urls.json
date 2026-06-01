@@ -1,4 +1,14 @@
 {
+  "source:69c619faa10eec1dc79e26c793ab3be9fda3153e": {
+    "ts": 1780314866779,
+    "url": "https://eshoje.com.br/economia/2026/06/producao-de-tomate-em-vila-velha-abastece-mercados-de-tres-estados",
+    "title": "Produtores rurais de Xuri cultivam mais de 22 mil pés de tomate com apoio da Secretaria de Agricultura"
+  },
+  "source:e61a337004a039acd05a86fb09371177d112c0bc": {
+    "ts": 1780314866779,
+    "url": "https://eshoje.com.br/esportes/2026/06/prefeitura-de-cariacica-abre-inscricoes-para-a-corrida-mochuara",
+    "title": "Inscrições abertas para a Corrida Mochuara em Cariacica com mil vagas gratuitas"
+  },
   "source:bdbeb51667c6ccd144b97fbb7c471ae9821de900": {
     "ts": 1780300466936,
     "url": "https://eshoje.com.br/politica/poder-eshoje/2026/05/o-enigma-da-segunda-cadeira-ao-senado",
@@ -1459,14 +1469,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:69c619faa10eec1dc79e26c793ab3be9fda3153e": {
-    "ts": 1780314866779,
-    "url": "https://eshoje.com.br/economia/2026/06/producao-de-tomate-em-vila-velha-abastece-mercados-de-tres-estados",
-    "title": "Produtores rurais de Xuri cultivam mais de 22 mil pés de tomate com apoio da Secretaria de Agricultura"
+  "source:af220301a0756c83a35c859e90199c6ae9103fae": {
+    "ts": 1780318466578,
+    "url": "https://eshoje.com.br/politica/2026/06/lei-contra-interdicao-fraudulenta-pode-proteger-mais-de-631-mil-idosos-no-espirito-santo",
+    "title": "Câmara aprova proposta para punir interdição abusiva de idosos no Espírito Santo"
   },
-  "source:e61a337004a039acd05a86fb09371177d112c0bc": {
-    "ts": 1780314866779,
-    "url": "https://eshoje.com.br/esportes/2026/06/prefeitura-de-cariacica-abre-inscricoes-para-a-corrida-mochuara",
-    "title": "Inscrições abertas para a Corrida Mochuara em Cariacica com mil vagas gratuitas"
+  "source:b7531ce38e10cb41d17d59a44153fb18642eaf54": {
+    "ts": 1780318466578,
+    "url": "https://eshoje.com.br/saude/2026/06/hemoes-alerta-para-estoques-baixos-e-convoca-capixabas-a-doar-sangue-no-junho-vermelho",
+    "title": "Hemoes lança campanha Junho Vermelho para reforçar estoques de sangue no Espírito Santo"
+  },
+  "source:d246b23871538685e5bf88f62afb3fe360730816": {
+    "ts": 1780318466578,
+    "url": "https://eshoje.com.br/saude/2026/06/mais-de-29-mil-atendimentos-ajudam-fumantes-a-largar-o-cigarro-na-serra",
+    "title": "Programa da Serra oferece tratamento para abandono do tabagismo com acompanhamento especializado"
   }
 }
