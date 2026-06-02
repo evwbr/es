@@ -1,4 +1,14 @@
 {
+  "source:0a17dab1d96fbe30b2f6c6d83a14c7b33a07785b": {
+    "ts": 1780354466760,
+    "url": "https://www.espiritosantonoticias.com.br/estado-reforca-combate-a-violencia-contra-a-mulher-com-entrega-de-novas-viaturas-a-policia-militar",
+    "title": "Estado reforça combate à violência contra a mulher com entrega de novas viaturas à Polícia Militar"
+  },
+  "source:c67b814954f7f52063ed2569a97dcf07f55d995c": {
+    "ts": 1780354466760,
+    "url": "https://www.espiritosantonoticias.com.br/marataizes-prefeitura-e-edp-iniciam-modernizacao-da-iluminacao-publica",
+    "title": "MARATAÍZES: Prefeitura e EDP iniciam modernização da Iluminação Pública"
+  },
   "source:e80456154628bd4d5dca059d3a1ffa2aaf59a342": {
     "ts": 1780350866624,
     "url": "https://eshoje.com.br/politica/2026/06/joel-rangel-prega-uniao-e-respeito-aos-mandatos-apos-eleicao-na-cmvv",
@@ -1564,14 +1574,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0a17dab1d96fbe30b2f6c6d83a14c7b33a07785b": {
-    "ts": 1780354466760,
-    "url": "https://www.espiritosantonoticias.com.br/estado-reforca-combate-a-violencia-contra-a-mulher-com-entrega-de-novas-viaturas-a-policia-militar",
-    "title": "Estado reforça combate à violência contra a mulher com entrega de novas viaturas à Polícia Militar"
-  },
-  "source:c67b814954f7f52063ed2569a97dcf07f55d995c": {
-    "ts": 1780354466760,
-    "url": "https://www.espiritosantonoticias.com.br/marataizes-prefeitura-e-edp-iniciam-modernizacao-da-iluminacao-publica",
-    "title": "MARATAÍZES: Prefeitura e EDP iniciam modernização da Iluminação Pública"
+  "source:ae8c9af7ee50d63ef262fe4d4085556b6d8540bb": {
+    "ts": 1780397666645,
+    "url": "https://eshoje.com.br/policia/2026/06/operacao-prende-cinco-suspeitos-homicidios-e-pistolagem-no-es-e-em-mg-dois-sao-militares",
+    "title": "Operação prende cinco suspeitos homicídios e pistolagem no ES e em MG; dois são militares"
   }
 }
