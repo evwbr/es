@@ -1,4 +1,9 @@
 {
+  "source:0f4f04fbabc26b5bc824186d4206155d6f7bba31": {
+    "ts": 1780401266297,
+    "url": "https://www.espiritosantonoticias.com.br/forca-tatica-fecha-laboratorio-do-trafico-que-abastecia-o-copao-do-trem-em-cachoeiro",
+    "title": "Força Tática fecha 'laboratório' do tráfico que abastecia o 'Copão do Trem' em Cachoeiro"
+  },
   "source:ae8c9af7ee50d63ef262fe4d4085556b6d8540bb": {
     "ts": 1780397666645,
     "url": "https://eshoje.com.br/policia/2026/06/operacao-prende-cinco-suspeitos-homicidios-e-pistolagem-no-es-e-em-mg-dois-sao-militares",
@@ -1579,9 +1584,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0f4f04fbabc26b5bc824186d4206155d6f7bba31": {
-    "ts": 1780401266297,
-    "url": "https://www.espiritosantonoticias.com.br/forca-tatica-fecha-laboratorio-do-trafico-que-abastecia-o-copao-do-trem-em-cachoeiro",
-    "title": "Força Tática fecha 'laboratório' do tráfico que abastecia o 'Copão do Trem' em Cachoeiro"
+  "source:328e9d8f83f50a074a65a54a978c601399e2a6cd": {
+    "ts": 1780404866258,
+    "url": "https://eshoje.com.br/politica/2026/06/projeto-preve-atendimento-especial-para-autistas-e-pessoas-com-sindrome-de-down-em-emergencias",
+    "title": "Projeto prevê atendimento especial para autistas e pessoas com síndrome de Down em emergências"
+  },
+  "source:721a907d527d7383c4891b29b1dd893db44c03c6": {
+    "ts": 1780404866258,
+    "url": "https://eshoje.com.br/esportes/2026/06/aluna-da-rede-municipal-garante-vaga-na-etapa-nacional-dos-jogos-escolares",
+    "title": "Aluna da rede municipal garante vaga na etapa nacional dos Jogos Escolares"
+  },
+  "source:7163e70e5f95ca076b687add6b90ac77067a3eaf": {
+    "ts": 1780404866258,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-lucas-314-cumpre-mandados-de-prisao-contra-grupo-criminoso-envolvido-em-pistolagem-e-homicidios-no-es-e-mg",
+    "title": "Operação \"Lucas 3:14\" cumpre mandados de prisão contra grupo criminoso envolvido em pistolagem e homicídios no ES e MG"
+  },
+  "source:14fb76941dd666a60af3ba6b93e75cfe1368afbd": {
+    "ts": 1780404866258,
+    "url": "https://eshoje.com.br/economia/2026/06/suco-de-laranja-carne-e-cafe-ficam-de-fora-de-novo-tarifaco-de-trump",
+    "title": "Suco de laranja, carne e café ficam de fora de novo tarifaço de Trump"
   }
 }
