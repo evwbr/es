@@ -1,4 +1,14 @@
 {
+  "source:384c942cfb230ae6e82f400abe32c03fff93f3d5": {
+    "ts": 1780512866381,
+    "url": "https://eshoje.com.br/policia/2026/06/casal-suspeito-de-torturar-estuprar-e-matar-filho-de-2-anos-vai-a-juri-em-vila-velha",
+    "title": "Casal suspeito de torturar, estuprar e matar filho de 2 anos vai a júri em Vila Velha"
+  },
+  "source:fea764ee71a3fb3c6e1faaf1a3f78272f3ef3e6d": {
+    "ts": 1780512866381,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/calor-em-pleno-inverno-entenda-o-que-pode-acontecer-com-o-clima-no-es",
+    "title": "Calor em pleno inverno? Entenda o que pode acontecer com o clima no ES"
+  },
   "source:69c4836125ad1c38c38c7de3f76b3bce4d148de7": {
     "ts": 1780509266699,
     "url": "https://eshoje.com.br/esportes/2026/06/capixabas-conquistam-cinco-medalhas-para-o-brasil-no-pan-americano-de-ginastica-ritmica",
@@ -1749,14 +1759,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:384c942cfb230ae6e82f400abe32c03fff93f3d5": {
-    "ts": 1780512866381,
-    "url": "https://eshoje.com.br/policia/2026/06/casal-suspeito-de-torturar-estuprar-e-matar-filho-de-2-anos-vai-a-juri-em-vila-velha",
-    "title": "Casal suspeito de torturar, estuprar e matar filho de 2 anos vai a júri em Vila Velha"
+  "source:fb4e99165fe18a1a22d97867049075d69344855e": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/stf-derruba-idade-minima-para-aposentadoria-especial-de-trabalhadores-expostos-a-insalubridade",
+    "title": "STF derruba idade mínima para aposentadoria especial de trabalhadores expostos a insalubridade"
   },
-  "source:fea764ee71a3fb3c6e1faaf1a3f78272f3ef3e6d": {
-    "ts": 1780512866381,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/calor-em-pleno-inverno-entenda-o-que-pode-acontecer-com-o-clima-no-es",
-    "title": "Calor em pleno inverno? Entenda o que pode acontecer com o clima no ES"
+  "source:cf663759567ba794891c4c197c325c8148485667": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/esportes/2026/06/copa-es-rio-branco-vence-jogo-do-vila-e-suspenso-e-classificacao-fica-indefinida",
+    "title": "Copa ES: Rio Branco vence, jogo do Vila é suspenso e classificação fica indefinida"
+  },
+  "source:78146c3dd6f5d8f1015701c4ebb63fc5595d8a8e": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/policia/2026/06/suspeito-de-manter-cachorro-acorrentado-e-sem-comida-e-preso-em-cariacica",
+    "title": "Suspeito de manter cachorro acorrentado e sem comida é preso em Cariacica"
   }
 }
