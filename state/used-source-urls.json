@@ -1,4 +1,9 @@
 {
+  "source:deb867e272254ea5cb559cd2bfc467377e185ef5": {
+    "ts": 1780577666719,
+    "url": "https://www.espiritosantonoticias.com.br/cariacica-policia-civil-interdita-abatedouro-irregular-e-apreende-carne-sem-inspecao-sanitaria",
+    "title": "Cariacica: Polícia Civil interdita abatedouro irregular e apreende carne sem inspeção sanitária"
+  },
   "source:fb4e99165fe18a1a22d97867049075d69344855e": {
     "ts": 1780523666501,
     "url": "https://eshoje.com.br/politica/justica/2026/06/stf-derruba-idade-minima-para-aposentadoria-especial-de-trabalhadores-expostos-a-insalubridade",
@@ -1774,9 +1779,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:deb867e272254ea5cb559cd2bfc467377e185ef5": {
-    "ts": 1780577666719,
-    "url": "https://www.espiritosantonoticias.com.br/cariacica-policia-civil-interdita-abatedouro-irregular-e-apreende-carne-sem-inspecao-sanitaria",
-    "title": "Cariacica: Polícia Civil interdita abatedouro irregular e apreende carne sem inspeção sanitária"
+  "source:b90edf004246891678ec8ef866c93d35d9c85791": {
+    "ts": 1780592066772,
+    "url": "https://eshoje.com.br/policia/2026/06/ultrapassagem-termina-em-tragedia-e-mata-motorista-em-linhares",
+    "title": "Ultrapassagem termina em tragédia e mata motorista em Linhares"
   }
 }
