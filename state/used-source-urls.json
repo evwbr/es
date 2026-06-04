@@ -1,4 +1,19 @@
 {
+  "source:fb4e99165fe18a1a22d97867049075d69344855e": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/stf-derruba-idade-minima-para-aposentadoria-especial-de-trabalhadores-expostos-a-insalubridade",
+    "title": "STF derruba idade mínima para aposentadoria especial de trabalhadores expostos a insalubridade"
+  },
+  "source:cf663759567ba794891c4c197c325c8148485667": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/esportes/2026/06/copa-es-rio-branco-vence-jogo-do-vila-e-suspenso-e-classificacao-fica-indefinida",
+    "title": "Copa ES: Rio Branco vence, jogo do Vila é suspenso e classificação fica indefinida"
+  },
+  "source:78146c3dd6f5d8f1015701c4ebb63fc5595d8a8e": {
+    "ts": 1780523666501,
+    "url": "https://eshoje.com.br/policia/2026/06/suspeito-de-manter-cachorro-acorrentado-e-sem-comida-e-preso-em-cariacica",
+    "title": "Suspeito de manter cachorro acorrentado e sem comida é preso em Cariacica"
+  },
   "source:384c942cfb230ae6e82f400abe32c03fff93f3d5": {
     "ts": 1780512866381,
     "url": "https://eshoje.com.br/policia/2026/06/casal-suspeito-de-torturar-estuprar-e-matar-filho-de-2-anos-vai-a-juri-em-vila-velha",
@@ -1759,19 +1774,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:fb4e99165fe18a1a22d97867049075d69344855e": {
-    "ts": 1780523666501,
-    "url": "https://eshoje.com.br/politica/justica/2026/06/stf-derruba-idade-minima-para-aposentadoria-especial-de-trabalhadores-expostos-a-insalubridade",
-    "title": "STF derruba idade mínima para aposentadoria especial de trabalhadores expostos a insalubridade"
-  },
-  "source:cf663759567ba794891c4c197c325c8148485667": {
-    "ts": 1780523666501,
-    "url": "https://eshoje.com.br/esportes/2026/06/copa-es-rio-branco-vence-jogo-do-vila-e-suspenso-e-classificacao-fica-indefinida",
-    "title": "Copa ES: Rio Branco vence, jogo do Vila é suspenso e classificação fica indefinida"
-  },
-  "source:78146c3dd6f5d8f1015701c4ebb63fc5595d8a8e": {
-    "ts": 1780523666501,
-    "url": "https://eshoje.com.br/policia/2026/06/suspeito-de-manter-cachorro-acorrentado-e-sem-comida-e-preso-em-cariacica",
-    "title": "Suspeito de manter cachorro acorrentado e sem comida é preso em Cariacica"
+  "source:deb867e272254ea5cb559cd2bfc467377e185ef5": {
+    "ts": 1780577666719,
+    "url": "https://www.espiritosantonoticias.com.br/cariacica-policia-civil-interdita-abatedouro-irregular-e-apreende-carne-sem-inspecao-sanitaria",
+    "title": "Cariacica: Polícia Civil interdita abatedouro irregular e apreende carne sem inspeção sanitária"
   }
 }
