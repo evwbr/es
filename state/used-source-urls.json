@@ -1,4 +1,19 @@
 {
+  "source:2364b853ff591a68df63d08434461aa77a32fcf6": {
+    "ts": 1780606468339,
+    "url": "https://eshoje.com.br/saude/2026/06/mutirao-de-vacinacao-na-serra-neste-fim-de-semana-prolongado",
+    "title": "Mutirão de vacinação na Serra neste fim de semana prolongado"
+  },
+  "source:3d43b4f26596258352ac58c3d3b8279dd644eb5e": {
+    "ts": 1780606468339,
+    "url": "https://eshoje.com.br/policia/2026/06/guarda-detem-fugitivo-por-trafico-de-drogas-e-participacao-em-crime-organizado",
+    "title": "Guarda detém fugitivo por tráfico de drogas e participação em crime organizado"
+  },
+  "source:7b4fb25224804fb33ec6accd4f22dcaa3a55d34b": {
+    "ts": 1780606468339,
+    "url": "https://eshoje.com.br/esportes/2026/06/vitoria-se-consolida-como-capital-da-corrida-e-espera-10-mil-atletas-em-maratona",
+    "title": "Vitória se consolida como capital da corrida e espera 10 mil atletas em maratona"
+  },
   "source:5ac6e87579ff97af2d510b67cff0342636df1e4e": {
     "ts": 1780599266546,
     "url": "https://www.espiritosantonoticias.com.br/motorista-embriagado-e-contido-por-segurancas-apos-colocar-vidas-em-risco-em-piuma",
@@ -1809,19 +1824,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2364b853ff591a68df63d08434461aa77a32fcf6": {
-    "ts": 1780606468339,
-    "url": "https://eshoje.com.br/saude/2026/06/mutirao-de-vacinacao-na-serra-neste-fim-de-semana-prolongado",
-    "title": "Mutirão de vacinação na Serra neste fim de semana prolongado"
-  },
-  "source:3d43b4f26596258352ac58c3d3b8279dd644eb5e": {
-    "ts": 1780606468339,
-    "url": "https://eshoje.com.br/policia/2026/06/guarda-detem-fugitivo-por-trafico-de-drogas-e-participacao-em-crime-organizado",
-    "title": "Guarda detém fugitivo por tráfico de drogas e participação em crime organizado"
-  },
-  "source:7b4fb25224804fb33ec6accd4f22dcaa3a55d34b": {
-    "ts": 1780606468339,
-    "url": "https://eshoje.com.br/esportes/2026/06/vitoria-se-consolida-como-capital-da-corrida-e-espera-10-mil-atletas-em-maratona",
-    "title": "Vitória se consolida como capital da corrida e espera 10 mil atletas em maratona"
+  "source:da841ccb46a4432f20cb936fdb05ae8e9bf10587": {
+    "ts": 1780610066719,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/frio-e-chuva-devem-persistir-no-es-durante-o-feriadao-veja-a-previsao",
+    "title": "Frio e chuva no ES durante o feriado? Veja a previsão"
   }
 }
