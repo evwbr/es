@@ -1,4 +1,9 @@
 {
+  "source:7ebaa4f1de3c62c1ed6ac692bc217ec7a049a1a2": {
+    "ts": 1780667666913,
+    "url": "https://www.espiritosantonoticias.com.br/motociclista-morre-em-acidente-na-br-262-em-domingos-martins",
+    "title": "Motociclista morre em acidente na BR-262 em Domingos Martins"
+  },
   "source:aed53b607740db82c1a375828fc3b9be2c0d430c": {
     "ts": 1780664066634,
     "url": "https://www.espiritosantonoticias.com.br/atencao-em-anchieta-br-101-no-es-tera-interdicao-total-para-detonacao-de-rochas-nesta-sexta-05",
@@ -1859,9 +1864,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7ebaa4f1de3c62c1ed6ac692bc217ec7a049a1a2": {
-    "ts": 1780667666913,
-    "url": "https://www.espiritosantonoticias.com.br/motociclista-morre-em-acidente-na-br-262-em-domingos-martins",
-    "title": "Motociclista morre em acidente na BR-262 em Domingos Martins"
+  "source:01d660e4db0150c7186c4688ba1885f77c6f4710": {
+    "ts": 1780671266505,
+    "url": "https://eshoje.com.br/policia/2026/06/motorista-com-sinais-de-embriaguez-e-preso-apos-causar-acidente-fatal-na-br-101-em-linhares",
+    "title": "Motorista com sinais de embriaguez é preso após causar acidente fatal na BR-101, em Linhares"
+  },
+  "source:1f495d5362eccfc273558d25b52f0401e70700ae": {
+    "ts": 1780671266505,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/transito-de-vitoria-tera-alteracoes-na-avenida-saturnino-de-brito-a-partir-de-domingo",
+    "title": "Trânsito de Vitória terá alterações na Avenida Saturnino de Brito a partir de domingo (7)"
+  },
+  "source:5e9eb6e7dcf2ec9266cb148cbb4fe6c12201de12": {
+    "ts": 1780671266505,
+    "url": "https://www.espiritosantonoticias.com.br/prf-apreende-revolver-e-resgata-crianca-sem-responsavel-legal-em-abordagem-na-br-101",
+    "title": "PRF apreende revólver e resgata criança sem responsável legal em abordagem na BR-101"
+  },
+  "source:c13ae000806d0c08e2ec50812d47412a618cfa2a": {
+    "ts": 1780671266505,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-bebado-causa-acidente-com-duas-mortes-e-e-preso-apos-fugir-em-linhares",
+    "title": "Motorista bêbado causa acidente com duas mortes e é preso após fugir em Linhares"
+  },
+  "source:8acd8f4c2776c6b1d08c39ceae0f4d5bb62a2857": {
+    "ts": 1780671266505,
+    "url": "https://www.espiritosantonoticias.com.br/homem-com-tornozeleira-desligada-e-detido-apos-invadir-e-furtar-duas-casas-enquanto-moradores-dormiam-em-marataizes",
+    "title": "Homem com tornozeleira desligada é detido após invadir e furtar duas casas enquanto moradores dormiam em Marataízes"
   }
 }
