@@ -1,4 +1,9 @@
 {
+  "source:da841ccb46a4432f20cb936fdb05ae8e9bf10587": {
+    "ts": 1780610066719,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/frio-e-chuva-devem-persistir-no-es-durante-o-feriadao-veja-a-previsao",
+    "title": "Frio e chuva no ES durante o feriado? Veja a previsão"
+  },
   "source:2364b853ff591a68df63d08434461aa77a32fcf6": {
     "ts": 1780606468339,
     "url": "https://eshoje.com.br/saude/2026/06/mutirao-de-vacinacao-na-serra-neste-fim-de-semana-prolongado",
@@ -1824,9 +1829,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:da841ccb46a4432f20cb936fdb05ae8e9bf10587": {
-    "ts": 1780610066719,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/frio-e-chuva-devem-persistir-no-es-durante-o-feriadao-veja-a-previsao",
-    "title": "Frio e chuva no ES durante o feriado? Veja a previsão"
+  "source:2a90f3891bb09b524ca059a4fe10ad2bec8ca6a0": {
+    "ts": 1780660466676,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/tribunal-de-contas-aponta-falhas-contabeis-e-multa-ex-dirigentes-da-codeg",
+    "title": "Tribunal de Contas aponta falhas contábeis e multa ex-dirigentes da Codeg"
+  },
+  "source:3d30201a874d43e0f88da3abf647134db740d73d": {
+    "ts": 1780660466676,
+    "url": "https://eshoje.com.br/politica/2026/06/cachoeiro-de-itapemirim-aprova-veto-a-nomeacao-de-condenados-por-crimes-contra-criancas",
+    "title": "Cachoeiro de Itapemirim aprova veto à nomeação de condenados por crimes contra crianças"
+  },
+  "source:deed232d8738122ae4ec2d7d8c716ade1afc8ee0": {
+    "ts": 1780660466676,
+    "url": "https://eshoje.com.br/policia/2026/06/casal-foragido-e-preso-pela-prf-apos-apresentar-identidades-falsas-na-br-101",
+    "title": "Casal foragido é preso pela PRF após apresentar identidades falsas na BR-101"
   }
 }
