@@ -1,4 +1,14 @@
 {
+  "source:441e3dad04c60dd68db1e26634b8c782fea780a0": {
+    "ts": 1780685666483,
+    "url": "https://eshoje.com.br/economia/2026/06/leiloes-ferrovias-adiados-2027-ef118-es-2026",
+    "title": "Leilões de ferrovias atrasam para 2027; EF-118 é reprogramada, mas mantida em 2026"
+  },
+  "source:62800e08384e39ff360590f646ca765a3ee977d6": {
+    "ts": 1780685666483,
+    "url": "https://eshoje.com.br/saude/2026/06/nova-tecnologia-de-radioterapia-promete-precisao-e-menos-efeitos-colaterais",
+    "title": "Nova tecnologia de radioterapia promete precisão e menos efeitos colaterais"
+  },
   "source:d7b8537a02df720600ea4d74373151f35f5953f5": {
     "ts": 1780682066380,
     "url": "https://eshoje.com.br/saude/2026/06/transplante-de-orgaos-es-mae-recebe-coracao-hevv-vila-velha",
@@ -1899,14 +1909,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:441e3dad04c60dd68db1e26634b8c782fea780a0": {
-    "ts": 1780685666483,
-    "url": "https://eshoje.com.br/economia/2026/06/leiloes-ferrovias-adiados-2027-ef118-es-2026",
-    "title": "Leilões de ferrovias atrasam para 2027; EF-118 é reprogramada, mas mantida em 2026"
-  },
-  "source:62800e08384e39ff360590f646ca765a3ee977d6": {
-    "ts": 1780685666483,
-    "url": "https://eshoje.com.br/saude/2026/06/nova-tecnologia-de-radioterapia-promete-precisao-e-menos-efeitos-colaterais",
-    "title": "Nova tecnologia de radioterapia promete precisão e menos efeitos colaterais"
+  "source:e8db543f8fd137ed7c9de85f8d998e4c2cdc55ff": {
+    "ts": 1780689266368,
+    "url": "https://eshoje.com.br/policia/2026/06/caes-encontrados-mortos-em-colatina-passam-por-necropsia-e-exames-toxicologicos",
+    "title": "Cães encontrados mortos em Colatina passam por necropsia e exames toxicológicos"
   }
 }
