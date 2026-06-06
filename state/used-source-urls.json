@@ -1,4 +1,9 @@
 {
+  "source:e8db543f8fd137ed7c9de85f8d998e4c2cdc55ff": {
+    "ts": 1780689266368,
+    "url": "https://eshoje.com.br/policia/2026/06/caes-encontrados-mortos-em-colatina-passam-por-necropsia-e-exames-toxicologicos",
+    "title": "Cães encontrados mortos em Colatina passam por necropsia e exames toxicológicos"
+  },
   "source:441e3dad04c60dd68db1e26634b8c782fea780a0": {
     "ts": 1780685666483,
     "url": "https://eshoje.com.br/economia/2026/06/leiloes-ferrovias-adiados-2027-ef118-es-2026",
@@ -1909,9 +1914,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e8db543f8fd137ed7c9de85f8d998e4c2cdc55ff": {
-    "ts": 1780689266368,
-    "url": "https://eshoje.com.br/policia/2026/06/caes-encontrados-mortos-em-colatina-passam-por-necropsia-e-exames-toxicologicos",
-    "title": "Cães encontrados mortos em Colatina passam por necropsia e exames toxicológicos"
+  "source:8e0598c6141ba8729c4fcdbd4e0f69bd7da6f2e8": {
+    "ts": 1780750469284,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/cavalos-soltos-na-rodovia-leste-oeste-sao-recolhidos-apos-colocarem-transito-em-risco",
+    "title": "Cavalos soltos na Rodovia Leste-Oeste são recolhidos após colocarem trânsito em risco"
+  },
+  "source:04a0e6ff20aa71b58474991a5440b2dfa34054f5": {
+    "ts": 1780750469284,
+    "url": "https://eshoje.com.br/esportes/serie-d/2026/06/copa-es-veja-o-que-rio-branco-vilavelhense-e-rio-branco-vn-precisam-para-avancar-as-semifinais",
+    "title": "Copa ES: veja o que Rio Branco, Vilavelhense e Rio Branco VN precisam para avançar às semifinais"
   }
 }
