@@ -1,4 +1,14 @@
 {
+  "source:e542363f2d9f9eb8431dc4a762184c3d02380615": {
+    "ts": 1780836866489,
+    "url": "https://eshoje.com.br/policia/2026/06/adolescente-de-16-anos-mata-primo-a-facadas-em-conceicao-do-castelo",
+    "title": "Adolescente de 16 anos mata primo a facadas em Conceição do Castelo"
+  },
+  "source:8c2fc72e13ec41fc903b4ab4793064d06d323838": {
+    "ts": 1780836866489,
+    "url": "https://eshoje.com.br/esportes/2026/06/sem-marta-brasil-ganha-de-virada-dos-eua-com-festa-e-estadio-cheio-em-sp",
+    "title": "Sem Marta, Brasil ganha de virada dos EUA com festa e estádio cheio em SP"
+  },
   "source:75a1397cff16a7b520d4f2681ebd8b0612aab24e": {
     "ts": 1780786466166,
     "url": "https://www.espiritosantonoticias.com.br/tragedia-em-familia-adolescente-mata-primo-a-facada-apos-discussao-em-conceicao-do-castelo",
@@ -1944,14 +1954,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e542363f2d9f9eb8431dc4a762184c3d02380615": {
-    "ts": 1780836866489,
-    "url": "https://eshoje.com.br/policia/2026/06/adolescente-de-16-anos-mata-primo-a-facadas-em-conceicao-do-castelo",
-    "title": "Adolescente de 16 anos mata primo a facadas em Conceição do Castelo"
+  "source:9df09070ecf556010e378e28acab13d458de6852": {
+    "ts": 1780840466408,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/prazo-para-credenciamento-de-food-trucks-em-guarapari-termina-nesta-quarta-feira-10",
+    "title": "Prazo para credenciamento de food trucks em Guarapari termina nesta quarta-feira (10)"
   },
-  "source:8c2fc72e13ec41fc903b4ab4793064d06d323838": {
-    "ts": 1780836866489,
-    "url": "https://eshoje.com.br/esportes/2026/06/sem-marta-brasil-ganha-de-virada-dos-eua-com-festa-e-estadio-cheio-em-sp",
-    "title": "Sem Marta, Brasil ganha de virada dos EUA com festa e estádio cheio em SP"
+  "source:7b1c35528779c1e2add349e2287b77c60d7505c0": {
+    "ts": 1780840466408,
+    "url": "https://eshoje.com.br/esportes/2026/06/ancelotti-diz-que-ja-tem-time-ideal-definido-para-estreia-do-brasil-na-copa-do-mundo",
+    "title": "Ancelotti diz que já tem time ideal definido para estreia do Brasil na Copa do Mundo"
+  },
+  "source:68065c0166ab5fa5ab5bc05e683b7587d1acaac9": {
+    "ts": 1780840466408,
+    "url": "https://eshoje.com.br/policia/2026/06/pm-prende-dupla-armada-e-apreende-submetralhadora-em-vila-velha",
+    "title": "PM prende dupla armada e apreende submetralhadora em Vila Velha"
   }
 }
