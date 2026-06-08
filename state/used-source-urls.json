@@ -1,4 +1,9 @@
 {
+  "source:02593abdf73c59aa39d7495db293b06549014db3": {
+    "ts": 1780934066449,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-com-historico-de-homicidio-e-trafico-e-preso-apos-fuga-direcao-perigosa-e-batida-em-vitoria",
+    "title": "Homem com histórico de homicídio e tráfico é preso após fuga, direção perigosa e batida em Vitória"
+  },
   "source:4fd403e4c0d4ca3b35b6d12a8ad6624081a9ca74": {
     "ts": 1780930466402,
     "url": "https://eshoje.com.br/economia/2026/06/propriedade-rural-de-vila-velha-produz-30-toneladas-de-maracuja-e-cultiva-150-variedades",
@@ -2024,9 +2029,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:02593abdf73c59aa39d7495db293b06549014db3": {
-    "ts": 1780934066449,
-    "url": "https://eshoje.com.br/policia/2026/06/homem-com-historico-de-homicidio-e-trafico-e-preso-apos-fuga-direcao-perigosa-e-batida-em-vitoria",
-    "title": "Homem com histórico de homicídio e tráfico é preso após fuga, direção perigosa e batida em Vitória"
+  "source:6979a74e5d5730cfe8ef45ea55f9226fcee38307": {
+    "ts": 1780937667428,
+    "url": "https://www.espiritosantonoticias.com.br/celular-na-tomada-superaquece-e-provoca-incendio-em-casa-de-dois-andares-em-conceicao-do-castelo",
+    "title": "Celular na tomada superaquece e provoca incêndio em casa de dois andares em Conceição do Castelo"
+  },
+  "source:7acdabbaff633b87c0a5df4a75221bc8fb107e5b": {
+    "ts": 1780937667428,
+    "url": "https://eshoje.com.br/policia/2026/06/inconformado-com-fim-do-relacionamento-homem-agride-mulher-enteada-e-bebe-em-vila-velha",
+    "title": "Inconformado com fim do relacionamento, homem agride mulher, enteada e bebê em Vila Velha"
   }
 }
