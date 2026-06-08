@@ -1,4 +1,19 @@
 {
+  "source:1e14ad09022569f19bebece45f760080af617698": {
+    "ts": 1780952066737,
+    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/vereadores-tentam-eleicao-da-mesa-em-agosto-alegando-que-consulta-ao-stj-foi-escondida",
+    "title": "Vereadores tentam eleição da mesa em agosto alegando que consulta ao STJ foi \"escondida\""
+  },
+  "source:e85ad0fe786177c73ce26bf8b29039ef560b0de9": {
+    "ts": 1780952066737,
+    "url": "https://eshoje.com.br/esportes/2026/06/piloto-capixaba-soma-pontos-na-3a-etapa-da-f-delta-apesar-de-problemas-de-cambio",
+    "title": "Piloto capixaba soma pontos na 3ª etapa da F-Delta, apesar de problemas de câmbio"
+  },
+  "source:a7f5a4c50d39e63401152accc0d666eabdebf741": {
+    "ts": 1780952066737,
+    "url": "https://eshoje.com.br/esportes/2026/06/vitoria-tera-teloes-em-5-pracas-para-transmitir-jogos-do-brasil-na-copa-veja-onde",
+    "title": "Vitória terá telões em 5 praças para transmitir jogos do Brasil na Copa; veja onde"
+  },
   "source:2f2411abe6f22ab53efc06723820d9267359a906": {
     "ts": 1780948466232,
     "url": "https://eshoje.com.br/esportes/2026/06/capixabas-conquistam-cinco-ouros-no-pan-de-ginastica-ritmica",
@@ -2074,19 +2089,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1e14ad09022569f19bebece45f760080af617698": {
-    "ts": 1780952066737,
-    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/vereadores-tentam-eleicao-da-mesa-em-agosto-alegando-que-consulta-ao-stj-foi-escondida",
-    "title": "Vereadores tentam eleição da mesa em agosto alegando que consulta ao STJ foi \"escondida\""
-  },
-  "source:e85ad0fe786177c73ce26bf8b29039ef560b0de9": {
-    "ts": 1780952066737,
-    "url": "https://eshoje.com.br/esportes/2026/06/piloto-capixaba-soma-pontos-na-3a-etapa-da-f-delta-apesar-de-problemas-de-cambio",
-    "title": "Piloto capixaba soma pontos na 3ª etapa da F-Delta, apesar de problemas de câmbio"
-  },
-  "source:a7f5a4c50d39e63401152accc0d666eabdebf741": {
-    "ts": 1780952066737,
-    "url": "https://eshoje.com.br/esportes/2026/06/vitoria-tera-teloes-em-5-pracas-para-transmitir-jogos-do-brasil-na-copa-veja-onde",
-    "title": "Vitória terá telões em 5 praças para transmitir jogos do Brasil na Copa; veja onde"
+  "source:ba0b804ff9775829b3d70151c87a80fb32c771ce": {
+    "ts": 1780955666663,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/cidades-do-es-registram-recorde-de-frio-com-temperatura-abaixo-dos-8oc-veja-o-ranking",
+    "title": "Cidades do ES registram recorde de frio com temperatura abaixo dos 8°C; veja o ranking"
   }
 }
