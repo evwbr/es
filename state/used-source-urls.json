@@ -1,4 +1,29 @@
 {
+  "source:4fd403e4c0d4ca3b35b6d12a8ad6624081a9ca74": {
+    "ts": 1780930466402,
+    "url": "https://eshoje.com.br/economia/2026/06/propriedade-rural-de-vila-velha-produz-30-toneladas-de-maracuja-e-cultiva-150-variedades",
+    "title": "Propriedade rural de Vila Velha produz 30 toneladas de maracujá e cultiva 150 variedades"
+  },
+  "source:a311a389e5b7bcf409c08c5c22991f22be3556a6": {
+    "ts": 1780930466402,
+    "url": "https://eshoje.com.br/politica/2026/06/comissao-de-direitos-humanos-da-ales-lanca-obra-que-resgata-a-memoria-dos-movimentos-sociais-capixabas",
+    "title": "Comissão de Direitos Humanos da Ales lança obra que resgata a memória dos movimentos sociais capixabas"
+  },
+  "source:ac8ac19b8a437f62d5ca06f5bc0f76aa52e0c707": {
+    "ts": 1780930466402,
+    "url": "https://eshoje.com.br/policia/2026/06/pm-da-reserva-atira-contra-vizinhos-por-som-alto-e-acaba-preso-em-guarapari",
+    "title": "PM da reserva atira contra vizinhos por som alto e acaba preso em Guarapari"
+  },
+  "source:3364e39ea9bb19a191e49c12836f4ab74dfec02f": {
+    "ts": 1780930466402,
+    "url": "https://eshoje.com.br/saude/2026/06/ceratocone-doenca-ocular-que-deforma-a-cornea-acende-alerta-no-es",
+    "title": "Ceratocone: doença ocular que deforma a córnea acende alerta no ES"
+  },
+  "source:f4b083b7de77b53aea402ca51fc66bdc881436bc": {
+    "ts": 1780930466402,
+    "url": "https://eshoje.com.br/policia/2026/06/operacao-corpus-christi-prf-registra-queda-de-43-nos-acidentes-graves-no-es",
+    "title": "Operação Corpus Christi: PRF registra queda de 43% nos acidentes graves no ES"
+  },
   "source:3b8e9ac437512ff57b2926f48ce93f1483cb0a88": {
     "ts": 1780926866648,
     "url": "https://eshoje.com.br/policia/2026/06/dona-de-bar-e-encontrada-morta-e-policia-investiga-latrocinio-em-vila-velha",
@@ -1999,29 +2024,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4fd403e4c0d4ca3b35b6d12a8ad6624081a9ca74": {
-    "ts": 1780930466402,
-    "url": "https://eshoje.com.br/economia/2026/06/propriedade-rural-de-vila-velha-produz-30-toneladas-de-maracuja-e-cultiva-150-variedades",
-    "title": "Propriedade rural de Vila Velha produz 30 toneladas de maracujá e cultiva 150 variedades"
-  },
-  "source:a311a389e5b7bcf409c08c5c22991f22be3556a6": {
-    "ts": 1780930466402,
-    "url": "https://eshoje.com.br/politica/2026/06/comissao-de-direitos-humanos-da-ales-lanca-obra-que-resgata-a-memoria-dos-movimentos-sociais-capixabas",
-    "title": "Comissão de Direitos Humanos da Ales lança obra que resgata a memória dos movimentos sociais capixabas"
-  },
-  "source:ac8ac19b8a437f62d5ca06f5bc0f76aa52e0c707": {
-    "ts": 1780930466402,
-    "url": "https://eshoje.com.br/policia/2026/06/pm-da-reserva-atira-contra-vizinhos-por-som-alto-e-acaba-preso-em-guarapari",
-    "title": "PM da reserva atira contra vizinhos por som alto e acaba preso em Guarapari"
-  },
-  "source:3364e39ea9bb19a191e49c12836f4ab74dfec02f": {
-    "ts": 1780930466402,
-    "url": "https://eshoje.com.br/saude/2026/06/ceratocone-doenca-ocular-que-deforma-a-cornea-acende-alerta-no-es",
-    "title": "Ceratocone: doença ocular que deforma a córnea acende alerta no ES"
-  },
-  "source:f4b083b7de77b53aea402ca51fc66bdc881436bc": {
-    "ts": 1780930466402,
-    "url": "https://eshoje.com.br/policia/2026/06/operacao-corpus-christi-prf-registra-queda-de-43-nos-acidentes-graves-no-es",
-    "title": "Operação Corpus Christi: PRF registra queda de 43% nos acidentes graves no ES"
+  "source:02593abdf73c59aa39d7495db293b06549014db3": {
+    "ts": 1780934066449,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-com-historico-de-homicidio-e-trafico-e-preso-apos-fuga-direcao-perigosa-e-batida-em-vitoria",
+    "title": "Homem com histórico de homicídio e tráfico é preso após fuga, direção perigosa e batida em Vitória"
   }
 }
