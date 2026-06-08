@@ -1,4 +1,9 @@
 {
+  "source:1cf7e924595c7e72e6779d6e5c5ed44a50d2def8": {
+    "ts": 1780941266580,
+    "url": "https://eshoje.com.br/economia/2026/06/fim-escala-6x1-impacto-empresas-litoral-sul-es",
+    "title": "Escala 6x1: estudo expõe temor de empresas no litoral sul do ES"
+  },
   "source:6979a74e5d5730cfe8ef45ea55f9226fcee38307": {
     "ts": 1780937667428,
     "url": "https://www.espiritosantonoticias.com.br/celular-na-tomada-superaquece-e-provoca-incendio-em-casa-de-dois-andares-em-conceicao-do-castelo",
@@ -2039,9 +2044,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1cf7e924595c7e72e6779d6e5c5ed44a50d2def8": {
-    "ts": 1780941266580,
-    "url": "https://eshoje.com.br/economia/2026/06/fim-escala-6x1-impacto-empresas-litoral-sul-es",
-    "title": "Escala 6x1: estudo expõe temor de empresas no litoral sul do ES"
+  "source:aba3d237611f0e9bb067081525a5521c5d7bbb7b": {
+    "ts": 1780944866276,
+    "url": "https://eshoje.com.br/policia/2026/06/julgamento-de-casal-suspeito-de-estuprar-torturar-e-matar-filho-no-es-e-adiado",
+    "title": "Julgamento de casal suspeito de estuprar, torturar e matar filho no ES é adiado"
+  },
+  "source:74db2c3099ed9ec2c37e683234a9e5b74be53046": {
+    "ts": 1780944866276,
+    "url": "https://eshoje.com.br/esportes/2026/06/piloto-capixaba-acelera-em-interlagos-antes-de-desafio-na-italia",
+    "title": "Piloto capixaba acelera em Interlagos antes de desafio na Itália"
+  },
+  "source:cbd6ccdf397042b36ffbb77ad0305bb108291b80": {
+    "ts": 1780944866276,
+    "url": "https://eshoje.com.br/saude/2026/06/vacina-dengue-butantan-suspensa-reacoes-graves-es",
+    "title": "Ministério suspende vacina da dengue do Butantan; ES recebeu mais de 10 mil doses"
+  },
+  "source:9cccaad4ef55c055c4c10ba29c5553b7a79ca067": {
+    "ts": 1780944866276,
+    "url": "https://eshoje.com.br/esportes/serie-d/2026/06/rio-branco-abre-venda-de-ingressos-para-duelo-decisivo-contra-o-porto-ba-pela-serie-d",
+    "title": "Rio Branco abre venda de ingressos para duelo decisivo contra o Porto-BA pela Série D"
   }
 }
