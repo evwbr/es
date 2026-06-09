@@ -1,4 +1,9 @@
 {
+  "source:ba0b804ff9775829b3d70151c87a80fb32c771ce": {
+    "ts": 1780955666663,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/cidades-do-es-registram-recorde-de-frio-com-temperatura-abaixo-dos-8oc-veja-o-ranking",
+    "title": "Cidades do ES registram recorde de frio com temperatura abaixo dos 8°C; veja o ranking"
+  },
   "source:1e14ad09022569f19bebece45f760080af617698": {
     "ts": 1780952066737,
     "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/vereadores-tentam-eleicao-da-mesa-em-agosto-alegando-que-consulta-ao-stj-foi-escondida",
@@ -2089,9 +2094,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ba0b804ff9775829b3d70151c87a80fb32c771ce": {
-    "ts": 1780955666663,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/cidades-do-es-registram-recorde-de-frio-com-temperatura-abaixo-dos-8oc-veja-o-ranking",
-    "title": "Cidades do ES registram recorde de frio com temperatura abaixo dos 8°C; veja o ranking"
+  "source:bd4017e67db2426f8cbf912e823af033b3659ac7": {
+    "ts": 1781006066263,
+    "url": "https://www.espiritosantonoticias.com.br/presidente-da-camara-de-piuma-eliezer-freire-dias-celebra-conquista-e-graduacao-em-direito",
+    "title": "Presidente da Câmara de Piúma, Eliezer Freire Dias, celebra conquista e graduação em Direito"
+  },
+  "source:c700439c9aa57aa5d8a6c8fb3c5bce9e41157282": {
+    "ts": 1781006066263,
+    "url": "https://eshoje.com.br/policia/2026/06/dono-de-distribuidora-condenado-por-trafico-e-preso-pela-guarda-apos-um-mes-foragido",
+    "title": "Dono de distribuidora condenado por tráfico é preso pela Guarda após um mês foragido"
   }
 }
