@@ -1,4 +1,14 @@
 {
+  "source:2227711b4b73cf8c6f73242a8427d5401996d2de": {
+    "ts": 1781020466453,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-deflagra-operacao-com-helicoptero-e-caes-para-desarticular-quadrilha-em-linhares",
+    "title": "Polícia Civil deflagra operação com helicóptero e cães para desarticular quadrilha em Linhares"
+  },
+  "source:98b044ea1b27155cba5856919f3b4632d770a942": {
+    "ts": 1781020466453,
+    "url": "https://www.espiritosantonoticias.com.br/bme-intercepta-carro-clonado-com-armas-durante-patrulhamento-em-vila-velha",
+    "title": "BME intercepta carro clonado com armas durante patrulhamento em Vila Velha"
+  },
   "source:02bdbea9bb58f47cc347a6a6e1bae5495eb00703": {
     "ts": 1781016868394,
     "url": "https://eshoje.com.br/politica/2026/06/jack-rocha-eleicao-2026-ultima-disputa-lula-es",
@@ -2129,14 +2139,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2227711b4b73cf8c6f73242a8427d5401996d2de": {
-    "ts": 1781020466453,
-    "url": "https://www.espiritosantonoticias.com.br/policia-civil-deflagra-operacao-com-helicoptero-e-caes-para-desarticular-quadrilha-em-linhares",
-    "title": "Polícia Civil deflagra operação com helicóptero e cães para desarticular quadrilha em Linhares"
+  "source:5c46ddb47aded61db1379773bb6e7b5335d18d66": {
+    "ts": 1781027666801,
+    "url": "https://www.espiritosantonoticias.com.br/cao-farejador-da-prf-descobre-52-kg-de-pasta-base-de-cocaina-escondidos-em-fundo-falso-de-picape",
+    "title": "Cão farejador da PRF descobre 52 kg de pasta base de cocaína escondidos em fundo falso de picape"
   },
-  "source:98b044ea1b27155cba5856919f3b4632d770a942": {
-    "ts": 1781020466453,
-    "url": "https://www.espiritosantonoticias.com.br/bme-intercepta-carro-clonado-com-armas-durante-patrulhamento-em-vila-velha",
-    "title": "BME intercepta carro clonado com armas durante patrulhamento em Vila Velha"
+  "source:1fd21cdf7b416f7ec8f290f10ec605622b1ea8df": {
+    "ts": 1781027666801,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/bairro-de-vitoria-tera-mutirao-para-emissao-de-identidade-e-atendimento-medico-de-graca",
+    "title": "Bairro de Vitória terá mutirão para emissão de identidade e atendimento médico de graça"
+  },
+  "source:6b3c4b6c8c8ea3db5b5ee3e5ff983ab8782c4bed": {
+    "ts": 1781027666801,
+    "url": "https://eshoje.com.br/politica/2026/06/kaue-oliveira-subsecretaria-governo-cris-samorini-pl-republicanos",
+    "title": "Kauê Oliveira assume cargo em Vitória e aproxima PL do Republicanos"
+  },
+  "source:9e28e1d6febe2a15afaee26ad951f9e72a6056bc": {
+    "ts": 1781027666801,
+    "url": "https://eshoje.com.br/economia/2026/06/dia-dos-namorados-comercio-espirito-santo-vendas",
+    "title": "Dia dos Namorados: casais devem gastar R$ 260 por presentes"
   }
 }
