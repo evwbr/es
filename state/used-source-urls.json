@@ -1,4 +1,9 @@
 {
+  "source:02bdbea9bb58f47cc347a6a6e1bae5495eb00703": {
+    "ts": 1781016868394,
+    "url": "https://eshoje.com.br/politica/2026/06/jack-rocha-eleicao-2026-ultima-disputa-lula-es",
+    "title": "Jack Rocha vê 2026 como última disputa do presidente Lula"
+  },
   "source:f0c3dfe62b8a6b23986760c672160f822bc2eb18": {
     "ts": 1781013267018,
     "url": "https://eshoje.com.br/policia/2026/06/irmao-vera-apontado-um-dos-lideres-do-tcp-e-condenado-por-assassinato-na-ilha-do-frade",
@@ -2124,9 +2129,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:02bdbea9bb58f47cc347a6a6e1bae5495eb00703": {
-    "ts": 1781016868394,
-    "url": "https://eshoje.com.br/politica/2026/06/jack-rocha-eleicao-2026-ultima-disputa-lula-es",
-    "title": "Jack Rocha vê 2026 como última disputa do presidente Lula"
+  "source:2227711b4b73cf8c6f73242a8427d5401996d2de": {
+    "ts": 1781020466453,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-deflagra-operacao-com-helicoptero-e-caes-para-desarticular-quadrilha-em-linhares",
+    "title": "Polícia Civil deflagra operação com helicóptero e cães para desarticular quadrilha em Linhares"
+  },
+  "source:98b044ea1b27155cba5856919f3b4632d770a942": {
+    "ts": 1781020466453,
+    "url": "https://www.espiritosantonoticias.com.br/bme-intercepta-carro-clonado-com-armas-durante-patrulhamento-em-vila-velha",
+    "title": "BME intercepta carro clonado com armas durante patrulhamento em Vila Velha"
   }
 }
