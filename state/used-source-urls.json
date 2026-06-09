@@ -1,4 +1,14 @@
 {
+  "source:bd4017e67db2426f8cbf912e823af033b3659ac7": {
+    "ts": 1781006066263,
+    "url": "https://www.espiritosantonoticias.com.br/presidente-da-camara-de-piuma-eliezer-freire-dias-celebra-conquista-e-graduacao-em-direito",
+    "title": "Presidente da Câmara de Piúma, Eliezer Freire Dias, celebra conquista e graduação em Direito"
+  },
+  "source:c700439c9aa57aa5d8a6c8fb3c5bce9e41157282": {
+    "ts": 1781006066263,
+    "url": "https://eshoje.com.br/policia/2026/06/dono-de-distribuidora-condenado-por-trafico-e-preso-pela-guarda-apos-um-mes-foragido",
+    "title": "Dono de distribuidora condenado por tráfico é preso pela Guarda após um mês foragido"
+  },
   "source:ba0b804ff9775829b3d70151c87a80fb32c771ce": {
     "ts": 1780955666663,
     "url": "https://eshoje.com.br/espirito-santo/2026/06/cidades-do-es-registram-recorde-de-frio-com-temperatura-abaixo-dos-8oc-veja-o-ranking",
@@ -2094,14 +2104,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:bd4017e67db2426f8cbf912e823af033b3659ac7": {
-    "ts": 1781006066263,
-    "url": "https://www.espiritosantonoticias.com.br/presidente-da-camara-de-piuma-eliezer-freire-dias-celebra-conquista-e-graduacao-em-direito",
-    "title": "Presidente da Câmara de Piúma, Eliezer Freire Dias, celebra conquista e graduação em Direito"
+  "source:f670f0ccca3f12360225d55a19ff361201ad17ec": {
+    "ts": 1781009666783,
+    "url": "https://eshoje.com.br/saude/2026/06/colatina-suspende-vacinacao-contra-dengue-apos-investigacao-de-eventos-adversos-raros",
+    "title": "Colatina suspende vacinação contra dengue após investigação de eventos adversos raros"
   },
-  "source:c700439c9aa57aa5d8a6c8fb3c5bce9e41157282": {
-    "ts": 1781006066263,
-    "url": "https://eshoje.com.br/policia/2026/06/dono-de-distribuidora-condenado-por-trafico-e-preso-pela-guarda-apos-um-mes-foragido",
-    "title": "Dono de distribuidora condenado por tráfico é preso pela Guarda após um mês foragido"
+  "source:0a76459273fb71eecbae9eb66e8f7ee9ee35b044": {
+    "ts": 1781009666783,
+    "url": "https://eshoje.com.br/policia/2026/06/lei-seca-28-motoristas-sao-flagrados-dirigindo-sob-efeito-de-alcool-em-vitoria-e-vila-velha",
+    "title": "Lei Seca: 28 motoristas são flagrados dirigindo sob efeito de álcool em Vitória e Vila Velha"
+  },
+  "source:ed136e6696ac1acb385ed1de38a4ce9a38a26342": {
+    "ts": 1781009666783,
+    "url": "https://eshoje.com.br/politica/2026/06/animais-de-assistencia-emocional-podem-ter-entrada-garantida-em-estabelecimentos-no-es",
+    "title": "Animais de assistência emocional podem ter entrada garantida em estabelecimentos no ES"
   }
 }
