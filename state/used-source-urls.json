@@ -1,4 +1,9 @@
 {
+  "source:9b6101d9f4dcc76b6697340cf4fbad95d0f157ae": {
+    "ts": 1781121266432,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-que-matou-filha-de-3-anos-no-rj-e-preso-no-interior-do-es",
+    "title": "Homem que matou filha de 3 anos no RJ é preso no interior do ES"
+  },
   "source:8f39927192d60f3599b08d91648ea3af220c87b7": {
     "ts": 1781117666983,
     "url": "https://eshoje.com.br/esportes/2026/06/espirito-santo-conquista-34-medalhas-no-campeonato-brasileiro-de-kickboxing",
@@ -2279,9 +2284,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:9b6101d9f4dcc76b6697340cf4fbad95d0f157ae": {
-    "ts": 1781121266432,
-    "url": "https://eshoje.com.br/policia/2026/06/homem-que-matou-filha-de-3-anos-no-rj-e-preso-no-interior-do-es",
-    "title": "Homem que matou filha de 3 anos no RJ é preso no interior do ES"
+  "source:70c5ac21e40a1521d03ac7069c6f1e5b8964629c": {
+    "ts": 1781124866907,
+    "url": "https://eshoje.com.br/economia/2026/06/dia-dos-namorados-comercio-grande-vitoria-faturamento",
+    "title": "Dia dos Namorados: expectativa do comércio capixaba é faturar R$ 73,6 milhões"
+  },
+  "source:a1f1540e753dbe319086edd515c6e9b04c73405f": {
+    "ts": 1781124866907,
+    "url": "https://eshoje.com.br/politica/2026/06/eleicoes-es-2026-gilson-daniel-podemos-crise-palacio-anchieta",
+    "title": "Eleições ES 2026: Gilson Daniel e Podemos dão sinal de alerta"
+  },
+  "source:338eb18daafccb9ea9be822fbef52da1752e6cb8": {
+    "ts": 1781124866907,
+    "url": "https://eshoje.com.br/politica/2026/06/vereador-monjardim-ve-espaco-na-direita-e-mira-senado-no-es",
+    "title": "Vereador Monjardim vê espaço na direita e mira Senado no ES"
   }
 }
