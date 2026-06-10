@@ -1,4 +1,14 @@
 {
+  "source:f7d313ef16c70d97f8776a18c52caef1d5428aea": {
+    "ts": 1781038466533,
+    "url": "https://eshoje.com.br/policia/2026/06/misterio-homem-e-encontrado-morto-as-margens-de-rodovia-no-noroeste-do-es",
+    "title": "Mistério: homem é encontrado morto às margens de rodovia no Noroeste do ES"
+  },
+  "source:75ec0b570c5aa04692a4880647b2898934554a80": {
+    "ts": 1781038466533,
+    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/rose-de-freitas-articulacao-senado-es-2026",
+    "title": "Rose de Freitas busca apoio fora do MDB para corrida ao Senado"
+  },
   "source:81f9a830f1b7b57fc6cee4f087fd25f7c9469c3a": {
     "ts": 1781034867420,
     "url": "https://eshoje.com.br/saude/2026/06/es-esta-entre-os-estados-com-maior-incidencia-de-acidentes-com-escorpioes-no-brasil",
@@ -2184,14 +2194,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f7d313ef16c70d97f8776a18c52caef1d5428aea": {
-    "ts": 1781038466533,
-    "url": "https://eshoje.com.br/policia/2026/06/misterio-homem-e-encontrado-morto-as-margens-de-rodovia-no-noroeste-do-es",
-    "title": "Mistério: homem é encontrado morto às margens de rodovia no Noroeste do ES"
+  "source:b27d90f45df4926fcb3f1368130cdd6fe65f6c88": {
+    "ts": 1781092467066,
+    "url": "https://www.espiritosantonoticias.com.br/forca-tatica-fecha-o-cerco-no-bairro-zumbi-cumpre-mandado-e-apreende-pistola-com-quase-1-kg-de-cocaina-em-cachoeiro",
+    "title": "Força Tática fecha o cerco no bairro Zumbi, cumpre mandado de prisão e apreende pistola e cocaína em Cachoeiro"
   },
-  "source:75ec0b570c5aa04692a4880647b2898934554a80": {
-    "ts": 1781038466533,
-    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/rose-de-freitas-articulacao-senado-es-2026",
-    "title": "Rose de Freitas busca apoio fora do MDB para corrida ao Senado"
+  "source:d0b678d9a90ef3288f73d17d0de3558e80132b8c": {
+    "ts": 1781092467066,
+    "url": "https://www.espiritosantonoticias.com.br/alto-comando-da-pm-se-reune-em-vitoria-para-tracar-metas-de-seguranca-e-tecnologia",
+    "title": "Alto Comando da PM se reúne em Vitória para traçar metas de segurança e tecnologia"
+  },
+  "source:9e77e70beaa8c1cb3d886791228b5cd9a7aa36ea": {
+    "ts": 1781092467066,
+    "url": "https://www.espiritosantonoticias.com.br/vila-velha-sedia-formatura-de-novos-policiais-da-forca-tatica-em-terra-vermelha",
+    "title": "Vila Velha sedia formatura de novos policiais da Força Tática em Terra Vermelha"
+  },
+  "source:c31ee7a8973117b695b012061b5227b98a05f2bb": {
+    "ts": 1781092467066,
+    "url": "https://www.espiritosantonoticias.com.br/lojistas-de-colatina-ficam-no-prejuizo-apos-dupla-aplicar-golpe-do-falso-pix-no-comercio",
+    "title": "Lojistas de Colatina ficam no prejuízo após dupla aplicar golpe do falso Pix no comércio"
+  },
+  "source:e49038cf48fc5ea2e04e35c321161b0ea1a74527": {
+    "ts": 1781092467066,
+    "url": "https://eshoje.com.br/esportes/2026/06/confira-a-relacao-dos-contemplados-pelo-bolsa-atleta-em-vila-velha",
+    "title": "Confira a relação dos contemplados pelo Bolsa Atleta em Vila Velha"
   }
 }
