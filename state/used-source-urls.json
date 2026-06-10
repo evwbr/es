@@ -1,4 +1,29 @@
 {
+  "source:8ec8c9ec3a978517d6e80d994a68b81568de8c46": {
+    "ts": 1781103266317,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/falha-mecanica-e-perda-de-controle-provocam-acidentes-com-onibus-escolares-em-marataizes",
+    "title": "Falha mecânica e perda de controle provocam acidentes com ônibus escolares em Marataízes"
+  },
+  "source:ceed5709bb588f575008596d8d67f8ecef05074e": {
+    "ts": 1781103266317,
+    "url": "https://eshoje.com.br/saude/2026/06/acoes-sociais-oferecem-servicos-gratuitos-de-saude-em-cariacica",
+    "title": "Ações sociais oferecem serviços gratuitos de saúde em Cariacica"
+  },
+  "source:f8f22a2caaafcf43ab1e051f515e7e61c944f235": {
+    "ts": 1781103266317,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-da-br-101-sul-interditam-rodovia-em-anchieta-nesta-quarta",
+    "title": "ATENÇÃO: Obras da BR-101 Sul interditam rodovia em Anchieta nesta quarta"
+  },
+  "source:b267bc4eeb0f1ac6fa23d96091cd1dc58e9462f6": {
+    "ts": 1781103266317,
+    "url": "https://eshoje.com.br/policia/2026/06/adolescente-e-agredida-pelo-ex-e-precisa-de-escolta-policial-para-buscar-itens-pessoais",
+    "title": "Adolescente é agredida pelo ex e precisa de escolta policial para buscar itens pessoais"
+  },
+  "source:978f985e02ef57a247f6264cdc9ae1e29614735c": {
+    "ts": 1781103266317,
+    "url": "https://www.espiritosantonoticias.com.br/artesanato-de-cachoeiro-es-e-opcao-de-presente-especial-para-o-dia-dos-namorados",
+    "title": "Artesanato de Cachoeiro/ES é opção de presente especial para o Dia dos Namorados"
+  },
   "source:493a8e1876e0b80cce3eda6689c2601187bee44b": {
     "ts": 1781096066625,
     "url": "https://eshoje.com.br/politica/2026/06/es-reduz-valor-maximo-das-custas-cobradas-pela-justica",
@@ -2234,29 +2259,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:8ec8c9ec3a978517d6e80d994a68b81568de8c46": {
-    "ts": 1781103266317,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/falha-mecanica-e-perda-de-controle-provocam-acidentes-com-onibus-escolares-em-marataizes",
-    "title": "Falha mecânica e perda de controle provocam acidentes com ônibus escolares em Marataízes"
-  },
-  "source:ceed5709bb588f575008596d8d67f8ecef05074e": {
-    "ts": 1781103266317,
-    "url": "https://eshoje.com.br/saude/2026/06/acoes-sociais-oferecem-servicos-gratuitos-de-saude-em-cariacica",
-    "title": "Ações sociais oferecem serviços gratuitos de saúde em Cariacica"
-  },
-  "source:f8f22a2caaafcf43ab1e051f515e7e61c944f235": {
-    "ts": 1781103266317,
-    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-da-br-101-sul-interditam-rodovia-em-anchieta-nesta-quarta",
-    "title": "ATENÇÃO: Obras da BR-101 Sul interditam rodovia em Anchieta nesta quarta"
-  },
-  "source:b267bc4eeb0f1ac6fa23d96091cd1dc58e9462f6": {
-    "ts": 1781103266317,
-    "url": "https://eshoje.com.br/policia/2026/06/adolescente-e-agredida-pelo-ex-e-precisa-de-escolta-policial-para-buscar-itens-pessoais",
-    "title": "Adolescente é agredida pelo ex e precisa de escolta policial para buscar itens pessoais"
-  },
-  "source:978f985e02ef57a247f6264cdc9ae1e29614735c": {
-    "ts": 1781103266317,
-    "url": "https://www.espiritosantonoticias.com.br/artesanato-de-cachoeiro-es-e-opcao-de-presente-especial-para-o-dia-dos-namorados",
-    "title": "Artesanato de Cachoeiro/ES é opção de presente especial para o Dia dos Namorados"
+  "source:ddd34c278bd240e2ae7ca1d3e42fef229c69851a": {
+    "ts": 1781106866582,
+    "url": "https://eshoje.com.br/saude/2026/06/es-vacinacao-pneumo20-criancas-sus",
+    "title": "Espírito Santo inicia imunização infantil com nova vacina da pneumonia"
   }
 }
