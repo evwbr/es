@@ -1,4 +1,29 @@
 {
+  "source:bbe285772b802e0ab25fa3d4c8dd2f406fac748c": {
+    "ts": 1781186067205,
+    "url": "https://eshoje.com.br/saude/2026/06/caramujo-africano-avanca-em-cachoeiro-e-acende-alerta-a-populacao",
+    "title": "Caramujo-africano avança em Cachoeiro e acende alerta à população"
+  },
+  "source:6060c0d1c92f5334788443c7e9a24ca9f84909b1": {
+    "ts": 1781186067205,
+    "url": "https://eshoje.com.br/policia/2026/06/ficco-es-desarticula-esquema-milionario-de-trafico-e-lavagem-de-dinheiro-na-grande-vitoria-e-sul-da-bahia",
+    "title": "FICCO/ES desarticula esquema milionário de tráfico e lavagem de dinheiro na Grande Vitória e sul da Bahia"
+  },
+  "source:a33fdb4d7acb6faebaadbd4aedcbaffbc5668b3b": {
+    "ts": 1781186067205,
+    "url": "https://www.espiritosantonoticias.com.br/marataizes-em-acao-pedrolandia-recebe-terceira-edicao-nesta-quinta-11",
+    "title": "MARATAÍZES EM AÇÃO: Pedrolândia recebe terceira edição nesta quinta (11)"
+  },
+  "source:726ba5557a38bb32708ef6c214fe97dd7a08f2bd": {
+    "ts": 1781186067205,
+    "url": "https://www.espiritosantonoticias.com.br/prf-cumpre-mandado-de-prisao-durante-fiscalizacao-em-onibus-interestadual-na-br-101-em-serra",
+    "title": "PRF cumpre mandado de prisão durante fiscalização em ônibus interestadual na BR-101, em Serra"
+  },
+  "source:c7f9871ce793d4fac01e30d8690bdd0ee25a91eb": {
+    "ts": 1781186067205,
+    "url": "https://www.espiritosantonoticias.com.br/piuma-danilo-e-davi-sao-a-primeira-atracao-confirmada-da-festa-dos-pescadores-2026",
+    "title": "Piúma: Danilo e Davi são a primeira atração confirmada da \"Festa dos Pescadores 2026\""
+  },
   "source:fc46c4ae2c01db23033ccf1735ae853099f49eaf": {
     "ts": 1781182466799,
     "url": "https://eshoje.com.br/policia/2026/06/operacao-remove-69-ligacoes-clandestinas-de-energia-em-cariacica",
@@ -2349,29 +2374,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:bbe285772b802e0ab25fa3d4c8dd2f406fac748c": {
-    "ts": 1781186067205,
-    "url": "https://eshoje.com.br/saude/2026/06/caramujo-africano-avanca-em-cachoeiro-e-acende-alerta-a-populacao",
-    "title": "Caramujo-africano avança em Cachoeiro e acende alerta à população"
-  },
-  "source:6060c0d1c92f5334788443c7e9a24ca9f84909b1": {
-    "ts": 1781186067205,
-    "url": "https://eshoje.com.br/policia/2026/06/ficco-es-desarticula-esquema-milionario-de-trafico-e-lavagem-de-dinheiro-na-grande-vitoria-e-sul-da-bahia",
-    "title": "FICCO/ES desarticula esquema milionário de tráfico e lavagem de dinheiro na Grande Vitória e sul da Bahia"
-  },
-  "source:a33fdb4d7acb6faebaadbd4aedcbaffbc5668b3b": {
-    "ts": 1781186067205,
-    "url": "https://www.espiritosantonoticias.com.br/marataizes-em-acao-pedrolandia-recebe-terceira-edicao-nesta-quinta-11",
-    "title": "MARATAÍZES EM AÇÃO: Pedrolândia recebe terceira edição nesta quinta (11)"
-  },
-  "source:726ba5557a38bb32708ef6c214fe97dd7a08f2bd": {
-    "ts": 1781186067205,
-    "url": "https://www.espiritosantonoticias.com.br/prf-cumpre-mandado-de-prisao-durante-fiscalizacao-em-onibus-interestadual-na-br-101-em-serra",
-    "title": "PRF cumpre mandado de prisão durante fiscalização em ônibus interestadual na BR-101, em Serra"
-  },
-  "source:c7f9871ce793d4fac01e30d8690bdd0ee25a91eb": {
-    "ts": 1781186067205,
-    "url": "https://www.espiritosantonoticias.com.br/piuma-danilo-e-davi-sao-a-primeira-atracao-confirmada-da-festa-dos-pescadores-2026",
-    "title": "Piúma: Danilo e Davi são a primeira atração confirmada da \"Festa dos Pescadores 2026\""
+  "source:032bbb806057e468cac40e13266e0dfa1da2271c": {
+    "ts": 1781189666495,
+    "url": "https://eshoje.com.br/policia/2026/06/menino-de-13-anos-que-pilotava-moto-morre-apos-colisao-com-carro-em-sao-mateus",
+    "title": "Menino de 13 anos que pilotava moto morre após colisão com carro em São Mateus"
   }
 }
