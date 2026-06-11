@@ -1,4 +1,9 @@
 {
+  "source:032bbb806057e468cac40e13266e0dfa1da2271c": {
+    "ts": 1781189666495,
+    "url": "https://eshoje.com.br/policia/2026/06/menino-de-13-anos-que-pilotava-moto-morre-apos-colisao-com-carro-em-sao-mateus",
+    "title": "Menino de 13 anos que pilotava moto morre após colisão com carro em São Mateus"
+  },
   "source:bbe285772b802e0ab25fa3d4c8dd2f406fac748c": {
     "ts": 1781186067205,
     "url": "https://eshoje.com.br/saude/2026/06/caramujo-africano-avanca-em-cachoeiro-e-acende-alerta-a-populacao",
@@ -2374,9 +2379,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:032bbb806057e468cac40e13266e0dfa1da2271c": {
-    "ts": 1781189666495,
-    "url": "https://eshoje.com.br/policia/2026/06/menino-de-13-anos-que-pilotava-moto-morre-apos-colisao-com-carro-em-sao-mateus",
-    "title": "Menino de 13 anos que pilotava moto morre após colisão com carro em São Mateus"
+  "source:4c16e476b4f5d6256d3d3d548d7539afe2aaf2a2": {
+    "ts": 1781193266924,
+    "url": "https://eshoje.com.br/economia/2026/06/batata-dispara-mais-de-100-no-ano-e-puxa-alta-da-cesta-basica-em-vitoria",
+    "title": "Batata dispara mais de 100% no ano e puxa alta da cesta básica em Vitória"
+  },
+  "source:9808b035ddc5ce3f56be8070cb3cb24e62839ba9": {
+    "ts": 1781193266924,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/em-clima-de-copa-confira-o-funcionamento-dos-comercios-da-grande-vitoria-durante-os-jogos-do-brasil",
+    "title": "Em clima de Copa: confira o funcionamento dos comércios da Grande Vitória durante os jogos do Brasil"
+  },
+  "source:9de017a77a96cfdfeabc34502ddffd9ae74edf61": {
+    "ts": 1781193266924,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/acao-em-vitoria-combate-trabalho-infantil-no-triangulo-das-bermudas",
+    "title": "Ação em Vitória combate trabalho infantil no Triângulo das Bermudas"
   }
 }
