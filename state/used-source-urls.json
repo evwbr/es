@@ -1,4 +1,9 @@
 {
+  "source:b030260510d993f652fad867652c3e75e7dfa96c": {
+    "ts": 1781204066651,
+    "url": "https://www.espiritosantonoticias.com.br/policia-militar-fecha-cassino-clandestino-que-funcionava-em-bar-de-piuma",
+    "title": "Polícia Militar fecha cassino clandestino que funcionava em bar de Piúma"
+  },
   "source:060ad9f780f4a97c149cdbcb512afd0e96e0dd00": {
     "ts": 1781200467279,
     "url": "https://eshoje.com.br/policia/2026/06/porsche-roubado-durante-sequestro-e-recuperado-vitima-e-resgatada-na-serra",
@@ -2399,9 +2404,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b030260510d993f652fad867652c3e75e7dfa96c": {
-    "ts": 1781204066651,
-    "url": "https://www.espiritosantonoticias.com.br/policia-militar-fecha-cassino-clandestino-que-funcionava-em-bar-de-piuma",
-    "title": "Polícia Militar fecha cassino clandestino que funcionava em bar de Piúma"
+  "source:17c2a1f8320a4bbe0954dc9ef07edc89622a5347": {
+    "ts": 1781211266508,
+    "url": "https://eshoje.com.br/saude/2026/06/cerveja-churrasco-jogos-alerta-medico-espirito-santo",
+    "title": "Cerveja, churrasco e petiscos nos jogos exigem atenção à saúde, alerta médico do ES"
+  },
+  "source:632edd4d78e1f753a27ebc69906f4905763717bc": {
+    "ts": 1781211266508,
+    "url": "https://eshoje.com.br/policia/2026/06/lider-da-faccao-irmaos-metralha-e-preso-em-marataizes",
+    "title": "Líder da facção \"Irmãos Metralha\" é preso em Marataízes"
+  },
+  "source:66ef2a78c2fa021bd35754b5db33abcb6f1c2422": {
+    "ts": 1781211266508,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/cariacica-136-anos-estrutura-dos-festejos-comeca-a-ser-montada-em-nova-brasilia",
+    "title": "Cariacica 136 anos: estrutura dos festejos começa a ser montada em Nova Brasília"
+  },
+  "source:3fc7856dd95acfffd80fc405e15be77215c14731": {
+    "ts": 1781211266508,
+    "url": "https://eshoje.com.br/esportes/2026/06/copa-vitoria-das-comunidades-confira-o-placar-dos-jogos-da-abertura",
+    "title": "Copa Vitória das Comunidades: confira o placar dos jogos da abertura"
   }
 }
