@@ -1,4 +1,9 @@
 {
+  "source:b4bc9dd591b9f635558e8eca6a268a2d6855039f": {
+    "ts": 1781268868019,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/violencia-na-leitao-da-silva-dupla-pega-mais-de-230-anos-de-prisao",
+    "title": "Violência na Leitão da Silva: dupla pega mais de 230 anos de prisão"
+  },
   "source:9db7117ac0e8259343819d3be1e74cee0a6a307a": {
     "ts": 1781265266743,
     "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/eleicoes-es-bastidores-amaro-neto-erick-musso-pazolini-casagrande",
@@ -2474,9 +2479,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b4bc9dd591b9f635558e8eca6a268a2d6855039f": {
-    "ts": 1781268868019,
-    "url": "https://eshoje.com.br/politica/justica/2026/06/violencia-na-leitao-da-silva-dupla-pega-mais-de-230-anos-de-prisao",
-    "title": "Violência na Leitão da Silva: dupla pega mais de 230 anos de prisão"
+  "source:66419de2e76e3a71f672d4f9cbf2b6c340ca13f7": {
+    "ts": 1781272466780,
+    "url": "https://www.espiritosantonoticias.com.br/prf-recupera-motocicleta-furtada-ha-quase-oito-anos-durante-fiscalizacao-em-ibiracu",
+    "title": "PRF recupera motocicleta furtada há quase oito anos durante fiscalização em Ibiraçu/ES"
+  },
+  "source:797fc1eb75b9518187f1f0b774183cc4cc86be84": {
+    "ts": 1781272466780,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-e-preso-suspeito-de-estuprar-a-sobrinha-por-cinco-anos-no-sul-do-estado",
+    "title": "Homem é preso suspeito de estuprar a sobrinha por cinco anos no Sul do Estado"
   }
 }
