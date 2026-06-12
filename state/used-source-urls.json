@@ -1,4 +1,14 @@
 {
+  "source:598058dd20dc67b7accf78ce86aff8215644825e": {
+    "ts": 1781279666305,
+    "url": "https://eshoje.com.br/policia/2026/06/operacao-mulher-segura-2026-prende-homem-por-ameacas-de-morte-a-ex-companheira-no-es",
+    "title": "Operação Mulher Segura 2026 prende homem por ameaças de morte à ex-companheira no ES"
+  },
+  "source:96da33b7ea4041ad20ab8994e877e1572a703610": {
+    "ts": 1781279666305,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-tem-corpo-queimado-em-briga-e-morre-apos-internacao-no-es",
+    "title": "Homem tem corpo queimado em briga e morre após internação no ES"
+  },
   "source:66419de2e76e3a71f672d4f9cbf2b6c340ca13f7": {
     "ts": 1781272466780,
     "url": "https://www.espiritosantonoticias.com.br/prf-recupera-motocicleta-furtada-ha-quase-oito-anos-durante-fiscalizacao-em-ibiracu",
@@ -2489,14 +2499,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:598058dd20dc67b7accf78ce86aff8215644825e": {
-    "ts": 1781279666305,
-    "url": "https://eshoje.com.br/policia/2026/06/operacao-mulher-segura-2026-prende-homem-por-ameacas-de-morte-a-ex-companheira-no-es",
-    "title": "Operação Mulher Segura 2026 prende homem por ameaças de morte à ex-companheira no ES"
+  "source:32785980a0755d5262772f6c4983d83e96a3397e": {
+    "ts": 1781286867381,
+    "url": "https://eshoje.com.br/saude/2026/06/saude-libera-r-243-milhoes-para-cidades-afetadas-pela-tragedia-do-rio-doce",
+    "title": "Saúde libera R$ 243 milhões para cidades afetadas pela tragédia do Rio Doce"
   },
-  "source:96da33b7ea4041ad20ab8994e877e1572a703610": {
-    "ts": 1781279666305,
-    "url": "https://eshoje.com.br/policia/2026/06/homem-tem-corpo-queimado-em-briga-e-morre-apos-internacao-no-es",
-    "title": "Homem tem corpo queimado em briga e morre após internação no ES"
+  "source:a4c8cf157ccfa65274dc9712c8db1d17deac09ac": {
+    "ts": 1781286867381,
+    "url": "https://eshoje.com.br/policia/2026/06/mulher-e-presa-apos-esfaquear-homem-que-nao-queria-assumir-relacionamento-em-vila-velha",
+    "title": "Mulher é presa após esfaquear homem que não queria assumir relacionamento em Vila Velha"
+  },
+  "source:a61cd455d30d920fb105645947bfe70aa9040aaa": {
+    "ts": 1781286867381,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/projeto-de-implementacao-da-5a-faixa-na-segunda-ponte-avanca-com-autorizacao-para-obras",
+    "title": "Projeto de implementação da 5ª faixa na Segunda Ponte avança com autorização para obras"
   }
 }
