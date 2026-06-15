@@ -1,4 +1,9 @@
 {
+  "source:5811347e92ad6323ab0b80456fdd20fe78fc8912": {
+    "ts": 1781470466278,
+    "url": "https://eshoje.com.br/policia/2026/06/policia-civil-apreende-fuzil-avaliado-em-r-50-mil-e-prende-suspeito-em-vila-velha",
+    "title": "Polícia Civil apreende fuzil avaliado em R$ 50 mil e prende suspeito em Vila Velha"
+  },
   "source:365f31d2f24aaea237d9610db18094ea6adac670": {
     "ts": 1781466866333,
     "url": "https://eshoje.com.br/esportes/2026/06/alemanha-aplica-7-a-1-em-curacao-relembre-as-maiores-goleadas-das-copas",
@@ -2574,9 +2579,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:5811347e92ad6323ab0b80456fdd20fe78fc8912": {
-    "ts": 1781470466278,
-    "url": "https://eshoje.com.br/policia/2026/06/policia-civil-apreende-fuzil-avaliado-em-r-50-mil-e-prende-suspeito-em-vila-velha",
-    "title": "Polícia Civil apreende fuzil avaliado em R$ 50 mil e prende suspeito em Vila Velha"
+  "source:45fd24846297f9219a2ee8da2c7d337196be53fa": {
+    "ts": 1781520867601,
+    "url": "https://eshoje.com.br/esportes/2026/06/com-autoridade-rio-branco-bate-porto-ba-por-4-a-0-e-garante-classificacao-na-serie-d",
+    "title": "Com autoridade, Rio Branco bate Porto-BA por 4 a 0 e garante classificação na Série D"
+  },
+  "source:732f83649cdbc0b442b15639460e65c114c628f6": {
+    "ts": 1781520867601,
+    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-tradicao-junina-fortalece-convivencia-no-cras-jardim-itapemirim",
+    "title": "CACHOEIRO: Tradição junina fortalece convivência no CRAS Jardim Itapemirim"
   }
 }
