@@ -1,4 +1,9 @@
 {
+  "source:01afc9b68ef0866c0f7a301ebb43f35baf108cb1": {
+    "ts": 1781614466759,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-e-preso-por-tentar-matar-idoso-com-facada-no-pescoco-em-boa-esperanca",
+    "title": "Homem é preso por tentar matar idoso com facada no pescoço em Boa Esperança"
+  },
   "source:d52e9d7bba852b55fc04cdde407babeb7a220c2f": {
     "ts": 1781610866486,
     "url": "https://eshoje.com.br/politica/2026/06/lei-da-ficha-limpa-completa-16-anos-e-barra-quase-duas-mil-candidaturas",
@@ -2784,9 +2789,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:01afc9b68ef0866c0f7a301ebb43f35baf108cb1": {
-    "ts": 1781614466759,
-    "url": "https://eshoje.com.br/policia/2026/06/homem-e-preso-por-tentar-matar-idoso-com-facada-no-pescoco-em-boa-esperanca",
-    "title": "Homem é preso por tentar matar idoso com facada no pescoço em Boa Esperança"
+  "source:db48356cbc0fe29f71e85fdba72030d16cae6461": {
+    "ts": 1781618067129,
+    "url": "https://eshoje.com.br/politica/2026/06/stf-decide-por-unanimidade-eleicao-da-mesa-diretora-de-vitoria-so-acontece-a-partir-de-outubro",
+    "title": "STF decide por unanimidade: Eleição da Mesa Diretora de Vitória só acontece a partir de outubro"
+  },
+  "source:aeb254585d85f35eacd4eff3e3b02d7f7452aab5": {
+    "ts": 1781618067129,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-de-duplicacao-alteram-acesso-de-motoristas-que-saem-de-piuma-para-a-br-101-em-anchieta",
+    "title": "ATENÇÃO: Obras de duplicação alteram acesso de motoristas que saem de Piúma para a BR-101 em Anchieta"
   }
 }
