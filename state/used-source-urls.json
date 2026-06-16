@@ -1,4 +1,9 @@
 {
+  "source:a250d33a01be829cd16af5ea4d78229a099fd5df": {
+    "ts": 1781621666600,
+    "url": "https://eshoje.com.br/saude/2026/06/fim-da-renovacao-de-laudos-permanentes-para-pacientes-com-doencas-incuraveis-em-vitoria",
+    "title": "Fim da renovação de laudos permanentes para pacientes com doenças incuráveis em Vitória"
+  },
   "source:db48356cbc0fe29f71e85fdba72030d16cae6461": {
     "ts": 1781618067129,
     "url": "https://eshoje.com.br/politica/2026/06/stf-decide-por-unanimidade-eleicao-da-mesa-diretora-de-vitoria-so-acontece-a-partir-de-outubro",
@@ -2799,9 +2804,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a250d33a01be829cd16af5ea4d78229a099fd5df": {
-    "ts": 1781621666600,
-    "url": "https://eshoje.com.br/saude/2026/06/fim-da-renovacao-de-laudos-permanentes-para-pacientes-com-doencas-incuraveis-em-vitoria",
-    "title": "Fim da renovação de laudos permanentes para pacientes com doenças incuráveis em Vitória"
+  "source:a73af1ff197acc0cc8e868c0b6cb2ee76447c665": {
+    "ts": 1781625267150,
+    "url": "https://eshoje.com.br/economia/2026/06/mercado-divide-apostas-sobre-futuro-da-selic-em-reuniao-do-copom",
+    "title": "Mercado divide apostas sobre futuro da Selic em reunião do Copom"
   }
 }
