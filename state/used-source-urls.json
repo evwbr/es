@@ -1,4 +1,14 @@
 {
+  "source:db48356cbc0fe29f71e85fdba72030d16cae6461": {
+    "ts": 1781618067129,
+    "url": "https://eshoje.com.br/politica/2026/06/stf-decide-por-unanimidade-eleicao-da-mesa-diretora-de-vitoria-so-acontece-a-partir-de-outubro",
+    "title": "STF decide por unanimidade: Eleição da Mesa Diretora de Vitória só acontece a partir de outubro"
+  },
+  "source:aeb254585d85f35eacd4eff3e3b02d7f7452aab5": {
+    "ts": 1781618067129,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-de-duplicacao-alteram-acesso-de-motoristas-que-saem-de-piuma-para-a-br-101-em-anchieta",
+    "title": "ATENÇÃO: Obras de duplicação alteram acesso de motoristas que saem de Piúma para a BR-101 em Anchieta"
+  },
   "source:01afc9b68ef0866c0f7a301ebb43f35baf108cb1": {
     "ts": 1781614466759,
     "url": "https://eshoje.com.br/policia/2026/06/homem-e-preso-por-tentar-matar-idoso-com-facada-no-pescoco-em-boa-esperanca",
@@ -2789,14 +2799,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:db48356cbc0fe29f71e85fdba72030d16cae6461": {
-    "ts": 1781618067129,
-    "url": "https://eshoje.com.br/politica/2026/06/stf-decide-por-unanimidade-eleicao-da-mesa-diretora-de-vitoria-so-acontece-a-partir-de-outubro",
-    "title": "STF decide por unanimidade: Eleição da Mesa Diretora de Vitória só acontece a partir de outubro"
-  },
-  "source:aeb254585d85f35eacd4eff3e3b02d7f7452aab5": {
-    "ts": 1781618067129,
-    "url": "https://www.espiritosantonoticias.com.br/atencao-obras-de-duplicacao-alteram-acesso-de-motoristas-que-saem-de-piuma-para-a-br-101-em-anchieta",
-    "title": "ATENÇÃO: Obras de duplicação alteram acesso de motoristas que saem de Piúma para a BR-101 em Anchieta"
+  "source:a250d33a01be829cd16af5ea4d78229a099fd5df": {
+    "ts": 1781621666600,
+    "url": "https://eshoje.com.br/saude/2026/06/fim-da-renovacao-de-laudos-permanentes-para-pacientes-com-doencas-incuraveis-em-vitoria",
+    "title": "Fim da renovação de laudos permanentes para pacientes com doenças incuráveis em Vitória"
   }
 }
