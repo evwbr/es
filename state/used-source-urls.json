@@ -1,4 +1,44 @@
 {
+  "source:d52e9d7bba852b55fc04cdde407babeb7a220c2f": {
+    "ts": 1781610866486,
+    "url": "https://eshoje.com.br/politica/2026/06/lei-da-ficha-limpa-completa-16-anos-e-barra-quase-duas-mil-candidaturas",
+    "title": "Lei da Ficha Limpa completa 16 anos e barra quase duas mil candidaturas"
+  },
+  "source:c53e24e3729fd9595f49d9e3fff56c5b1b03902c": {
+    "ts": 1781610866486,
+    "url": "https://eshoje.com.br/esportes/2026/06/ginasta-capixaba-conquista-tres-medalhas-de-ouro-no-pan-americano",
+    "title": "Ginasta capixaba conquista três medalhas de ouro no Pan-Americano"
+  },
+  "source:b8a3807672f94ba80c7e2234e922b6850ffb3017": {
+    "ts": 1781610866486,
+    "url": "https://eshoje.com.br/politica/2026/06/ecoporanga-aprova-aumento-de-ate-156-nas-diarias-e-extingue-limite-mensal-de-concessoes",
+    "title": "Ecoporanga aprova aumento de até 156% nas diárias e extingue limite mensal de concessões"
+  },
+  "source:280669215e1944ff26847ff5eadc478468863627": {
+    "ts": 1781610866486,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/governo-autoriza-obra-de-r-16-milhoes-para-recuperar-principal-acesso-de-presidente-kennedy",
+    "title": "Governo autoriza obra de R$ 16 milhões para recuperar principal acesso de Presidente Kennedy"
+  },
+  "source:332c24d2311720033a2617b5a8bde4eb801057d3": {
+    "ts": 1781610866486,
+    "url": "https://www.espiritosantonoticias.com.br/acao-da-forca-tatica-resulta-na-prisao-de-suspeito-e-apreensao-de-quase-500-gramas-de-drogas-em-cachoeiro",
+    "title": "Ação da Força Tática resulta na prisão de suspeito e apreensão de quase 500 gramas de drogas em Cachoeiro"
+  },
+  "source:39be225db49e6a14d88e42597b5e3c6c63955f3e": {
+    "ts": 1781610866486,
+    "url": "https://www.espiritosantonoticias.com.br/lista-dos-mais-procurados-miliciano-waguinho-batman-segue-foragido-ha-dois-anos-no-es",
+    "title": "Lista dos mais procurados: Miliciano \"Waguinho Batman\" segue foragido há dois anos no ES"
+  },
+  "source:96b8549fb4d9b1f765ea27599590cf0527a46aee": {
+    "ts": 1781610866486,
+    "url": "https://www.espiritosantonoticias.com.br/tragedia-no-caparao-jovem-desaparecido-e-encontrado-morto-dentro-de-porta-malas-em-iuna",
+    "title": "Tragédia no Caparaó: Jovem desaparecido é encontrado morto dentro de porta-malas em Iúna"
+  },
+  "source:b60e2525d7adf19576f52a99347cce922c08d641": {
+    "ts": 1781610866486,
+    "url": "https://eshoje.com.br/saude/2026/06/projeto-cria-rede-de-apoio-para-evitar-abandono-de-tratamento-em-saude-mental-no-es",
+    "title": "Projeto cria rede de apoio para evitar abandono de tratamento em saúde mental no ES"
+  },
   "source:7774a5ecb5abab34ad746410c70e7878a771987a": {
     "ts": 1781596466531,
     "url": "https://eshoje.com.br/politica/2026/06/pazolini-e-ferraco-travam-disputa-acirrada-em-2o-turno-esquerda-fica-longe-do-palacio-anchieta",
@@ -2744,44 +2784,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:d52e9d7bba852b55fc04cdde407babeb7a220c2f": {
-    "ts": 1781610866486,
-    "url": "https://eshoje.com.br/politica/2026/06/lei-da-ficha-limpa-completa-16-anos-e-barra-quase-duas-mil-candidaturas",
-    "title": "Lei da Ficha Limpa completa 16 anos e barra quase duas mil candidaturas"
-  },
-  "source:c53e24e3729fd9595f49d9e3fff56c5b1b03902c": {
-    "ts": 1781610866486,
-    "url": "https://eshoje.com.br/esportes/2026/06/ginasta-capixaba-conquista-tres-medalhas-de-ouro-no-pan-americano",
-    "title": "Ginasta capixaba conquista três medalhas de ouro no Pan-Americano"
-  },
-  "source:b8a3807672f94ba80c7e2234e922b6850ffb3017": {
-    "ts": 1781610866486,
-    "url": "https://eshoje.com.br/politica/2026/06/ecoporanga-aprova-aumento-de-ate-156-nas-diarias-e-extingue-limite-mensal-de-concessoes",
-    "title": "Ecoporanga aprova aumento de até 156% nas diárias e extingue limite mensal de concessões"
-  },
-  "source:280669215e1944ff26847ff5eadc478468863627": {
-    "ts": 1781610866486,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/governo-autoriza-obra-de-r-16-milhoes-para-recuperar-principal-acesso-de-presidente-kennedy",
-    "title": "Governo autoriza obra de R$ 16 milhões para recuperar principal acesso de Presidente Kennedy"
-  },
-  "source:332c24d2311720033a2617b5a8bde4eb801057d3": {
-    "ts": 1781610866486,
-    "url": "https://www.espiritosantonoticias.com.br/acao-da-forca-tatica-resulta-na-prisao-de-suspeito-e-apreensao-de-quase-500-gramas-de-drogas-em-cachoeiro",
-    "title": "Ação da Força Tática resulta na prisão de suspeito e apreensão de quase 500 gramas de drogas em Cachoeiro"
-  },
-  "source:39be225db49e6a14d88e42597b5e3c6c63955f3e": {
-    "ts": 1781610866486,
-    "url": "https://www.espiritosantonoticias.com.br/lista-dos-mais-procurados-miliciano-waguinho-batman-segue-foragido-ha-dois-anos-no-es",
-    "title": "Lista dos mais procurados: Miliciano \"Waguinho Batman\" segue foragido há dois anos no ES"
-  },
-  "source:96b8549fb4d9b1f765ea27599590cf0527a46aee": {
-    "ts": 1781610866486,
-    "url": "https://www.espiritosantonoticias.com.br/tragedia-no-caparao-jovem-desaparecido-e-encontrado-morto-dentro-de-porta-malas-em-iuna",
-    "title": "Tragédia no Caparaó: Jovem desaparecido é encontrado morto dentro de porta-malas em Iúna"
-  },
-  "source:b60e2525d7adf19576f52a99347cce922c08d641": {
-    "ts": 1781610866486,
-    "url": "https://eshoje.com.br/saude/2026/06/projeto-cria-rede-de-apoio-para-evitar-abandono-de-tratamento-em-saude-mental-no-es",
-    "title": "Projeto cria rede de apoio para evitar abandono de tratamento em saúde mental no ES"
+  "source:01afc9b68ef0866c0f7a301ebb43f35baf108cb1": {
+    "ts": 1781614466759,
+    "url": "https://eshoje.com.br/policia/2026/06/homem-e-preso-por-tentar-matar-idoso-com-facada-no-pescoco-em-boa-esperanca",
+    "title": "Homem é preso por tentar matar idoso com facada no pescoço em Boa Esperança"
   }
 }
