@@ -1,4 +1,14 @@
 {
+  "source:accb340fa40af1fd45ced177c5e3f8c73361ef17": {
+    "ts": 1781700866295,
+    "url": "https://eshoje.com.br/saude/2026/06/mutirao-saude-indigena-mamografia-odontologia-aracruz",
+    "title": "Mutirão leva mamografias e odontologia a aldeia de Aracruz"
+  },
+  "source:b4e21d8321b8bbb0b19717789564323c15e49fa2": {
+    "ts": 1781700866295,
+    "url": "https://eshoje.com.br/policia/2026/06/dois-homens-sao-presos-em-operacao-nacional-contra-violencia-domestica-no-espirito-santo",
+    "title": "Dois homens são presos em operação nacional contra violência doméstica no Espírito Santo"
+  },
   "source:9d36db58c3d574683e3f7e549fa9736cd9ec8a0d": {
     "ts": 1781697267278,
     "url": "https://eshoje.com.br/espirito-santo/2026/06/projeto-mobiliza-voluntarios-para-preparar-estudantes-de-sao-mateus-para-enem-e-ifes",
@@ -2889,14 +2899,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:accb340fa40af1fd45ced177c5e3f8c73361ef17": {
-    "ts": 1781700866295,
-    "url": "https://eshoje.com.br/saude/2026/06/mutirao-saude-indigena-mamografia-odontologia-aracruz",
-    "title": "Mutirão leva mamografias e odontologia a aldeia de Aracruz"
+  "source:1671fb0d04daa8ec031d0227ca71569f90d94943": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/2026/06/nova-regra-para-entregas-em-condominios-protege-idosos-e-define-limites-no-espirito-santo",
+    "title": "Nova regra para entregas em condomínios protege idosos e define limites no Espírito Santo"
   },
-  "source:b4e21d8321b8bbb0b19717789564323c15e49fa2": {
-    "ts": 1781700866295,
-    "url": "https://eshoje.com.br/policia/2026/06/dois-homens-sao-presos-em-operacao-nacional-contra-violencia-domestica-no-espirito-santo",
-    "title": "Dois homens são presos em operação nacional contra violência doméstica no Espírito Santo"
+  "source:c50c2a5f98abd6782bae9b5a1e63b83e97828bfd": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/2026/06/assembleia-do-es-reforca-orientacao-a-deputados-sobre-regras-eleitorais-para-2026",
+    "title": "Assembleia do ES reforça orientação a deputados sobre regras eleitorais para 2026"
+  },
+  "source:7ebfeafe71b5de88775308ba99dda1425b9469fe": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/dividas-de-condominios-crescem-1-638-e-chegam-a-r-2-mi-em-protestos-no-es",
+    "title": "Dívidas de condomínios crescem 1.638% e chegam a R$ 2 mi em protestos no ES"
   }
 }
