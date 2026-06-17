@@ -1,4 +1,19 @@
 {
+  "source:1671fb0d04daa8ec031d0227ca71569f90d94943": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/2026/06/nova-regra-para-entregas-em-condominios-protege-idosos-e-define-limites-no-espirito-santo",
+    "title": "Nova regra para entregas em condomínios protege idosos e define limites no Espírito Santo"
+  },
+  "source:c50c2a5f98abd6782bae9b5a1e63b83e97828bfd": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/2026/06/assembleia-do-es-reforca-orientacao-a-deputados-sobre-regras-eleitorais-para-2026",
+    "title": "Assembleia do ES reforça orientação a deputados sobre regras eleitorais para 2026"
+  },
+  "source:7ebfeafe71b5de88775308ba99dda1425b9469fe": {
+    "ts": 1781708070405,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/dividas-de-condominios-crescem-1-638-e-chegam-a-r-2-mi-em-protestos-no-es",
+    "title": "Dívidas de condomínios crescem 1.638% e chegam a R$ 2 mi em protestos no ES"
+  },
   "source:accb340fa40af1fd45ced177c5e3f8c73361ef17": {
     "ts": 1781700866295,
     "url": "https://eshoje.com.br/saude/2026/06/mutirao-saude-indigena-mamografia-odontologia-aracruz",
@@ -2899,19 +2914,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1671fb0d04daa8ec031d0227ca71569f90d94943": {
-    "ts": 1781708070405,
-    "url": "https://eshoje.com.br/politica/2026/06/nova-regra-para-entregas-em-condominios-protege-idosos-e-define-limites-no-espirito-santo",
-    "title": "Nova regra para entregas em condomínios protege idosos e define limites no Espírito Santo"
+  "source:dd55203ead8a257bb69753036d65066b4d33a769": {
+    "ts": 1781711667952,
+    "url": "https://eshoje.com.br/politica/2026/06/monjardim-reage-pt-disputa-senado-2026-vitoria",
+    "title": "Monjardim reage ao PT e mira disputa do Senado em 2026"
   },
-  "source:c50c2a5f98abd6782bae9b5a1e63b83e97828bfd": {
-    "ts": 1781708070405,
-    "url": "https://eshoje.com.br/politica/2026/06/assembleia-do-es-reforca-orientacao-a-deputados-sobre-regras-eleitorais-para-2026",
-    "title": "Assembleia do ES reforça orientação a deputados sobre regras eleitorais para 2026"
+  "source:1ceedc0e6182139eaa9fc363f3678cc56f9afe38": {
+    "ts": 1781711667952,
+    "url": "https://eshoje.com.br/economia/2026/06/espirito-santo-tem-os-combustiveis-mais-caros-do-sudeste-mesmo-com-queda-nos-precos-em-junho",
+    "title": "Espírito Santo tem os combustíveis mais caros do Sudeste, mesmo com queda nos preços em junho"
   },
-  "source:7ebfeafe71b5de88775308ba99dda1425b9469fe": {
-    "ts": 1781708070405,
-    "url": "https://eshoje.com.br/politica/justica/2026/06/dividas-de-condominios-crescem-1-638-e-chegam-a-r-2-mi-em-protestos-no-es",
-    "title": "Dívidas de condomínios crescem 1.638% e chegam a R$ 2 mi em protestos no ES"
+  "source:2249bed94b5c659f29d4832ad910b136267d9608": {
+    "ts": 1781711667952,
+    "url": "https://eshoje.com.br/policia/2026/06/arsenal-com-armas-de-alta-letalidade-e-apreendido-na-grande-vitoria-fuzil-era-anunciado-por-r-50-mil",
+    "title": "Arsenal com armas de alta letalidade é apreendido na Grande Vitória; fuzil era anunciado por R$ 50 mil"
+  },
+  "source:3afa47538b0c18b15686f249ffad6251d24c53c9": {
+    "ts": 1781711667952,
+    "url": "https://eshoje.com.br/policia/2026/06/pf-apreende-mounjaro-ilegal-e-celulares-em-vitoria",
+    "title": "PF apreende Mounjaro ilegal e celulares em Vitória"
+  },
+  "source:d3f80ed20dd502141c601feeb6193ae8f78dee39": {
+    "ts": 1781711667952,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-trabalha-com-tres-linhas-de-investigacao-para-esclarecer-morte-de-jovem-na-regiao-do-caparao",
+    "title": "Polícia Civil trabalha com três linhas de investigação para esclarecer morte de jovem na Região do Caparaó"
+  },
+  "source:5a8cf4e5dcfaa8a1a7f80dc9492fb44b3b0eb585": {
+    "ts": 1781711667952,
+    "url": "https://www.espiritosantonoticias.com.br/acidente-na-br-262-deixa-um-motociclista-morto-em-conceicao-do-castelo",
+    "title": "Acidente na BR-262 deixa um motociclista morto em Conceição do Castelo"
   }
 }
