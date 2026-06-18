@@ -1,4 +1,9 @@
 {
+  "source:f39bdf64c74bb5e390bd555d26e3f1ada1190da4": {
+    "ts": 1781733266786,
+    "url": "https://eshoje.com.br/policia/2026/06/perseguicao-termina-em-acidente-com-viatura-da-guarda-municipal-em-cariacica",
+    "title": "Perseguição termina em acidente com viatura da Guarda Municipal em Cariacica"
+  },
   "source:9710cde350f0d235bbfe9e79f4d5b54eb8d07246": {
     "ts": 1781729666821,
     "url": "https://eshoje.com.br/policia/2026/06/policia-apreende-160kg-de-maconha-escondidos-em-sacos-de-racao-em-linhares",
@@ -2989,9 +2994,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f39bdf64c74bb5e390bd555d26e3f1ada1190da4": {
-    "ts": 1781733266786,
-    "url": "https://eshoje.com.br/policia/2026/06/perseguicao-termina-em-acidente-com-viatura-da-guarda-municipal-em-cariacica",
-    "title": "Perseguição termina em acidente com viatura da Guarda Municipal em Cariacica"
+  "source:7892b813267ae3b5031bd58bd002eed1895532a7": {
+    "ts": 1781747666545,
+    "url": "https://www.espiritosantonoticias.com.br/pm-fecha-ponto-de-venda-de-drogas-e-prende-trio-em-cachoeiro-de-itapemirim",
+    "title": "PM fecha ponto de venda de drogas e prende trio em Cachoeiro de Itapemirim"
+  },
+  "source:1c32b125d859b771c0d5b57b72cfedef92c8c6f1": {
+    "ts": 1781747666545,
+    "url": "https://www.espiritosantonoticias.com.br/tiro-acidental-em-shopping-de-cachoeiro-fere-filha-da-proprietaria-da-arma-pistola-foi-apreendida-pela-pm",
+    "title": "Tiro acidental em shopping de Cachoeiro fere filha da proprietária da arma; pistola foi apreendida pela PM"
   }
 }
