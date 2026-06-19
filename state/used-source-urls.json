@@ -1,4 +1,34 @@
 {
+  "source:72de13c8c294011ff8813a30baac59158d83900e": {
+    "ts": 1781873666446,
+    "url": "https://eshoje.com.br/policia/2026/06/pf-investiga-suposto-esquema-de-corrupcao-na-saude-de-guacui-e-apreende-r-113-mil",
+    "title": "PF investiga suposto esquema de corrupção na saúde Guaçuí e apreende R$ 113 mil"
+  },
+  "source:863f98803d8214bc24c9625b593b78be50795300": {
+    "ts": 1781873666446,
+    "url": "https://eshoje.com.br/policia/2026/06/mpes-realiza-operacao-contra-abuso-infantil-em-pinheiros",
+    "title": "MPES realiza operação contra abuso infantil em Pinheiros"
+  },
+  "source:6f6e3004b293bee9e85a75deb7776634788e04ec": {
+    "ts": 1781873666446,
+    "url": "https://eshoje.com.br/saude/2026/06/vacinacao-noturna-em-presidente-kennedy-oferece-imunizacao-contra-gripe-e-pneumonia-para-idosos-nesta-sexta-feira",
+    "title": "Vacinação noturna em Presidente Kennedy oferece imunização contra gripe e pneumonia para idosos"
+  },
+  "source:2bfd76fe1e2c0576038dea53b477412664c08fd2": {
+    "ts": 1781873666446,
+    "url": "https://eshoje.com.br/politica/2026/06/projeto-quer-incentivar-sucessao-familiar-para-manter-jovens-no-campo-capixaba",
+    "title": "Projeto quer incentivar sucessão familiar para manter jovens no campo capixaba"
+  },
+  "source:1f684f69590e4f321cbdea7e7079a98696e95007": {
+    "ts": 1781873666446,
+    "url": "https://www.espiritosantonoticias.com.br/major-edneia-vieira-serrano-assume-o-comando-da-policia-militar-na-regiao-da-grande-jacaraipe",
+    "title": "Major Edneia Vieira Serrano assume o comando da Polícia Militar na região da Grande Jacaraípe"
+  },
+  "source:4c578b0f1ad42074adb90cf462242c7b009c7bd6": {
+    "ts": 1781873666446,
+    "url": "https://eshoje.com.br/saude/2026/06/vila-velha-tera-vacinacao-sem-agendamento-em-tres-locais-neste-sabado",
+    "title": "Vila Velha terá vacinação sem agendamento em três locais neste sábado"
+  },
   "source:6c5aa69b52f578ea6bd1b6e06c4c45edbae1be86": {
     "ts": 1781866467647,
     "url": "https://eshoje.com.br/esportes/2026/06/confira-os-jogos-da-copa-do-mundo-nesta-sexta",
@@ -3164,34 +3194,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:72de13c8c294011ff8813a30baac59158d83900e": {
-    "ts": 1781873666446,
-    "url": "https://eshoje.com.br/policia/2026/06/pf-investiga-suposto-esquema-de-corrupcao-na-saude-de-guacui-e-apreende-r-113-mil",
-    "title": "PF investiga suposto esquema de corrupção na saúde Guaçuí e apreende R$ 113 mil"
+  "source:04120262c38ae9c3f26d690db8b83ef43d9dae8a": {
+    "ts": 1781877266583,
+    "url": "https://www.espiritosantonoticias.com.br/jovens-capixabas-fazem-estagio-remunerado-em-obra-de-restauracao",
+    "title": "Jovens Capixabas fazem estágio remunerado em obra de restauração"
   },
-  "source:863f98803d8214bc24c9625b593b78be50795300": {
-    "ts": 1781873666446,
-    "url": "https://eshoje.com.br/policia/2026/06/mpes-realiza-operacao-contra-abuso-infantil-em-pinheiros",
-    "title": "MPES realiza operação contra abuso infantil em Pinheiros"
-  },
-  "source:6f6e3004b293bee9e85a75deb7776634788e04ec": {
-    "ts": 1781873666446,
-    "url": "https://eshoje.com.br/saude/2026/06/vacinacao-noturna-em-presidente-kennedy-oferece-imunizacao-contra-gripe-e-pneumonia-para-idosos-nesta-sexta-feira",
-    "title": "Vacinação noturna em Presidente Kennedy oferece imunização contra gripe e pneumonia para idosos"
-  },
-  "source:2bfd76fe1e2c0576038dea53b477412664c08fd2": {
-    "ts": 1781873666446,
-    "url": "https://eshoje.com.br/politica/2026/06/projeto-quer-incentivar-sucessao-familiar-para-manter-jovens-no-campo-capixaba",
-    "title": "Projeto quer incentivar sucessão familiar para manter jovens no campo capixaba"
-  },
-  "source:1f684f69590e4f321cbdea7e7079a98696e95007": {
-    "ts": 1781873666446,
-    "url": "https://www.espiritosantonoticias.com.br/major-edneia-vieira-serrano-assume-o-comando-da-policia-militar-na-regiao-da-grande-jacaraipe",
-    "title": "Major Edneia Vieira Serrano assume o comando da Polícia Militar na região da Grande Jacaraípe"
-  },
-  "source:4c578b0f1ad42074adb90cf462242c7b009c7bd6": {
-    "ts": 1781873666446,
-    "url": "https://eshoje.com.br/saude/2026/06/vila-velha-tera-vacinacao-sem-agendamento-em-tres-locais-neste-sabado",
-    "title": "Vila Velha terá vacinação sem agendamento em três locais neste sábado"
+  "source:420113abf2a0ed95eadb3a7c7645d7205643fcbb": {
+    "ts": 1781877266583,
+    "url": "https://eshoje.com.br/politica/2026/06/helder-salomao-reage-a-condenacao-de-eduardo-bolsonaro-e-chama-aliados-do-ex-presidente-de-traidores-da-patria",
+    "title": "Helder Salomão reage à condenação de Eduardo Bolsonaro e chama aliados do ex-presidente de 'traidores da pátria'"
   }
 }
