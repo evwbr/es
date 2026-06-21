@@ -1,4 +1,9 @@
 {
+  "source:1d615785945497e0a44d3a6ae05c8c3ab2c7e5cf": {
+    "ts": 1782057266166,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/ambulancia-do-samu-que-transportava-paciente-se-envolve-em-acidente-e-deixa-seis-feridos-na-br-262",
+    "title": "Ambulância do Samu que transportava paciente se envolve em acidente e deixa seis feridos na BR-262"
+  },
   "source:6cca17fbddc2a5ccdd657bc05020c2558cea3b7d": {
     "ts": 1782053666570,
     "url": "https://eshoje.com.br/policia/2026/06/motorista-embriagado-foge-da-guarda-cruza-vitoria-e-vila-velha-e-e-preso-apos-perseguicao",
@@ -3304,9 +3309,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1d615785945497e0a44d3a6ae05c8c3ab2c7e5cf": {
-    "ts": 1782057266166,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/ambulancia-do-samu-que-transportava-paciente-se-envolve-em-acidente-e-deixa-seis-feridos-na-br-262",
-    "title": "Ambulância do Samu que transportava paciente se envolve em acidente e deixa seis feridos na BR-262"
+  "source:ae542e438856e30fb63757432b295ff7480bd1c1": {
+    "ts": 1782071666318,
+    "url": "https://eshoje.com.br/saude/2026/06/luto-prolongado-pode-atingir-50-dos-que-perderam-entes-em-mortes-tragicas",
+    "title": "Luto prolongado pode atingir 50% dos que perderam entes em mortes trágicas"
+  },
+  "source:137d80620221db8715cd76736a477b345ff16cc6": {
+    "ts": 1782071666318,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/tremor-de-terra-e-registrado-no-litoral-do-es-veja-o-que-se-sabe-sobre-o-abalo",
+    "title": "Tremor de terra é registrado no litoral do ES; veja o que se sabe sobre o abalo"
   }
 }
