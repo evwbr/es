@@ -1,4 +1,9 @@
 {
+  "source:c86839f0cced2a35987c22e14b4ba59c035639a7": {
+    "ts": 1782143666672,
+    "url": "https://www.espiritosantonoticias.com.br/justica-impoe-frota-minima-de-50-para-a-greve-da-limpeza-urbana-no-espirito-santo",
+    "title": "Justiça impõe frota mínima de 50% para a greve da limpeza urbana no Espírito Santo"
+  },
   "source:b24cfc4e88f4e4e9ca4a3f45c7b88940d6b785e4": {
     "ts": 1782140066332,
     "url": "https://eshoje.com.br/policia/2026/06/ciclista-morre-apos-cair-em-quebra-molas-e-ser-atingido-por-caminhao-no-norte-do-es",
@@ -3394,9 +3399,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:c86839f0cced2a35987c22e14b4ba59c035639a7": {
-    "ts": 1782143666672,
-    "url": "https://www.espiritosantonoticias.com.br/justica-impoe-frota-minima-de-50-para-a-greve-da-limpeza-urbana-no-espirito-santo",
-    "title": "Justiça impõe frota mínima de 50% para a greve da limpeza urbana no Espírito Santo"
+  "source:61f620e3afe218c849e498197493f3bb07c6c0dc": {
+    "ts": 1782147266259,
+    "url": "https://eshoje.com.br/politica/2026/06/camara-de-vitoria-aprova-projeto-que-proibe-apologia-ao-uso-de-drogas-em-manifestacoes",
+    "title": "Câmara de Vitória aprova projeto que proíbe apologia ao uso de drogas em manifestações"
+  },
+  "source:12084cd9681fca458f4d29b4a7e9324606a3cbe2": {
+    "ts": 1782147266259,
+    "url": "https://eshoje.com.br/policia/2026/06/sindy-apos-16-dias-internada-morre-cadela-policial-atropelada-em-operacao-contra-o-trafico",
+    "title": "Sindy: após 16 dias internada, morre cadela policial atropelada em operação contra o tráfico"
   }
 }
