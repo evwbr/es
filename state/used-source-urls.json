@@ -1,4 +1,19 @@
 {
+  "source:00c273c8e8bb14196c6498c942b3392d0dbd3a57": {
+    "ts": 1782125666428,
+    "url": "https://www.espiritosantonoticias.com.br/trabalhadores-da-limpeza-urbana-aderem-a-greve-nacional-e-servicos-operam-com-frota-reduzida-no-espirito-santo",
+    "title": "Trabalhadores da limpeza urbana aderem a greve nacional e serviços operam com frota reduzida no Espírito Santo"
+  },
+  "source:426725a01f683fe47d5e72a5f68cfc64de7c223a": {
+    "ts": 1782125666428,
+    "url": "https://www.espiritosantonoticias.com.br/o-que-esta-por-tras-do-tremor-em-piuma-pesquisadores-detalham-o-comportamento-das-falhas-geologicas-no-es",
+    "title": "O que está por trás do tremor em Piúma? Pesquisadores detalham o comportamento das falhas geológicas no ES"
+  },
+  "source:373b5a82e20dac930e253815797cac4b457d50bd": {
+    "ts": 1782125666428,
+    "url": "https://www.espiritosantonoticias.com.br/denuncia-de-tentativa-de-homicidio-mobiliza-pm-e-termina-com-homem-armado-preso-em-guacui",
+    "title": "Denúncia de tentativa de homicídio mobiliza PM e termina com homem armado preso em Guaçuí"
+  },
   "source:fe4951c7083a0cb983c45de00ee01569c67a8d5f": {
     "ts": 1782075266166,
     "url": "https://eshoje.com.br/saude/2026/06/tecnologia-criada-no-es-pode-ajudar-a-reduzir-filas-e-ampliar-acesso-a-especialistas-no-sus",
@@ -3324,19 +3339,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:00c273c8e8bb14196c6498c942b3392d0dbd3a57": {
-    "ts": 1782125666428,
-    "url": "https://www.espiritosantonoticias.com.br/trabalhadores-da-limpeza-urbana-aderem-a-greve-nacional-e-servicos-operam-com-frota-reduzida-no-espirito-santo",
-    "title": "Trabalhadores da limpeza urbana aderem a greve nacional e serviços operam com frota reduzida no Espírito Santo"
+  "source:d2ad790c64616c9ddf3979813976792863bfdad2": {
+    "ts": 1782129266904,
+    "url": "https://eshoje.com.br/esportes/2026/06/franca-e-argentina-podem-garantir-vaga-hoje-confira-os-jogos-da-copa",
+    "title": "França e Argentina podem garantir vaga hoje; confira os jogos da copa"
   },
-  "source:426725a01f683fe47d5e72a5f68cfc64de7c223a": {
-    "ts": 1782125666428,
-    "url": "https://www.espiritosantonoticias.com.br/o-que-esta-por-tras-do-tremor-em-piuma-pesquisadores-detalham-o-comportamento-das-falhas-geologicas-no-es",
-    "title": "O que está por trás do tremor em Piúma? Pesquisadores detalham o comportamento das falhas geológicas no ES"
+  "source:c77751df5d79460e017f3cf20549229b18222af1": {
+    "ts": 1782129266904,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/nova-lei-pode-beneficiar-1270-estudantes-superdotados-no-espirito-santo",
+    "title": "Nova lei pode beneficiar 1270 estudantes superdotados no Espírito Santo"
   },
-  "source:373b5a82e20dac930e253815797cac4b457d50bd": {
-    "ts": 1782125666428,
-    "url": "https://www.espiritosantonoticias.com.br/denuncia-de-tentativa-de-homicidio-mobiliza-pm-e-termina-com-homem-armado-preso-em-guacui",
-    "title": "Denúncia de tentativa de homicídio mobiliza PM e termina com homem armado preso em Guaçuí"
+  "source:ef773cc8d124df22d7af6dfef193ba8346d199ec": {
+    "ts": 1782129266904,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/55-dos-produtores-do-espirito-santo-ainda-nao-atualizaram-cadastro-do-rebanho",
+    "title": "55% dos produtores do Espírito Santo ainda não atualizaram cadastro do rebanho"
+  },
+  "source:318e0db6b3cb9ad232d87bac84d870c97216eb99": {
+    "ts": 1782129266904,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/tribunal-de-contas-muda-decisao-e-recomenda-aprovacao-das-contas-de-ex-prefeito-de-cachoeiro-de-itapemirim",
+    "title": "Tribunal de Contas muda decisão e recomenda aprovação das contas de ex-prefeito de Cachoeiro de Itapemirim"
+  },
+  "source:f2685c5e638c68e95003fd54499375bccbb15821": {
+    "ts": 1782129266904,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/greve-dos-garis-interrompe-coleta-de-lixo-em-cidades-do-es",
+    "title": "Greve dos garis interrompe coleta de lixo em cidades do ES"
+  },
+  "source:7fd248b243fac66c310e7fc3519dc6a1a49e2cc2": {
+    "ts": 1782129266904,
+    "url": "https://www.espiritosantonoticias.com.br/ataque-a-tiros-cometido-por-homem-encapuzado-deixa-dois-feridos-em-bairro-da-serra",
+    "title": "Ataque a tiros cometido por homem encapuzado deixa dois feridos em bairro da Serra"
   }
 }
