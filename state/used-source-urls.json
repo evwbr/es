@@ -1,4 +1,14 @@
 {
+  "source:0540da20ae35e5c7f5126e51d58c2e282ea1cd4e": {
+    "ts": 1782244466323,
+    "url": "https://eshoje.com.br/policia/2026/06/mulher-procurada-por-crimes-na-bahia-e-presa-no-espirito-santo",
+    "title": "Mulher procurada por crimes na Bahia é presa no Espírito Santo"
+  },
+  "source:1fc8a558a1868b602c72ad8ebdf58e537573b57c": {
+    "ts": 1782244466323,
+    "url": "https://eshoje.com.br/esportes/2026/06/porto-vitoria-anuncia-saida-de-joao-burse-tecnico-campeao-capixaba-em-2026",
+    "title": "Porto Vitória anuncia saída de João Burse, técnico campeão capixaba em 2026"
+  },
   "source:262dadfc5e54b7bd09429b88d5cd30bab94b0194": {
     "ts": 1782240866419,
     "url": "https://eshoje.com.br/esportes/2026/06/flavio-volpi-vence-quarta-etapa-do-campeonato-capixaba-de-enduro",
@@ -3589,14 +3599,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0540da20ae35e5c7f5126e51d58c2e282ea1cd4e": {
-    "ts": 1782244466323,
-    "url": "https://eshoje.com.br/policia/2026/06/mulher-procurada-por-crimes-na-bahia-e-presa-no-espirito-santo",
-    "title": "Mulher procurada por crimes na Bahia é presa no Espírito Santo"
+  "source:c2cd6680daa6153fda666a955a844c65e7a8bedf": {
+    "ts": 1782248066376,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/jogo-do-brasil-muda-horario-de-reparticoes-supermercados-e-shoppings-no-es",
+    "title": "Jogo do Brasil muda horário de repartições, supermercados e shoppings no ES"
   },
-  "source:1fc8a558a1868b602c72ad8ebdf58e537573b57c": {
-    "ts": 1782244466323,
-    "url": "https://eshoje.com.br/esportes/2026/06/porto-vitoria-anuncia-saida-de-joao-burse-tecnico-campeao-capixaba-em-2026",
-    "title": "Porto Vitória anuncia saída de João Burse, técnico campeão capixaba em 2026"
+  "source:d936cc529ec293307c09a2872e70868a1b2b811b": {
+    "ts": 1782248066376,
+    "url": "https://eshoje.com.br/policia/2026/06/celulares-caixas-de-som-e-ate-tadalafila-sao-encontrados-em-presidio-no-es",
+    "title": "Celulares, caixas de som e até 'Tadalafila' são encontrados em presídio no ES"
   }
 }
