@@ -1,4 +1,29 @@
 {
+  "source:262dadfc5e54b7bd09429b88d5cd30bab94b0194": {
+    "ts": 1782240866419,
+    "url": "https://eshoje.com.br/esportes/2026/06/flavio-volpi-vence-quarta-etapa-do-campeonato-capixaba-de-enduro",
+    "title": "Flavio Volpi vence quarta etapa do Campeonato Capixaba de Enduro"
+  },
+  "source:00e7903f57ebf2bf0c767ce8b0eba6118f71ff12": {
+    "ts": 1782240866419,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/greve-garis-e-margaridas-fazem-passeata-em-vitoria",
+    "title": "Greve: garis e margaridas fazem passeata em Vitória"
+  },
+  "source:800378fc6b5d0445300c006245ee9ffd02e814fe": {
+    "ts": 1782240866419,
+    "url": "https://eshoje.com.br/policia/2026/06/idoso-e-brutalmente-agredido-durante-assalto-no-centro-de-vitoria",
+    "title": "Idoso é brutalmente agredido durante assalto no Centro de Vitória"
+  },
+  "source:98f99c90d19f6562841302e10c59f97f2e188466": {
+    "ts": 1782240866419,
+    "url": "https://www.espiritosantonoticias.com.br/foragidos-de-marataizes-sao-recapturados-em-casa-de-amigo-na-barra-do-itapemirim",
+    "title": "Foragidos de Marataízes são recapturados em casa de amigo na Barra do Itapemirim"
+  },
+  "source:f1b45a84a08520188e6c965ddb4cb51df07256ed": {
+    "ts": 1782240866419,
+    "url": "https://www.espiritosantonoticias.com.br/dois-detentos-abrem-cadeado-de-cela-e-fogem-de-centro-de-detencao-provisoria-em-marataizes",
+    "title": "Dois detentos abrem cadeado de cela e fogem de Centro de Detenção Provisória em Marataízes"
+  },
   "source:c1a4692a155898f2267ff80aa425bfef01e8541c": {
     "ts": 1782237266350,
     "url": "https://eshoje.com.br/esportes/2026/06/capixabas-sao-destaque-no-campeonato-brasileiro-de-triathlon",
@@ -3564,29 +3589,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:262dadfc5e54b7bd09429b88d5cd30bab94b0194": {
-    "ts": 1782240866419,
-    "url": "https://eshoje.com.br/esportes/2026/06/flavio-volpi-vence-quarta-etapa-do-campeonato-capixaba-de-enduro",
-    "title": "Flavio Volpi vence quarta etapa do Campeonato Capixaba de Enduro"
+  "source:0540da20ae35e5c7f5126e51d58c2e282ea1cd4e": {
+    "ts": 1782244466323,
+    "url": "https://eshoje.com.br/policia/2026/06/mulher-procurada-por-crimes-na-bahia-e-presa-no-espirito-santo",
+    "title": "Mulher procurada por crimes na Bahia é presa no Espírito Santo"
   },
-  "source:00e7903f57ebf2bf0c767ce8b0eba6118f71ff12": {
-    "ts": 1782240866419,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/greve-garis-e-margaridas-fazem-passeata-em-vitoria",
-    "title": "Greve: garis e margaridas fazem passeata em Vitória"
-  },
-  "source:800378fc6b5d0445300c006245ee9ffd02e814fe": {
-    "ts": 1782240866419,
-    "url": "https://eshoje.com.br/policia/2026/06/idoso-e-brutalmente-agredido-durante-assalto-no-centro-de-vitoria",
-    "title": "Idoso é brutalmente agredido durante assalto no Centro de Vitória"
-  },
-  "source:98f99c90d19f6562841302e10c59f97f2e188466": {
-    "ts": 1782240866419,
-    "url": "https://www.espiritosantonoticias.com.br/foragidos-de-marataizes-sao-recapturados-em-casa-de-amigo-na-barra-do-itapemirim",
-    "title": "Foragidos de Marataízes são recapturados em casa de amigo na Barra do Itapemirim"
-  },
-  "source:f1b45a84a08520188e6c965ddb4cb51df07256ed": {
-    "ts": 1782240866419,
-    "url": "https://www.espiritosantonoticias.com.br/dois-detentos-abrem-cadeado-de-cela-e-fogem-de-centro-de-detencao-provisoria-em-marataizes",
-    "title": "Dois detentos abrem cadeado de cela e fogem de Centro de Detenção Provisória em Marataízes"
+  "source:1fc8a558a1868b602c72ad8ebdf58e537573b57c": {
+    "ts": 1782244466323,
+    "url": "https://eshoje.com.br/esportes/2026/06/porto-vitoria-anuncia-saida-de-joao-burse-tecnico-campeao-capixaba-em-2026",
+    "title": "Porto Vitória anuncia saída de João Burse, técnico campeão capixaba em 2026"
   }
 }
