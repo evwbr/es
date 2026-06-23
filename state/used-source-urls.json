@@ -1,4 +1,9 @@
 {
+  "source:abba5f82f663e42752e72eebffa7e8d9543f6780": {
+    "ts": 1782215666530,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-km-366030-da-br-101-em-anchieta-sera-totalmente-interditado-para-desmonte-de-rochas-na-proxima-terca-23",
+    "title": "ATENÇÃO: Km 366,030 da BR-101, em Anchieta, será totalmente interditado para desmonte de rochas nesta terça (23)"
+  },
   "source:524f15072647c3895b71edc26ffcbf7747b38c30": {
     "ts": 1782212066351,
     "url": "https://eshoje.com.br/espirito-santo/2026/06/greve-dos-garis-continua-e-justica-estabelece-percentual-minimo-para-coleta-de-lixo-no-es",
@@ -3484,9 +3489,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:abba5f82f663e42752e72eebffa7e8d9543f6780": {
-    "ts": 1782215666530,
-    "url": "https://www.espiritosantonoticias.com.br/atencao-km-366030-da-br-101-em-anchieta-sera-totalmente-interditado-para-desmonte-de-rochas-na-proxima-terca-23",
-    "title": "ATENÇÃO: Km 366,030 da BR-101, em Anchieta, será totalmente interditado para desmonte de rochas nesta terça (23)"
+  "source:62cf2e37dbf9115b7a73c23559ad48594c29850b": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/politica/2026/06/camara-aprova-correcao-em-doacao-de-retroescavadeira-apos-erro-em-lei-de-cariacica",
+    "title": "Câmara aprova correção em doação de retroescavadeira após erro em lei de Cariacica"
+  },
+  "source:7ba325850d9153dd7097e7bed5dd65ab70bfa069": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/saude/2026/06/testagem-para-hiv-e-sifilis-em-colatina-tem-atendimento-ampliado",
+    "title": "Testagem para HIV e sífilis em Colatina tem atendimento ampliado"
+  },
+  "source:97a230bb48b8589d03db2d5746f66230277f7c8f": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/shopping-realiza-campanha-de-agasalho-para-pessoas-e-pets-em-situacao-de-vulnerabilidade",
+    "title": "Shopping realiza campanha de agasalho para pessoas e pets em situação de vulnerabilidade"
   }
 }
