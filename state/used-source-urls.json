@@ -1,4 +1,19 @@
 {
+  "source:62cf2e37dbf9115b7a73c23559ad48594c29850b": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/politica/2026/06/camara-aprova-correcao-em-doacao-de-retroescavadeira-apos-erro-em-lei-de-cariacica",
+    "title": "Câmara aprova correção em doação de retroescavadeira após erro em lei de Cariacica"
+  },
+  "source:7ba325850d9153dd7097e7bed5dd65ab70bfa069": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/saude/2026/06/testagem-para-hiv-e-sifilis-em-colatina-tem-atendimento-ampliado",
+    "title": "Testagem para HIV e sífilis em Colatina tem atendimento ampliado"
+  },
+  "source:97a230bb48b8589d03db2d5746f66230277f7c8f": {
+    "ts": 1782219266163,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/shopping-realiza-campanha-de-agasalho-para-pessoas-e-pets-em-situacao-de-vulnerabilidade",
+    "title": "Shopping realiza campanha de agasalho para pessoas e pets em situação de vulnerabilidade"
+  },
   "source:abba5f82f663e42752e72eebffa7e8d9543f6780": {
     "ts": 1782215666530,
     "url": "https://www.espiritosantonoticias.com.br/atencao-km-366030-da-br-101-em-anchieta-sera-totalmente-interditado-para-desmonte-de-rochas-na-proxima-terca-23",
@@ -3489,19 +3504,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:62cf2e37dbf9115b7a73c23559ad48594c29850b": {
-    "ts": 1782219266163,
-    "url": "https://eshoje.com.br/politica/2026/06/camara-aprova-correcao-em-doacao-de-retroescavadeira-apos-erro-em-lei-de-cariacica",
-    "title": "Câmara aprova correção em doação de retroescavadeira após erro em lei de Cariacica"
+  "source:03e73c593b402c76f97c34adc437bbe0df153c14": {
+    "ts": 1782222866770,
+    "url": "https://www.espiritosantonoticias.com.br/chegada-do-cachoeirense-ausente-de-2026-sera-nesta-terca-23",
+    "title": "Chegada do Cachoeirense Ausente de 2026 será nesta terça (23)"
   },
-  "source:7ba325850d9153dd7097e7bed5dd65ab70bfa069": {
-    "ts": 1782219266163,
-    "url": "https://eshoje.com.br/saude/2026/06/testagem-para-hiv-e-sifilis-em-colatina-tem-atendimento-ampliado",
-    "title": "Testagem para HIV e sífilis em Colatina tem atendimento ampliado"
+  "source:461e10aaa50a4b803949df787f27258530d6bb84": {
+    "ts": 1782222866770,
+    "url": "https://www.espiritosantonoticias.com.br/veja-quem-ganhou-o-concurso-ambiental-aguas-de-marataizes",
+    "title": "Veja quem ganhou o concurso ambiental Águas de Marataízes"
   },
-  "source:97a230bb48b8589d03db2d5746f66230277f7c8f": {
-    "ts": 1782219266163,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/shopping-realiza-campanha-de-agasalho-para-pessoas-e-pets-em-situacao-de-vulnerabilidade",
-    "title": "Shopping realiza campanha de agasalho para pessoas e pets em situação de vulnerabilidade"
+  "source:e53b0054d30c40458264140377045e3396ed9e61": {
+    "ts": 1782222866770,
+    "url": "https://eshoje.com.br/eshoje-tv/entrevistas/2026/06/casagrande-confirma-foco-no-senado-garante-empenho-do-psb-por-ferraco-e-traca-perfil-para-vice-da-chapa",
+    "title": "Casagrande confirma foco no Senado, garante empenho do PSB por Ferraço e traça perfil para vice da chapa"
+  },
+  "source:794b258f1d74e02dd1ef16a24978e7780ff66b0b": {
+    "ts": 1782222866770,
+    "url": "https://www.espiritosantonoticias.com.br/drogas-apreendidas-no-rj-tinham-como-destino-o-es-diz-prf",
+    "title": "Drogas apreendidas no RJ tinham como destino o ES, diz PRF"
   }
 }
