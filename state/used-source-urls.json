@@ -1,4 +1,9 @@
 {
+  "source:3742ba64d2da43c1afb68236da7159d0ba259e5f": {
+    "ts": 1782320067232,
+    "url": "https://eshoje.com.br/policia/2026/06/para-escapar-de-sequestro-motorista-de-aplicativo-joga-carro-contra-viatura-da-guarda-na-serra",
+    "title": "Para escapar de sequestro, motorista de aplicativo joga carro contra viatura da Guarda na Serra"
+  },
   "source:d9c677ed1847023546e33dd05c5b02fe517aa185": {
     "ts": 1782316466362,
     "url": "https://eshoje.com.br/economia/2026/06/sefaz-apreende-1-150-sacas-de-cafe-sem-nota-fiscal-e-recupera-r-225-mil-no-es",
@@ -3709,9 +3714,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3742ba64d2da43c1afb68236da7159d0ba259e5f": {
-    "ts": 1782320067232,
-    "url": "https://eshoje.com.br/policia/2026/06/para-escapar-de-sequestro-motorista-de-aplicativo-joga-carro-contra-viatura-da-guarda-na-serra",
-    "title": "Para escapar de sequestro, motorista de aplicativo joga carro contra viatura da Guarda na Serra"
+  "source:fd729499ecee8c6548b48e3fe6a91af439eb61a0": {
+    "ts": 1782323667201,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/capixaba-e-diagnosticada-com-doenca-rara-e-amigos-fazem-campanha-para-custear-tratamento-de-mais-de-r-400-mil",
+    "title": "Capixaba é diagnosticada com doença rara e amigos fazem campanha para custear tratamento de mais de R$ 400 mil"
+  },
+  "source:1f03a26cd99b1e0e9d42d28ed2a8fb2814157116": {
+    "ts": 1782323667201,
+    "url": "https://eshoje.com.br/esportes/2026/06/vitoria-e-rio-branco-vn-se-enfrentam-na-final-da-copa-espirito-santo-2026",
+    "title": "Vitória e Rio Branco VN se enfrentam na final da Copa Espírito Santo 2026"
   }
 }
