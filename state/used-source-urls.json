@@ -1,4 +1,29 @@
 {
+  "source:e1792eafc68a3f5fc25a44ace3a7debaa9b0ad3f": {
+    "ts": 1782305666530,
+    "url": "https://eshoje.com.br/politica/2026/06/vetos-na-capital-provocam-reacao-de-deputados-e-acendem-debate-na-assembleia-legislativa",
+    "title": "Vetos em Vitória geram reação de três deputados na Assembleia e citam impacto de projetos sobre escolas e movimentos sociais"
+  },
+  "source:e3d891e75ce04b465c29744d6a3fd5e7228b1579": {
+    "ts": 1782305666530,
+    "url": "https://eshoje.com.br/policia/2026/06/forca-tarefa-recaptura-detentos-que-fugiram-do-cdp-de-marataizes",
+    "title": "Força-tarefa recaptura detentos que fugiram do CDP de Marataízes"
+  },
+  "source:8b34919f9545c708d3da02f4e18950520bdca3e8": {
+    "ts": 1782305666530,
+    "url": "https://eshoje.com.br/esportes/2026/06/colombia-se-classifica-portugal-goleia-e-inglaterra-tropeca-em-gana-na-copa",
+    "title": "Colômbia se classifica, Portugal goleia, e Inglaterra tropeça em Gana na Copa"
+  },
+  "source:c9818aea5ad7e3fbb6d819f177ce754254be395d": {
+    "ts": 1782305666530,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/es-registra-quase-5-mil-denuncias-de-maus-tratos-a-animais-camara-analisa-criacao-do-disque-animal",
+    "title": "Projeto cria Disque Animal nacional enquanto Espírito Santo registra quase 5 mil denúncias de maus-tratos"
+  },
+  "source:832c76b7e667d1ea7ab5cee3ec9dba189853c6bd": {
+    "ts": 1782305666530,
+    "url": "https://eshoje.com.br/policia/2026/06/motorista-de-caminhao-cegonha-perde-o-controle-e-morre-na-br-262-em-cariacica",
+    "title": "Motorista de caminhão-cegonha perde o controle e morre na BR-262, em Cariacica"
+  },
   "source:88f56a2c8b1cd558b0750395ea073b334f1e5bb9": {
     "ts": 1782302066562,
     "url": "https://eshoje.com.br/esportes/2026/06/hoje-tem-brasil-confira-jogos-da-copa-do-mundo-desta-quarta",
@@ -3664,29 +3689,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e1792eafc68a3f5fc25a44ace3a7debaa9b0ad3f": {
-    "ts": 1782305666530,
-    "url": "https://eshoje.com.br/politica/2026/06/vetos-na-capital-provocam-reacao-de-deputados-e-acendem-debate-na-assembleia-legislativa",
-    "title": "Vetos em Vitória geram reação de três deputados na Assembleia e citam impacto de projetos sobre escolas e movimentos sociais"
+  "source:938824ffe8b9f184eac15031305445ff9de327f3": {
+    "ts": 1782309267496,
+    "url": "https://eshoje.com.br/policia/2026/06/operacao-apreende-29-aves-silvestres-mantidas-em-cativeiro-ilegal-na-serra",
+    "title": "Operação apreende 29 aves silvestres mantidas em cativeiro ilegal na Serra"
   },
-  "source:e3d891e75ce04b465c29744d6a3fd5e7228b1579": {
-    "ts": 1782305666530,
-    "url": "https://eshoje.com.br/policia/2026/06/forca-tarefa-recaptura-detentos-que-fugiram-do-cdp-de-marataizes",
-    "title": "Força-tarefa recaptura detentos que fugiram do CDP de Marataízes"
-  },
-  "source:8b34919f9545c708d3da02f4e18950520bdca3e8": {
-    "ts": 1782305666530,
-    "url": "https://eshoje.com.br/esportes/2026/06/colombia-se-classifica-portugal-goleia-e-inglaterra-tropeca-em-gana-na-copa",
-    "title": "Colômbia se classifica, Portugal goleia, e Inglaterra tropeça em Gana na Copa"
-  },
-  "source:c9818aea5ad7e3fbb6d819f177ce754254be395d": {
-    "ts": 1782305666530,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/es-registra-quase-5-mil-denuncias-de-maus-tratos-a-animais-camara-analisa-criacao-do-disque-animal",
-    "title": "Projeto cria Disque Animal nacional enquanto Espírito Santo registra quase 5 mil denúncias de maus-tratos"
-  },
-  "source:832c76b7e667d1ea7ab5cee3ec9dba189853c6bd": {
-    "ts": 1782305666530,
-    "url": "https://eshoje.com.br/policia/2026/06/motorista-de-caminhao-cegonha-perde-o-controle-e-morre-na-br-262-em-cariacica",
-    "title": "Motorista de caminhão-cegonha perde o controle e morre na BR-262, em Cariacica"
+  "source:763b0593f8e296b4393663b36a061287586df09f": {
+    "ts": 1782309267496,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-km-368590-da-br-101-em-anchieta-sera-totalmente-interditado-para-desmonte-de-rochas-nesta-quarta-feira-24",
+    "title": "ATENÇÃO: Km 368,590 da BR-101, em Anchieta, será totalmente interditado para desmonte de rochas nesta quarta-feira (24)"
   }
 }
