@@ -1,4 +1,14 @@
 {
+  "source:0b3b8f087843846d148ecfd2aab5ebc255aa9b3a": {
+    "ts": 1782507266173,
+    "url": "https://eshoje.com.br/policia/2026/06/motorista-de-app-e-preso-apos-fugir-com-compras-de-passageira-em-vitoria",
+    "title": "Motorista de app é preso após fugir com compras de passageira em Vitória"
+  },
+  "source:fd5e31bab1a9a098ba701af952cce9b42da517fc": {
+    "ts": 1782507266173,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/carro-bate-e-derruba-poste-em-cima-de-outro-veiculo-no-centro-de-vitoria",
+    "title": "Carro bate e derruba poste em cima de outro veículo no Centro de Vitória"
+  },
   "source:eafc63d855fdd683984c068152cbfe341e6f8f1c": {
     "ts": 1782503667248,
     "url": "https://eshoje.com.br/saude/2026/06/vila-velha-disponibiliza-vacina-pneumococica-20-valente-para-pessoas-com-condicoes-clinicas-especiais",
@@ -3969,14 +3979,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0b3b8f087843846d148ecfd2aab5ebc255aa9b3a": {
-    "ts": 1782507266173,
-    "url": "https://eshoje.com.br/policia/2026/06/motorista-de-app-e-preso-apos-fugir-com-compras-de-passageira-em-vitoria",
-    "title": "Motorista de app é preso após fugir com compras de passageira em Vitória"
+  "source:abe3194e80bad8c7e1327944ebf5b8132f305e9e": {
+    "ts": 1782510866499,
+    "url": "https://eshoje.com.br/esportes/2026/06/franca-bate-noruega-com-hat-trick-de-dembele-enquanto-mbappe-passa-em-branco",
+    "title": "França bate Noruega com hat-trick de Dembélé, enquanto Mbappé passa em branco"
   },
-  "source:fd5e31bab1a9a098ba701af952cce9b42da517fc": {
-    "ts": 1782507266173,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/carro-bate-e-derruba-poste-em-cima-de-outro-veiculo-no-centro-de-vitoria",
-    "title": "Carro bate e derruba poste em cima de outro veículo no Centro de Vitória"
+  "source:e78df537d8b67501e33b8272fb4f734ad58df9a3": {
+    "ts": 1782510866499,
+    "url": "https://eshoje.com.br/policia/2026/06/bebe-e-resgatado-apos-ser-visto-engatinhando-no-meio-da-rua-de-madrugada-em-vila-velha",
+    "title": "Bebê é resgatado após ser visto engatinhando no meio da rua de madrugada em Vila Velha"
+  },
+  "source:7db47a2f67ea2cb998bd5d52c99759e4b69cce98": {
+    "ts": 1782510866499,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/tempo-muda-no-es-apos-passagem-de-frente-fria-veja-previsao",
+    "title": "Tempo muda no ES após passagem de frente fria; veja previsão"
   }
 }
