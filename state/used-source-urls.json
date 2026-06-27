@@ -1,4 +1,9 @@
 {
+  "source:0dac4521cc8f25597abdc498e59ecaba81c66925": {
+    "ts": 1782557667664,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-tolerancia-zero-da-pces-cumpre-seis-mandados-de-prisao-por-homicidio-em-jaguare",
+    "title": "Operação \"Tolerância Zero\" da PCES cumpre seis mandados de prisão por homicídio em Jaguaré"
+  },
   "source:abe3194e80bad8c7e1327944ebf5b8132f305e9e": {
     "ts": 1782510866499,
     "url": "https://eshoje.com.br/esportes/2026/06/franca-bate-noruega-com-hat-trick-de-dembele-enquanto-mbappe-passa-em-branco",
@@ -3994,9 +3999,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0dac4521cc8f25597abdc498e59ecaba81c66925": {
-    "ts": 1782557667664,
-    "url": "https://www.espiritosantonoticias.com.br/operacao-tolerancia-zero-da-pces-cumpre-seis-mandados-de-prisao-por-homicidio-em-jaguare",
-    "title": "Operação \"Tolerância Zero\" da PCES cumpre seis mandados de prisão por homicídio em Jaguaré"
+  "source:31922cbacbe4288854c196d2f1f07ca7ae6c7f0f": {
+    "ts": 1782561266296,
+    "url": "https://www.espiritosantonoticias.com.br/de-volta-pro-xilindro-tres-foragidos-da-lista-do-disque-denuncia-181-presos-apos-divulgacao",
+    "title": "DE VOLTA PRO XILINDRÓ: três foragidos da lista do Disque Denúncia 181 presos após divulgação"
+  },
+  "source:1ddff412196b17fcf59839b08aafb9c902eaa3a5": {
+    "ts": 1782561266296,
+    "url": "https://eshoje.com.br/esportes/2026/06/rio-banco-vai-em-busca-de-um-milagre-contra-o-uberlandia-por-classificacao-na-serie-d",
+    "title": "Rio Banco vai em busca de um \"milagre\" contra o Uberlândia por classificação na Série D"
+  },
+  "source:3b36b633c27ce24ca9149a261bb03cc57793325c": {
+    "ts": 1782561266296,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-resgata-dois-caes-em-situacao-de-maus-tratos-durante-acao-integrada-em-viana",
+    "title": "Polícia Civil resgata dois cães em situação de maus-tratos durante ação integrada em Viana"
   }
 }
