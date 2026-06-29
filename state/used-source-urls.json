@@ -1,4 +1,14 @@
 {
+  "source:ccd5192e88eda7f01866b1c2850d294807ccc245": {
+    "ts": 1782748466353,
+    "url": "https://eshoje.com.br/policia/2026/06/suspeito-morre-apos-invadir-casa-em-linhares-e-ser-imobilizado-por-jovem-de-19-anos",
+    "title": "Suspeito morre após invadir casa em Linhares e ser imobilizado por jovem de 19 anos"
+  },
+  "source:4e97f95282087d530061ca7b14bff5d000de97e4": {
+    "ts": 1782748466353,
+    "url": "https://eshoje.com.br/politica/justica/2026/06/reus-sao-condenados-a-65-anos-por-homicidio-em-mimoso-do-sul",
+    "title": "Réus são condenados a 65 anos por homicídio em Mimoso do Sul"
+  },
   "source:99313b9f36a1d929060d5ff768c072f568a96b91": {
     "ts": 1782744866642,
     "url": "https://www.espiritosantonoticias.com.br/homem-procurado-por-estupro-de-vulneravel-e-preso-pela-pm-no-bairro-ceu-azul-em-piuma",
@@ -4119,14 +4129,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ccd5192e88eda7f01866b1c2850d294807ccc245": {
-    "ts": 1782748466353,
-    "url": "https://eshoje.com.br/policia/2026/06/suspeito-morre-apos-invadir-casa-em-linhares-e-ser-imobilizado-por-jovem-de-19-anos",
-    "title": "Suspeito morre após invadir casa em Linhares e ser imobilizado por jovem de 19 anos"
+  "source:498f23428efbf3a2d816d47fa2b31a3bbfbaba68": {
+    "ts": 1782752067592,
+    "url": "https://eshoje.com.br/colunistas/bastidores-da-politica/2026/06/eleicoes-es-alianca-republicanos-pl-marcos-pereira-magno-malta",
+    "title": "Eleições ES: Marcos Pereira assume acordo Republicanos e PL"
   },
-  "source:4e97f95282087d530061ca7b14bff5d000de97e4": {
-    "ts": 1782748466353,
-    "url": "https://eshoje.com.br/politica/justica/2026/06/reus-sao-condenados-a-65-anos-por-homicidio-em-mimoso-do-sul",
-    "title": "Réus são condenados a 65 anos por homicídio em Mimoso do Sul"
+  "source:5f784a7684746d67e91a417df76896a0e1035a01": {
+    "ts": 1782752067592,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/bebe-de-11-meses-morre-apos-grave-acidente-entre-ambulancia-e-carro-na-br-262",
+    "title": "Bebê de 11 meses morre após grave acidente entre ambulância e carro na BR-262"
+  },
+  "source:34121d13f4d9555c4ca39209db4346488b51c4f8": {
+    "ts": 1782752067592,
+    "url": "https://eshoje.com.br/policia/2026/06/suspeito-e-preso-por-ameacar-familia-com-arma-falsa-em-bairro-de-cariacica",
+    "title": "Suspeito é preso por ameaçar família com arma falsa em bairro de Cariacica"
+  },
+  "source:d8bc918be627353685f2a450fad6cdb7df0735e4": {
+    "ts": 1782752067592,
+    "url": "https://eshoje.com.br/policia/2026/06/motociclista-que-nao-era-alvo-da-perseguicao-morre-apos-ser-atingido-por-viatura-da-pm-em-cachoeiro-de-itapemirim",
+    "title": "Motociclista que não era alvo da perseguição morre após ser atingido por viatura da PM em Cachoeiro de Itapemirim"
   }
 }
