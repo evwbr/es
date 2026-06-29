@@ -1,4 +1,9 @@
 {
+  "source:b517f30a800e0b8a5e1edd4b5346eb84c5da642f": {
+    "ts": 1782683666997,
+    "url": "https://eshoje.com.br/politica/2026/06/38-dizem-nao-saber-ou-lembrar-voto-para-governador-em-2022-diz-datafolha",
+    "title": "38% dizem não saber ou lembrar voto para governador em 2022, diz Datafolha"
+  },
   "source:1869ed82eaa28facee1b9cd3494e5657c31f4988": {
     "ts": 1782676467456,
     "url": "https://eshoje.com.br/espirito-santo/2026/06/semana-comeca-com-pancadas-de-chuva-no-norte-do-es-confira",
@@ -4049,9 +4054,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b517f30a800e0b8a5e1edd4b5346eb84c5da642f": {
-    "ts": 1782683666997,
-    "url": "https://eshoje.com.br/politica/2026/06/38-dizem-nao-saber-ou-lembrar-voto-para-governador-em-2022-diz-datafolha",
-    "title": "38% dizem não saber ou lembrar voto para governador em 2022, diz Datafolha"
+  "source:108b6c8817bbad1da7a76e3c1ef7ec10e0c3b7f4": {
+    "ts": 1782730466917,
+    "url": "https://www.espiritosantonoticias.com.br/ambulancia-de-brejetuba-bate-contra-carro-e-deixa-cinco-feridos-na-br-262",
+    "title": "Ambulância de Brejetuba bate contra carro e deixa cinco feridos na BR-262"
+  },
+  "source:30a0e2dabb72de89dbbf32c9a772b0107797e9ca": {
+    "ts": 1782730466917,
+    "url": "https://www.espiritosantonoticias.com.br/denuncia-aponta-ponto-de-venda-de-drogas-e-policia-prende-jovem-apelidado-de-chupetinha-em-sao-mateus",
+    "title": "Denúncia aponta ponto de venda de drogas e polícia prende jovem apelidado de \"Chupetinha\" em São Mateus"
   }
 }
