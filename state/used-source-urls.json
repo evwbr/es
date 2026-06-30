@@ -1,4 +1,9 @@
 {
+  "source:b75ff3ba3934c2b2cbdfda5f93ceca11dfefabb4": {
+    "ts": 1782845666432,
+    "url": "https://eshoje.com.br/politica/2026/06/ales-acelera-projeto-que-preve-alas-separadas-para-maes-que-perderam-bebes",
+    "title": "Assembleia do ES aprova urgência para projeto que prevê alas separadas para mães de natimortos"
+  },
   "source:526173a790465d9c3bbd743fbc61370960be4c5c": {
     "ts": 1782842067357,
     "url": "https://eshoje.com.br/policia/2026/06/homem-armado-com-pistola-avanca-contra-militares-e-e-baleado-na-serra",
@@ -4269,9 +4274,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b75ff3ba3934c2b2cbdfda5f93ceca11dfefabb4": {
-    "ts": 1782845666432,
-    "url": "https://eshoje.com.br/politica/2026/06/ales-acelera-projeto-que-preve-alas-separadas-para-maes-que-perderam-bebes",
-    "title": "Assembleia do ES aprova urgência para projeto que prevê alas separadas para mães de natimortos"
+  "source:0d72c894bb37dc847c222a999a206d9390fba24c": {
+    "ts": 1782849266852,
+    "url": "https://eshoje.com.br/esportes/2026/06/haaland-decide-quase-sem-querer-e-brasil-enfrenta-nas-oitavas-adversario-que-nunca-venceu",
+    "title": "Haaland decide quase sem querer, e Brasil enfrenta nas oitavas adversário que nunca venceu"
+  },
+  "source:90a31a1d4e8f97ef8856c372533c30925f6026ef": {
+    "ts": 1782849266852,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/frente-fria-traz-alerta-de-queda-de-temperaturas-ao-es",
+    "title": "Frente fria traz alerta de queda de temperaturas ao ES"
   }
 }
