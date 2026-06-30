@@ -1,4 +1,9 @@
 {
+  "source:fd2352df7a74920dd6a15c5d872f8718a56aae29": {
+    "ts": 1782773666365,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/morre-advogado-jurista-e-ex-deputado-capixaba-nelson-aguiar",
+    "title": "Morre advogado, jurista e ex-deputado capixaba, Nelson Aguiar"
+  },
   "source:423bf9ac1e0a78ccc9685b639e966be968ae1c73": {
     "ts": 1782770066445,
     "url": "https://eshoje.com.br/economia/2026/06/gwm-no-es-assembleia-aprova-doacao-de-terreno-em-aracruz-para-montadora-chinesa",
@@ -4179,9 +4184,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:fd2352df7a74920dd6a15c5d872f8718a56aae29": {
-    "ts": 1782773666365,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/morre-advogado-jurista-e-ex-deputado-capixaba-nelson-aguiar",
-    "title": "Morre advogado, jurista e ex-deputado capixaba, Nelson Aguiar"
+  "source:2be284dee10708d01e371c055c6d9eb2be011ab7": {
+    "ts": 1782813266576,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-legado-policia-civil-prende-cinco-pessoas-e-apreende-carro-de-luxo-em-santa-maria-de-jetiba",
+    "title": "Operação Legado: Polícia Civil prende cinco pessoas e apreende carro de luxo em Santa Maria de Jetibá"
+  },
+  "source:8bd5b799bbedc5541038b27ca1d023d0b04b178a": {
+    "ts": 1782813266576,
+    "url": "https://www.espiritosantonoticias.com.br/corpo-e-achado-perto-de-draga-de-extracao-de-areia-no-rio-doce-em-colatina",
+    "title": "Corpo é achado perto de draga de extração de areia no Rio Doce em Colatina"
+  },
+  "source:afb77a8e5cc47a182bf178e9e31b826001624e75": {
+    "ts": 1782813266576,
+    "url": "https://www.espiritosantonoticias.com.br/tribunal-do-juri-condena-dois-homens-a-mais-de-65-anos-de-prisao-por-homicidio-cruel-em-mimoso-do-sul",
+    "title": "Tribunal do Júri condena dois homens a mais de 65 anos de prisão por homicídio cruel em Mimoso do Sul"
   }
 }
