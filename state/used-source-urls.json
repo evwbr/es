@@ -1,4 +1,14 @@
 {
+  "source:e320a1384e2b4a8fb63d31cd1a85f1a9e9093f6c": {
+    "ts": 1782824066375,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/caminhao-tanque-tomba-e-br-262-e-totalmente-interditada",
+    "title": "Caminhão-tanque tomba e BR-262 é totalmente interditada"
+  },
+  "source:ed86c6af6531c9325f6be8d781d66aa5c867f77f": {
+    "ts": 1782824066375,
+    "url": "https://eshoje.com.br/policia/2026/06/policia-do-es-prende-grupo-que-criou-falso-site-de-doacoes-para-vitimas-das-enchentes-no-rs",
+    "title": "Polícia do ES prende grupo que criou falso site de doações para vítimas das enchentes no RS"
+  },
   "source:a7a4fa4eb8a11eec61bd46255711c9c6db3dd038": {
     "ts": 1782820466687,
     "url": "https://eshoje.com.br/esportes/2026/06/sul-americanos-ganham-por-goleada-confrontos-diretos-contra-europa-na-copa",
@@ -4204,14 +4214,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e320a1384e2b4a8fb63d31cd1a85f1a9e9093f6c": {
-    "ts": 1782824066375,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/caminhao-tanque-tomba-e-br-262-e-totalmente-interditada",
-    "title": "Caminhão-tanque tomba e BR-262 é totalmente interditada"
+  "source:a1841081fae2e0dc7d2e7f0f4ed16a05b451cdaf": {
+    "ts": 1782827666605,
+    "url": "https://eshoje.com.br/saude/2026/06/gripe-casos-graves-es-idosos-sem-vacina",
+    "title": "Gripe mata 14 idosos sem vacina no ES; 75% dos casos são graves"
   },
-  "source:ed86c6af6531c9325f6be8d781d66aa5c867f77f": {
-    "ts": 1782824066375,
-    "url": "https://eshoje.com.br/policia/2026/06/policia-do-es-prende-grupo-que-criou-falso-site-de-doacoes-para-vitimas-das-enchentes-no-rs",
-    "title": "Polícia do ES prende grupo que criou falso site de doações para vítimas das enchentes no RS"
+  "source:4aa2f028f086e86a63857e942cba8f4988d62032": {
+    "ts": 1782827666605,
+    "url": "https://eshoje.com.br/policia/2026/06/mobilizacao-pm-serra-aspra-ameacas-trafico",
+    "title": "Militares e associação fazem grande mobilização após ameaças na Serra"
+  },
+  "source:86fff1c3021c8ea99c8f878834c3443092c5959e": {
+    "ts": 1782827666605,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/06/a-forte-presenca-de-renato-casagrande-no-governo-do-estado",
+    "title": "A forte presença de Renato Casagrande no governo do Estado"
+  },
+  "source:e1745e1463a5b09b32bda4bb63b44af08900c5ee": {
+    "ts": 1782827666605,
+    "url": "https://eshoje.com.br/policia/2026/06/projeto-quer-liberar-uso-do-fgts-para-compra-de-armas-no-es-veja-quem-podera-usar",
+    "title": "Mais de 923 mil trabalhadores do Espírito Santo poderão usar FGTS para comprar arma se projeto virar lei"
   }
 }
