@@ -1,4 +1,9 @@
 {
+  "source:a7a4fa4eb8a11eec61bd46255711c9c6db3dd038": {
+    "ts": 1782820466687,
+    "url": "https://eshoje.com.br/esportes/2026/06/sul-americanos-ganham-por-goleada-confrontos-diretos-contra-europa-na-copa",
+    "title": "Sul-americanos ganham por goleada confrontos diretos contra Europa na Copa"
+  },
   "source:2be284dee10708d01e371c055c6d9eb2be011ab7": {
     "ts": 1782813266576,
     "url": "https://www.espiritosantonoticias.com.br/operacao-legado-policia-civil-prende-cinco-pessoas-e-apreende-carro-de-luxo-em-santa-maria-de-jetiba",
@@ -4199,9 +4204,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a7a4fa4eb8a11eec61bd46255711c9c6db3dd038": {
-    "ts": 1782820466687,
-    "url": "https://eshoje.com.br/esportes/2026/06/sul-americanos-ganham-por-goleada-confrontos-diretos-contra-europa-na-copa",
-    "title": "Sul-americanos ganham por goleada confrontos diretos contra Europa na Copa"
+  "source:e320a1384e2b4a8fb63d31cd1a85f1a9e9093f6c": {
+    "ts": 1782824066375,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/caminhao-tanque-tomba-e-br-262-e-totalmente-interditada",
+    "title": "Caminhão-tanque tomba e BR-262 é totalmente interditada"
+  },
+  "source:ed86c6af6531c9325f6be8d781d66aa5c867f77f": {
+    "ts": 1782824066375,
+    "url": "https://eshoje.com.br/policia/2026/06/policia-do-es-prende-grupo-que-criou-falso-site-de-doacoes-para-vitimas-das-enchentes-no-rs",
+    "title": "Polícia do ES prende grupo que criou falso site de doações para vítimas das enchentes no RS"
   }
 }
