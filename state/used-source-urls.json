@@ -1,4 +1,14 @@
 {
+  "source:0d72c894bb37dc847c222a999a206d9390fba24c": {
+    "ts": 1782849266852,
+    "url": "https://eshoje.com.br/esportes/2026/06/haaland-decide-quase-sem-querer-e-brasil-enfrenta-nas-oitavas-adversario-que-nunca-venceu",
+    "title": "Haaland decide quase sem querer, e Brasil enfrenta nas oitavas adversário que nunca venceu"
+  },
+  "source:90a31a1d4e8f97ef8856c372533c30925f6026ef": {
+    "ts": 1782849266852,
+    "url": "https://eshoje.com.br/espirito-santo/2026/06/frente-fria-traz-alerta-de-queda-de-temperaturas-ao-es",
+    "title": "Frente fria traz alerta de queda de temperaturas ao ES"
+  },
   "source:b75ff3ba3934c2b2cbdfda5f93ceca11dfefabb4": {
     "ts": 1782845666432,
     "url": "https://eshoje.com.br/politica/2026/06/ales-acelera-projeto-que-preve-alas-separadas-para-maes-que-perderam-bebes",
@@ -4274,14 +4284,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0d72c894bb37dc847c222a999a206d9390fba24c": {
-    "ts": 1782849266852,
-    "url": "https://eshoje.com.br/esportes/2026/06/haaland-decide-quase-sem-querer-e-brasil-enfrenta-nas-oitavas-adversario-que-nunca-venceu",
-    "title": "Haaland decide quase sem querer, e Brasil enfrenta nas oitavas adversário que nunca venceu"
+  "source:8daf4ac6624938a4ef0aca673af4bf9b3d3e8ac6": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/saude/2026/06/casos-disparam-e-sesa-faz-alerta-para-testes-hepatite-no-es",
+    "title": "Casos disparam e Sesa faz alerta para testes hepatite no ES"
   },
-  "source:90a31a1d4e8f97ef8856c372533c30925f6026ef": {
-    "ts": 1782849266852,
-    "url": "https://eshoje.com.br/espirito-santo/2026/06/frente-fria-traz-alerta-de-queda-de-temperaturas-ao-es",
-    "title": "Frente fria traz alerta de queda de temperaturas ao ES"
+  "source:dfce5fb3a717d806cdf5d3f87d378fb413f31511": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/saude/2026/06/cirurgia-plastica-es-inverno-recuperacao",
+    "title": "Cirurgia plástica no ES: por que a procura cresce no inverno"
+  },
+  "source:8a3dc1a6844e1f170a54cf3fa0fe132123864a98": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/geral/2026/06/serra-e-vale-assinam-acordo-para-avancar-com-projeto-da-terceira-via",
+    "title": "Serra e Vale assinam acordo para avançar com projeto da Terceira Via"
   }
 }
