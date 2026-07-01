@@ -1,4 +1,19 @@
 {
+  "source:8daf4ac6624938a4ef0aca673af4bf9b3d3e8ac6": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/saude/2026/06/casos-disparam-e-sesa-faz-alerta-para-testes-hepatite-no-es",
+    "title": "Casos disparam e Sesa faz alerta para testes hepatite no ES"
+  },
+  "source:dfce5fb3a717d806cdf5d3f87d378fb413f31511": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/saude/2026/06/cirurgia-plastica-es-inverno-recuperacao",
+    "title": "Cirurgia plástica no ES: por que a procura cresce no inverno"
+  },
+  "source:8a3dc1a6844e1f170a54cf3fa0fe132123864a98": {
+    "ts": 1782852868507,
+    "url": "https://eshoje.com.br/geral/2026/06/serra-e-vale-assinam-acordo-para-avancar-com-projeto-da-terceira-via",
+    "title": "Serra e Vale assinam acordo para avançar com projeto da Terceira Via"
+  },
   "source:0d72c894bb37dc847c222a999a206d9390fba24c": {
     "ts": 1782849266852,
     "url": "https://eshoje.com.br/esportes/2026/06/haaland-decide-quase-sem-querer-e-brasil-enfrenta-nas-oitavas-adversario-que-nunca-venceu",
@@ -4284,19 +4299,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:8daf4ac6624938a4ef0aca673af4bf9b3d3e8ac6": {
-    "ts": 1782852868507,
-    "url": "https://eshoje.com.br/saude/2026/06/casos-disparam-e-sesa-faz-alerta-para-testes-hepatite-no-es",
-    "title": "Casos disparam e Sesa faz alerta para testes hepatite no ES"
+  "source:e445d257e3b41c9e69da296949eacb5182909594": {
+    "ts": 1782903266790,
+    "url": "https://www.espiritosantonoticias.com.br/espirito-santo-se-posiciona-contra-proposta-que-pode-afetar-producao-de-tilapia-no-estado",
+    "title": "Espírito Santo se posiciona contra proposta que pode afetar produção de tilápia no estado"
   },
-  "source:dfce5fb3a717d806cdf5d3f87d378fb413f31511": {
-    "ts": 1782852868507,
-    "url": "https://eshoje.com.br/saude/2026/06/cirurgia-plastica-es-inverno-recuperacao",
-    "title": "Cirurgia plástica no ES: por que a procura cresce no inverno"
+  "source:39a9edec3798d65ad0e4c623bcbaec461cb07574": {
+    "ts": 1782903266790,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-apos-agredir-companheira-e-ser-esfaqueado-durante-tentativa-de-enforcamento-em-marilandia",
+    "title": "Homem é preso após agredir companheira e ser esfaqueado durante tentativa de enforcamento em Marilândia"
   },
-  "source:8a3dc1a6844e1f170a54cf3fa0fe132123864a98": {
-    "ts": 1782852868507,
-    "url": "https://eshoje.com.br/geral/2026/06/serra-e-vale-assinam-acordo-para-avancar-com-projeto-da-terceira-via",
-    "title": "Serra e Vale assinam acordo para avançar com projeto da Terceira Via"
+  "source:765d8c190c02eeb3667cb0dee6322e6142dedaea": {
+    "ts": 1782903266790,
+    "url": "https://www.espiritosantonoticias.com.br/encontro-reune-comunidades-quilombolas-para-celebrar-o-jongo-e-fortalecer-tradicao-no-espirito-santo",
+    "title": "Encontro reúne comunidades quilombolas para celebrar o Jongo e fortalecer tradição no Espírito Santo"
+  },
+  "source:d7b8970d1ce98ffe186bda34907b063830e7b684": {
+    "ts": 1782903266790,
+    "url": "https://www.espiritosantonoticias.com.br/comandante-geral-da-pm-reune-prefeitos-do-sul-do-es-para-discutir-acoes-de-seguranca-publica",
+    "title": "Comandante-geral da PM reúne prefeitos do Sul do ES para discutir ações de segurança pública"
+  },
+  "source:0f836df6980e286250b474bc3bd59827066c09b7": {
+    "ts": 1782903266790,
+    "url": "https://www.espiritosantonoticias.com.br/casal-e-preso-por-trafico-de-drogas-durante-operacao-da-policia-civil-em-anchieta",
+    "title": "Casal é preso por tráfico de drogas durante operação da Polícia Civil em Anchieta"
   }
 }
