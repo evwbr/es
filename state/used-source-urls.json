@@ -1,4 +1,19 @@
 {
+  "source:b40fca5166ebc4c54b7401501a1a739e83e7f088": {
+    "ts": 1782935666375,
+    "url": "https://eshoje.com.br/esportes/2026/07/ciclista-capixaba-vence-3a-etapa-do-circuito-carioca-de-downhill",
+    "title": "Ciclista capixaba vence 3ª etapa do Circuito Carioca de Downhill"
+  },
+  "source:9ff154424b8fdc9ed0963037c4cc137a39089676": {
+    "ts": 1782935666375,
+    "url": "https://eshoje.com.br/economia/2026/07/mpf-alerta-que-municipios-podem-acumular-divida-por-descumprir-piso-dos-professores",
+    "title": "MPF alerta que municípios podem acumular dívida por descumprir piso dos professores"
+  },
+  "source:414a9cbe3bc26e9d733ea5999c2dd72ddc3aa303": {
+    "ts": 1782935666375,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/cariacica-abre-vagas-de-tenis-de-mesa-para-pcds-em-nova-brasilia",
+    "title": "Cariacica abre vagas de tênis de mesa para PcDs em Nova Brasília"
+  },
   "source:27c1286bf5de83aeaf05392ef4f792e86e52e708": {
     "ts": 1782932066531,
     "url": "https://eshoje.com.br/saude/2026/07/soroterapia-mulheres-40-anos-vitoria-es-cansaco-hormonal",
@@ -4399,19 +4414,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b40fca5166ebc4c54b7401501a1a739e83e7f088": {
-    "ts": 1782935666375,
-    "url": "https://eshoje.com.br/esportes/2026/07/ciclista-capixaba-vence-3a-etapa-do-circuito-carioca-de-downhill",
-    "title": "Ciclista capixaba vence 3ª etapa do Circuito Carioca de Downhill"
+  "source:27f3597f02f948641164d95350098066977fde93": {
+    "ts": 1782939266315,
+    "url": "https://eshoje.com.br/esportes/2026/07/vitoria-e-rio-branco-vn-decidem-copa-espirito-santo-nesta-quarta-feira-01",
+    "title": "Vitória e Rio Branco VN decidem Copa Espírito Santo nesta quarta-feira (01)"
   },
-  "source:9ff154424b8fdc9ed0963037c4cc137a39089676": {
-    "ts": 1782935666375,
-    "url": "https://eshoje.com.br/economia/2026/07/mpf-alerta-que-municipios-podem-acumular-divida-por-descumprir-piso-dos-professores",
-    "title": "MPF alerta que municípios podem acumular dívida por descumprir piso dos professores"
-  },
-  "source:414a9cbe3bc26e9d733ea5999c2dd72ddc3aa303": {
-    "ts": 1782935666375,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/cariacica-abre-vagas-de-tenis-de-mesa-para-pcds-em-nova-brasilia",
-    "title": "Cariacica abre vagas de tênis de mesa para PcDs em Nova Brasília"
+  "source:71d38be76a8edbc4e40d214b2126ff670993cc3e": {
+    "ts": 1782939266315,
+    "url": "https://eshoje.com.br/policia/2026/07/operacao-contra-grupo-familiar-do-trafico-apreende-r-130-mil-e-carros-de-luxo-no-es",
+    "title": "Operação contra grupo familiar do tráfico apreende R$ 130 mil e carros de luxo no ES"
   }
 }
