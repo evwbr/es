@@ -1,4 +1,9 @@
 {
+  "source:bb4176f98a7da5a26341e48a4f4024307fd29422": {
+    "ts": 1782928466710,
+    "url": "https://eshoje.com.br/esportes/2026/07/raphinha-deve-ser-integrado-ao-elenco-nesta-quinta-mas-retorno-nas-oitavas-e-incerto",
+    "title": "Raphinha deve ser integrado ao elenco nesta quinta, mas retorno nas oitavas é incerto"
+  },
   "source:9f3d3707d5bfe6aed804cedae7845d698057d282": {
     "ts": 1782924866230,
     "url": "https://eshoje.com.br/policia/2026/07/tropa-da-finlandia-faccao-impoe-terror-controla-territorios-e-e-alvo-de-operacao-com-nove-presos-em-fundao",
@@ -4379,9 +4384,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:bb4176f98a7da5a26341e48a4f4024307fd29422": {
-    "ts": 1782928466710,
-    "url": "https://eshoje.com.br/esportes/2026/07/raphinha-deve-ser-integrado-ao-elenco-nesta-quinta-mas-retorno-nas-oitavas-e-incerto",
-    "title": "Raphinha deve ser integrado ao elenco nesta quinta, mas retorno nas oitavas é incerto"
+  "source:27c1286bf5de83aeaf05392ef4f792e86e52e708": {
+    "ts": 1782932066531,
+    "url": "https://eshoje.com.br/saude/2026/07/soroterapia-mulheres-40-anos-vitoria-es-cansaco-hormonal",
+    "title": "Cansaço após os 40 anos? Conheça os benefícios da soroterapia"
+  },
+  "source:d60958520f35b7f8a4970069caef9ff87675aa01": {
+    "ts": 1782932066531,
+    "url": "https://eshoje.com.br/policia/2026/07/espirito-santo-registra-39-assassinatos-no-mes-de-junho-o-menor-desde-1996",
+    "title": "Espírito Santo registra 39 assassinatos no mês de junho; o menor desde 1996"
+  },
+  "source:3f91757ebdb456804ad91a4b87ef83096bc87b5c": {
+    "ts": 1782932066531,
+    "url": "https://eshoje.com.br/saude/2026/07/morte-de-dentista-na-serra-pode-ser-a-quinta-por-dengue-no-espirito-santo-em-2026",
+    "title": "Morte de dentista na Serra pode ser a quinta por dengue no Espírito Santo em 2026"
   }
 }
