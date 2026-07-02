@@ -1,4 +1,14 @@
 {
+  "source:420137e29a0b2c544ac505d9931c49e16c23fa9c": {
+    "ts": 1783022066789,
+    "url": "https://eshoje.com.br/policia/2026/07/criminoso-home-office-suspeito-de-extorquir-medicos-do-es-por-telefone-e-preso-no-rj",
+    "title": "'Criminoso home office': suspeito de extorquir médicos do ES por telefone é preso no RJ"
+  },
+  "source:63ce9f7f6b1ff331c89bef414595d5327967b54f": {
+    "ts": 1783022066789,
+    "url": "https://eshoje.com.br/saude/2026/07/criancas-de-4-anos-terao-nova-dose-de-reforco-contra-a-poliomielite-a-partir-de-agosto",
+    "title": "Crianças de 4 anos terão nova dose de reforço contra a poliomielite a partir de agosto"
+  },
   "source:14c58bff5f329e92066620d0b66247deb48d1454": {
     "ts": 1783014866819,
     "url": "https://eshoje.com.br/policia/2026/07/policia-busca-suspeito-de-ataque-brutal-contra-morador-em-situacao-de-rua-em-santa-lucia-em-vitoria",
@@ -4524,14 +4534,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:420137e29a0b2c544ac505d9931c49e16c23fa9c": {
-    "ts": 1783022066789,
-    "url": "https://eshoje.com.br/policia/2026/07/criminoso-home-office-suspeito-de-extorquir-medicos-do-es-por-telefone-e-preso-no-rj",
-    "title": "'Criminoso home office': suspeito de extorquir médicos do ES por telefone é preso no RJ"
+  "source:24c47ee91bf538eac8c3d20c4102e7cb2b058525": {
+    "ts": 1783025666434,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-investiga-empresa-por-suspeita-de-crimes-ambientais-e-descumprimento-de-interdicao-na-serra",
+    "title": "Fiscalização da DEPMA identifica atividade irregular em empreendimento ambiental no Espírito Santo"
   },
-  "source:63ce9f7f6b1ff331c89bef414595d5327967b54f": {
-    "ts": 1783022066789,
-    "url": "https://eshoje.com.br/saude/2026/07/criancas-de-4-anos-terao-nova-dose-de-reforco-contra-a-poliomielite-a-partir-de-agosto",
-    "title": "Crianças de 4 anos terão nova dose de reforço contra a poliomielite a partir de agosto"
+  "source:d6f3d6d4cc29a5da8a5d5c79c7214da75f65d04a": {
+    "ts": 1783025666434,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-prende-dois-condenados-por-crimes-sexuais-durante-operacao-em-itapemirim",
+    "title": "Polícia prende dois homens durante operação em Itapemirim"
+  },
+  "source:f2817f0817c1ab3f0af2f0e92bb52f7b72b7d640": {
+    "ts": 1783025666434,
+    "url": "https://www.espiritosantonoticias.com.br/policia-militar-troca-comando-do-batalhao-ambiental-em-cerimonia-realizada-nesta-quarta-feira",
+    "title": "Tenente-coronel Waldir Junior assume comando do Batalhão de Polícia Militar Ambiental no Espírito Santo"
   }
 }
