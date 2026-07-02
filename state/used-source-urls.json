@@ -1,4 +1,9 @@
 {
+  "source:b7cc78aedec9ff717651eb3d640cf3c6cb317955": {
+    "ts": 1782953666432,
+    "url": "https://eshoje.com.br/politica/2026/07/ricardo-ferraco-anuncia-mudanca-na-secretaria-de-cultura",
+    "title": "Ricardo Ferraço anuncia mudança na Secretaria de Cultura"
+  },
   "source:4da34b676cd3fba918a5b3fafb197b0d2c4c5c22": {
     "ts": 1782946466806,
     "url": "https://eshoje.com.br/policia/2026/07/blitz-em-vitoria-leva-a-descoberta-de-estupro-contra-criancas-e-termina-com-dois-presos",
@@ -4429,9 +4434,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b7cc78aedec9ff717651eb3d640cf3c6cb317955": {
-    "ts": 1782953666432,
-    "url": "https://eshoje.com.br/politica/2026/07/ricardo-ferraco-anuncia-mudanca-na-secretaria-de-cultura",
-    "title": "Ricardo Ferraço anuncia mudança na Secretaria de Cultura"
+  "source:cb7fb6b0192c3992910a4afcef3e552b5d2c76db": {
+    "ts": 1782989666281,
+    "url": "https://www.espiritosantonoticias.com.br/pai-e-filho-sobrevivem-apos-barco-virar-no-mar-e-sao-resgatados-em-ilha-de-guarapari",
+    "title": "Pai e filho sobrevivem após barco virar no mar e são resgatados em ilha de Guarapari"
+  },
+  "source:d6d04271fadf688ecff99757cd646418390a781c": {
+    "ts": 1782989666281,
+    "url": "https://www.espiritosantonoticias.com.br/policia-prende-pm-da-reserva-por-agressao-a-ex-companheira-apos-confusao-em-guriri",
+    "title": "Polícia prende PM da reserva por agressão à ex-companheira após confusão em Guriri"
+  },
+  "source:5c2045594bee91851946ed5e1ebee483e0497316": {
+    "ts": 1782989666281,
+    "url": "https://www.espiritosantonoticias.com.br/policia-prende-casal-suspeito-de-abusar-das-proprias-enteadas-e-filhas-em-linhares",
+    "title": "Polícia prende casal suspeito de abusar das próprias enteadas e filhas em Linhares"
   }
 }
