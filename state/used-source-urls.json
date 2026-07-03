@@ -1,4 +1,9 @@
 {
+  "source:b2830a673398e74c1f0e3aff7516a4b872dd3c9f": {
+    "ts": 1783097666518,
+    "url": "https://eshoje.com.br/policia/2026/07/pf-prende-venda-ilegal-cigarros-eletronicos-es",
+    "title": "Polícia Federal prende dois empresários por comércio ilegal de cigarros eletrônicos no Espírito Santo"
+  },
   "source:c9ae81bdd8c1aa3953cdbf579b33a595d9f63e2f": {
     "ts": 1783094066412,
     "url": "https://eshoje.com.br/policia/2026/07/homem-e-preso-por-suspeita-de-estuprar-enteada-com-tea-em-cachoeiro-de-itapemirim",
@@ -4624,9 +4629,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b2830a673398e74c1f0e3aff7516a4b872dd3c9f": {
-    "ts": 1783097666518,
-    "url": "https://eshoje.com.br/policia/2026/07/pf-prende-venda-ilegal-cigarros-eletronicos-es",
-    "title": "Polícia Federal prende dois empresários por comércio ilegal de cigarros eletrônicos no Espírito Santo"
+  "source:7ccec8ce30813f848f7f3991658dc0b8affac8bc": {
+    "ts": 1783104866417,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/aquaviario-tera-viagens-extras-para-atender-publico-do-vila-rock-festival",
+    "title": "Sistema Aquaviário do ES amplia horários para Vila Rock Festival em Vila Velha"
+  },
+  "source:2f620a0ee06811a4eb269587de315b8f378cbd60": {
+    "ts": 1783104866417,
+    "url": "https://www.espiritosantonoticias.com.br/tjes-aumenta-para-mais-de-51-anos-pena-de-condenado-por-matar-enfermeira-gravida-em-alfredo-chaves",
+    "title": "TJES aumenta pena para 51 anos de prisão por assassinato de enfermeira grávida em Alfredo Chaves"
   }
 }
