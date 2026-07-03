@@ -1,4 +1,19 @@
 {
+  "source:67cda89c7986448c81797c25768862e15ac66529": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/policia/2026/07/funcionario-de-supermercado-e-ferido-com-golpe-de-tesoura-ao-defender-clientes-na-serra",
+    "title": "Funcionário de supermercado é ferido com tesoura ao tentar impedir ameaça a clientes na Serra"
+  },
+  "source:92114d077a20c9ce8f0f35e883b7129bb8bc9d68": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/esportes/2026/07/copa-vitoria-de-judo-e-festival-judolandia-agitam-sesport-neste-fim-de-semana",
+    "title": "Vitória recebe primeira etapa da Copa Vitória de Judô com cerca de 400 atletas"
+  },
+  "source:c2412a0dba600b215475f66d7835da2d8e922ec2": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/economia/2026/07/projeto-entrega-25-mil-mudas-e-acelera-diversificacao-da-agricultura-familiar-em-alto-rio-novo",
+    "title": "Alto Rio Novo recebe 2,5 mil mudas de cacau e abacate para diversificar agricultura familiar"
+  },
   "source:02101fc1be189bee47bc2e3cfef4df4079d51a9e": {
     "ts": 1783079666960,
     "url": "https://eshoje.com.br/policia/2026/07/jovem-e-preso-enquanto-comia-lanche-apos-fugir-da-guarda-em-vitoria",
@@ -4584,19 +4599,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:67cda89c7986448c81797c25768862e15ac66529": {
-    "ts": 1783086866495,
-    "url": "https://eshoje.com.br/policia/2026/07/funcionario-de-supermercado-e-ferido-com-golpe-de-tesoura-ao-defender-clientes-na-serra",
-    "title": "Funcionário de supermercado é ferido com tesoura ao tentar impedir ameaça a clientes na Serra"
+  "source:4c871ddcea3a50ac3163ae36f0fff258ca5488b1": {
+    "ts": 1783090466859,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/prefeitura-da-serra-transmite-jogo-do-brasil-em-quatro-pracas-neste-domingo-5",
+    "title": "Serra promove evento \"Copa na Praça\" com telões em quatro locais para incentivar integração social"
   },
-  "source:92114d077a20c9ce8f0f35e883b7129bb8bc9d68": {
-    "ts": 1783086866495,
-    "url": "https://eshoje.com.br/esportes/2026/07/copa-vitoria-de-judo-e-festival-judolandia-agitam-sesport-neste-fim-de-semana",
-    "title": "Vitória recebe primeira etapa da Copa Vitória de Judô com cerca de 400 atletas"
+  "source:c28e7cfa8ce732374e1a0860845731ea85f27272": {
+    "ts": 1783090466859,
+    "url": "https://eshoje.com.br/policia/2026/07/neto-agride-avo-com-socos-em-discussao-sobre-faltas-na-escola-em-vila-velha",
+    "title": "Adolescente é apreendido por agredir avó em casa no Espírito Santo"
   },
-  "source:c2412a0dba600b215475f66d7835da2d8e922ec2": {
-    "ts": 1783086866495,
-    "url": "https://eshoje.com.br/economia/2026/07/projeto-entrega-25-mil-mudas-e-acelera-diversificacao-da-agricultura-familiar-em-alto-rio-novo",
-    "title": "Alto Rio Novo recebe 2,5 mil mudas de cacau e abacate para diversificar agricultura familiar"
+  "source:741a4c6dee48862a8870d2c1110912a2c5a9f838": {
+    "ts": 1783090466859,
+    "url": "https://eshoje.com.br/policia/2026/07/jovem-morre-apos-colisao-traseira-com-caminhao-na-rodovia-do-contorno",
+    "title": "Motociclista morre após colisão com caminhão na BR-101 em Cariacica"
+  },
+  "source:4bf93a5327a23b702f59dfb4d86dfc3f8ef6f7ab": {
+    "ts": 1783090466859,
+    "url": "https://eshoje.com.br/esportes/2026/07/irmaos-capixabas-buscam-titulo-no-segundo-semestre-da-copa-sao-paulo-light-de-kart",
+    "title": "Irmãos capixabas Miguel e Joaquim Emerick disputam segunda metade da Copa São Paulo Light de Kart em Interlagos"
   }
 }
