@@ -1,4 +1,9 @@
 {
+  "source:02101fc1be189bee47bc2e3cfef4df4079d51a9e": {
+    "ts": 1783079666960,
+    "url": "https://eshoje.com.br/policia/2026/07/jovem-e-preso-enquanto-comia-lanche-apos-fugir-da-guarda-em-vitoria",
+    "title": "Jovem de 24 anos é detido em Vitória após fugir de abordagem com motocicleta sem placa"
+  },
   "source:c64dbbb536e993db11d2c20d8a0eece07ab6bd60": {
     "ts": 1783076066522,
     "url": "https://eshoje.com.br/esportes/2026/07/portugal-vira-sobre-croacia-e-vai-as-oitavas-com-gols-de-cr7-e-ramos",
@@ -4579,9 +4584,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:02101fc1be189bee47bc2e3cfef4df4079d51a9e": {
-    "ts": 1783079666960,
-    "url": "https://eshoje.com.br/policia/2026/07/jovem-e-preso-enquanto-comia-lanche-apos-fugir-da-guarda-em-vitoria",
-    "title": "Jovem de 24 anos é detido em Vitória após fugir de abordagem com motocicleta sem placa"
+  "source:67cda89c7986448c81797c25768862e15ac66529": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/policia/2026/07/funcionario-de-supermercado-e-ferido-com-golpe-de-tesoura-ao-defender-clientes-na-serra",
+    "title": "Funcionário de supermercado é ferido com tesoura ao tentar impedir ameaça a clientes na Serra"
+  },
+  "source:92114d077a20c9ce8f0f35e883b7129bb8bc9d68": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/esportes/2026/07/copa-vitoria-de-judo-e-festival-judolandia-agitam-sesport-neste-fim-de-semana",
+    "title": "Vitória recebe primeira etapa da Copa Vitória de Judô com cerca de 400 atletas"
+  },
+  "source:c2412a0dba600b215475f66d7835da2d8e922ec2": {
+    "ts": 1783086866495,
+    "url": "https://eshoje.com.br/economia/2026/07/projeto-entrega-25-mil-mudas-e-acelera-diversificacao-da-agricultura-familiar-em-alto-rio-novo",
+    "title": "Alto Rio Novo recebe 2,5 mil mudas de cacau e abacate para diversificar agricultura familiar"
   }
 }
