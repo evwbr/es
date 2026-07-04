@@ -1,4 +1,14 @@
 {
+  "source:47bba0db90fd84c14093c469d304d6d239ea715c": {
+    "ts": 1783169666516,
+    "url": "https://eshoje.com.br/policia/2026/07/apreensao-de-fuzis-cresce-espirito-santo-dados-seguranca",
+    "title": "Apreensão de fuzis cresce 212% no Espírito Santo entre 2021 e 2025, aponta estudo do Ministério da Justiça"
+  },
+  "source:f545bc60ad043e40ebe7bb4f41e0193b3c276543": {
+    "ts": 1783169666516,
+    "url": "https://eshoje.com.br/esportes/2026/07/trio-capixaba-conquista-ouro-na-copa-sul-americana-de-ginastica-ritmica",
+    "title": "Ginastas capixabas conquistam ouro na Copa Sul-Americana de Ginástica Rítmica em Assunção"
+  },
   "source:33b014586db2ebd5ded4ff3497ce6827a0d9b77d": {
     "ts": 1783115666361,
     "url": "https://eshoje.com.br/espirito-santo/2026/07/buda-de-ibiracu-e-declarado-patrimonio-cultural-material-do-es",
@@ -4649,14 +4659,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:47bba0db90fd84c14093c469d304d6d239ea715c": {
-    "ts": 1783169666516,
-    "url": "https://eshoje.com.br/policia/2026/07/apreensao-de-fuzis-cresce-espirito-santo-dados-seguranca",
-    "title": "Apreensão de fuzis cresce 212% no Espírito Santo entre 2021 e 2025, aponta estudo do Ministério da Justiça"
+  "source:086f90f7d5200c315ca3201f32533ad3f2289fe7": {
+    "ts": 1783180466457,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/justica-condena-reu-homicidio-guriri-sao-mateus",
+    "title": "Tribunal do Júri de São Mateus condena homem a 25 anos por homicídio em Guriri"
   },
-  "source:f545bc60ad043e40ebe7bb4f41e0193b3c276543": {
-    "ts": 1783169666516,
-    "url": "https://eshoje.com.br/esportes/2026/07/trio-capixaba-conquista-ouro-na-copa-sul-americana-de-ginastica-ritmica",
-    "title": "Ginastas capixabas conquistam ouro na Copa Sul-Americana de Ginástica Rítmica em Assunção"
+  "source:86a650cdde380c604450e24a109f762bf4e5013f": {
+    "ts": 1783180466457,
+    "url": "https://eshoje.com.br/politica/2026/07/concurso-serra-prefeitura-cria-vagas-saude-educacao",
+    "title": "Serra propõe criação de 1.744 vagas para servidores nas áreas de saúde e educação"
   }
 }
