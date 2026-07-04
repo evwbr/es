@@ -1,4 +1,9 @@
 {
+  "source:33b014586db2ebd5ded4ff3497ce6827a0d9b77d": {
+    "ts": 1783115666361,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/buda-de-ibiracu-e-declarado-patrimonio-cultural-material-do-es",
+    "title": "Grande Buda de Ibiraçu é declarado patrimônio cultural material do Espírito Santo"
+  },
   "source:ff2254b9d620c3c290090e81723888031c77db1f": {
     "ts": 1783112066303,
     "url": "https://eshoje.com.br/espirito-santo/2026/07/triathlon-dos-bombeiros-altera-transito-em-vitoria-e-suspende-ciclofaixa-no-domingo-5",
@@ -4644,9 +4649,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:33b014586db2ebd5ded4ff3497ce6827a0d9b77d": {
-    "ts": 1783115666361,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/buda-de-ibiracu-e-declarado-patrimonio-cultural-material-do-es",
-    "title": "Grande Buda de Ibiraçu é declarado patrimônio cultural material do Espírito Santo"
+  "source:47bba0db90fd84c14093c469d304d6d239ea715c": {
+    "ts": 1783169666516,
+    "url": "https://eshoje.com.br/policia/2026/07/apreensao-de-fuzis-cresce-espirito-santo-dados-seguranca",
+    "title": "Apreensão de fuzis cresce 212% no Espírito Santo entre 2021 e 2025, aponta estudo do Ministério da Justiça"
+  },
+  "source:f545bc60ad043e40ebe7bb4f41e0193b3c276543": {
+    "ts": 1783169666516,
+    "url": "https://eshoje.com.br/esportes/2026/07/trio-capixaba-conquista-ouro-na-copa-sul-americana-de-ginastica-ritmica",
+    "title": "Ginastas capixabas conquistam ouro na Copa Sul-Americana de Ginástica Rítmica em Assunção"
   }
 }
