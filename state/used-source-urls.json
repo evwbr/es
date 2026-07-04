@@ -1,4 +1,14 @@
 {
+  "source:086f90f7d5200c315ca3201f32533ad3f2289fe7": {
+    "ts": 1783180466457,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/justica-condena-reu-homicidio-guriri-sao-mateus",
+    "title": "Tribunal do Júri de São Mateus condena homem a 25 anos por homicídio em Guriri"
+  },
+  "source:86a650cdde380c604450e24a109f762bf4e5013f": {
+    "ts": 1783180466457,
+    "url": "https://eshoje.com.br/politica/2026/07/concurso-serra-prefeitura-cria-vagas-saude-educacao",
+    "title": "Serra propõe criação de 1.744 vagas para servidores nas áreas de saúde e educação"
+  },
   "source:47bba0db90fd84c14093c469d304d6d239ea715c": {
     "ts": 1783169666516,
     "url": "https://eshoje.com.br/policia/2026/07/apreensao-de-fuzis-cresce-espirito-santo-dados-seguranca",
@@ -4659,14 +4669,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:086f90f7d5200c315ca3201f32533ad3f2289fe7": {
-    "ts": 1783180466457,
-    "url": "https://eshoje.com.br/politica/justica/2026/07/justica-condena-reu-homicidio-guriri-sao-mateus",
-    "title": "Tribunal do Júri de São Mateus condena homem a 25 anos por homicídio em Guriri"
-  },
-  "source:86a650cdde380c604450e24a109f762bf4e5013f": {
-    "ts": 1783180466457,
-    "url": "https://eshoje.com.br/politica/2026/07/concurso-serra-prefeitura-cria-vagas-saude-educacao",
-    "title": "Serra propõe criação de 1.744 vagas para servidores nas áreas de saúde e educação"
+  "source:e953b1c5764f2d7c678097f1f9f00cfe05bd45f2": {
+    "ts": 1783194866480,
+    "url": "https://eshoje.com.br/policia/2026/07/acidente-navio-porto-de-vitoria-hoje",
+    "title": "Pane técnica provoca colisão entre navios no Porto de Vitória sem feridos"
   }
 }
