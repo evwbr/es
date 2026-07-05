@@ -1,4 +1,9 @@
 {
+  "source:5bace09cb29f53b4cad720fa9f1f5faf8266f287": {
+    "ts": 1783245266942,
+    "url": "https://eshoje.com.br/economia/2026/07/municipio-na-regiao-serrana-produz-mais-da-metade-de-toda-a-tangerina-colhida-no-es",
+    "title": "Domingos Martins lidera produção de tangerina no Espírito Santo com mais de 50% da safra estadual"
+  },
   "source:f002dcea2053e214ec8608e84929092309d3d77b": {
     "ts": 1783216467766,
     "url": "https://www.espiritosantonoticias.com.br/operacao-conjunta-entre-pces-e-pmes-resulta-na-apreensao-de-drogas-em-guacui",
@@ -4684,9 +4689,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:5bace09cb29f53b4cad720fa9f1f5faf8266f287": {
-    "ts": 1783245266942,
-    "url": "https://eshoje.com.br/economia/2026/07/municipio-na-regiao-serrana-produz-mais-da-metade-de-toda-a-tangerina-colhida-no-es",
-    "title": "Domingos Martins lidera produção de tangerina no Espírito Santo com mais de 50% da safra estadual"
+  "source:7f56ad250b1c4303bde77041be4b52c23787ba9d": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/jovem-morto-tiros-ilha-do-principe-vitoria-dhpp",
+    "title": "Jovem de 23 anos é assassinado a tiros no bairro Ilha do Príncipe, em Vitória"
+  },
+  "source:273d219328f09e9f8137074bd7dcbf52c4dbbff9": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/acidente",
+    "title": "Jovem de 27 anos morre afogado após carro cair em represa na zona rural de Pinheiros"
+  },
+  "source:1bc3fd1c81776bfe509202eabb0954161235622e": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/policial-militar-e-baleado-em-tiroteio-com-o-pcv-no-residencial-limao-em-cariacica",
+    "title": "Policial militar é baleado durante confronto com criminosos em Cariacica"
   }
 }
