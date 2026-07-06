@@ -1,4 +1,34 @@
 {
+  "source:f03cefde898893b62eb9b35bfe317afd4d35c168": {
+    "ts": 1783349666492,
+    "url": "https://eshoje.com.br/policia/2026/07/sargento-da-pm-e-baleado-durante-confronto-com-criminosos-em-cariacica",
+    "title": "Sargento da PM é baleado durante confronto com suspeitos em Cariacica"
+  },
+  "source:8570f24c7a5f8469f0c46f338c9ff4cd1e135f17": {
+    "ts": 1783349666492,
+    "url": "https://eshoje.com.br/policia/2026/07/menino-de-10-anos-sofre-queimaduras-nas-maos-apos-castigo-aplicado-pela-propria-mae",
+    "title": "Mãe é detida por queimar mãos do filho de 10 anos em Sooretama"
+  },
+  "source:db58c5cde5ec22f6acf7bed29c9756c28e9c9007": {
+    "ts": 1783349666492,
+    "url": "https://eshoje.com.br/policia/2026/07/duas-mulheres-morrem-carbonizadas-apos-grave-acidente-em-guarapari",
+    "title": "Colisão frontal seguida de incêndio mata duas mulheres e fere quatro em Guarapari"
+  },
+  "source:c1978b32c42379ffce3f36478cce66c32d0891ad": {
+    "ts": 1783349666492,
+    "url": "https://www.espiritosantonoticias.com.br/batida-entre-duas-motos-deixa-tres-feridos-em-cachoeiro-de-itapemirim",
+    "title": "Três ficam feridos após colisão entre motocicletas em Cachoeiro de Itapemirim"
+  },
+  "source:76f89d6613e677993b2e1dd292e359db480f190b": {
+    "ts": 1783349666492,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-foge-apos-acidente-e-provoca-serie-de-batidas-em-linhares",
+    "title": "Motorista provoca série de acidentes em Linhares durante fuga e colide contra residência"
+  },
+  "source:fadd2983c611f824a6b8c1e3ec07e02f7d49fc77": {
+    "ts": 1783349666492,
+    "url": "https://www.espiritosantonoticias.com.br/guarda-encontra-carro-com-garrafa-pet-usada-como-tanque-de-combustivel-em-vitoria",
+    "title": "Guarda Municipal apreende carro com tanque de combustível improvisado em Vitória"
+  },
   "source:384ed850b2fa31b9e5baee19e543bfe31c237d5c": {
     "ts": 1783342467335,
     "url": "https://eshoje.com.br/saude/2026/07/chikungunya-vila-velha-tera-13-unidades-para-atendimento-de-casos-cronicos",
@@ -4719,34 +4749,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f03cefde898893b62eb9b35bfe317afd4d35c168": {
-    "ts": 1783349666492,
-    "url": "https://eshoje.com.br/policia/2026/07/sargento-da-pm-e-baleado-durante-confronto-com-criminosos-em-cariacica",
-    "title": "Sargento da PM é baleado durante confronto com suspeitos em Cariacica"
+  "source:4f1a6bedee69638631fee95b0092d92e3d5cb00b": {
+    "ts": 1783356866829,
+    "url": "https://eshoje.com.br/policia/2026/07/adolescente-de-15-anos-mata-homem-e-fere-outro-em-frente-a-bar-em-barra-de-sao-francisco",
+    "title": "Adolescente de 15 anos é apreendido após matar homem e balear outro em Barra de São Francisco"
   },
-  "source:8570f24c7a5f8469f0c46f338c9ff4cd1e135f17": {
-    "ts": 1783349666492,
-    "url": "https://eshoje.com.br/policia/2026/07/menino-de-10-anos-sofre-queimaduras-nas-maos-apos-castigo-aplicado-pela-propria-mae",
-    "title": "Mãe é detida por queimar mãos do filho de 10 anos em Sooretama"
-  },
-  "source:db58c5cde5ec22f6acf7bed29c9756c28e9c9007": {
-    "ts": 1783349666492,
-    "url": "https://eshoje.com.br/policia/2026/07/duas-mulheres-morrem-carbonizadas-apos-grave-acidente-em-guarapari",
-    "title": "Colisão frontal seguida de incêndio mata duas mulheres e fere quatro em Guarapari"
-  },
-  "source:c1978b32c42379ffce3f36478cce66c32d0891ad": {
-    "ts": 1783349666492,
-    "url": "https://www.espiritosantonoticias.com.br/batida-entre-duas-motos-deixa-tres-feridos-em-cachoeiro-de-itapemirim",
-    "title": "Três ficam feridos após colisão entre motocicletas em Cachoeiro de Itapemirim"
-  },
-  "source:76f89d6613e677993b2e1dd292e359db480f190b": {
-    "ts": 1783349666492,
-    "url": "https://www.espiritosantonoticias.com.br/motorista-foge-apos-acidente-e-provoca-serie-de-batidas-em-linhares",
-    "title": "Motorista provoca série de acidentes em Linhares durante fuga e colide contra residência"
-  },
-  "source:fadd2983c611f824a6b8c1e3ec07e02f7d49fc77": {
-    "ts": 1783349666492,
-    "url": "https://www.espiritosantonoticias.com.br/guarda-encontra-carro-com-garrafa-pet-usada-como-tanque-de-combustivel-em-vitoria",
-    "title": "Guarda Municipal apreende carro com tanque de combustível improvisado em Vitória"
+  "source:f979d56ca68b8b9c9751e791119e2941a10541e0": {
+    "ts": 1783356866829,
+    "url": "https://eshoje.com.br/policia/2026/07/crianca-de-4-anos-pede-socorro-pela-janela-e-mae-e-presa-por-abandono-em-vila-velha",
+    "title": "Mulher é presa em Vila Velha por deixar filho de 4 anos sozinho em casa durante festa"
   }
 }
