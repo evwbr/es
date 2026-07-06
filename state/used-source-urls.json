@@ -1,4 +1,19 @@
 {
+  "source:7f56ad250b1c4303bde77041be4b52c23787ba9d": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/jovem-morto-tiros-ilha-do-principe-vitoria-dhpp",
+    "title": "Jovem de 23 anos é assassinado a tiros no bairro Ilha do Príncipe, em Vitória"
+  },
+  "source:273d219328f09e9f8137074bd7dcbf52c4dbbff9": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/acidente",
+    "title": "Jovem de 27 anos morre afogado após carro cair em represa na zona rural de Pinheiros"
+  },
+  "source:1bc3fd1c81776bfe509202eabb0954161235622e": {
+    "ts": 1783263266568,
+    "url": "https://eshoje.com.br/policia/2026/07/policial-militar-e-baleado-em-tiroteio-com-o-pcv-no-residencial-limao-em-cariacica",
+    "title": "Policial militar é baleado durante confronto com criminosos em Cariacica"
+  },
   "source:5bace09cb29f53b4cad720fa9f1f5faf8266f287": {
     "ts": 1783245266942,
     "url": "https://eshoje.com.br/economia/2026/07/municipio-na-regiao-serrana-produz-mais-da-metade-de-toda-a-tangerina-colhida-no-es",
@@ -4689,19 +4704,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7f56ad250b1c4303bde77041be4b52c23787ba9d": {
-    "ts": 1783263266568,
-    "url": "https://eshoje.com.br/policia/2026/07/jovem-morto-tiros-ilha-do-principe-vitoria-dhpp",
-    "title": "Jovem de 23 anos é assassinado a tiros no bairro Ilha do Príncipe, em Vitória"
+  "source:384ed850b2fa31b9e5baee19e543bfe31c237d5c": {
+    "ts": 1783342467335,
+    "url": "https://eshoje.com.br/saude/2026/07/chikungunya-vila-velha-tera-13-unidades-para-atendimento-de-casos-cronicos",
+    "title": "Mais da metade dos pacientes com chikungunya em Vila Velha desenvolve forma crônica da doença"
   },
-  "source:273d219328f09e9f8137074bd7dcbf52c4dbbff9": {
-    "ts": 1783263266568,
-    "url": "https://eshoje.com.br/policia/2026/07/acidente",
-    "title": "Jovem de 27 anos morre afogado após carro cair em represa na zona rural de Pinheiros"
+  "source:951ce6945e9424420028c95c398346b0b708b6df": {
+    "ts": 1783342467335,
+    "url": "https://eshoje.com.br/economia/2026/07/importacoes-do-espirito-santo-crescem-36-e-impulsionam-comercio-exterior",
+    "title": "Comércio exterior do Espírito Santo cresce 14,2% em maio impulsionado por importações"
   },
-  "source:1bc3fd1c81776bfe509202eabb0954161235622e": {
-    "ts": 1783263266568,
-    "url": "https://eshoje.com.br/policia/2026/07/policial-militar-e-baleado-em-tiroteio-com-o-pcv-no-residencial-limao-em-cariacica",
-    "title": "Policial militar é baleado durante confronto com criminosos em Cariacica"
+  "source:613a3546166e8176fb5503af60c4bc222cb44c30": {
+    "ts": 1783342467335,
+    "url": "https://eshoje.com.br/esportes/2026/07/eliminacao-amplia-maior-jejum-do-brasil-em-copas-do-mundo",
+    "title": "Brasil enfrenta maior jejum em Copas do Mundo desde 1958 após eliminação em 2026"
   }
 }
