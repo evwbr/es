@@ -1,4 +1,9 @@
 {
+  "source:29ba3ae516bdf685f25b48ac9e860ea27a38f699": {
+    "ts": 1783360467622,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/obras-na-avenida-mario-gurgel-mudam-pontos-de-onibus-em-cariacica",
+    "title": "Pontos de ônibus em Cariacica são realocados para garantir segurança e melhorar trânsito"
+  },
   "source:4f1a6bedee69638631fee95b0092d92e3d5cb00b": {
     "ts": 1783356866829,
     "url": "https://eshoje.com.br/policia/2026/07/adolescente-de-15-anos-mata-homem-e-fere-outro-em-frente-a-bar-em-barra-de-sao-francisco",
@@ -4759,9 +4764,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:29ba3ae516bdf685f25b48ac9e860ea27a38f699": {
-    "ts": 1783360467622,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/obras-na-avenida-mario-gurgel-mudam-pontos-de-onibus-em-cariacica",
-    "title": "Pontos de ônibus em Cariacica são realocados para garantir segurança e melhorar trânsito"
+  "source:7e1b9c9e9a96adc85817abdaff321cdace3ceb3a": {
+    "ts": 1783364066464,
+    "url": "https://eshoje.com.br/policia/2026/07/carro-com-garrafa-plastica-no-lugar-do-tanque-e-apreendido-durante-blitz-em-vitoria",
+    "title": "Guarda Municipal de Vitória flagra carro com tanque improvisado e apreende veículo na Mata da Praia"
+  },
+  "source:edbdf085c6f1de8b2a182ac03bb8c581963c4d20": {
+    "ts": 1783364066464,
+    "url": "https://eshoje.com.br/policia/2026/07/motorista-bebado-e-preso-apos-acidente-em-praca-de-vitoria-carro-tinha-sinais-de-adulteracao",
+    "title": "Motorista embriagado é detido após acidente na Praça Asdrubal Soares, em Vitória"
   }
 }
