@@ -1,4 +1,14 @@
 {
+  "source:7e1b9c9e9a96adc85817abdaff321cdace3ceb3a": {
+    "ts": 1783364066464,
+    "url": "https://eshoje.com.br/policia/2026/07/carro-com-garrafa-plastica-no-lugar-do-tanque-e-apreendido-durante-blitz-em-vitoria",
+    "title": "Guarda Municipal de Vitória flagra carro com tanque improvisado e apreende veículo na Mata da Praia"
+  },
+  "source:edbdf085c6f1de8b2a182ac03bb8c581963c4d20": {
+    "ts": 1783364066464,
+    "url": "https://eshoje.com.br/policia/2026/07/motorista-bebado-e-preso-apos-acidente-em-praca-de-vitoria-carro-tinha-sinais-de-adulteracao",
+    "title": "Motorista embriagado é detido após acidente na Praça Asdrubal Soares, em Vitória"
+  },
   "source:29ba3ae516bdf685f25b48ac9e860ea27a38f699": {
     "ts": 1783360467622,
     "url": "https://eshoje.com.br/espirito-santo/2026/07/obras-na-avenida-mario-gurgel-mudam-pontos-de-onibus-em-cariacica",
@@ -4764,14 +4774,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7e1b9c9e9a96adc85817abdaff321cdace3ceb3a": {
-    "ts": 1783364066464,
-    "url": "https://eshoje.com.br/policia/2026/07/carro-com-garrafa-plastica-no-lugar-do-tanque-e-apreendido-durante-blitz-em-vitoria",
-    "title": "Guarda Municipal de Vitória flagra carro com tanque improvisado e apreende veículo na Mata da Praia"
-  },
-  "source:edbdf085c6f1de8b2a182ac03bb8c581963c4d20": {
-    "ts": 1783364066464,
-    "url": "https://eshoje.com.br/policia/2026/07/motorista-bebado-e-preso-apos-acidente-em-praca-de-vitoria-carro-tinha-sinais-de-adulteracao",
-    "title": "Motorista embriagado é detido após acidente na Praça Asdrubal Soares, em Vitória"
+  "source:cdd6d302e8145b591f0afc5dcc6a19e1c324852c": {
+    "ts": 1783374866698,
+    "url": "https://eshoje.com.br/economia/2026/07/espirito-santo-registra-crescimento-de-132-no-setor-de-servicos-e-ganha-mais-de-41-mil-empresas-em-um-ano",
+    "title": "Número de empresas ativas no Espírito Santo cresce 13,2% em um ano, impulsionado por MEIs e microempresas"
   }
 }
