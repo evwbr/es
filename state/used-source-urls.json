@@ -1,4 +1,14 @@
 {
+  "source:232e6dd613ddd480cbe697b3198e99fa9246a225": {
+    "ts": 1783461266510,
+    "url": "https://www.espiritosantonoticias.com.br/acabou-em-cana-foragido-de-sao-paulo-procurado-por-extorsao-prisao-aconteceu-em-marataizes",
+    "title": "Polícia Civil prende foragido em estabelecimento comercial no Centro de Marataízes"
+  },
+  "source:784232227f73b5e471923c4b66b7c0804b28fbd6": {
+    "ts": 1783461266510,
+    "url": "https://eshoje.com.br/policia/2026/07/quase-mil-produtos-vencidos-sao-encontrados-em-distribuidoras-de-vila-velha",
+    "title": "Fiscalização apreende cerca de mil produtos vencidos em distribuidoras de Vila Velha"
+  },
   "source:ef737d83cbc847d54557bdfb5180e50d90e00490": {
     "ts": 1783457666709,
     "url": "https://eshoje.com.br/politica/2026/07/evair-de-melo-convocacao-ministro-pcc-comando-vermelho",
@@ -4904,14 +4914,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:232e6dd613ddd480cbe697b3198e99fa9246a225": {
-    "ts": 1783461266510,
-    "url": "https://www.espiritosantonoticias.com.br/acabou-em-cana-foragido-de-sao-paulo-procurado-por-extorsao-prisao-aconteceu-em-marataizes",
-    "title": "Polícia Civil prende foragido em estabelecimento comercial no Centro de Marataízes"
+  "source:f7d0248f3eb2dfde7204dc1fc00167b40703cd50": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/contas-de-ex-presidente-da-camara-de-irupi-sao-rejeitadas-por-aumento-de-despesas-no-fim-do-mandato",
+    "title": "TCE-ES julga irregulares contas do ex-presidente da Câmara de Irupi por aumento de despesas em fim de mandato"
   },
-  "source:784232227f73b5e471923c4b66b7c0804b28fbd6": {
-    "ts": 1783461266510,
-    "url": "https://eshoje.com.br/policia/2026/07/quase-mil-produtos-vencidos-sao-encontrados-em-distribuidoras-de-vila-velha",
-    "title": "Fiscalização apreende cerca de mil produtos vencidos em distribuidoras de Vila Velha"
+  "source:b20aa74ddf80d55c7c17a8f97d0755391140ed4b": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/esportes/2026/07/equipe-de-basquete-da-serra-garante-vaga-no-campeonato-brasileiro-escolar",
+    "title": "Equipe feminina de basquete da Serra conquista título estadual e vai ao Campeonato Brasileiro Escolar"
+  },
+  "source:698fb77cb31c023c40cc6d5c32604ece97912482": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/saude/2026/07/vacinacao-antirrabica-em-vila-velha-comeca-na-zona-rural-na-proxima-semana",
+    "title": "Campanha de vacinação antirrábica começa na zona rural de Vila Velha em setembro"
   }
 }
