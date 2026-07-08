@@ -1,4 +1,19 @@
 {
+  "source:f7d0248f3eb2dfde7204dc1fc00167b40703cd50": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/contas-de-ex-presidente-da-camara-de-irupi-sao-rejeitadas-por-aumento-de-despesas-no-fim-do-mandato",
+    "title": "TCE-ES julga irregulares contas do ex-presidente da Câmara de Irupi por aumento de despesas em fim de mandato"
+  },
+  "source:b20aa74ddf80d55c7c17a8f97d0755391140ed4b": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/esportes/2026/07/equipe-de-basquete-da-serra-garante-vaga-no-campeonato-brasileiro-escolar",
+    "title": "Equipe feminina de basquete da Serra conquista título estadual e vai ao Campeonato Brasileiro Escolar"
+  },
+  "source:698fb77cb31c023c40cc6d5c32604ece97912482": {
+    "ts": 1783511666401,
+    "url": "https://eshoje.com.br/saude/2026/07/vacinacao-antirrabica-em-vila-velha-comeca-na-zona-rural-na-proxima-semana",
+    "title": "Campanha de vacinação antirrábica começa na zona rural de Vila Velha em setembro"
+  },
   "source:232e6dd613ddd480cbe697b3198e99fa9246a225": {
     "ts": 1783461266510,
     "url": "https://www.espiritosantonoticias.com.br/acabou-em-cana-foragido-de-sao-paulo-procurado-por-extorsao-prisao-aconteceu-em-marataizes",
@@ -4914,19 +4929,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f7d0248f3eb2dfde7204dc1fc00167b40703cd50": {
-    "ts": 1783511666401,
-    "url": "https://eshoje.com.br/politica/justica/2026/07/contas-de-ex-presidente-da-camara-de-irupi-sao-rejeitadas-por-aumento-de-despesas-no-fim-do-mandato",
-    "title": "TCE-ES julga irregulares contas do ex-presidente da Câmara de Irupi por aumento de despesas em fim de mandato"
+  "source:a2531ee4fd3a6ac930767fd3f82ee0e5a26e8719": {
+    "ts": 1783515266983,
+    "url": "https://www.espiritosantonoticias.com.br/operario-morre-apos-ser-atropelado-por-retroescavadeira-em-pedreira-de-castelo-es",
+    "title": "Funcionário morre após acidente com maquinário pesado em empresa de Castelo"
   },
-  "source:b20aa74ddf80d55c7c17a8f97d0755391140ed4b": {
-    "ts": 1783511666401,
-    "url": "https://eshoje.com.br/esportes/2026/07/equipe-de-basquete-da-serra-garante-vaga-no-campeonato-brasileiro-escolar",
-    "title": "Equipe feminina de basquete da Serra conquista título estadual e vai ao Campeonato Brasileiro Escolar"
+  "source:0dc8cbee9b7f9e28e399279a24557aede243b716": {
+    "ts": 1783515266983,
+    "url": "https://eshoje.com.br/policia/2026/07/condenado-por-roubo-de-cargas-no-rj-e-preso-enquanto-trabalhava-como-assessor-na-serra",
+    "title": "Foragido da Justiça do Rio de Janeiro é preso na Serra enquanto trabalhava como assessor parlamentar"
   },
-  "source:698fb77cb31c023c40cc6d5c32604ece97912482": {
-    "ts": 1783511666401,
-    "url": "https://eshoje.com.br/saude/2026/07/vacinacao-antirrabica-em-vila-velha-comeca-na-zona-rural-na-proxima-semana",
-    "title": "Campanha de vacinação antirrábica começa na zona rural de Vila Velha em setembro"
+  "source:5b408c8f8460eea42b17207969428a0c618ec881": {
+    "ts": 1783515266983,
+    "url": "https://www.espiritosantonoticias.com.br/estado-policia-federal-cumpre-mandados-em-operacao-contra-contrabando-de-medicamentos-emagrecedores",
+    "title": "Polícia Federal realiza buscas em São Mateus e Itabatã contra comércio ilegal de medicamentos emagrecedores"
+  },
+  "source:4580b4778ab389af9c41464186786be831a04b72": {
+    "ts": 1783515266983,
+    "url": "https://www.espiritosantonoticias.com.br/suspeito-de-participar-de-latrocinio-de-motorista-de-aplicativo-e-preso-na-serra",
+    "title": "Polícia prende suspeito em operação contra furtos e roubos de veículos na Serra"
+  },
+  "source:ff837e26b52b01d60ef784ec870f39feb5701b47": {
+    "ts": 1783515266983,
+    "url": "https://www.espiritosantonoticias.com.br/fiscalizacao-apreende-cerca-de-mil-produtos-vencidos-em-distribuidoras-de-vila-velha",
+    "title": "Fiscalização apreende mil produtos vencidos em distribuidoras de Vila Velha"
+  },
+  "source:0bbd02913bafe98ca2b89abce3596b226491f218": {
+    "ts": 1783515266983,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/retroativo-do-piso-do-magisterio-sera-pago-nos-dias-30-e-31-de-julho-em-colatina",
+    "title": "Professores da rede municipal de Colatina recebem reajuste do piso salarial com retroativos"
   }
 }
