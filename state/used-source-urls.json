@@ -1,4 +1,9 @@
 {
+  "source:f1b456aa45097df62e1c27f47eb1f5e830c5ebe8": {
+    "ts": 1783630466325,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/apos-reacao-de-desembargadora-oab-es-reage-a-corte-de-servidores-no-trt-es",
+    "title": "OAB-ES e TRT-17 realizam reunião para discutir reestruturação administrativa após conflito"
+  },
   "source:a344b5f353ff66cb8ff384e3819a5d2896fb7d2a": {
     "ts": 1783626866818,
     "url": "https://eshoje.com.br/politica/2026/07/governo-e-assembleia-anunciam-parceria-para-ampliar-projeto-de-apoio-a-agricultura-familiar-no-es",
@@ -5184,9 +5189,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f1b456aa45097df62e1c27f47eb1f5e830c5ebe8": {
-    "ts": 1783630466325,
-    "url": "https://eshoje.com.br/politica/justica/2026/07/apos-reacao-de-desembargadora-oab-es-reage-a-corte-de-servidores-no-trt-es",
-    "title": "OAB-ES e TRT-17 realizam reunião para discutir reestruturação administrativa após conflito"
+  "source:80b3954f546eec3d8161511f50965a110a44edd6": {
+    "ts": 1783634066501,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/cariacica-abre-mais-de-500-vagas-para-consulta-com-dentista-de-graca",
+    "title": "Cariacica abre 521 vagas para consultas odontológicas gratuitas a partir desta sexta-feira"
+  },
+  "source:f171b9dbe1e7167231eac1ee877c7ce5ae03a47f": {
+    "ts": 1783634066501,
+    "url": "https://eshoje.com.br/esportes/2026/07/transcapixaba-hike-and-fly-2026-reune-atletas-de-seis-paises-em-travessia-de-600-km-pelo-espirito-santo",
+    "title": "Transcapixaba Hike and Fly reúne atletas nacionais e internacionais em desafio de 600 km no Espírito Santo"
   }
 }
