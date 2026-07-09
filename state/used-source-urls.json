@@ -1,4 +1,14 @@
 {
+  "source:2115b858b8c8ac815af97de5c9cf3e1db2d85068": {
+    "ts": 1783598066697,
+    "url": "https://eshoje.com.br/policia/2026/07/guarda-municipal-forma-48-agentes-em-curso-de-operacao-com-drones-em-vila-velha",
+    "title": "Guarda Municipal de Vila Velha conclui curso de operações com drones para agentes de segurança"
+  },
+  "source:592d20ca17240677d4ac887744eff3c2597b7d5a": {
+    "ts": 1783598066697,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/concurso-de-cafe-conilon-de-colatina-vai-distribuir-r-30-mil-em-premios-para-produtores",
+    "title": "Colatina abre inscrições para XIII Concurso de Qualidade do Café Conilon com R$ 30 mil em prêmios"
+  },
   "source:3eab7c876050a7bfdd42e896508d7b4e195bb71b": {
     "ts": 1783594466585,
     "url": "https://eshoje.com.br/politica/2026/07/tribunal-de-contas-reprova-contas-da-saude-de-pedro-canario",
@@ -5074,14 +5084,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2115b858b8c8ac815af97de5c9cf3e1db2d85068": {
-    "ts": 1783598066697,
-    "url": "https://eshoje.com.br/policia/2026/07/guarda-municipal-forma-48-agentes-em-curso-de-operacao-com-drones-em-vila-velha",
-    "title": "Guarda Municipal de Vila Velha conclui curso de operações com drones para agentes de segurança"
+  "source:c1b8a1443011502e230e33b2da82d6e9e9b4b7c1": {
+    "ts": 1783608866537,
+    "url": "https://eshoje.com.br/policia/2026/07/homem-e-preso-apos-apontar-arma-para-companheira-e-enteado-de-7-anos-em-cariacica",
+    "title": "Homem é preso em Cariacica após ameaçar companheira e filho com arma de fogo"
   },
-  "source:592d20ca17240677d4ac887744eff3c2597b7d5a": {
-    "ts": 1783598066697,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/concurso-de-cafe-conilon-de-colatina-vai-distribuir-r-30-mil-em-premios-para-produtores",
-    "title": "Colatina abre inscrições para XIII Concurso de Qualidade do Café Conilon com R$ 30 mil em prêmios"
+  "source:496c00ad2431694c6f528d860a29a806a324a2c4": {
+    "ts": 1783608866537,
+    "url": "https://www.espiritosantonoticias.com.br/policia-civil-passa-a-contar-com-primeiro-sniper-da-core-apos-curso-de-elite",
+    "title": "Polícia Civil do ES forma primeiro atirador de precisão e cria setor especializado"
+  },
+  "source:7fc9ee9e2a453c8bc8165c626914ce15f76f0247": {
+    "ts": 1783608866537,
+    "url": "https://eshoje.com.br/saude/2026/07/mau-halito-sangramento-gengiva-sinal-doencas-julho-neon",
+    "title": "Dor de dente, sangramento e mau hálito são principais motivos para consultas odontológicas no Espírito Santo"
+  },
+  "source:71a3f587832ced9dc00e27a24c360e3dfc4618eb": {
+    "ts": 1783608866537,
+    "url": "https://eshoje.com.br/policia/2026/07/casal-de-idosos-e-torturado-por-criminosos-e-perde-r-20-mil-em-assalto-no-es",
+    "title": "Idosos são amarrados e agredidos durante assalto em São Gabriel da Palha"
+  },
+  "source:fc374a5e41f8a16c8cfb8eec957495009d8903f2": {
+    "ts": 1783608866537,
+    "url": "https://eshoje.com.br/politica/2026/07/furo-exclusivo-fechado-acordo-pl-republicanos-pazolini-governo-es",
+    "title": "Aliança entre PL e Republicanos no Espírito Santo é confirmada para eleição estadual"
   }
 }
