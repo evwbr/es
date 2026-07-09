@@ -1,4 +1,9 @@
 {
+  "source:3eab7c876050a7bfdd42e896508d7b4e195bb71b": {
+    "ts": 1783594466585,
+    "url": "https://eshoje.com.br/politica/2026/07/tribunal-de-contas-reprova-contas-da-saude-de-pedro-canario",
+    "title": "Tribunal de Contas reprova contas do Fundo Municipal de Saúde Pedro Canário e multa gestor em R$ 1 mil"
+  },
   "source:56760fca739562bbb6e727d095dc6e6420522667": {
     "ts": 1783558466442,
     "url": "https://eshoje.com.br/espirito-santo/2026/07/calor-extremo-seca-e-queimadas-como-o-es-se-prepara-para-o-possivel-super-el-nino",
@@ -5069,9 +5074,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3eab7c876050a7bfdd42e896508d7b4e195bb71b": {
-    "ts": 1783594466585,
-    "url": "https://eshoje.com.br/politica/2026/07/tribunal-de-contas-reprova-contas-da-saude-de-pedro-canario",
-    "title": "Tribunal de Contas reprova contas do Fundo Municipal de Saúde Pedro Canário e multa gestor em R$ 1 mil"
+  "source:2115b858b8c8ac815af97de5c9cf3e1db2d85068": {
+    "ts": 1783598066697,
+    "url": "https://eshoje.com.br/policia/2026/07/guarda-municipal-forma-48-agentes-em-curso-de-operacao-com-drones-em-vila-velha",
+    "title": "Guarda Municipal de Vila Velha conclui curso de operações com drones para agentes de segurança"
+  },
+  "source:592d20ca17240677d4ac887744eff3c2597b7d5a": {
+    "ts": 1783598066697,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/concurso-de-cafe-conilon-de-colatina-vai-distribuir-r-30-mil-em-premios-para-produtores",
+    "title": "Colatina abre inscrições para XIII Concurso de Qualidade do Café Conilon com R$ 30 mil em prêmios"
   }
 }
