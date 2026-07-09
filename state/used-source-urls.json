@@ -1,4 +1,19 @@
 {
+  "source:a344b5f353ff66cb8ff384e3819a5d2896fb7d2a": {
+    "ts": 1783626866818,
+    "url": "https://eshoje.com.br/politica/2026/07/governo-e-assembleia-anunciam-parceria-para-ampliar-projeto-de-apoio-a-agricultura-familiar-no-es",
+    "title": "Projeto Arranjos Produtivos será ampliado para todos os municípios do Espírito Santo"
+  },
+  "source:d8ff3ee6075a615b06b0b2a55a82564902634420": {
+    "ts": 1783626866818,
+    "url": "https://eshoje.com.br/saude/2026/07/iodoterapia-passa-a-ser-oferecida-pelo-hospital-santa-rita-em-vitoria",
+    "title": "Hospital Santa Rita passa a oferecer iodoterapia para câncer de tireoide em Vitória"
+  },
+  "source:2b5a4c2eed179f8e064bac466823b19f638fe848": {
+    "ts": 1783626866818,
+    "url": "https://eshoje.com.br/saude/2026/07/es-investiga-seis-mortes-por-suspeita-de-dengue-hemorragica",
+    "title": "Espírito Santo investiga seis mortes suspeitas de dengue hemorrágica em meio a alta de casos"
+  },
   "source:963fe6eddb9451c14584d8aa4a1ba0ea7e82c303": {
     "ts": 1783623267108,
     "url": "https://eshoje.com.br/esportes/2026/07/atletas-capixabas-que-se-destacaram-em-conquistas-nacionais-sao-homenageados-em-vitoria",
@@ -5169,19 +5184,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a344b5f353ff66cb8ff384e3819a5d2896fb7d2a": {
-    "ts": 1783626866818,
-    "url": "https://eshoje.com.br/politica/2026/07/governo-e-assembleia-anunciam-parceria-para-ampliar-projeto-de-apoio-a-agricultura-familiar-no-es",
-    "title": "Projeto Arranjos Produtivos será ampliado para todos os municípios do Espírito Santo"
-  },
-  "source:d8ff3ee6075a615b06b0b2a55a82564902634420": {
-    "ts": 1783626866818,
-    "url": "https://eshoje.com.br/saude/2026/07/iodoterapia-passa-a-ser-oferecida-pelo-hospital-santa-rita-em-vitoria",
-    "title": "Hospital Santa Rita passa a oferecer iodoterapia para câncer de tireoide em Vitória"
-  },
-  "source:2b5a4c2eed179f8e064bac466823b19f638fe848": {
-    "ts": 1783626866818,
-    "url": "https://eshoje.com.br/saude/2026/07/es-investiga-seis-mortes-por-suspeita-de-dengue-hemorragica",
-    "title": "Espírito Santo investiga seis mortes suspeitas de dengue hemorrágica em meio a alta de casos"
+  "source:f1b456aa45097df62e1c27f47eb1f5e830c5ebe8": {
+    "ts": 1783630466325,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/apos-reacao-de-desembargadora-oab-es-reage-a-corte-de-servidores-no-trt-es",
+    "title": "OAB-ES e TRT-17 realizam reunião para discutir reestruturação administrativa após conflito"
   }
 }
