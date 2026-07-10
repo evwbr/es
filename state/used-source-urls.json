@@ -1,4 +1,14 @@
 {
+  "source:00b67754a7773a34745a9ed641bd9f793392fb68": {
+    "ts": 1783709666652,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/campanha-de-vacinacao-antirrabica-de-caes-e-gatos-comeca-neste-mes-no-espirito-santo",
+    "title": "Campanha de vacinação antirrábica para cães e gatos começa em julho no Espírito Santo"
+  },
+  "source:b606b5561ff24b3d90bb231d9e1f64eff7dc5d2d": {
+    "ts": 1783709666652,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-cavalo-de-aco-flagra-veiculo-com-placa-adulterada-e-condutor-com-entorpecentes-em-vila-velha",
+    "title": "Operação integrada no Espírito Santo apreende veículo com placa adulterada e registra 64 infrações de trânsito"
+  },
   "source:47b39870e08061f987f13a5c8dbd8eac6894f65b": {
     "ts": 1783706066721,
     "url": "https://eshoje.com.br/policia/2026/07/primeiro-encontro-de-casal-acaba-na-delegacia-por-causa-de-moto-furtada-no-es",
@@ -5314,14 +5324,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:00b67754a7773a34745a9ed641bd9f793392fb68": {
-    "ts": 1783709666652,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/campanha-de-vacinacao-antirrabica-de-caes-e-gatos-comeca-neste-mes-no-espirito-santo",
-    "title": "Campanha de vacinação antirrábica para cães e gatos começa em julho no Espírito Santo"
+  "source:a1554803736e5aaaace6080133e8a42eff6ad2d0": {
+    "ts": 1783716866259,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/ja-planejou-seu-fim-de-semana-veja-como-fica-o-tempo-no-espirito-santo",
+    "title": "Fim de semana terá tempo estável e sem chuva no Espírito Santo"
   },
-  "source:b606b5561ff24b3d90bb231d9e1f64eff7dc5d2d": {
-    "ts": 1783709666652,
-    "url": "https://www.espiritosantonoticias.com.br/operacao-cavalo-de-aco-flagra-veiculo-com-placa-adulterada-e-condutor-com-entorpecentes-em-vila-velha",
-    "title": "Operação integrada no Espírito Santo apreende veículo com placa adulterada e registra 64 infrações de trânsito"
+  "source:fe85e96094fceb7943bfde8fddcaf25504c6291f": {
+    "ts": 1783716866259,
+    "url": "https://eshoje.com.br/geral/2026/07/colatina-define-regras-do-novo-estacionamento-rotativo-confira-horarios-valores-e-tempo-limite",
+    "title": "Colatina divulga regras do novo estacionamento rotativo com 4.619 vagas e cobrança em horários específicos"
+  },
+  "source:ccec83f2916d11a5e608a8da0cd1f369010c18f0": {
+    "ts": 1783716866259,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/morre-lambisgoia-presidente-do-sindicato-dos-pescadores-do-es",
+    "title": "Morre João Carlos Gomes, líder dos pescadores atingidos pelo desastre da barragem de Fundão no ES"
+  },
+  "source:31c45c0004473648972f224d27f933fdfbfc629e": {
+    "ts": 1783716866259,
+    "url": "https://eshoje.com.br/politica/2026/07/eleicoes-2026-es-pazolini-pl-republicanos-psd-acordo-bastidores",
+    "title": "Definição de vice e segunda candidatura ao Senado na chapa de Pazolini fica para agosto"
   }
 }
