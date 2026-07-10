@@ -1,4 +1,24 @@
 {
+  "source:18b2d65f85f11f1b47e94072999e9e6c6717da2c": {
+    "ts": 1783684466978,
+    "url": "https://eshoje.com.br/esportes/2026/07/copa-do-mundo-tem-confronto-entre-espanha-e-belgica-nesta-sexta-feira",
+    "title": "Espanha e Bélgica se enfrentam nas quartas de final da Copa do Mundo de 2026 em Los Angeles"
+  },
+  "source:90385326dadf8d5b0604b6afcf3711008a4ab5de": {
+    "ts": 1783684466978,
+    "url": "https://eshoje.com.br/politica/2026/07/tc-autoriza-cariacica-a-prorrogar-contratos-por-90-dias-apos-barrar-novas-adesoes",
+    "title": "TCE-ES autoriza prorrogação de contratos em Cariacica por até 90 dias para garantir continuidade de serviços"
+  },
+  "source:7cc5884517818c2cb818f5ef42dea949e0d7b5b7": {
+    "ts": 1783684466978,
+    "url": "https://eshoje.com.br/politica/justica/2026/07/trt-se-manifesta-apos-afastamento-de-desembargadora-determinado-pelo-cnj",
+    "title": "Desembargadora do TRT-17 é afastada cautelarmente após episódio em sessão administrativa"
+  },
+  "source:49f25bb2660e92e76ea7898bacd34e55ffcb3f94": {
+    "ts": 1783684466978,
+    "url": "https://eshoje.com.br/policia/2026/07/operacao-asfixia-ii-prende-sete-por-trafico-no-caparao",
+    "title": "Polícia Civil cumpre 11 mandados de busca e apreensão e 10 de prisão preventiva em operação contra tráfico no Caparaó"
+  },
   "source:b9b26470267e1baf9c93882e432c130b37330bcb": {
     "ts": 1783670066665,
     "url": "https://eshoje.com.br/economia/economia-e-mercado/2026/07/china-amplia-participacao-para-59-da-pauta-importadora-do-espirito-santo",
@@ -5224,24 +5244,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:18b2d65f85f11f1b47e94072999e9e6c6717da2c": {
-    "ts": 1783684466978,
-    "url": "https://eshoje.com.br/esportes/2026/07/copa-do-mundo-tem-confronto-entre-espanha-e-belgica-nesta-sexta-feira",
-    "title": "Espanha e Bélgica se enfrentam nas quartas de final da Copa do Mundo de 2026 em Los Angeles"
+  "source:e28fb88e98a311d8a045de700f1149eb7734ecf9": {
+    "ts": 1783688066361,
+    "url": "https://eshoje.com.br/policia/2026/07/prf-recupera-suv-roubado-no-rio-e-prende-motorista-em-itapemirim",
+    "title": "PRF recupera Volkswagen T-Cross roubado no Rio de Janeiro em Itapemirim"
   },
-  "source:90385326dadf8d5b0604b6afcf3711008a4ab5de": {
-    "ts": 1783684466978,
-    "url": "https://eshoje.com.br/politica/2026/07/tc-autoriza-cariacica-a-prorrogar-contratos-por-90-dias-apos-barrar-novas-adesoes",
-    "title": "TCE-ES autoriza prorrogação de contratos em Cariacica por até 90 dias para garantir continuidade de serviços"
+  "source:869369102a438a78854eed330cdc357749dea013": {
+    "ts": 1783688066361,
+    "url": "https://www.espiritosantonoticias.com.br/jacaranda-em-peso-no-7o-mutirao-de-servicos-marataizes-em-acao",
+    "title": "Marataízes realiza ação cidadã com serviços de saúde, assistência social e meio ambiente na zona rural"
   },
-  "source:7cc5884517818c2cb818f5ef42dea949e0d7b5b7": {
-    "ts": 1783684466978,
-    "url": "https://eshoje.com.br/politica/justica/2026/07/trt-se-manifesta-apos-afastamento-de-desembargadora-determinado-pelo-cnj",
-    "title": "Desembargadora do TRT-17 é afastada cautelarmente após episódio em sessão administrativa"
+  "source:d4e90b3ee1bc3d489ccbd2833eca0a2ca73f93d7": {
+    "ts": 1783688066361,
+    "url": "https://www.espiritosantonoticias.com.br/prefeitura-de-cachoeiro-avanca-com-obras-de-infraestrutura-no-parque-do-itabira",
+    "title": "Prefeitura de Cachoeiro de Itapemirim avança em obras de melhoria viária no Parque do Itabira"
   },
-  "source:49f25bb2660e92e76ea7898bacd34e55ffcb3f94": {
-    "ts": 1783684466978,
-    "url": "https://eshoje.com.br/policia/2026/07/operacao-asfixia-ii-prende-sete-por-trafico-no-caparao",
-    "title": "Polícia Civil cumpre 11 mandados de busca e apreensão e 10 de prisão preventiva em operação contra tráfico no Caparaó"
+  "source:f826d872beffa32d57c1fbfab3c25805bae1a818": {
+    "ts": 1783688066361,
+    "url": "https://www.espiritosantonoticias.com.br/cinco-suspeitos-sao-detidos-apos-roubo-e-objetos-sao-recuperados-em-anchieta",
+    "title": "Cinco suspeitos são detidos em Anchieta após roubo próximo à Vila Olímpica"
+  },
+  "source:d555ae383931ff8b647db6ad42b72c5e41d849d6": {
+    "ts": 1783688066361,
+    "url": "https://www.espiritosantonoticias.com.br/prf-recupera-suv-roubado-no-rio-e-prende-motorista-em-itapemirim",
+    "title": "Homem é preso em Itapemirim por dirigir veículo roubado com placas adulteradas"
+  },
+  "source:3a020b63b9e607449a18e7e8e2ddd4c7be93e800": {
+    "ts": 1783688066361,
+    "url": "https://www.espiritosantonoticias.com.br/pescadores-participam-do-planejamento-de-projetos-de-assistencia-a-pesca-e-a-aquicultura-na-bacia-do-rio-doce",
+    "title": "Projetos de Assistência Técnica e Extensão Pesqueira avançam em regiões afetadas pelo desastre de Mariana no Espírito Santo"
   }
 }
