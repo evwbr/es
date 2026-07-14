@@ -1,4 +1,14 @@
 {
+  "source:79be34cfe981797aa78f7b9d7b736e02320ef0d8": {
+    "ts": 1784062466848,
+    "url": "https://eshoje.com.br/esportes/2026/07/capixaba-lorraine-aguiar-bate-recorde-brasileiro-e-conquista-ouro-no-parasul-americano",
+    "title": "Capixaba Lorraine Aguiar bate recorde brasileiro e conquista ouro no Parasul-Americano"
+  },
+  "source:defc5bb0cc916d18359ffc07104d1777cc51a487": {
+    "ts": 1784062466848,
+    "url": "https://eshoje.com.br/politica/2026/07/esquerda-capixaba-rejeita-casagrande-em-ato-de-pre-campanha-em-cachoeiro",
+    "title": "Esquerda capixaba rejeita Casagrande em ato de pré-campanha em Cachoeiro"
+  },
   "source:1a0782831a3f70323fe1b41261fb1af7e4272d5a": {
     "ts": 1784058867048,
     "url": "https://eshoje.com.br/esportes/2026/07/capixaba-sofia-madeira-conquista-duas-medalhas-na-copa-do-mundo-de-ginastica-ritmica",
@@ -5704,14 +5714,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:79be34cfe981797aa78f7b9d7b736e02320ef0d8": {
-    "ts": 1784062466848,
-    "url": "https://eshoje.com.br/esportes/2026/07/capixaba-lorraine-aguiar-bate-recorde-brasileiro-e-conquista-ouro-no-parasul-americano",
-    "title": "Capixaba Lorraine Aguiar bate recorde brasileiro e conquista ouro no Parasul-Americano"
+  "source:5bbaf3d83b40bc39a4ec76aa1fad2dd35e69a276": {
+    "ts": 1784066066365,
+    "url": "https://eshoje.com.br/esportes/2026/07/espanha-anula-ataque-da-franca-aproveita-chances-e-avanca-a-decisao-da-copa",
+    "title": "Espanha anula ataque da França, aproveita chances e avança à decisão da Copa"
   },
-  "source:defc5bb0cc916d18359ffc07104d1777cc51a487": {
-    "ts": 1784062466848,
-    "url": "https://eshoje.com.br/politica/2026/07/esquerda-capixaba-rejeita-casagrande-em-ato-de-pre-campanha-em-cachoeiro",
-    "title": "Esquerda capixaba rejeita Casagrande em ato de pré-campanha em Cachoeiro"
+  "source:89c961e8ce9603360a911d61e290176aaf493e9f": {
+    "ts": 1784066066365,
+    "url": "https://eshoje.com.br/politica/2026/07/eleicoes-2026-pl-desmente-alianca-marcos-do-val-magno-malta",
+    "title": "Eleições 2026: PL desmente chapa de Marcos do Val no ES"
+  },
+  "source:828c22f9555d1213dcb0e9ff6d3c53e6138f9863": {
+    "ts": 1784066066365,
+    "url": "https://www.espiritosantonoticias.com.br/pescador-de-69-anos-tem-redes-furtadas-em-alto-mar-e-familia-oferece-recompensa-por-informacoes-em-anchieta",
+    "title": "Pescador de 69 anos tem redes furtadas em alto-mar e família oferece recompensa por informações em Anchieta"
   }
 }
