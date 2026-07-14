@@ -1,4 +1,9 @@
 {
+  "source:1a0782831a3f70323fe1b41261fb1af7e4272d5a": {
+    "ts": 1784058867048,
+    "url": "https://eshoje.com.br/esportes/2026/07/capixaba-sofia-madeira-conquista-duas-medalhas-na-copa-do-mundo-de-ginastica-ritmica",
+    "title": "Capixaba Sofia Madeira conquista duas medalhas na Copa do Mundo de Ginástica Rítmica"
+  },
   "source:1ac8b0981846bd01ad2fa3684bb338a5aca36eea": {
     "ts": 1784055267376,
     "url": "https://eshoje.com.br/politica/2026/07/monjardim-critica-briga-pela-presidencia-da-camara-e-diz-que-vereadores-abandonaram-projetos-da-cidade",
@@ -5699,9 +5704,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1a0782831a3f70323fe1b41261fb1af7e4272d5a": {
-    "ts": 1784058867048,
-    "url": "https://eshoje.com.br/esportes/2026/07/capixaba-sofia-madeira-conquista-duas-medalhas-na-copa-do-mundo-de-ginastica-ritmica",
-    "title": "Capixaba Sofia Madeira conquista duas medalhas na Copa do Mundo de Ginástica Rítmica"
+  "source:79be34cfe981797aa78f7b9d7b736e02320ef0d8": {
+    "ts": 1784062466848,
+    "url": "https://eshoje.com.br/esportes/2026/07/capixaba-lorraine-aguiar-bate-recorde-brasileiro-e-conquista-ouro-no-parasul-americano",
+    "title": "Capixaba Lorraine Aguiar bate recorde brasileiro e conquista ouro no Parasul-Americano"
+  },
+  "source:defc5bb0cc916d18359ffc07104d1777cc51a487": {
+    "ts": 1784062466848,
+    "url": "https://eshoje.com.br/politica/2026/07/esquerda-capixaba-rejeita-casagrande-em-ato-de-pre-campanha-em-cachoeiro",
+    "title": "Esquerda capixaba rejeita Casagrande em ato de pré-campanha em Cachoeiro"
   }
 }
