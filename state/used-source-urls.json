@@ -1,4 +1,9 @@
 {
+  "source:12460000dba000c3f5f02d92e31787fe010d9a50": {
+    "ts": 1784116466705,
+    "url": "https://eshoje.com.br/esportes/2026/07/cachoeiro-abre-200-vagas-para-a-caminhada-da-pedra-do-indio",
+    "title": "Cachoeiro abre 200 vagas para a Caminhada da Pedra do Índio"
+  },
   "source:21b0d1471c295de995875a236611abacd3ecffdf": {
     "ts": 1784112866380,
     "url": "https://eshoje.com.br/policia/2026/07/foragido-da-justica-desde-2011-e-preso-no-es",
@@ -5744,9 +5749,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:12460000dba000c3f5f02d92e31787fe010d9a50": {
-    "ts": 1784116466705,
-    "url": "https://eshoje.com.br/esportes/2026/07/cachoeiro-abre-200-vagas-para-a-caminhada-da-pedra-do-indio",
-    "title": "Cachoeiro abre 200 vagas para a Caminhada da Pedra do Índio"
+  "source:c4bfbaa7925f3149ae5ba9e895dc45e0503d522e": {
+    "ts": 1784123666291,
+    "url": "https://eshoje.com.br/policia/2026/07/foragidos-do-sistema-prisional-sao-recapturados-em-area-rural-de-jaguare",
+    "title": "Foragidos do sistema prisional são recapturados em área rural de Jaguaré"
+  },
+  "source:d826fbd1c98f3e6191145ad7ad9f542bb75e9352": {
+    "ts": 1784123666291,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/a-historia-de-2022-volta-a-bater-a-porta-politica-capixaba",
+    "title": "A história de 2022 volta a bater à porta política capixaba"
+  },
+  "source:81ade7deb8703df08701a10ad7a8e89d53d0b7ab": {
+    "ts": 1784123666291,
+    "url": "https://www.espiritosantonoticias.com.br/ressaca-no-mar-ondas-invadem-orlas-de-marataizes-e-anchieta-es",
+    "title": "RESSACA NO MAR: Ondas invadem orlas de Marataízes e Anchieta/ES"
+  },
+  "source:65eccada36693dbd34c73e223d09869ebf4ea821": {
+    "ts": 1784123666291,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/alfredo-chaves-abre-inscricoes-para-auxilio-transporte-a-estudantes",
+    "title": "Alfredo Chaves abre inscrições para auxílio transporte a estudantes"
+  },
+  "source:f2e52284eb8510b637ba89f24ce76109b905dfc8": {
+    "ts": 1784123666291,
+    "url": "https://www.espiritosantonoticias.com.br/atencao-br-101-sofre-interdicao-total-nesta-quarta-15-para-explosao-de-rochas",
+    "title": "ATENÇÃO: BR-101 sofre interdição total nesta quarta (15) para explosão de rochas"
   }
 }
