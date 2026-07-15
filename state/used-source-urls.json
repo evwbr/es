@@ -1,4 +1,19 @@
 {
+  "source:2f537fe3fa29fe4106f2c0957dcaa0e74371a525": {
+    "ts": 1784130866928,
+    "url": "https://eshoje.com.br/policia/2026/07/motorista-e-multado-6-vezes-pela-guarda-de-vitoria-apos-furar-semaforo-e-quase-bater-em-viatura",
+    "title": "Motorista é multado 6 vezes pela Guarda de Vitória após furar semáforo e quase bater em viatura"
+  },
+  "source:f1f4bf90ee92ba5254edcb0d4989b2f5a9aed4ea": {
+    "ts": 1784130866928,
+    "url": "https://eshoje.com.br/politica/2026/07/entre-o-cafe-com-polvora-e-a-havan-a-tentativa-de-ricardo-frear-a-direita-pura",
+    "title": "Entre o \"Café com Pólvora\" e a Havan, a tentativa de Ricardo frear a direita pura"
+  },
+  "source:4feb521869488e911960097cdc91bfa1b827ecb4": {
+    "ts": 1784130866928,
+    "url": "https://eshoje.com.br/policia/2026/07/reconhecimento-facial-leva-a-prisao-de-dois-foragidos-na-grande-vitoria",
+    "title": "Reconhecimento facial leva à prisão de dois foragidos na Grande Vitória"
+  },
   "source:c4bfbaa7925f3149ae5ba9e895dc45e0503d522e": {
     "ts": 1784123666291,
     "url": "https://eshoje.com.br/policia/2026/07/foragidos-do-sistema-prisional-sao-recapturados-em-area-rural-de-jaguare",
@@ -5774,19 +5789,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2f537fe3fa29fe4106f2c0957dcaa0e74371a525": {
-    "ts": 1784130866928,
-    "url": "https://eshoje.com.br/policia/2026/07/motorista-e-multado-6-vezes-pela-guarda-de-vitoria-apos-furar-semaforo-e-quase-bater-em-viatura",
-    "title": "Motorista é multado 6 vezes pela Guarda de Vitória após furar semáforo e quase bater em viatura"
+  "source:cfecac6f9994f118de2d5d178e90c3e7e7285121": {
+    "ts": 1784148866268,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/moradores-ficam-sem-luz-apos-incendio-atingir-poste-em-vila-velha",
+    "title": "Moradores ficam sem luz após incêndio atingir poste em Vila Velha"
   },
-  "source:f1f4bf90ee92ba5254edcb0d4989b2f5a9aed4ea": {
-    "ts": 1784130866928,
-    "url": "https://eshoje.com.br/politica/2026/07/entre-o-cafe-com-polvora-e-a-havan-a-tentativa-de-ricardo-frear-a-direita-pura",
-    "title": "Entre o \"Café com Pólvora\" e a Havan, a tentativa de Ricardo frear a direita pura"
+  "source:ad6211256dd08f2a29bafc49db295346404d84a1": {
+    "ts": 1784148866268,
+    "url": "https://eshoje.com.br/economia/2026/07/operacao-da-fazenda-estadual-na-es-080-resulta-em-r-526-mil-em-multas",
+    "title": "Operação da Fazenda estadual na ES-080 resulta em R$ 52,6 mil em multas"
   },
-  "source:4feb521869488e911960097cdc91bfa1b827ecb4": {
-    "ts": 1784130866928,
-    "url": "https://eshoje.com.br/policia/2026/07/reconhecimento-facial-leva-a-prisao-de-dois-foragidos-na-grande-vitoria",
-    "title": "Reconhecimento facial leva à prisão de dois foragidos na Grande Vitória"
+  "source:475f21e79980819d4179cd2e38d075d57adb8432": {
+    "ts": 1784148866268,
+    "url": "https://eshoje.com.br/esportes/2026/07/cbf-inaugura-centro-de-desenvolvimento-do-futebol-no-es-no-fim-de-julho",
+    "title": "CBF inaugura Centro de Desenvolvimento do Futebol no ES no fim de julho"
+  },
+  "source:d1419bb56796c427356b82eb8f247a76a0b9eec1": {
+    "ts": 1784148866268,
+    "url": "https://eshoje.com.br/esportes/2026/07/espirito-santo-vive-era-de-ouro-na-ginastica-ritmica-e-coleciona-medalhas-internacionais",
+    "title": "Espírito Santo vive era de ouro na ginástica rítmica e coleciona medalhas internacionais"
+  },
+  "source:9152890544849718df3530689ccfc203422488d3": {
+    "ts": 1784148866268,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-por-importunacao-sexual-apos-denuncias-em-centro-comercial-de-vitoria",
+    "title": "Homem é preso por importunação sexual após denúncias em centro comercial de Vitória"
+  },
+  "source:ed51a483aea627a491a7395d8dbf6040913d9d80": {
+    "ts": 1784148866268,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/padeiro-capixaba-melhor-do-mundo-uibc-2026",
+    "title": "Padeiro capixaba é eleito o melhor do mundo em prêmio internacional"
   }
 }
