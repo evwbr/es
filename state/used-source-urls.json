@@ -1,4 +1,19 @@
 {
+  "source:b84afd718b06dd3a4abaec3e1fb8a627fe9ee4b6": {
+    "ts": 1784285666439,
+    "url": "https://www.espiritosantonoticias.com.br/mulher-e-presa-em-operacao-da-pf-contra-comercio-ilegal-de-medicamentos-para-emagrecimento-no-es",
+    "title": "Polícia apreende medicamentos irregulares em operação no Espírito Santo"
+  },
+  "source:380440375d973fded3be4705f680e9f4772ea2b6": {
+    "ts": 1784285666439,
+    "url": "https://www.espiritosantonoticias.com.br/adolescente-de-16-anos-provoca-acidente-ao-dirigir-caminhonete-em-cachoeiro",
+    "title": "Adolescente de 16 anos se envolve em acidente de trânsito em Cachoeiro de Itapemirim"
+  },
+  "source:e3972446271eb745f07e107e8caf0771248c68b5": {
+    "ts": 1784285666439,
+    "url": "https://www.espiritosantonoticias.com.br/maioria-dos-vereadores-de-vitoria-pede-abertura-de-processo-que-pode-cassar-mandato-de-baiano-do-salao",
+    "title": "Câmara de Vitória inicia processo disciplinar contra vereador condenado por estupro de vulnerável"
+  },
   "source:c36e82fd6a02670954ebce26fccbe073bd90e27e": {
     "ts": 1784242466886,
     "url": "https://eshoje.com.br/esportes/2026/07/capixabas-mundial-ginastica",
@@ -5989,19 +6004,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b84afd718b06dd3a4abaec3e1fb8a627fe9ee4b6": {
-    "ts": 1784285666439,
-    "url": "https://www.espiritosantonoticias.com.br/mulher-e-presa-em-operacao-da-pf-contra-comercio-ilegal-de-medicamentos-para-emagrecimento-no-es",
-    "title": "Polícia apreende medicamentos irregulares em operação no Espírito Santo"
+  "source:1df652ecd55c7679240b1ef9648c865e7abec097": {
+    "ts": 1784292866518,
+    "url": "https://eshoje.com.br/policia/2026/07/mpes-denuncia-homem-acusado-de-matar-a-irma-e-ocultar-corpo-no-quintal",
+    "title": "Homem é denunciado por feminicídio qualificado no bairro Serra Dourada, na Serra"
   },
-  "source:380440375d973fded3be4705f680e9f4772ea2b6": {
-    "ts": 1784285666439,
-    "url": "https://www.espiritosantonoticias.com.br/adolescente-de-16-anos-provoca-acidente-ao-dirigir-caminhonete-em-cachoeiro",
-    "title": "Adolescente de 16 anos se envolve em acidente de trânsito em Cachoeiro de Itapemirim"
+  "source:c33c9382c430e785b47d6b7c18a83ccb187287c4": {
+    "ts": 1784292866518,
+    "url": "https://eshoje.com.br/esportes/2026/07/colatina-disputa-campeonato-brasileiro-de-futebol-7-com-equipe-sub-17-entre-oito-representantes-do-pais",
+    "title": "Equipe Sub-17 de Colatina viaja para disputar Campeonato Brasileiro de Base de Futebol 7 em Maceió"
   },
-  "source:e3972446271eb745f07e107e8caf0771248c68b5": {
-    "ts": 1784285666439,
-    "url": "https://www.espiritosantonoticias.com.br/maioria-dos-vereadores-de-vitoria-pede-abertura-de-processo-que-pode-cassar-mandato-de-baiano-do-salao",
-    "title": "Câmara de Vitória inicia processo disciplinar contra vereador condenado por estupro de vulnerável"
+  "source:140be85a6dc00e4c49c6fb81345ff83b9da5e9e8": {
+    "ts": 1784292866518,
+    "url": "https://eshoje.com.br/economia/2026/07/exportacoes-espirito-santo-taxacao-estados-unidos",
+    "title": "Sobretaxa dos EUA ameaça exportações do Espírito Santo e gera queda de 17% em 2026"
+  },
+  "source:8c3a1279831c3e859a487cac15ef37dcfe955960": {
+    "ts": 1784292866518,
+    "url": "https://eshoje.com.br/politica/2026/07/baiano-do-salao-17-querem-condenado-por-estupro-cassado",
+    "title": "Câmara de Vitória encaminha representação disciplinar contra vereador Baiano do Salão"
   }
 }
