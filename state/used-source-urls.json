@@ -1,4 +1,34 @@
 {
+  "source:faeff6eb3347d3705ae84530ee0c75b78c681dd1": {
+    "ts": 1784303666931,
+    "url": "https://eshoje.com.br/policia/2026/07/pm-continua-preso-apos-justica-revogar-preventiva-em-um-dos-processos",
+    "title": "Justiça revoga prisão preventiva de cabo da PMES em um processo, mas ele segue detido por outro caso"
+  },
+  "source:5c732725938ea8249f21f203366b244adfff290c": {
+    "ts": 1784303666931,
+    "url": "https://eshoje.com.br/policia/2026/07/caio-capeta-gerente-pcv-preso-vitoria-santos-dumont",
+    "title": "Polícia Militar prende homem com mandado por homicídio qualificado em Vitória"
+  },
+  "source:b2aee953cbe4eac3c701b09eff4f8fe9bfbcfb6c": {
+    "ts": 1784303666931,
+    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-ir-vir-tera-atendimento-suspenso-neste-sabado-18-para-capacitacao-da-equipe",
+    "title": "Atendimento de serviço público em Cachoeiro de Itapemirim será suspenso para capacitação de colaboradores"
+  },
+  "source:9bd4522049db5cb3c28d5a27fafaf1deec5a16bb": {
+    "ts": 1784303666931,
+    "url": "https://www.espiritosantonoticias.com.br/montanhas-capixabas-convidam-familias-a-viverem-experiencias-inesqueciveis-nas-ferias-de-inverno",
+    "title": "Montanhas Capixabas oferecem turismo de experiência com atrações para todas as idades"
+  },
+  "source:c6ff9ab3f46af97cf87e54472f7bac283292db3e": {
+    "ts": 1784303666931,
+    "url": "https://eshoje.com.br/politica/2026/07/suplente-de-baiano-do-salao-diz-que-o-caso-do-estupro-ja-era-conhecido-pela-comunidade",
+    "title": "Câmara de Vitória abre representação contra vereador Baiano do Salão após condenação por estupro de vulnerável"
+  },
+  "source:d3fa8ca603f90d9fb6492a44f24e2e5287151b8e": {
+    "ts": 1784303666931,
+    "url": "https://eshoje.com.br/policia/2026/07/mulher-tem-corte-na-cabeca-apos-ser-agredida-com-paulada-pelo-companheiro-na-serra",
+    "title": "Mulher é agredida com pedaço de madeira com prego em residência de Castelândia"
+  },
   "source:cd03b00537ac28b65f5ed7998b323d50a6f7c731": {
     "ts": 1784296466762,
     "url": "https://eshoje.com.br/economia/2026/07/plano-saude-idosos-reajuste",
@@ -6039,34 +6069,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:faeff6eb3347d3705ae84530ee0c75b78c681dd1": {
-    "ts": 1784303666931,
-    "url": "https://eshoje.com.br/policia/2026/07/pm-continua-preso-apos-justica-revogar-preventiva-em-um-dos-processos",
-    "title": "Justiça revoga prisão preventiva de cabo da PMES em um processo, mas ele segue detido por outro caso"
+  "source:45d37e96583f24ad8f49bef88c214985ec3ec772": {
+    "ts": 1784307266298,
+    "url": "https://www.espiritosantonoticias.com.br/pm-apreende-submetralhadora-pistola-e-quase-2-quilos-de-drogas-apos-confronto-em-vitoria",
+    "title": "Força Tática apreende armas e drogas em base do tráfico em Vitória após confronto"
   },
-  "source:5c732725938ea8249f21f203366b244adfff290c": {
-    "ts": 1784303666931,
-    "url": "https://eshoje.com.br/policia/2026/07/caio-capeta-gerente-pcv-preso-vitoria-santos-dumont",
-    "title": "Polícia Militar prende homem com mandado por homicídio qualificado em Vitória"
+  "source:f3c2fced7b8121ad53d1900a8253c1ffdaeede58": {
+    "ts": 1784307266298,
+    "url": "https://www.espiritosantonoticias.com.br/laudos-descartam-dengue-e-confirmam-febre-maculosa-como-causa-da-morte-de-jovem-de-28-anos-em-iconha",
+    "title": "Exames confirmam que jovem de Iconha morreu por febre maculosa transmitida por carrapato-estrela"
   },
-  "source:b2aee953cbe4eac3c701b09eff4f8fe9bfbcfb6c": {
-    "ts": 1784303666931,
-    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-ir-vir-tera-atendimento-suspenso-neste-sabado-18-para-capacitacao-da-equipe",
-    "title": "Atendimento de serviço público em Cachoeiro de Itapemirim será suspenso para capacitação de colaboradores"
-  },
-  "source:9bd4522049db5cb3c28d5a27fafaf1deec5a16bb": {
-    "ts": 1784303666931,
-    "url": "https://www.espiritosantonoticias.com.br/montanhas-capixabas-convidam-familias-a-viverem-experiencias-inesqueciveis-nas-ferias-de-inverno",
-    "title": "Montanhas Capixabas oferecem turismo de experiência com atrações para todas as idades"
-  },
-  "source:c6ff9ab3f46af97cf87e54472f7bac283292db3e": {
-    "ts": 1784303666931,
-    "url": "https://eshoje.com.br/politica/2026/07/suplente-de-baiano-do-salao-diz-que-o-caso-do-estupro-ja-era-conhecido-pela-comunidade",
-    "title": "Câmara de Vitória abre representação contra vereador Baiano do Salão após condenação por estupro de vulnerável"
-  },
-  "source:d3fa8ca603f90d9fb6492a44f24e2e5287151b8e": {
-    "ts": 1784303666931,
-    "url": "https://eshoje.com.br/policia/2026/07/mulher-tem-corte-na-cabeca-apos-ser-agredida-com-paulada-pelo-companheiro-na-serra",
-    "title": "Mulher é agredida com pedaço de madeira com prego em residência de Castelândia"
+  "source:3eeb3208812197483fd436c7ae961c1b370c28a6": {
+    "ts": 1784307266298,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/a-municao-helder-salomao",
+    "title": "Campanha ao governo do ES ganha novo cenário com disputa entre Helder Salomão, Pazolini e Ferraço"
   }
 }
