@@ -1,4 +1,9 @@
 {
+  "source:ff97aac36aebceb211d50daa1fcca73449b8eeb5": {
+    "ts": 1784325266235,
+    "url": "https://eshoje.com.br/esportes/2026/07/corrida-da-estiva-em-vitoria",
+    "title": "Corrida da Estiva em Vitória bate recorde com 1.500 inscritos para edição de 2026"
+  },
   "source:542dca7fd2f221f807bd35bf0f373d4dce39c96f": {
     "ts": 1784318066472,
     "url": "https://eshoje.com.br/policia/2026/07/mulher-mantida-em-carcere-no-sul",
@@ -6124,9 +6129,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ff97aac36aebceb211d50daa1fcca73449b8eeb5": {
-    "ts": 1784325266235,
-    "url": "https://eshoje.com.br/esportes/2026/07/corrida-da-estiva-em-vitoria",
-    "title": "Corrida da Estiva em Vitória bate recorde com 1.500 inscritos para edição de 2026"
+  "source:f546968489945e9981ca253daac01d4b37eae9af": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/hartung-vence-helder-mas-perde-para-ricardo-ferraco",
+    "title": "Pesquisa aponta vantagem de Renato Casagrande em cenários de"
+  },
+  "source:fb3a4ad63d90e905d10f1b2530dcb4dffa18fb8e": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/casagrande-lidera-cenarios",
+    "title": "Pesquisa Perfil aponta Casagrande como favorito para o Senado no Espírito Santo"
+  },
+  "source:700638c95f9d1ba969afcf5bce96e95b7e7ebc07": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/pazolini-lidera-disputa-ao-governo-ricardo-encosta-e-paulo-hartung-volta-ao-cenario",
+    "title": "Pesquisa Perfil aponta avanço de Ricardo Ferraço e estreia de Paulo Hartung na disputa pelo Governo do ES"
+  },
+  "source:c7d2db4b996271c724246203362b20d204790a0e": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/pesquisa-eleitoral-espirito-santo-lula-flavio-bolsonaro-perfil-2026",
+    "title": "Pesquisa Perfil aponta Lula com 41,94% das intenções de voto para presidente no Espírito Santo"
   }
 }
