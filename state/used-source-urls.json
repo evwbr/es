@@ -1,4 +1,24 @@
 {
+  "source:f546968489945e9981ca253daac01d4b37eae9af": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/hartung-vence-helder-mas-perde-para-ricardo-ferraco",
+    "title": "Pesquisa aponta vantagem de Renato Casagrande em cenários de"
+  },
+  "source:fb3a4ad63d90e905d10f1b2530dcb4dffa18fb8e": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/casagrande-lidera-cenarios",
+    "title": "Pesquisa Perfil aponta Casagrande como favorito para o Senado no Espírito Santo"
+  },
+  "source:700638c95f9d1ba969afcf5bce96e95b7e7ebc07": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/pazolini-lidera-disputa-ao-governo-ricardo-encosta-e-paulo-hartung-volta-ao-cenario",
+    "title": "Pesquisa Perfil aponta avanço de Ricardo Ferraço e estreia de Paulo Hartung na disputa pelo Governo do ES"
+  },
+  "source:c7d2db4b996271c724246203362b20d204790a0e": {
+    "ts": 1784346866377,
+    "url": "https://eshoje.com.br/politica/2026/07/pesquisa-eleitoral-espirito-santo-lula-flavio-bolsonaro-perfil-2026",
+    "title": "Pesquisa Perfil aponta Lula com 41,94% das intenções de voto para presidente no Espírito Santo"
+  },
   "source:ff97aac36aebceb211d50daa1fcca73449b8eeb5": {
     "ts": 1784325266235,
     "url": "https://eshoje.com.br/esportes/2026/07/corrida-da-estiva-em-vitoria",
@@ -6129,24 +6149,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f546968489945e9981ca253daac01d4b37eae9af": {
-    "ts": 1784346866377,
-    "url": "https://eshoje.com.br/politica/2026/07/hartung-vence-helder-mas-perde-para-ricardo-ferraco",
-    "title": "Pesquisa aponta vantagem de Renato Casagrande em cenários de"
+  "source:465d9f4a065eac0d6d49dffaabcc00a5eb220050": {
+    "ts": 1784386466396,
+    "url": "https://eshoje.com.br/politica/2026/07/bracarense-uniao-direita-voz-de-bolsonaro",
+    "title": "Vereador de Vitória defende união entre PL e Republicanos para enfrentar PT no Espírito Santo"
   },
-  "source:fb3a4ad63d90e905d10f1b2530dcb4dffa18fb8e": {
-    "ts": 1784346866377,
-    "url": "https://eshoje.com.br/politica/2026/07/casagrande-lidera-cenarios",
-    "title": "Pesquisa Perfil aponta Casagrande como favorito para o Senado no Espírito Santo"
-  },
-  "source:700638c95f9d1ba969afcf5bce96e95b7e7ebc07": {
-    "ts": 1784346866377,
-    "url": "https://eshoje.com.br/politica/2026/07/pazolini-lidera-disputa-ao-governo-ricardo-encosta-e-paulo-hartung-volta-ao-cenario",
-    "title": "Pesquisa Perfil aponta avanço de Ricardo Ferraço e estreia de Paulo Hartung na disputa pelo Governo do ES"
-  },
-  "source:c7d2db4b996271c724246203362b20d204790a0e": {
-    "ts": 1784346866377,
-    "url": "https://eshoje.com.br/politica/2026/07/pesquisa-eleitoral-espirito-santo-lula-flavio-bolsonaro-perfil-2026",
-    "title": "Pesquisa Perfil aponta Lula com 41,94% das intenções de voto para presidente no Espírito Santo"
+  "source:e12895ed245f181530ca303c707ee1321e6ac7c3": {
+    "ts": 1784386466396,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/ufes-cotas-trans-graduacao",
+    "title": "Ufes reserva vagas para pessoas trans em todos os cursos de graduação"
   }
 }
