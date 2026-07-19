@@ -1,4 +1,9 @@
 {
+  "source:c10bb58c9b9677cf91a266633758360744d09b63": {
+    "ts": 1784483667276,
+    "url": "https://www.espiritosantonoticias.com.br/morre-no-hospital-bezerra-de-faria-motociclista-atingido-por-veiculo-no-trevo-de-iriri",
+    "title": "Motociclista morre após colisão em via com limite de 60 km/h em Vila Velha"
+  },
   "source:59a188c6a04f2c0c6df4dae21a14cadd63007f4e": {
     "ts": 1784465666994,
     "url": "https://eshoje.com.br/policia/2026/07/guarda-370-drogas-parquinho-vitoria",
@@ -6214,9 +6219,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:c10bb58c9b9677cf91a266633758360744d09b63": {
-    "ts": 1784483667276,
-    "url": "https://www.espiritosantonoticias.com.br/morre-no-hospital-bezerra-de-faria-motociclista-atingido-por-veiculo-no-trevo-de-iriri",
-    "title": "Motociclista morre após colisão em via com limite de 60 km/h em Vila Velha"
+  "source:4157fe95d40cc076487a0a5798bffe543eeda2a4": {
+    "ts": 1784494466545,
+    "url": "https://eshoje.com.br/esportes/2026/07/camera-flagra-acidente-fatal-entre-ciclista-e-motociclista-em-vila-velha",
+    "title": "Ciclista morre após colisão com motocicleta em Vila Velha"
+  },
+  "source:6d84de49254ef29817416f44d73468314061181d": {
+    "ts": 1784494466545,
+    "url": "https://eshoje.com.br/policia/2026/07/motoboy-morre-apos-cair-da-moto-e-ser-atropelado-por-transcol-na-serra",
+    "title": "Motociclista morre após acidente com ônibus do Transcol na Serra"
   }
 }
