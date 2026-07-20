@@ -1,4 +1,14 @@
 {
+  "source:4157fe95d40cc076487a0a5798bffe543eeda2a4": {
+    "ts": 1784494466545,
+    "url": "https://eshoje.com.br/esportes/2026/07/camera-flagra-acidente-fatal-entre-ciclista-e-motociclista-em-vila-velha",
+    "title": "Ciclista morre após colisão com motocicleta em Vila Velha"
+  },
+  "source:6d84de49254ef29817416f44d73468314061181d": {
+    "ts": 1784494466545,
+    "url": "https://eshoje.com.br/policia/2026/07/motoboy-morre-apos-cair-da-moto-e-ser-atropelado-por-transcol-na-serra",
+    "title": "Motociclista morre após acidente com ônibus do Transcol na Serra"
+  },
   "source:c10bb58c9b9677cf91a266633758360744d09b63": {
     "ts": 1784483667276,
     "url": "https://www.espiritosantonoticias.com.br/morre-no-hospital-bezerra-de-faria-motociclista-atingido-por-veiculo-no-trevo-de-iriri",
@@ -6219,14 +6229,34 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4157fe95d40cc076487a0a5798bffe543eeda2a4": {
-    "ts": 1784494466545,
-    "url": "https://eshoje.com.br/esportes/2026/07/camera-flagra-acidente-fatal-entre-ciclista-e-motociclista-em-vila-velha",
-    "title": "Ciclista morre após colisão com motocicleta em Vila Velha"
+  "source:896b1e893f5b3bb0222de751e5e24b6a416a5636": {
+    "ts": 1784552066230,
+    "url": "https://www.espiritosantonoticias.com.br/jovem-de-21-anos-e-morto-a-tiros-e-outro-fica-ferido-na-praia-de-manguinhos-na-serra",
+    "title": "Jovem de 21 anos é morto a tiros na Praia de Manguinhos, na Serra"
   },
-  "source:6d84de49254ef29817416f44d73468314061181d": {
-    "ts": 1784494466545,
-    "url": "https://eshoje.com.br/policia/2026/07/motoboy-morre-apos-cair-da-moto-e-ser-atropelado-por-transcol-na-serra",
-    "title": "Motociclista morre após acidente com ônibus do Transcol na Serra"
+  "source:a103153dc8851c247dfceeaa9b0c802c63811d04": {
+    "ts": 1784552066230,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/a-volta-de-rose-de-freitas",
+    "title": "Rose de Freitas retoma protagonismo e lidera disputa pela segunda vaga ao Senado na chapa governista do ES"
+  },
+  "source:bc65f9d96b297b341bee25742527ef78a8cfcc2f": {
+    "ts": 1784552066230,
+    "url": "https://www.espiritosantonoticias.com.br/pm-prende-dois-homens-e-impede-furto-de-cerca-de-20-toneladas-de-trilhos-da-antiga-leopoldina-em-vargem-alta",
+    "title": "Polícia Militar apreende cerca de 20 toneladas de trilhos cortados em Cachoeiro de Itapemirim"
+  },
+  "source:8c6b278c006297340c645ac5d3e29a437ab011ad": {
+    "ts": 1784552066230,
+    "url": "https://www.espiritosantonoticias.com.br/apos-criticas-comandante-do-9o-bpm-defende-blitze-e-diz-que-operacoes-de-transito-continuarao-intensificadas-em-cachoeiro",
+    "title": "Polícia Militar reforça blitze e policiamento em Cachoeiro de Itapemirim após críticas da população"
+  },
+  "source:4a9d6a6cb9e8f871de10479fea9800f3b7045561": {
+    "ts": 1784552066230,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-perde-controle-em-ladeira-atinge-carro-estacionado-e-veiculos-capotam-em-igreja-de-vila-velha",
+    "title": "Colisão entre veículos destrói grade de igreja e deixa passageira ferida em comunidade católica"
+  },
+  "source:54eacb82069d494a98be12ead1ad53b3e91f40c5": {
+    "ts": 1784552066230,
+    "url": "https://eshoje.com.br/saude/2026/07/himaba-promove-capacitacao-para-fortalecer-atuacao-de-voluntarios-no-ambiente-hospitalar",
+    "title": "Himaba realiza 5º Encontro Anual de Voluntários com capacitação e atividades práticas em Vila Velha"
   }
 }
