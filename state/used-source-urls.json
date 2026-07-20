@@ -1,4 +1,29 @@
 {
+  "source:7ace8efe6e78aae6398f0ae6d4e3a75a5a5ef823": {
+    "ts": 1784566466537,
+    "url": "https://eshoje.com.br/economia/2026/07/cidades-capixabas-reduzem-gastos-e-melhoram-saude-financeira",
+    "title": "Municípios do Espírito Santo reduzem despesas e melhoram indicadores fiscais em 2025"
+  },
+  "source:56bdb9aab6d62ed849f656e0f876aa8bf0cbe70d": {
+    "ts": 1784566466537,
+    "url": "https://eshoje.com.br/policia/2026/07/homem-e-morto-a-facadas-dentro-de-casa-em-sao-mateus-colega-de-quarto-e-procurado",
+    "title": "Homem é assassinado a facadas em kitnet no bairro Ideal, em São Mateus"
+  },
+  "source:e71131790dc853e4e164ee152e9475966d99687a": {
+    "ts": 1784566466537,
+    "url": "https://eshoje.com.br/policia/2026/07/br-262-atencao-ferias-julho",
+    "title": "BR-262 registra 13 mortes em acidentes no primeiro semestre de 2026 e PRF reforça cuidados para motoristas"
+  },
+  "source:429fcbbc886a75db87ee685718ab0af01fd9ee50": {
+    "ts": 1784566466537,
+    "url": "https://eshoje.com.br/politica/2026/07/eleicoes-psd-renzo-vetos-pl",
+    "title": "PSD rompe negociações com Republicanos e avalia candidatura própria ao governo do Espírito Santo"
+  },
+  "source:9a12096add4ea8cf04e8df5fef477e622aa11ce6": {
+    "ts": 1784566466537,
+    "url": "https://eshoje.com.br/policia/2026/07/mulher-incendeia-casa-traicao",
+    "title": "Incêndio em residência no bairro Santa Teresa em Vitória é provocado após discussão de casal"
+  },
   "source:dd188bb60965d142d72f5ae6d32d7201819e93f5": {
     "ts": 1784555666806,
     "url": "https://eshoje.com.br/politica/2026/07/grauidade-da-justica-oab-es",
@@ -6289,29 +6314,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7ace8efe6e78aae6398f0ae6d4e3a75a5a5ef823": {
-    "ts": 1784566466537,
-    "url": "https://eshoje.com.br/economia/2026/07/cidades-capixabas-reduzem-gastos-e-melhoram-saude-financeira",
-    "title": "Municípios do Espírito Santo reduzem despesas e melhoram indicadores fiscais em 2025"
+  "source:a11729651f0e110391d29cc095b75db4dba81696": {
+    "ts": 1784570066247,
+    "url": "https://eshoje.com.br/policia/2026/07/corpo-encontrado-em-rio-pode-ser-de-jovem-desaparecido-ha-12-dias-no-sul-do-es",
+    "title": "Corpo de jovem desaparecido é encontrado em rio na zona rural de Jerônimo Monteiro"
   },
-  "source:56bdb9aab6d62ed849f656e0f876aa8bf0cbe70d": {
-    "ts": 1784566466537,
-    "url": "https://eshoje.com.br/policia/2026/07/homem-e-morto-a-facadas-dentro-de-casa-em-sao-mateus-colega-de-quarto-e-procurado",
-    "title": "Homem é assassinado a facadas em kitnet no bairro Ideal, em São Mateus"
+  "source:869c07f23c5fd78d253f7328e1b242fb76f9fffc": {
+    "ts": 1784570066247,
+    "url": "https://eshoje.com.br/esportes/2026/07/bodyboarding-luna-podio",
+    "title": "Luna Hardman conquista terceiro lugar no Paraná Bodyboarding Pro e mantém disputa pelo título brasileiro"
   },
-  "source:e71131790dc853e4e164ee152e9475966d99687a": {
-    "ts": 1784566466537,
-    "url": "https://eshoje.com.br/policia/2026/07/br-262-atencao-ferias-julho",
-    "title": "BR-262 registra 13 mortes em acidentes no primeiro semestre de 2026 e PRF reforça cuidados para motoristas"
-  },
-  "source:429fcbbc886a75db87ee685718ab0af01fd9ee50": {
-    "ts": 1784566466537,
-    "url": "https://eshoje.com.br/politica/2026/07/eleicoes-psd-renzo-vetos-pl",
-    "title": "PSD rompe negociações com Republicanos e avalia candidatura própria ao governo do Espírito Santo"
-  },
-  "source:9a12096add4ea8cf04e8df5fef477e622aa11ce6": {
-    "ts": 1784566466537,
-    "url": "https://eshoje.com.br/policia/2026/07/mulher-incendeia-casa-traicao",
-    "title": "Incêndio em residência no bairro Santa Teresa em Vitória é provocado após discussão de casal"
+  "source:c02ed9395aafcc207ce9a57a8c666f3ea037f31d": {
+    "ts": 1784570066247,
+    "url": "https://eshoje.com.br/policia/2026/07/motociclista-e-atingido-por-trem-e-morre-ao-tentar-tirar-moto-da-linha-ferrea-em-colatina",
+    "title": "Motociclista morre após colisão com trem em Colatina"
   }
 }
