@@ -1,4 +1,19 @@
 {
+  "source:8a6fdd6bcc685bf15fa48e76b37af7d5fbbaceab": {
+    "ts": 1784627667828,
+    "url": "https://www.espiritosantonoticias.com.br/caminhoneiro-foge-apos-invadir-contramao-e-provocar-acidente-na-br-101-em-pedro-canario",
+    "title": "Acidente entre caminhão e picape interdita rodovia no Espírito Santo"
+  },
+  "source:f5b072f323f00c858ab98dab959fb8c24233e9d3": {
+    "ts": 1784627667828,
+    "url": "https://www.espiritosantonoticias.com.br/corpo-de-homem-e-encontrado-as-margens-de-estrada-na-zona-rural-de-boa-esperanca",
+    "title": "Homem é encontrado morto às margens de estrada em Boa Esperança"
+  },
+  "source:9864fd40b5657eb534476f4dc6afab6d964e07df": {
+    "ts": 1784627667828,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-perseguido-e-morto-a-facadas-dentro-de-padaria-em-linhares",
+    "title": "Homem é morto a facadas dentro de padaria no bairro Aviso, em Linhares"
+  },
   "source:86ca6d21c380ed979466e588cec4aba2d2a7019a": {
     "ts": 1784602467454,
     "url": "https://www.espiritosantonoticias.com.br/marataizes-em-acao-volta-ao-interior-nesta-quinta-23",
@@ -6369,19 +6384,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:8a6fdd6bcc685bf15fa48e76b37af7d5fbbaceab": {
-    "ts": 1784627667828,
-    "url": "https://www.espiritosantonoticias.com.br/caminhoneiro-foge-apos-invadir-contramao-e-provocar-acidente-na-br-101-em-pedro-canario",
-    "title": "Acidente entre caminhão e picape interdita rodovia no Espírito Santo"
+  "source:9fd9f64ee7cb607d794ecd832df545c82d45c841": {
+    "ts": 1784634867616,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/inscricoes-para-reciclagem-de-guarda-vidas-ja-estao-abertas-no-espirito-santo",
+    "title": "Corpo de Bombeiros abre inscrições para renovação da certificação de guarda-vidas no Espírito Santo"
   },
-  "source:f5b072f323f00c858ab98dab959fb8c24233e9d3": {
-    "ts": 1784627667828,
-    "url": "https://www.espiritosantonoticias.com.br/corpo-de-homem-e-encontrado-as-margens-de-estrada-na-zona-rural-de-boa-esperanca",
-    "title": "Homem é encontrado morto às margens de estrada em Boa Esperança"
-  },
-  "source:9864fd40b5657eb534476f4dc6afab6d964e07df": {
-    "ts": 1784627667828,
-    "url": "https://www.espiritosantonoticias.com.br/homem-e-perseguido-e-morto-a-facadas-dentro-de-padaria-em-linhares",
-    "title": "Homem é morto a facadas dentro de padaria no bairro Aviso, em Linhares"
+  "source:f1194d881cc2f50b85795e345e20c1d78dab9a52": {
+    "ts": 1784634867616,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/incendio-arquivo-do-tjes",
+    "title": "Incêndio de grandes proporções atinge depósito do Poder Judiciário na Serra"
   }
 }
