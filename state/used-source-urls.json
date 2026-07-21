@@ -1,4 +1,14 @@
 {
+  "source:9fd9f64ee7cb607d794ecd832df545c82d45c841": {
+    "ts": 1784634867616,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/inscricoes-para-reciclagem-de-guarda-vidas-ja-estao-abertas-no-espirito-santo",
+    "title": "Corpo de Bombeiros abre inscrições para renovação da certificação de guarda-vidas no Espírito Santo"
+  },
+  "source:f1194d881cc2f50b85795e345e20c1d78dab9a52": {
+    "ts": 1784634867616,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/incendio-arquivo-do-tjes",
+    "title": "Incêndio de grandes proporções atinge depósito do Poder Judiciário na Serra"
+  },
   "source:8a6fdd6bcc685bf15fa48e76b37af7d5fbbaceab": {
     "ts": 1784627667828,
     "url": "https://www.espiritosantonoticias.com.br/caminhoneiro-foge-apos-invadir-contramao-e-provocar-acidente-na-br-101-em-pedro-canario",
@@ -6384,14 +6394,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:9fd9f64ee7cb607d794ecd832df545c82d45c841": {
-    "ts": 1784634867616,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/inscricoes-para-reciclagem-de-guarda-vidas-ja-estao-abertas-no-espirito-santo",
-    "title": "Corpo de Bombeiros abre inscrições para renovação da certificação de guarda-vidas no Espírito Santo"
+  "source:bc9927dd1435f96a706830e5a6913a0f9472d4eb": {
+    "ts": 1784638466605,
+    "url": "https://eshoje.com.br/policia/2026/07/marido-e-preso-pela-guarda-de-vitoria-apos-agredir-esposa-com-socos-e-chutes",
+    "title": "Homem é preso em Vitória após agredir esposa com socos e chutes"
   },
-  "source:f1194d881cc2f50b85795e345e20c1d78dab9a52": {
-    "ts": 1784634867616,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/incendio-arquivo-do-tjes",
-    "title": "Incêndio de grandes proporções atinge depósito do Poder Judiciário na Serra"
+  "source:1f556ffdccf0aef76927c6c5475cf83d5d053570": {
+    "ts": 1784638466605,
+    "url": "https://eshoje.com.br/saude/2026/07/estoque-de-sangue-entra-em-nivel-critico-e-hgl-faz-apelo-urgente-por-doacoes-em-linhares",
+    "title": "Hospital Geral de Linhares faz apelo por doações de sangue devido a estoque crítico"
+  },
+  "source:d7c9e1d8e51a6ad7f2af3548388a40b9d1fc6b19": {
+    "ts": 1784638466605,
+    "url": "https://eshoje.com.br/policia/2026/07/foragido-da-justica-de-goias-e-preso-pela-guarda-antes-de-embarcar-para-a-bahia",
+    "title": "Guarda Civil de Vitória prende homem foragido de Goiás na rodoviária da cidade"
   }
 }
