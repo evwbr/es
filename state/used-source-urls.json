@@ -1,4 +1,9 @@
 {
+  "source:0be38b959fdd90623aee3c0b6c89bb2ec5ffc420": {
+    "ts": 1784678067446,
+    "url": "https://www.espiritosantonoticias.com.br/acao-rapida-da-policia-militar-resulta-na-apreensao-de-adolescentes-apos-brutal-agressao-contra-idoso-em-piuma",
+    "title": "Polícia Militar apreende dois adolescentes suspeitos de tentativa de homicídio em Itapemirim"
+  },
   "source:6096d2c850d49fb406d0b8e57057cc4aa5fa229c": {
     "ts": 1784667266484,
     "url": "https://www.espiritosantonoticias.com.br/telha-se-desprende-de-ginasio-e-causa-falta-de-energia-em-anchieta",
@@ -6499,9 +6504,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0be38b959fdd90623aee3c0b6c89bb2ec5ffc420": {
-    "ts": 1784678067446,
-    "url": "https://www.espiritosantonoticias.com.br/acao-rapida-da-policia-militar-resulta-na-apreensao-de-adolescentes-apos-brutal-agressao-contra-idoso-em-piuma",
-    "title": "Polícia Militar apreende dois adolescentes suspeitos de tentativa de homicídio em Itapemirim"
+  "source:9c51bbbbda0ba7b44369ee4b9c2c9c5890331b90": {
+    "ts": 1784721266521,
+    "url": "https://eshoje.com.br/politica/2026/07/mais-de-460-mil-capixabas-com-deficiencia-podem-ser-beneficiados-por-projeto-que-proibe-multa-em-condominios",
+    "title": "Projeto de Lei proíbe multas a pessoas com deficiência por comportamentos decorrentes da condição no Espírito Santo"
+  },
+  "source:87426d3f39e507ef363491711c5d49977f19055b": {
+    "ts": 1784721266521,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/iuna-abre-credenciamento-para-ambulantes-e-regulamenta-pontos-fixos-de-comercio-na-cidade",
+    "title": "Iúna abre credenciamento para comerciantes ambulantes em pontos fixos regulamentados"
+  },
+  "source:4ad38d95da623529610cf88baafcb488a5658053": {
+    "ts": 1784721266521,
+    "url": "https://eshoje.com.br/saude/2026/07/laranja-da-terra-amplia-atendimento-em-cardiologia-para-mais-de-11-mil-moradores",
+    "title": "Laranja da Terra amplia atendimento em cardiologia para reduzir tempo de espera e evitar deslocamentos"
+  },
+  "source:a979aaeac50f88746b9118d7c9962d9a82d0e01e": {
+    "ts": 1784721266521,
+    "url": "https://eshoje.com.br/politica/2026/07/es-tem-36-mil-criancas-sem-nome-do-pai-camara-muda-regra",
+    "title": "Projeto estabelece prazo para cartórios comunicarem registros de nascimento sem nome do pai no Espírito Santo"
   }
 }
