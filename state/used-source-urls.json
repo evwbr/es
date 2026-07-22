@@ -1,4 +1,19 @@
 {
+  "source:20e240829820d66b99d29448d592bcccc6aa5d20": {
+    "ts": 1784735666516,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-apos-tentar-fugir-da-pm-com-arma-drogas-e-cerca-de-500-pinos-vazios-em-afonso-claudio",
+    "title": "Homem é preso em Venda Nova do Imigrante com arma, drogas e munições"
+  },
+  "source:8e417eccacd6a49d01498b669b942798c8a8f17b": {
+    "ts": 1784735666516,
+    "url": "https://www.espiritosantonoticias.com.br/incendio-em-vegetacao-leva-escola-a-liberar-alunos-mais-cedo-em-anchieta",
+    "title": "Incêndio em vegetação nos fundos da Escola Padre Anchieta em Anchieta leva à liberação antecipada dos alunos"
+  },
+  "source:7b096cfcd73f859f987d312f274873531b260bd6": {
+    "ts": 1784735666516,
+    "url": "https://eshoje.com.br/policia/2026/07/trio-suspeito-de-assaltos-e-preso-com-bicicleta-eletrica-roubada-em-vila-velha",
+    "title": "Trio é preso após assalto com arma e recuperação de bicicleta elétrica em Vila Velha"
+  },
   "source:fab29b17bd82f72bfb86d4ed0eb51c16cdbe8729": {
     "ts": 1784732066385,
     "url": "https://www.espiritosantonoticias.com.br/mulher-e-detida-apos-tentar-levar-menina-de-8-anos-de-lanchonete-em-colatina",
@@ -6559,19 +6574,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:20e240829820d66b99d29448d592bcccc6aa5d20": {
-    "ts": 1784735666516,
-    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-apos-tentar-fugir-da-pm-com-arma-drogas-e-cerca-de-500-pinos-vazios-em-afonso-claudio",
-    "title": "Homem é preso em Venda Nova do Imigrante com arma, drogas e munições"
+  "source:e9fda56d0521835f4cdc67f7e83f23f2b2456970": {
+    "ts": 1784746466625,
+    "url": "https://eshoje.com.br/esportes/2026/07/breno-melo-e-emprestado",
+    "title": "Meia Breno Melo é emprestado pelo Rio Branco ao São Bernardo-SP até 2027"
   },
-  "source:8e417eccacd6a49d01498b669b942798c8a8f17b": {
-    "ts": 1784735666516,
-    "url": "https://www.espiritosantonoticias.com.br/incendio-em-vegetacao-leva-escola-a-liberar-alunos-mais-cedo-em-anchieta",
-    "title": "Incêndio em vegetação nos fundos da Escola Padre Anchieta em Anchieta leva à liberação antecipada dos alunos"
+  "source:c0527b393bd11948e292fede27efda4c6f0f00cf": {
+    "ts": 1784746466625,
+    "url": "https://eshoje.com.br/policia/2026/07/demitido-apos-caso-de-racismo",
+    "title": "Ex-professor da UFES é levado à delegacia após denúncia de agressão pela companheira em Vitória"
   },
-  "source:7b096cfcd73f859f987d312f274873531b260bd6": {
-    "ts": 1784735666516,
-    "url": "https://eshoje.com.br/policia/2026/07/trio-suspeito-de-assaltos-e-preso-com-bicicleta-eletrica-roubada-em-vila-velha",
-    "title": "Trio é preso após assalto com arma e recuperação de bicicleta elétrica em Vila Velha"
+  "source:511ae2bba13db82bad46f614dd55a9e2271524aa": {
+    "ts": 1784746466625,
+    "url": "https://eshoje.com.br/policia/2026/07/preso-enquanto-trabalhava-em-oficina",
+    "title": "Homem é preso em Cariacica suspeito de matar caminhoneiro durante briga"
+  },
+  "source:efb6c2fd333b2dbc2eca06150923e3b9be24ac58": {
+    "ts": 1784746466625,
+    "url": "https://eshoje.com.br/esportes/2026/07/maratona-de-vitoria-esgota",
+    "title": "Maratona de Vitória registra lotação em provas principais e mantém inscrições abertas para algumas modalidades"
+  },
+  "source:a69302ac7a93a5150089044c72ccefa6ff1b9191": {
+    "ts": 1784746466625,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/alerta-de-ventos-intensos",
+    "title": "Defesa Civil alerta para ventos fortes no litoral do Espírito Santo entre quinta e sexta-feira"
   }
 }
