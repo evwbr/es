@@ -1,4 +1,19 @@
 {
+  "source:bb0ad1b8cd89f2a965f66dfa821382f55679035e": {
+    "ts": 1784814866518,
+    "url": "https://eshoje.com.br/policia/2026/07/es-reduz-mortes-violentas-mas-registra-alta-em-roubos-de-celulares",
+    "title": "Espírito Santo registra queda na taxa de mortes violentas em 2025, aponta anuário nacional"
+  },
+  "source:e7bdada826a1ed6e1ab402ab37cebbab3ae6cb1d": {
+    "ts": 1784814866518,
+    "url": "https://eshoje.com.br/economia/2026/07/veja-os-10-municipios-do-es-com-menos-de-100-mil-habitantes-que-se-destacam-na-gestao-fiscal",
+    "title": "Dez municípios capixabas com menos de 100 mil habitantes lideram gestão contábil e fiscal no Espírito Santo"
+  },
+  "source:96c4986fb594b689d7f252fdc492b5f1d241e028": {
+    "ts": 1784814866518,
+    "url": "https://eshoje.com.br/policia/2026/07/patrulha-comercial-amplia-rondas-e-reforca-seguranca-em-areas-de-comercio-de-colatina",
+    "title": "Guarda Municipal de Colatina intensifica patrulhamento para reforçar segurança no comércio local"
+  },
   "source:bb41af028fc0f5eccb4a544325063136009122bc": {
     "ts": 1784811266703,
     "url": "https://eshoje.com.br/politica/2026/07/camara-de-linhares-aprova-criacao-do-dia-de-combate-ao-vicio-em-apostas",
@@ -6634,19 +6649,54 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:bb0ad1b8cd89f2a965f66dfa821382f55679035e": {
-    "ts": 1784814866518,
-    "url": "https://eshoje.com.br/policia/2026/07/es-reduz-mortes-violentas-mas-registra-alta-em-roubos-de-celulares",
-    "title": "Espírito Santo registra queda na taxa de mortes violentas em 2025, aponta anuário nacional"
+  "source:3203ea3b08496f49594335654b85f5262faa7cc7": {
+    "ts": 1784822066589,
+    "url": "https://eshoje.com.br/policia/2026/07/espirito-santo-tem-8o-maior-numero-de-registros-de-homofobia-e-transfobia-no-pais",
+    "title": "Espírito Santo registra aumento de crimes contra população LGBTQIA+ e ocupa 8ª posição nacional em ocorrências em 2025"
   },
-  "source:e7bdada826a1ed6e1ab402ab37cebbab3ae6cb1d": {
-    "ts": 1784814866518,
-    "url": "https://eshoje.com.br/economia/2026/07/veja-os-10-municipios-do-es-com-menos-de-100-mil-habitantes-que-se-destacam-na-gestao-fiscal",
-    "title": "Dez municípios capixabas com menos de 100 mil habitantes lideram gestão contábil e fiscal no Espírito Santo"
+  "source:9d3a1359bdd92571a873956e0a722a988aee3463": {
+    "ts": 1784822066589,
+    "url": "https://eshoje.com.br/politica/2026/07/es-aprova-isencao-de-icms-para-onibus-escolares-e-reduz-custo-do-transporte",
+    "title": "Assembleia Legislativa do ES aprova isenção de ICMS para veículos do transporte escolar público"
   },
-  "source:96c4986fb594b689d7f252fdc492b5f1d241e028": {
-    "ts": 1784814866518,
-    "url": "https://eshoje.com.br/policia/2026/07/patrulha-comercial-amplia-rondas-e-reforca-seguranca-em-areas-de-comercio-de-colatina",
-    "title": "Guarda Municipal de Colatina intensifica patrulhamento para reforçar segurança no comércio local"
+  "source:bc1df38d2fe81d55c09956cecbef9e9945f4a17b": {
+    "ts": 1784822066589,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-tempo-fechado-prende-seis-pessoas-e-apreende-armas-drogas-e-municoes-em-piuma",
+    "title": "Operação integrada combate tráfico e violência no bairro Céu Azul, em Piúma"
+  },
+  "source:3ca4b93ed1e1bfce15cca3c1b736d70b43618d32": {
+    "ts": 1784822066589,
+    "url": "https://eshoje.com.br/esportes/2026/07/palmeiras-e-flamengo-ampliam-vantagem-sobre-rivais-na-briga-pelo-primeiro-penta-dos-pontos-corridos",
+    "title": "Palmeiras e Flamengo vencem como visitantes e ampliam vantagem no Brasileirão após Copa do Mundo"
+  },
+  "source:0c903478ac3631073559555584199ca1ca3dc81a": {
+    "ts": 1784822066589,
+    "url": "https://www.espiritosantonoticias.com.br/italiano-condenado-por-associacao-ao-trafico-de-drogas-e-preso-em-marataizes",
+    "title": "Condenado italiano inicia cumprimento de pena em regime fechado no Espírito Santo"
+  },
+  "source:d115440f30039d8632ecdf64621a8b276898b788": {
+    "ts": 1784822066589,
+    "url": "https://www.espiritosantonoticias.com.br/incendio-atinge-residencia-e-destroi-dois-quartos-em-cachoeiro-de-itapemirim",
+    "title": "Incêndio destrói dois quartos de residência em Cachoeiro de Itapemirim"
+  },
+  "source:d502448b22fbc5b600ae37de3c52304c75c469c7": {
+    "ts": 1784822066589,
+    "url": "https://www.espiritosantonoticias.com.br/pm-apreende-cocaina-municoes-e-carregador-de-pistola-durante-acao-em-vitoria",
+    "title": "Polícia apreende drogas e munições em Vitória após suspeito fugir"
+  },
+  "source:a71fae740ac37e53363154cdc69eb23995b842e3": {
+    "ts": 1784822066589,
+    "url": "https://www.espiritosantonoticias.com.br/sequencia-de-mortes-de-gatos-intriga-moradores-e-levanta-suspeita-de-envenenamento-em-cachoeiro",
+    "title": "Suspeita de envenenamento causa morte de gatos em chácara de Cachoeiro de Itapemirim"
+  },
+  "source:4e3a664499c0313be467ae43e33863e84e69e05f": {
+    "ts": 1784822066589,
+    "url": "https://eshoje.com.br/policia/2026/07/cao-farejador-ajuda-pm-a-apreender-mais-de-300-drogas-em-vitoria",
+    "title": "Cão farejador da PMES localiza mais de 300 unidades de drogas em ação na Vila Rubim, Vitória"
+  },
+  "source:9b6f7ca49bce67c0855ce4cc3713d78a290bd48b": {
+    "ts": 1784822066589,
+    "url": "https://eshoje.com.br/saude/2026/07/vacinacao-antirrabica-de-caes-e-gatos-chega-a-novos-bairros-da-serra-neste-fim-de-semana",
+    "title": "Serra realiza nova etapa da vacinação antirrábica para cães e gatos neste fim de semana"
   }
 }
