@@ -1,4 +1,19 @@
 {
+  "source:2836ee59b42511e16aaf10c1b3afc343aa90c60d": {
+    "ts": 1784829267159,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/onibus-apedrejado-na-serra",
+    "title": "Ônibus do Transcol é apedrejado na Serra após motorista não parar para grupo de passageiros"
+  },
+  "source:84050e0bb8633c6e12ee1a1ff3ada47d51a58c21": {
+    "ts": 1784829267159,
+    "url": "https://eshoje.com.br/esportes/2026/07/breno-herculano-na-coreia",
+    "title": "Atacante capixaba Breno Herculano ajuda FC Anyang a vencer na K-League 1 e alcançar sexta posição"
+  },
+  "source:a79600834be2e3ccdc3ac58c795516d32d5955ff": {
+    "ts": 1784829267159,
+    "url": "https://www.espiritosantonoticias.com.br/turismo-rural-fortalece-economia-local-e-impulsiona-desenvolvimento-nas-montanhas-capixabas",
+    "title": "Venda Nova do Imigrante destaca turismo rural com 57 propriedades e 1.500 empregos diretos"
+  },
   "source:f04b6022b14a6f02d4a8dbb2186373c65f55c6c1": {
     "ts": 1784825666613,
     "url": "https://www.espiritosantonoticias.com.br/biblioteca-transcol-tem-95-de-aprovacao-entre-os-usuarios",
@@ -6719,19 +6734,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2836ee59b42511e16aaf10c1b3afc343aa90c60d": {
-    "ts": 1784829267159,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/onibus-apedrejado-na-serra",
-    "title": "Ônibus do Transcol é apedrejado na Serra após motorista não parar para grupo de passageiros"
+  "source:c0cbd76aa99dce2d0ffa6ec2ea9ce0c0c1eca366": {
+    "ts": 1784832867031,
+    "url": "https://eshoje.com.br/policia/2026/07/mounjaro-do-paraguai-escondido",
+    "title": "Casal é detido com medicamentos irregulares na BR-101 em Itapemirim"
   },
-  "source:84050e0bb8633c6e12ee1a1ff3ada47d51a58c21": {
-    "ts": 1784829267159,
-    "url": "https://eshoje.com.br/esportes/2026/07/breno-herculano-na-coreia",
-    "title": "Atacante capixaba Breno Herculano ajuda FC Anyang a vencer na K-League 1 e alcançar sexta posição"
-  },
-  "source:a79600834be2e3ccdc3ac58c795516d32d5955ff": {
-    "ts": 1784829267159,
-    "url": "https://www.espiritosantonoticias.com.br/turismo-rural-fortalece-economia-local-e-impulsiona-desenvolvimento-nas-montanhas-capixabas",
-    "title": "Venda Nova do Imigrante destaca turismo rural com 57 propriedades e 1.500 empregos diretos"
+  "source:1b6c4c9ad394e5fb42920576be9cd4b21b961b99": {
+    "ts": 1784832867031,
+    "url": "https://eshoje.com.br/policia/2026/07/gata-e-baleada-e-cpi-pede-ajuda",
+    "title": "Gata é baleada em Santa Teresa e CPI dos Maus-tratos pede ajuda para identificar autor"
   }
 }
