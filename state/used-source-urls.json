@@ -1,4 +1,9 @@
 {
+  "source:1cbef3a928095ee7de741c2d881c92925375b3bc": {
+    "ts": 1784901266525,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/incendios-atingem-galpao-predio-e-area-de-vegetacao-em-diferentes-bairros-da-serra",
+    "title": "Corpo de Bombeiros combate incêndios em três bairros de Vila Velha"
+  },
   "source:51d585d1c25e7aef82492fb5be1303c2be48199e": {
     "ts": 1784897667924,
     "url": "https://eshoje.com.br/policia/2026/07/guarda-de-vitoria-prende-motociclista-com-cnh-falsa-e-homem-com-placa-adulterada-durante-blitz",
@@ -6804,9 +6809,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:1cbef3a928095ee7de741c2d881c92925375b3bc": {
-    "ts": 1784901266525,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/incendios-atingem-galpao-predio-e-area-de-vegetacao-em-diferentes-bairros-da-serra",
-    "title": "Corpo de Bombeiros combate incêndios em três bairros de Vila Velha"
+  "source:cdf4abae6ff03efb15166674c29453bb60faa54f": {
+    "ts": 1784904866240,
+    "url": "https://www.espiritosantonoticias.com.br/homens-representam-quase-87-das-mortes-por-afogamento-no-espirito-santo-aponta-estudo-inedito",
+    "title": "Estudo aponta grupos mais vulneráveis a afogamentos no Espírito Santo e destaca importância da prevenção"
+  },
+  "source:8c6863f5c357d3f44422f5e5213dac8a5a7fdc5c": {
+    "ts": 1784904866240,
+    "url": "https://eshoje.com.br/policia/2026/07/carro-capota-apos-colisao-em-avenida-movimentada-de-vila-velha",
+    "title": "Veículo capota após colisão na Praia da Costa, em Vila Velha"
+  },
+  "source:65ff18a06ca1b453bb68ecc0c5408bb0bd1d3b60": {
+    "ts": 1784904866240,
+    "url": "https://www.espiritosantonoticias.com.br/pm-apreende-pistola-e-mais-de-35-mil-macos-de-cigarros-sem-nota-fiscal-durante-operacao-em-cariacica",
+    "title": "Polícia apreende arma e carga de cigarros contrabandeados em residência no Maracanã"
   }
 }
