@@ -1,4 +1,9 @@
 {
+  "source:0e442d68cd7ebdeab16e9f361833e8dc5acb2fad": {
+    "ts": 1784987666355,
+    "url": "https://eshoje.com.br/politica/2026/07/erivan-tavares-confirma-apoio",
+    "title": "Prefeito de Conceição da Barra confirma apoio unificado à chapa governista nas eleições estaduais"
+  },
   "source:20f3a37749557c14e883edb423c25b24addcfe25": {
     "ts": 1784973266116,
     "url": "https://eshoje.com.br/economia/2026/07/tarifa-adicional-dos-eua",
@@ -6894,9 +6899,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0e442d68cd7ebdeab16e9f361833e8dc5acb2fad": {
-    "ts": 1784987666355,
-    "url": "https://eshoje.com.br/politica/2026/07/erivan-tavares-confirma-apoio",
-    "title": "Prefeito de Conceição da Barra confirma apoio unificado à chapa governista nas eleições estaduais"
+  "source:3f403f224f1c7b6c335e68d661d2f06f74e2f5f6": {
+    "ts": 1784991266251,
+    "url": "https://eshoje.com.br/politica/2026/07/ferraco-reforca-compromisso",
+    "title": "Ricardo Ferraço assume compromisso de dar continuidade ao projeto político de Casagrande no Espírito Santo"
+  },
+  "source:ae66121a96b6c450a8da2cbc76e2cfafa5d30df7": {
+    "ts": 1784991266251,
+    "url": "https://eshoje.com.br/politica/2026/07/psb-apresenta-12-nomes-para-camara",
+    "title": "PSB oficializa 12 candidatos à Câmara dos Deputados no Espírito Santo para 2026"
   }
 }
