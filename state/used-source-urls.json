@@ -1,4 +1,14 @@
 {
+  "source:3f403f224f1c7b6c335e68d661d2f06f74e2f5f6": {
+    "ts": 1784991266251,
+    "url": "https://eshoje.com.br/politica/2026/07/ferraco-reforca-compromisso",
+    "title": "Ricardo Ferraço assume compromisso de dar continuidade ao projeto político de Casagrande no Espírito Santo"
+  },
+  "source:ae66121a96b6c450a8da2cbc76e2cfafa5d30df7": {
+    "ts": 1784991266251,
+    "url": "https://eshoje.com.br/politica/2026/07/psb-apresenta-12-nomes-para-camara",
+    "title": "PSB oficializa 12 candidatos à Câmara dos Deputados no Espírito Santo para 2026"
+  },
   "source:0e442d68cd7ebdeab16e9f361833e8dc5acb2fad": {
     "ts": 1784987666355,
     "url": "https://eshoje.com.br/politica/2026/07/erivan-tavares-confirma-apoio",
@@ -6899,14 +6909,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3f403f224f1c7b6c335e68d661d2f06f74e2f5f6": {
-    "ts": 1784991266251,
-    "url": "https://eshoje.com.br/politica/2026/07/ferraco-reforca-compromisso",
-    "title": "Ricardo Ferraço assume compromisso de dar continuidade ao projeto político de Casagrande no Espírito Santo"
+  "source:9ea145a7dc67b2fe446419ea40f4cbc8917eec6d": {
+    "ts": 1784994866433,
+    "url": "https://eshoje.com.br/politica/2026/07/democrata-apoio-a-pazolini",
+    "title": "Partido Democrata oficializa apoio a Lorenzo Pazolini para governo do Espírito Santo em 2026"
   },
-  "source:ae66121a96b6c450a8da2cbc76e2cfafa5d30df7": {
-    "ts": 1784991266251,
-    "url": "https://eshoje.com.br/politica/2026/07/psb-apresenta-12-nomes-para-camara",
-    "title": "PSB oficializa 12 candidatos à Câmara dos Deputados no Espírito Santo para 2026"
+  "source:09c572479e8f90354e3e7cec09d3a2a179df81f2": {
+    "ts": 1784994866433,
+    "url": "https://eshoje.com.br/politica/2026/07/amunes-apoio-governo",
+    "title": "Prefeito de Nova Venécia declara apoio à reeleição de Ricardo Ferraço no Espírito Santo"
+  },
+  "source:e759e9da258ad3ce9910402421b44e8056b1a0d3": {
+    "ts": 1784994866433,
+    "url": "https://eshoje.com.br/politica/2026/07/euclerio-reafirma-apoio-mdb",
+    "title": "Prefeito de Cariacica reafirma apoio do MDB à reeleição de Ricardo Ferraço no Espírito Santo"
   }
 }
