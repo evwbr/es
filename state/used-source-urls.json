@@ -1,4 +1,9 @@
 {
+  "source:e1d4f3538ed2a0f68d1f960f0a480770cfd3aae9": {
+    "ts": 1785113667175,
+    "url": "https://eshoje.com.br/policia/2026/07/dores-do-rio-preto-cadela",
+    "title": "Cadela é arrastada e morta em Dores dio Rio Preto"
+  },
   "source:96c23ca3ca32d0101bac350caf21216e11cd67c7": {
     "ts": 1785102866780,
     "url": "https://eshoje.com.br/politica/2026/07/nao-cadastrou-a-biometria",
@@ -6969,9 +6974,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e1d4f3538ed2a0f68d1f960f0a480770cfd3aae9": {
-    "ts": 1785113667175,
-    "url": "https://eshoje.com.br/policia/2026/07/dores-do-rio-preto-cadela",
-    "title": "Cadela é arrastada e morta em Dores dio Rio Preto"
+  "source:2550bcc379bed61390641b035fd61b0e22e75ccd": {
+    "ts": 1785138866430,
+    "url": "https://eshoje.com.br/policia/2026/07/dia-do-motociclista-mortes",
+    "title": "Dia do Motociclista PRF alerta aumento de mortes"
+  },
+  "source:6858ea7932cf50946819da407a94389d469a5b60": {
+    "ts": 1785138866430,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/mapa-eleicoes-2026-es-votos",
+    "title": "Mapa dos Votos ES: 2,99 mi de eleitores decidem"
   }
 }
