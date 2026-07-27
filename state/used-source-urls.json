@@ -1,4 +1,14 @@
 {
+  "source:2550bcc379bed61390641b035fd61b0e22e75ccd": {
+    "ts": 1785138866430,
+    "url": "https://eshoje.com.br/policia/2026/07/dia-do-motociclista-mortes",
+    "title": "Dia do Motociclista PRF alerta aumento de mortes"
+  },
+  "source:6858ea7932cf50946819da407a94389d469a5b60": {
+    "ts": 1785138866430,
+    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/mapa-eleicoes-2026-es-votos",
+    "title": "Mapa dos Votos ES: 2,99 mi de eleitores decidem"
+  },
   "source:e1d4f3538ed2a0f68d1f960f0a480770cfd3aae9": {
     "ts": 1785113667175,
     "url": "https://eshoje.com.br/policia/2026/07/dores-do-rio-preto-cadela",
@@ -6974,14 +6984,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2550bcc379bed61390641b035fd61b0e22e75ccd": {
-    "ts": 1785138866430,
-    "url": "https://eshoje.com.br/policia/2026/07/dia-do-motociclista-mortes",
-    "title": "Dia do Motociclista PRF alerta aumento de mortes"
+  "source:29a58fa0e8380990ce93b28dc319e7e56d91848e": {
+    "ts": 1785153267403,
+    "url": "https://www.espiritosantonoticias.com.br/motociclista-e-preso-apos-fugir-de-blitz-bater-em-carro-invadir-casa-e-tentar-agredir-policiais-em-cachoeiro",
+    "title": "Motociclista é preso após fugir de blitz, bater em carro, invadir casa e tentar agredir policiais em Cachoeiro"
   },
-  "source:6858ea7932cf50946819da407a94389d469a5b60": {
-    "ts": 1785138866430,
-    "url": "https://eshoje.com.br/politica/poder-eshoje/2026/07/mapa-eleicoes-2026-es-votos",
-    "title": "Mapa dos Votos ES: 2,99 mi de eleitores decidem"
+  "source:e4f09c8692f3b1a183d366f766dd778bcd68d96d": {
+    "ts": 1785153267403,
+    "url": "https://eshoje.com.br/saude/2026/07/unidades-de-saude-de-vila-velha-oferecem-avaliacao-do-pe-diabetico",
+    "title": "Unidades de saúde Vila Velha oferecem avaliação do pé diabético"
   }
 }
