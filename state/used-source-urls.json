@@ -1,4 +1,14 @@
 {
+  "source:4d9a28c860957d4f9d60d706e7c0dadafb1c7395": {
+    "ts": 1785243266293,
+    "url": "https://www.espiritosantonoticias.com.br/bairro-santa-rita-recebe-o-11o-marataizes-em-acao-nesta-quinta-30",
+    "title": "Marataízes oferece serviços gratuitos à população no bairro Santa Rita"
+  },
+  "source:55c2cf51721eccbf9112016547d78750897709d8": {
+    "ts": 1785243266293,
+    "url": "https://www.espiritosantonoticias.com.br/51a-festa-da-banana-e-do-leite-sucesso-de-publico-e-organizacao-em-alfredo-chaves",
+    "title": "Festa da Banana e do Leite reúne cerca de 70 mil pessoas e destaca cultura e agricultura local"
+  },
   "source:f8da4c6cb9f8228517d8dd97e32574dfd6563c1f": {
     "ts": 1785228866970,
     "url": "https://eshoje.com.br/policia/2026/07/jovem-morre-apos-carro-capotar-e-parar-em-corrego-na-zona-rural-de-muniz-freire",
@@ -7089,14 +7099,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4d9a28c860957d4f9d60d706e7c0dadafb1c7395": {
-    "ts": 1785243266293,
-    "url": "https://www.espiritosantonoticias.com.br/bairro-santa-rita-recebe-o-11o-marataizes-em-acao-nesta-quinta-30",
-    "title": "Marataízes oferece serviços gratuitos à população no bairro Santa Rita"
+  "source:d2fa85ee3f64657c0e5663b2c88fea488059b1dc": {
+    "ts": 1785246866316,
+    "url": "https://eshoje.com.br/saude/2026/07/moradores-de-vila-velha-podem-reagendar-visita-dos-agentes-de-endemias",
+    "title": "Moradores de Vila Velha podem reagendar visita de agentes para combate ao Aedes aegypti"
   },
-  "source:55c2cf51721eccbf9112016547d78750897709d8": {
-    "ts": 1785243266293,
-    "url": "https://www.espiritosantonoticias.com.br/51a-festa-da-banana-e-do-leite-sucesso-de-publico-e-organizacao-em-alfredo-chaves",
-    "title": "Festa da Banana e do Leite reúne cerca de 70 mil pessoas e destaca cultura e agricultura local"
+  "source:00a8d17e32b7fb1e8f169eeaa7bfa575f4a53f91": {
+    "ts": 1785246866316,
+    "url": "https://eshoje.com.br/policia/2026/07/pm-apreende-drogas-em-area-de-mata-no-bairro-cabral-em-vitoria",
+    "title": "Polícia Militar apreende drogas em operação no bairro Cabral, em Vitória"
+  },
+  "source:bba0afa0f3e82099e5370c42c6561fd3b2fc4276": {
+    "ts": 1785246866316,
+    "url": "https://www.espiritosantonoticias.com.br/samarco-realiza-campanha-de-prevencao-e-combate-a-incendios-florestais",
+    "title": "Empresa reforça ações de prevenção contra incêndios no Parque Nacional da Serra do Gandarela e região"
   }
 }
