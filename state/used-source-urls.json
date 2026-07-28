@@ -1,4 +1,19 @@
 {
+  "source:d2fa85ee3f64657c0e5663b2c88fea488059b1dc": {
+    "ts": 1785246866316,
+    "url": "https://eshoje.com.br/saude/2026/07/moradores-de-vila-velha-podem-reagendar-visita-dos-agentes-de-endemias",
+    "title": "Moradores de Vila Velha podem reagendar visita de agentes para combate ao Aedes aegypti"
+  },
+  "source:00a8d17e32b7fb1e8f169eeaa7bfa575f4a53f91": {
+    "ts": 1785246866316,
+    "url": "https://eshoje.com.br/policia/2026/07/pm-apreende-drogas-em-area-de-mata-no-bairro-cabral-em-vitoria",
+    "title": "Polícia Militar apreende drogas em operação no bairro Cabral, em Vitória"
+  },
+  "source:bba0afa0f3e82099e5370c42c6561fd3b2fc4276": {
+    "ts": 1785246866316,
+    "url": "https://www.espiritosantonoticias.com.br/samarco-realiza-campanha-de-prevencao-e-combate-a-incendios-florestais",
+    "title": "Empresa reforça ações de prevenção contra incêndios no Parque Nacional da Serra do Gandarela e região"
+  },
   "source:4d9a28c860957d4f9d60d706e7c0dadafb1c7395": {
     "ts": 1785243266293,
     "url": "https://www.espiritosantonoticias.com.br/bairro-santa-rita-recebe-o-11o-marataizes-em-acao-nesta-quinta-30",
@@ -7099,19 +7114,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:d2fa85ee3f64657c0e5663b2c88fea488059b1dc": {
-    "ts": 1785246866316,
-    "url": "https://eshoje.com.br/saude/2026/07/moradores-de-vila-velha-podem-reagendar-visita-dos-agentes-de-endemias",
-    "title": "Moradores de Vila Velha podem reagendar visita de agentes para combate ao Aedes aegypti"
+  "source:8c1f418b823729191f345b5e805a3b136d92421d": {
+    "ts": 1785250466232,
+    "url": "https://eshoje.com.br/policia/2026/07/forca-tatica-apreende-mais-de-tres-mil-pinos-de-cocaina-em-casa-em-vila-velha",
+    "title": "Polícia Militar apreende mais de 3 mil pinos de cocaína em Vila Velha"
   },
-  "source:00a8d17e32b7fb1e8f169eeaa7bfa575f4a53f91": {
-    "ts": 1785246866316,
-    "url": "https://eshoje.com.br/policia/2026/07/pm-apreende-drogas-em-area-de-mata-no-bairro-cabral-em-vitoria",
-    "title": "Polícia Militar apreende drogas em operação no bairro Cabral, em Vitória"
-  },
-  "source:bba0afa0f3e82099e5370c42c6561fd3b2fc4276": {
-    "ts": 1785246866316,
-    "url": "https://www.espiritosantonoticias.com.br/samarco-realiza-campanha-de-prevencao-e-combate-a-incendios-florestais",
-    "title": "Empresa reforça ações de prevenção contra incêndios no Parque Nacional da Serra do Gandarela e região"
+  "source:62814fc5624ad0d975c697a53fc40224b5ba0386": {
+    "ts": 1785250466232,
+    "url": "https://eshoje.com.br/esportes/2026/07/icvc-estreia-na-superliga-c-de-volei-em-busca-de-vaga-nacional",
+    "title": "ICVC estreia na Superliga C Feminina de Vôlei em busca de vaga na fase nacional"
   }
 }
