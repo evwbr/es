@@ -1,4 +1,9 @@
 {
+  "source:7db58f8fc18b04f13f82cd07f7c94cba510e7dbd": {
+    "ts": 1785495266754,
+    "url": "https://www.espiritosantonoticias.com.br/idoso-morre-apos-ser-atropelado-enquanto-atravessava-a-rodovia-do-sol-de-bicicleta-em-vila-velha",
+    "title": "Idoso morre atropelado na Rodovia do Sol em Vila Velha"
+  },
   "source:e099407be36b2932ed0c8bbec2fd0529dce7c3dc": {
     "ts": 1785491666784,
     "url": "https://www.espiritosantonoticias.com.br/apos-reabilitacao-140-animais-silvestres-voltam-a-natureza-em-area-rural-de-guacui",
@@ -7239,9 +7244,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7db58f8fc18b04f13f82cd07f7c94cba510e7dbd": {
-    "ts": 1785495266754,
-    "url": "https://www.espiritosantonoticias.com.br/idoso-morre-apos-ser-atropelado-enquanto-atravessava-a-rodovia-do-sol-de-bicicleta-em-vila-velha",
-    "title": "Idoso morre atropelado na Rodovia do Sol em Vila Velha"
+  "source:80df9b8b12e7b7432bec5573c819b074f0cc6b79": {
+    "ts": 1785498866337,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/motociclista-morre-em-acidente-envolvendo-carreta-na-br-262-em-domingos-martins",
+    "title": "Motociclista morre em colisão com caminhão na BR-262 em Domingos Martins"
+  },
+  "source:bb10b5296b77d04522226c4505a7acd9e1547da2": {
+    "ts": 1785498866337,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/corrida-altera-transito-em-vitoria-na-manha-deste-domingo-2-veja-pontos-de-interdicao",
+    "title": "Secretaria de Segurança Urbana anuncia interdições temporárias no Centro e Enseada do Suá para evento"
+  },
+  "source:822e2a5b9ab5a0c18977c841447a0ef7903975d2": {
+    "ts": 1785498866337,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/idoso-e-socorrido-por-guardas-apos-sofrer-crise-convulsiva-em-vitoria",
+    "title": "Guarda Municipal transporta homem em convulsão até Pronto Atendimento em São Pedro"
   }
 }
