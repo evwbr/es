@@ -1,4 +1,14 @@
 {
+  "source:8c1f418b823729191f345b5e805a3b136d92421d": {
+    "ts": 1785250466232,
+    "url": "https://eshoje.com.br/policia/2026/07/forca-tatica-apreende-mais-de-tres-mil-pinos-de-cocaina-em-casa-em-vila-velha",
+    "title": "Polícia Militar apreende mais de 3 mil pinos de cocaína em Vila Velha"
+  },
+  "source:62814fc5624ad0d975c697a53fc40224b5ba0386": {
+    "ts": 1785250466232,
+    "url": "https://eshoje.com.br/esportes/2026/07/icvc-estreia-na-superliga-c-de-volei-em-busca-de-vaga-nacional",
+    "title": "ICVC estreia na Superliga C Feminina de Vôlei em busca de vaga na fase nacional"
+  },
   "source:d2fa85ee3f64657c0e5663b2c88fea488059b1dc": {
     "ts": 1785246866316,
     "url": "https://eshoje.com.br/saude/2026/07/moradores-de-vila-velha-podem-reagendar-visita-dos-agentes-de-endemias",
@@ -7114,14 +7124,39 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:8c1f418b823729191f345b5e805a3b136d92421d": {
-    "ts": 1785250466232,
-    "url": "https://eshoje.com.br/policia/2026/07/forca-tatica-apreende-mais-de-tres-mil-pinos-de-cocaina-em-casa-em-vila-velha",
-    "title": "Polícia Militar apreende mais de 3 mil pinos de cocaína em Vila Velha"
+  "source:d934612eaf02f63925841b9defdee3255d3d3fe3": {
+    "ts": 1785459266549,
+    "url": "https://eshoje.com.br/esportes/2026/07/icvc-fica-a-duas-vitorias",
+    "title": "ICVC lidera fase regional da Superliga C de Vôlei com duas vitórias consecutivas"
   },
-  "source:62814fc5624ad0d975c697a53fc40224b5ba0386": {
-    "ts": 1785250466232,
-    "url": "https://eshoje.com.br/esportes/2026/07/icvc-estreia-na-superliga-c-de-volei-em-busca-de-vaga-nacional",
-    "title": "ICVC estreia na Superliga C Feminina de Vôlei em busca de vaga na fase nacional"
+  "source:c4783768fe8bbc53be818d985fab9d6add21729c": {
+    "ts": 1785459266549,
+    "url": "https://eshoje.com.br/policia/2026/07/homem-toma-arma-de-idoso",
+    "title": "Idoso é baleado após discussão com homem em situação de rua em Cariacica"
+  },
+  "source:06c3ba34dfc8badedbf885490d5cb0b9a6ad7e27": {
+    "ts": 1785459266549,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/5a-faixa-da-segunda-ponte",
+    "title": "Iniciam preparativos para construção da quinta faixa da Segunda Ponte entre Vitória e Vila Velha"
+  },
+  "source:b729de2b73bed095bebdfd99f8d4e48384f7d478": {
+    "ts": 1785459266549,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/tempo-firme-lugar-a-chuva",
+    "title": "Previsão indica chuva no litoral do Espírito Santo na madrugada desta sexta-feira"
+  },
+  "source:659a3b73df92ef47dfb49c2429ef0188e51c600a": {
+    "ts": 1785459266549,
+    "url": "https://eshoje.com.br/policia/2026/07/suspeito-distribuir-droga-sintetica",
+    "title": "Jovem de 23 anos é preso em Alegre por tráfico de drogas sintéticas com movimentação de R$ 400 mil"
+  },
+  "source:ccb986c76dda9b233e98d95c75c36a1a2b524e3e": {
+    "ts": 1785459266549,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-sem-cnh-e-preso-com-carro-roubado-e-adulterado-durante-abordagem-da-prf-em-anchieta",
+    "title": "Homem é preso em Anchieta por dirigir carro roubado com sinais adulterados"
+  },
+  "source:bb0170b9c2931405996429aa546deef96f1724d2": {
+    "ts": 1785459266549,
+    "url": "https://www.espiritosantonoticias.com.br/cadelinha-e-resgatada-pelos-bombeiros-apos-ficar-presa-em-tubulacao-de-casa-em-sao-jose-do-calcado",
+    "title": "Corpo de Bombeiros resgata cadelinha presa em tubulação em São José do Calçado"
   }
 }
