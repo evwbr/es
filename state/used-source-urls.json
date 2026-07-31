@@ -1,4 +1,29 @@
 {
+  "source:4f6823725c3ff8a4205926fdcb5e2b9d3ab2b9dd": {
+    "ts": 1785524066359,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/pista-duplicada-da-br-101-em-anchieta-sera-liberada-neste-sabado",
+    "title": "Ecovias Capixaba libera 5,5 km de pista duplicada na BR-101 em Anchieta"
+  },
+  "source:9ae54fc55f86b801f476105cc04fd928a5581e92": {
+    "ts": 1785524066359,
+    "url": "https://eshoje.com.br/policia/2026/07/cantor-de-forro-foragido-e-considerado-de-alta-periculosidade-e-preso-em-cariacica",
+    "title": "Cantor de forró foragido desde 2025 é preso em Cariacica durante operação policial"
+  },
+  "source:26635143a5c4353811c234487c33ee6323bdade8": {
+    "ts": 1785524066359,
+    "url": "https://eshoje.com.br/policia/2026/07/adolescente-e-gravida-sao-flagrados-com-armas-e-drogas-em-onibus-de-viagem-no-es",
+    "title": "Adolescente e mulher grávida são flagrados com armas e drogas em ônibus na BR-101 em Guarapari"
+  },
+  "source:dbd89c58c7d5031b0729fede8f7b94f0850afce2": {
+    "ts": 1785524066359,
+    "url": "https://eshoje.com.br/policia/2026/07/idosa-mantida-em-carcere-privado-e-resgatada-e-marido-e-preso-em-barra-de-sao-francisco",
+    "title": "Idosa de 70 anos é resgatada de cárcere privado em Barra de São Francisco"
+  },
+  "source:d054b2aaab59db3df5e0d06ebd2fceac8d29ad9d": {
+    "ts": 1785524066359,
+    "url": "https://eshoje.com.br/policia/2026/07/suspeito-de-matar-homem-em-linhares-e-preso-em-sergipe-apos-fugir-para-aracaju",
+    "title": "Suspeito de matar homem em Linhares é preso em Sergipe após fugir para Aracaju"
+  },
   "source:ee5b36a9391c08401fb51a5223ff8580adfc6f68": {
     "ts": 1785520467203,
     "url": "https://eshoje.com.br/saude/2026/07/es-inicia-multivacinacao-para-menores-de-15-anos-mais-de-400-mil-estao-com-vacinas-atrasadas",
@@ -7329,29 +7354,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4f6823725c3ff8a4205926fdcb5e2b9d3ab2b9dd": {
-    "ts": 1785524066359,
-    "url": "https://eshoje.com.br/espirito-santo/2026/07/pista-duplicada-da-br-101-em-anchieta-sera-liberada-neste-sabado",
-    "title": "Ecovias Capixaba libera 5,5 km de pista duplicada na BR-101 em Anchieta"
+  "source:e47d779c489bb1e389e1c6682a63d3b146ac8e55": {
+    "ts": 1785531266633,
+    "url": "https://eshoje.com.br/policia/2026/07/cameras-usadas-pelo-trafico-para-monitorar-policia-sao-apreendidas-em-vitoria",
+    "title": "Guarda Municipal de Vitória apreende câmeras usadas pelo tráfico para monitorar polícia"
   },
-  "source:9ae54fc55f86b801f476105cc04fd928a5581e92": {
-    "ts": 1785524066359,
-    "url": "https://eshoje.com.br/policia/2026/07/cantor-de-forro-foragido-e-considerado-de-alta-periculosidade-e-preso-em-cariacica",
-    "title": "Cantor de forró foragido desde 2025 é preso em Cariacica durante operação policial"
-  },
-  "source:26635143a5c4353811c234487c33ee6323bdade8": {
-    "ts": 1785524066359,
-    "url": "https://eshoje.com.br/policia/2026/07/adolescente-e-gravida-sao-flagrados-com-armas-e-drogas-em-onibus-de-viagem-no-es",
-    "title": "Adolescente e mulher grávida são flagrados com armas e drogas em ônibus na BR-101 em Guarapari"
-  },
-  "source:dbd89c58c7d5031b0729fede8f7b94f0850afce2": {
-    "ts": 1785524066359,
-    "url": "https://eshoje.com.br/policia/2026/07/idosa-mantida-em-carcere-privado-e-resgatada-e-marido-e-preso-em-barra-de-sao-francisco",
-    "title": "Idosa de 70 anos é resgatada de cárcere privado em Barra de São Francisco"
-  },
-  "source:d054b2aaab59db3df5e0d06ebd2fceac8d29ad9d": {
-    "ts": 1785524066359,
-    "url": "https://eshoje.com.br/policia/2026/07/suspeito-de-matar-homem-em-linhares-e-preso-em-sergipe-apos-fugir-para-aracaju",
-    "title": "Suspeito de matar homem em Linhares é preso em Sergipe após fugir para Aracaju"
+  "source:65eba12d50ac7eb42db0a906f3cb67a602f76fbc": {
+    "ts": 1785531266633,
+    "url": "https://eshoje.com.br/policia/2026/07/guarda-rastreia-suspeito-de-agredir-ex-mulher-e-o-prende-durante-fuga-na-serra",
+    "title": "Homem é preso na Serra após agredir ex-companheira em Vitória"
   }
 }
