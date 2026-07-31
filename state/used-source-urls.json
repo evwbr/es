@@ -1,4 +1,14 @@
 {
+  "source:0275f6175cd4c1eb2bd0a46f949d1023ed54a0ad": {
+    "ts": 1785509667166,
+    "url": "https://eshoje.com.br/policia/2026/07/segunda-apreensao-de-armas-e-caca-ilegal-em-dois-dias-e-registrada-no-es",
+    "title": "Polícia Militar Ambiental apreende armas e carne de animais silvestres em Cariacica e Santa Leopoldina"
+  },
+  "source:1fb1add5d2cd0e0145c0bbf891803df562f1189d": {
+    "ts": 1785509667166,
+    "url": "https://eshoje.com.br/policia/2026/07/homem-e-morto-a-tiros-enquanto-dormia-apos-criminosos-invadirem-casa-em-sooretama",
+    "title": "Homem é assassinado dentro de casa após ser acusado de abuso em Sooretama"
+  },
   "source:126d16c03e63c797f9b157a8a7a192ea3dd70beb": {
     "ts": 1785506068169,
     "url": "https://www.espiritosantonoticias.com.br/acao-da-policia-civil-termina-com-tres-procurados-pela-justica-presos-em-marataizes",
@@ -7284,14 +7294,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:0275f6175cd4c1eb2bd0a46f949d1023ed54a0ad": {
-    "ts": 1785509667166,
-    "url": "https://eshoje.com.br/policia/2026/07/segunda-apreensao-de-armas-e-caca-ilegal-em-dois-dias-e-registrada-no-es",
-    "title": "Polícia Militar Ambiental apreende armas e carne de animais silvestres em Cariacica e Santa Leopoldina"
+  "source:c8344bc9ff42941532c9f2258e26fd9bc5d9f08f": {
+    "ts": 1785513266781,
+    "url": "https://eshoje.com.br/policia/2026/07/homem-e-morto-a-facadas-dentro-de-casa-durante-a-madrugada-em-cariacica",
+    "title": "Homem é morto a facadas dentro de casa em Cariacica"
   },
-  "source:1fb1add5d2cd0e0145c0bbf891803df562f1189d": {
-    "ts": 1785509667166,
-    "url": "https://eshoje.com.br/policia/2026/07/homem-e-morto-a-tiros-enquanto-dormia-apos-criminosos-invadirem-casa-em-sooretama",
-    "title": "Homem é assassinado dentro de casa após ser acusado de abuso em Sooretama"
+  "source:592fe427a8538c6f0de79f54345a46d093d3a43a": {
+    "ts": 1785513266781,
+    "url": "https://eshoje.com.br/espirito-santo/2026/07/terceira-ponte-tera-duas-faixas-interditadas-neste-domingo-durante-corrida-entre-vitoria-e-vila-velha",
+    "title": "Terceira Ponte terá interdição parcial na manhã deste domingo para corrida entre Vitória e Vila Velha"
+  },
+  "source:7931a3d6ab78b703be226dca870230c7ebdda23b": {
+    "ts": 1785513266781,
+    "url": "https://www.espiritosantonoticias.com.br/suspeito-de-homicidio-em-domingos-martins-e-preso-e-policia-descobre-que-ele-estava-foragido-ha-17-anos",
+    "title": "Polícia prende homem foragido por homicídio de 2007 em Santa Maria de Jetibá"
+  },
+  "source:93f9b9c6af7859c98b46118969ee9c759c2356bd": {
+    "ts": 1785513266781,
+    "url": "https://eshoje.com.br/policia/2026/07/preso-suspeito-de-furtar-r-1-mi-em-gado-no-es",
+    "title": "Operação em Montanha apreende armas, veículos e animais avaliados em R$ 100 mil"
+  },
+  "source:4c5c241c58928f7549ceb39bd61243b341b58338": {
+    "ts": 1785513266781,
+    "url": "https://www.espiritosantonoticias.com.br/policia-prende-suspeito-de-furtar-cerca-de-r-1-milhao-em-gado-durante-operacao-em-montanha",
+    "title": "Polícia Civil prende suspeito e apreende armas e cavalos em operação contra furto em Montanha"
   }
 }
