@@ -1,4 +1,14 @@
 {
+  "source:e47d779c489bb1e389e1c6682a63d3b146ac8e55": {
+    "ts": 1785531266633,
+    "url": "https://eshoje.com.br/policia/2026/07/cameras-usadas-pelo-trafico-para-monitorar-policia-sao-apreendidas-em-vitoria",
+    "title": "Guarda Municipal de Vitória apreende câmeras usadas pelo tráfico para monitorar polícia"
+  },
+  "source:65eba12d50ac7eb42db0a906f3cb67a602f76fbc": {
+    "ts": 1785531266633,
+    "url": "https://eshoje.com.br/policia/2026/07/guarda-rastreia-suspeito-de-agredir-ex-mulher-e-o-prende-durante-fuga-na-serra",
+    "title": "Homem é preso na Serra após agredir ex-companheira em Vitória"
+  },
   "source:4f6823725c3ff8a4205926fdcb5e2b9d3ab2b9dd": {
     "ts": 1785524066359,
     "url": "https://eshoje.com.br/espirito-santo/2026/07/pista-duplicada-da-br-101-em-anchieta-sera-liberada-neste-sabado",
@@ -7354,14 +7364,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:e47d779c489bb1e389e1c6682a63d3b146ac8e55": {
-    "ts": 1785531266633,
-    "url": "https://eshoje.com.br/policia/2026/07/cameras-usadas-pelo-trafico-para-monitorar-policia-sao-apreendidas-em-vitoria",
-    "title": "Guarda Municipal de Vitória apreende câmeras usadas pelo tráfico para monitorar polícia"
-  },
-  "source:65eba12d50ac7eb42db0a906f3cb67a602f76fbc": {
-    "ts": 1785531266633,
-    "url": "https://eshoje.com.br/policia/2026/07/guarda-rastreia-suspeito-de-agredir-ex-mulher-e-o-prende-durante-fuga-na-serra",
-    "title": "Homem é preso na Serra após agredir ex-companheira em Vitória"
+  "source:21ce4f40dd29626a3a3733d716976e38a5965dc8": {
+    "ts": 1785534866249,
+    "url": "https://eshoje.com.br/policia/2026/07/alvara-soltura-presidios-es",
+    "title": "Sejus-ES determina liberação imediata de detentos após confirmação de alvarás de soltura"
   }
 }
