@@ -1,4 +1,14 @@
 {
+  "source:4da48686948f1ab324597a23f5ee109ad6e01b28": {
+    "ts": 1785592467194,
+    "url": "https://eshoje.com.br/policia/2026/08/vizinhanca-tenta-linchar-mulher-apos-morte-de-recem-nascido-na-serra",
+    "title": "Bebê de três meses é encontrado morto em residência na Serra"
+  },
+  "source:fea151629fc1a0eb2eaee53b9706e1e8f2381f5e": {
+    "ts": 1785592467194,
+    "url": "https://eshoje.com.br/politica/2026/08/em-convencao-do-pl-lucas-polese-projeta-chapas-fortes-para-a-camara-e-assembleia",
+    "title": "Deputado Lucas Polese aguarda confirmação de pré-candidatura à Câmara dos Deputados pelo PL"
+  },
   "source:01a5468999d84fd8a96a116f51420c815ef2f76a": {
     "ts": 1785574469936,
     "url": "https://eshoje.com.br/esportes/2026/08/esporte-por-vitoria-promove-torneios-de-futsal-e-basquete-3x3-neste-fim-de-semana-em-jardim-da-penha",
@@ -7389,14 +7399,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4da48686948f1ab324597a23f5ee109ad6e01b28": {
-    "ts": 1785592467194,
-    "url": "https://eshoje.com.br/policia/2026/08/vizinhanca-tenta-linchar-mulher-apos-morte-de-recem-nascido-na-serra",
-    "title": "Bebê de três meses é encontrado morto em residência na Serra"
+  "source:70710d15eda34341a5eb993edcdb5588b2920147": {
+    "ts": 1785596066113,
+    "url": "https://www.espiritosantonoticias.com.br/pf-e-prf-prendem-mulher-com-drogas-e-arma-no-espirito-santo",
+    "title": "Polícia Federal apreende armas e drogas em ônibus entre Rio de Janeiro e Vitória"
   },
-  "source:fea151629fc1a0eb2eaee53b9706e1e8f2381f5e": {
-    "ts": 1785592467194,
-    "url": "https://eshoje.com.br/politica/2026/08/em-convencao-do-pl-lucas-polese-projeta-chapas-fortes-para-a-camara-e-assembleia",
-    "title": "Deputado Lucas Polese aguarda confirmação de pré-candidatura à Câmara dos Deputados pelo PL"
+  "source:0d2f7d938560cfe9c64c273c6a27ac9be4defc27": {
+    "ts": 1785596066113,
+    "url": "https://www.espiritosantonoticias.com.br/ecovias-capixaba-libera-55-quilometros-de-pista-duplicada-da-br-101-em-anchieta-neste-sabado-1",
+    "title": "Trecho da BR-101 entre Alfredo Chaves e Iconha tem novo segmento duplicado liberado para tráfego"
   }
 }
