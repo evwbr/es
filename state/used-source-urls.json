@@ -1,4 +1,9 @@
 {
+  "source:01a5468999d84fd8a96a116f51420c815ef2f76a": {
+    "ts": 1785574469936,
+    "url": "https://eshoje.com.br/esportes/2026/08/esporte-por-vitoria-promove-torneios-de-futsal-e-basquete-3x3-neste-fim-de-semana-em-jardim-da-penha",
+    "title": "Vitória recebe competições de futsal e basquete na nova quadra poliesportiva de Jardim da Penha"
+  },
   "source:945a15ae4f562b68bbf5133fc14dbdcab0f44241": {
     "ts": 1785538467334,
     "url": "https://eshoje.com.br/policia/2026/07/proprietario-de-distribuidora-esta-entre-vitimas-de-soterramento-em-obra-de-cariacica",
@@ -7384,9 +7389,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:01a5468999d84fd8a96a116f51420c815ef2f76a": {
-    "ts": 1785574469936,
-    "url": "https://eshoje.com.br/esportes/2026/08/esporte-por-vitoria-promove-torneios-de-futsal-e-basquete-3x3-neste-fim-de-semana-em-jardim-da-penha",
-    "title": "Vitória recebe competições de futsal e basquete na nova quadra poliesportiva de Jardim da Penha"
+  "source:4da48686948f1ab324597a23f5ee109ad6e01b28": {
+    "ts": 1785592467194,
+    "url": "https://eshoje.com.br/policia/2026/08/vizinhanca-tenta-linchar-mulher-apos-morte-de-recem-nascido-na-serra",
+    "title": "Bebê de três meses é encontrado morto em residência na Serra"
+  },
+  "source:fea151629fc1a0eb2eaee53b9706e1e8f2381f5e": {
+    "ts": 1785592467194,
+    "url": "https://eshoje.com.br/politica/2026/08/em-convencao-do-pl-lucas-polese-projeta-chapas-fortes-para-a-camara-e-assembleia",
+    "title": "Deputado Lucas Polese aguarda confirmação de pré-candidatura à Câmara dos Deputados pelo PL"
   }
 }
