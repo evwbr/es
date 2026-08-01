@@ -1,4 +1,14 @@
 {
+  "source:70710d15eda34341a5eb993edcdb5588b2920147": {
+    "ts": 1785596066113,
+    "url": "https://www.espiritosantonoticias.com.br/pf-e-prf-prendem-mulher-com-drogas-e-arma-no-espirito-santo",
+    "title": "Polícia Federal apreende armas e drogas em ônibus entre Rio de Janeiro e Vitória"
+  },
+  "source:0d2f7d938560cfe9c64c273c6a27ac9be4defc27": {
+    "ts": 1785596066113,
+    "url": "https://www.espiritosantonoticias.com.br/ecovias-capixaba-libera-55-quilometros-de-pista-duplicada-da-br-101-em-anchieta-neste-sabado-1",
+    "title": "Trecho da BR-101 entre Alfredo Chaves e Iconha tem novo segmento duplicado liberado para tráfego"
+  },
   "source:4da48686948f1ab324597a23f5ee109ad6e01b28": {
     "ts": 1785592467194,
     "url": "https://eshoje.com.br/policia/2026/08/vizinhanca-tenta-linchar-mulher-apos-morte-de-recem-nascido-na-serra",
@@ -7399,14 +7409,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:70710d15eda34341a5eb993edcdb5588b2920147": {
-    "ts": 1785596066113,
-    "url": "https://www.espiritosantonoticias.com.br/pf-e-prf-prendem-mulher-com-drogas-e-arma-no-espirito-santo",
-    "title": "Polícia Federal apreende armas e drogas em ônibus entre Rio de Janeiro e Vitória"
+  "source:2732d3f788ad65dcd83a818a5b3862b721f4df95": {
+    "ts": 1785599667380,
+    "url": "https://eshoje.com.br/policia/2026/08/homicidios-es-reducao-2026",
+    "title": "Espírito Santo registra menor índice histórico de homicídios e feminicídios nos sete primeiros meses de 2026"
   },
-  "source:0d2f7d938560cfe9c64c273c6a27ac9be4defc27": {
-    "ts": 1785596066113,
-    "url": "https://www.espiritosantonoticias.com.br/ecovias-capixaba-libera-55-quilometros-de-pista-duplicada-da-br-101-em-anchieta-neste-sabado-1",
-    "title": "Trecho da BR-101 entre Alfredo Chaves e Iconha tem novo segmento duplicado liberado para tráfego"
+  "source:090a1a2bff203d7605e598fce2a90a0e0a1a309a": {
+    "ts": 1785599667380,
+    "url": "https://eshoje.com.br/politica/2026/08/maguinha-candidatura-senado",
+    "title": "PL oficializa candidatura de Maguinha Malta ao Senado pelo Espírito Santo nas Eleições 2026"
   }
 }
