@@ -1,4 +1,9 @@
 {
+  "source:d9e11f354cc5e911e0ed21c0a6e14e12ff544666": {
+    "ts": 1785761667064,
+    "url": "https://eshoje.com.br/policia/2026/08/golpe-contra-mei-cresce-em-colatina-e-criminosos-usam-whatsapp-para-enganar-empreendedores",
+    "title": "Golpes com boletos falsos ameaçam microempreendedores em Colatina"
+  },
   "source:5ab83acaa2441881c04e6cd7f6ce698e005b967f": {
     "ts": 1785758066563,
     "url": "https://eshoje.com.br/politica/2026/08/marcos-do-val-e-lancado-a-reeleicao-e-avante-decide-ficar-neutro-na-disputa-pelo-governo-do-espirito-santo",
@@ -7484,9 +7489,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:d9e11f354cc5e911e0ed21c0a6e14e12ff544666": {
-    "ts": 1785761667064,
-    "url": "https://eshoje.com.br/policia/2026/08/golpe-contra-mei-cresce-em-colatina-e-criminosos-usam-whatsapp-para-enganar-empreendedores",
-    "title": "Golpes com boletos falsos ameaçam microempreendedores em Colatina"
+  "source:e93f1b83ececa70bf7117d72d2b88845586e1023": {
+    "ts": 1785765266432,
+    "url": "https://www.espiritosantonoticias.com.br/acidente-de-moto-deixa-dois-feridos-e-mobiliza-helicoptero-do-notaer-na-br-262-em-domingos-martins",
+    "title": "Motociclista e passageira ficam feridos após acidente em ribanceira no Espírito Santo"
+  },
+  "source:42a9d751f7826d725cc670f00b1e158f6cb112f0": {
+    "ts": 1785765266432,
+    "url": "https://www.espiritosantonoticias.com.br/prefeitura-alerta-para-riscos-da-fumaca-de-incendio-e-orienta-moradores-de-marataizes",
+    "title": "Incêndio em Itapemirim volta a se alastrar e mobiliza equipes de combate na manhã desta segunda"
   }
 }
