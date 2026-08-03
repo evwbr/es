@@ -1,4 +1,14 @@
 {
+  "source:35a6125764363de195a8cfc8a32059f37f4ab47e": {
+    "ts": 1785794067046,
+    "url": "https://eshoje.com.br/policia/2026/08/distribuidoras-furtando",
+    "title": "Furtos de energia elétrica resultam em prisões em Vitória e Serra"
+  },
+  "source:0f2403704fe7495fdd62551387c6dbd2033deafc": {
+    "ts": 1785794067046,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/sol-es-tera-tempo-firme",
+    "title": "Espírito Santo terá dias de tempo firme e sem chuva com predomínio de sol entre nuvens"
+  },
   "source:b9d9fa1cfecb2fcf49150bb6fb61364faceb8eee": {
     "ts": 1785790466311,
     "url": "https://eshoje.com.br/esportes/2026/08/capixabas-conquistam-titulos-na-patagonia-e-pontuam-pela-primeira-vez-no-ranking-mundial-de-esqui",
@@ -7564,14 +7574,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:35a6125764363de195a8cfc8a32059f37f4ab47e": {
-    "ts": 1785794067046,
-    "url": "https://eshoje.com.br/policia/2026/08/distribuidoras-furtando",
-    "title": "Furtos de energia elétrica resultam em prisões em Vitória e Serra"
-  },
-  "source:0f2403704fe7495fdd62551387c6dbd2033deafc": {
-    "ts": 1785794067046,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/sol-es-tera-tempo-firme",
-    "title": "Espírito Santo terá dias de tempo firme e sem chuva com predomínio de sol entre nuvens"
+  "source:e6673a5f71ddebf84bbdae5531337ed635938e70": {
+    "ts": 1785797666400,
+    "url": "https://eshoje.com.br/esportes/2026/08/capixaba-joaquim-emerick-e-campeao-da-copa-brasil-de-kart-e-garante-vaga-em-mundial-na-italia",
+    "title": "Kartista capixaba Joaquim Emerick conquista título da Mini na 27ª Copa Brasil de Kart"
   }
 }
