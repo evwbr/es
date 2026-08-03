@@ -1,4 +1,9 @@
 {
+  "source:c8c1748a031b45d7c046efa0fb855bb948b0913d": {
+    "ts": 1785700466430,
+    "url": "https://eshoje.com.br/saude/2026/08/campanha-de-multivacinacao",
+    "title": "Campanha Nacional de Multivacinação começa no Espírito Santo para crianças e adolescentes"
+  },
   "source:95d55ab424ab0803657bf666bc94eb474eaa8751": {
     "ts": 1785693266927,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/canal-de-camburi-velocidade",
@@ -7459,9 +7464,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:c8c1748a031b45d7c046efa0fb855bb948b0913d": {
-    "ts": 1785700466430,
-    "url": "https://eshoje.com.br/saude/2026/08/campanha-de-multivacinacao",
-    "title": "Campanha Nacional de Multivacinação começa no Espírito Santo para crianças e adolescentes"
+  "source:8b8428c024b30b5190eb585e3b954b5f1e06237c": {
+    "ts": 1785754466578,
+    "url": "https://www.espiritosantonoticias.com.br/ataque-a-tiros-deixa-quatro-pessoas-feridas-em-bairro-da-serra",
+    "title": "Quatro pessoas são baleadas em ataque na Serra; um suspeito é preso com documento falso"
+  },
+  "source:33b3e2b473e689ff74acab31b3da293dcbec1101": {
+    "ts": 1785754466578,
+    "url": "https://www.espiritosantonoticias.com.br/caseiro-e-morto-apos-reagir-a-invasao-de-casa-durante-assalto-em-viana",
+    "title": "Homem é morto durante invasão a residência em Vitória e criminosos levam motocicleta e armas"
+  },
+  "source:fc5cae75d186505c39e49cc370b8ee287f636e97": {
+    "ts": 1785754466578,
+    "url": "https://www.espiritosantonoticias.com.br/capixaba-joaquim-emerick-conquista-a-copa-brasil-de-kart-e-garante-vaga-em-competicao-mundial-na-italia",
+    "title": "Piloto capixaba conquista título da Copa Brasil de Kart e garante vaga na competição internacional na Itália"
   }
 }
