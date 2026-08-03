@@ -1,4 +1,14 @@
 {
+  "source:207cc6f3d0aac94b8efbaaeccc070e338d1fad7e": {
+    "ts": 1785779666301,
+    "url": "https://eshoje.com.br/esportes/2026/08/icvc-conquista-superliga-c-de-volei",
+    "title": "Instituto Capixaba Voleibol Clube conquista título inédito na Superliga C Feminina"
+  },
+  "source:4d65d54c48df2ad33cee8df4646dd818c4296d43": {
+    "ts": 1785779666301,
+    "url": "https://www.espiritosantonoticias.com.br/itapemirim-municipio-conquista-2o-lugar-no-domino-e-encerra-participacao-no-jepi-2026",
+    "title": "Itapemirim participa dos Jogos Estaduais da Pessoa Idosa com equipes em voleibol adaptado, dominó e bocha"
+  },
   "source:b05d020bdab50ffcfa77fab5bf14977717dbb345": {
     "ts": 1785776066415,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/feira-de-mulheres-empreendedoras-integra-programacao-do-agosto-lilas-em-vitoria",
@@ -7534,14 +7544,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:207cc6f3d0aac94b8efbaaeccc070e338d1fad7e": {
-    "ts": 1785779666301,
-    "url": "https://eshoje.com.br/esportes/2026/08/icvc-conquista-superliga-c-de-volei",
-    "title": "Instituto Capixaba Voleibol Clube conquista título inédito na Superliga C Feminina"
+  "source:46333d46537edc1b8ea55bfc7358283151fd17ca": {
+    "ts": 1785783266397,
+    "url": "https://eshoje.com.br/esportes/2026/08/capixaba-mundial-atletismo-sub-20-2",
+    "title": "Atleta capixaba Davi é convocado para Mundial Sub-20 de marcha atlética nos EUA"
   },
-  "source:4d65d54c48df2ad33cee8df4646dd818c4296d43": {
-    "ts": 1785779666301,
-    "url": "https://www.espiritosantonoticias.com.br/itapemirim-municipio-conquista-2o-lugar-no-domino-e-encerra-participacao-no-jepi-2026",
-    "title": "Itapemirim participa dos Jogos Estaduais da Pessoa Idosa com equipes em voleibol adaptado, dominó e bocha"
+  "source:689addb77f65897a0dcd4aec60802893bc3ff9cd": {
+    "ts": 1785783266397,
+    "url": "https://www.espiritosantonoticias.com.br/policia-prende-suspeito-de-latrocinio-horas-apos-morte-de-caseiro-durante-assalto-em-viana",
+    "title": "Caseiro é morto durante assalto em residência no Espírito Santo"
+  },
+  "source:90d3becf8cd0bd4c7f05d7d90424f53576f88bf4": {
+    "ts": 1785783266397,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-cavalo-de-aco-flagra-mais-de-230-infracoes-de-transito-em-vila-velha",
+    "title": "Fiscalização no Espírito Santo registra 71 autuações por uso irregular de capacete"
   }
 }
