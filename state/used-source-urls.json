@@ -1,4 +1,9 @@
 {
+  "source:b5f1da97a24469ce693d1ea6923bcccbc62ad219": {
+    "ts": 1785855266318,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/chamas-atingem-lancha-com-cinco-mulheres-a-bordo-em-marina-de-vitoria",
+    "title": "Incêndio em lancha mobiliza resgate e combate a fogo em marina de Vitória"
+  },
   "source:483500e4b5ca21bcb14f0239e3fe95782e9f0444": {
     "ts": 1785851667391,
     "url": "https://eshoje.com.br/politica/2026/08/leonardo-monjardim-diz-que-nao-vai-retirar-candidatura-ao-senado-e-acusa-tentativa-de-dividir-a-direita-no-espirito-santo",
@@ -7629,9 +7634,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b5f1da97a24469ce693d1ea6923bcccbc62ad219": {
-    "ts": 1785855266318,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/chamas-atingem-lancha-com-cinco-mulheres-a-bordo-em-marina-de-vitoria",
-    "title": "Incêndio em lancha mobiliza resgate e combate a fogo em marina de Vitória"
+  "source:f4e645391053127882baf31428eeab679597f1fa": {
+    "ts": 1785858866265,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/avenida-da-serra-ganha-revitalizacao-com-investimento-de-r-137-milhoes-saiba-qual",
+    "title": "Avenida José Moreira Martins Rato, na Serra, passa por revitalização com investimento de R$ 13,7 milhões"
+  },
+  "source:b0eac1cad58979d3e8894924c02b547d08d600e5": {
+    "ts": 1785858866265,
+    "url": "https://eshoje.com.br/economia/2026/08/dia-dos-pais-precos-variam-ate-165-aponta-procon",
+    "title": "Pesquisa aponta variações de até 117% nos preços de presentes para o Dia dos Pais em lojas virtuais"
   }
 }
