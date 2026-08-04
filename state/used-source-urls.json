@@ -1,4 +1,14 @@
 {
+  "source:71e51bcc3a719645b649e938754b8b3b01de8c6c": {
+    "ts": 1785862466562,
+    "url": "https://www.espiritosantonoticias.com.br/prf-recupera-carro-furtado-durante-fiscalizacao-na-br-101-em-cachoeiro-de-itapemirim",
+    "title": "Polícia apreende Renault Duster com chassi adulterado em Cachoeiro de Itapemirim"
+  },
+  "source:0667972fc9d5442631d0c3eba7da6616c4da6c47": {
+    "ts": 1785862466562,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-apos-agredir-a-mae-idosa-e-provocar-vazamento-de-gas-em-sao-jose-do-calcado",
+    "title": "Homem é preso em flagrante após vazamento de gás em residência durante ocorrência de violência doméstica"
+  },
   "source:f4e645391053127882baf31428eeab679597f1fa": {
     "ts": 1785858866265,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/avenida-da-serra-ganha-revitalizacao-com-investimento-de-r-137-milhoes-saiba-qual",
@@ -7644,14 +7654,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:71e51bcc3a719645b649e938754b8b3b01de8c6c": {
-    "ts": 1785862466562,
-    "url": "https://www.espiritosantonoticias.com.br/prf-recupera-carro-furtado-durante-fiscalizacao-na-br-101-em-cachoeiro-de-itapemirim",
-    "title": "Polícia apreende Renault Duster com chassi adulterado em Cachoeiro de Itapemirim"
-  },
-  "source:0667972fc9d5442631d0c3eba7da6616c4da6c47": {
-    "ts": 1785862466562,
-    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-apos-agredir-a-mae-idosa-e-provocar-vazamento-de-gas-em-sao-jose-do-calcado",
-    "title": "Homem é preso em flagrante após vazamento de gás em residência durante ocorrência de violência doméstica"
+  "source:a8b0d6bc2496ce65f28bd03d6f8b6427cbcbe301": {
+    "ts": 1785866066193,
+    "url": "https://eshoje.com.br/policia/2026/08/homem-dormia-morre-atropelado",
+    "title": "Motorista atropela homem após consertar pane elétrica em caminhão em Vila Velha"
   }
 }
