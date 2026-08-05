@@ -1,4 +1,24 @@
 {
+  "source:2e3d450dd229413d9b00e6b63e42e37ddc5a4007": {
+    "ts": 1785938066662,
+    "url": "https://eshoje.com.br/politica/2026/08/moraes-revoga-cautelares-de-pastor-fabiano-apos-quase-quatro-anos",
+    "title": "STF revoga medidas cautelares contra vereador de Vila Velha Pastor Fabiano"
+  },
+  "source:cb4828670577bfeb0c5bb7ea9fe727e38ae0e057": {
+    "ts": 1785938066662,
+    "url": "https://eshoje.com.br/policia/2026/08/adolescente-suspeito-de-envolvimento-em-ataques-criminosos-e-apreendido-em-carro-por-aplicativo-em-vitoria",
+    "title": "Adolescente é apreendido em Vitória por suspeita de envolvimento em ataques armados na Grande Goiabeiras"
+  },
+  "source:bae1aa5ec3620427939828d433b7c4cd217fdc7f": {
+    "ts": 1785938066662,
+    "url": "https://eshoje.com.br/politica/2026/08/darcio-bracarense-disputa-assembleia-e-critica-influencia-paulista",
+    "title": "Vereador de Vitória Darcio Bracarense anuncia candidatura à Assembleia Legislativa do Espírito Santo"
+  },
+  "source:e5f9847c9a11c5148b0e40d56628987a73b99b43": {
+    "ts": 1785938066662,
+    "url": "https://eshoje.com.br/policia/2026/08/dhpp-prende-dois-investigados-por-homicidio-qualificado-em-aracruz",
+    "title": "Polícia Civil prende dois homens por homicídio em Aracruz ligado a organização criminosa"
+  },
   "source:787637efea106408c09b130b5c72642d348fb21c": {
     "ts": 1785934466557,
     "url": "https://eshoje.com.br/policia/2026/08/caso-luisa-lopes-acusada-de-atropelamento-vai-a-juri",
@@ -7749,24 +7769,29 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:2e3d450dd229413d9b00e6b63e42e37ddc5a4007": {
-    "ts": 1785938066662,
-    "url": "https://eshoje.com.br/politica/2026/08/moraes-revoga-cautelares-de-pastor-fabiano-apos-quase-quatro-anos",
-    "title": "STF revoga medidas cautelares contra vereador de Vila Velha Pastor Fabiano"
+  "source:a38d3eed6934e2ceafb6ed1546a2d0329ef8c12e": {
+    "ts": 1785941667095,
+    "url": "https://eshoje.com.br/politica/2026/08/pazolini-mantem-vice-em-aberto-e-psd-ganha-forca-nas-negociacoes",
+    "title": "Indefinição marca escolha do vice na chapa de Lorenzo Pazolini para governo do ES"
   },
-  "source:cb4828670577bfeb0c5bb7ea9fe727e38ae0e057": {
-    "ts": 1785938066662,
-    "url": "https://eshoje.com.br/policia/2026/08/adolescente-suspeito-de-envolvimento-em-ataques-criminosos-e-apreendido-em-carro-por-aplicativo-em-vitoria",
-    "title": "Adolescente é apreendido em Vitória por suspeita de envolvimento em ataques armados na Grande Goiabeiras"
+  "source:cf77bd6dbd97f246b4c707278bc26de7ac322e3c": {
+    "ts": 1785941667095,
+    "url": "https://eshoje.com.br/policia/2026/08/suspeito-de-integrar-faccao-da-bahia-morre-em-confronto-com-a-pm-em-linhares",
+    "title": "Suspeito morre em confronto com a PM e duas mulheres são presas por tráfico em Linhares"
   },
-  "source:bae1aa5ec3620427939828d433b7c4cd217fdc7f": {
-    "ts": 1785938066662,
-    "url": "https://eshoje.com.br/politica/2026/08/darcio-bracarense-disputa-assembleia-e-critica-influencia-paulista",
-    "title": "Vereador de Vitória Darcio Bracarense anuncia candidatura à Assembleia Legislativa do Espírito Santo"
+  "source:9987a5003fd42de585c6775e190684092fdc508f": {
+    "ts": 1785941667095,
+    "url": "https://www.espiritosantonoticias.com.br/homem-e-preso-com-pedras-de-crack-em-ponto-suspeito-de-trafico-em-piuma",
+    "title": "Homem é preso por tráfico de drogas em Piúma durante ação da Polícia Militar"
   },
-  "source:e5f9847c9a11c5148b0e40d56628987a73b99b43": {
-    "ts": 1785938066662,
-    "url": "https://eshoje.com.br/policia/2026/08/dhpp-prende-dois-investigados-por-homicidio-qualificado-em-aracruz",
-    "title": "Polícia Civil prende dois homens por homicídio em Aracruz ligado a organização criminosa"
+  "source:09e21e7c768f38f828fba316f199c0bf87a3f896": {
+    "ts": 1785941667095,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/mpes-inicia-visitas-a-creches-para-avaliar-educacao-infantil-no-es",
+    "title": "Ministério Público do ES inicia fiscalização em creches municipais para avaliar condições e oferta de vagas"
+  },
+  "source:0967007d2603b6a16cbb95000faee9f97a32368c": {
+    "ts": 1785941667095,
+    "url": "https://eshoje.com.br/policia/2026/08/detento-e-morto-com-mata-leao-em-presidio-de-vila-velha",
+    "title": "Preso morre após agressão dentro de unidade prisional no Espírito Santo"
   }
 }
