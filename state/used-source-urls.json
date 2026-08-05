@@ -1,4 +1,19 @@
 {
+  "source:f47801d7a2fcfe2f414ab089140fdb5c429105e7": {
+    "ts": 1785963267666,
+    "url": "https://eshoje.com.br/policia/2026/08/lider-comando-vermelho-em-mg-e-preso",
+    "title": "Líder do Comando Vermelho em Minas Gerais é preso em condomínio de Vila Velha"
+  },
+  "source:0099a8b15436c7150951311e90d16a75cf04a768": {
+    "ts": 1785963267666,
+    "url": "https://eshoje.com.br/esportes/2026/08/selecao-sub15-capixabas-convocados",
+    "title": "Capixabas Valmir Gramelik e Pietro Gomes são convocados para Seleção Brasileira Sub-15"
+  },
+  "source:6cfefe9683ec401bc601f8e1b53ff08c1c0b7f78": {
+    "ts": 1785963267666,
+    "url": "https://eshoje.com.br/policia/2026/08/homem-e-detido-por-injuria-racial",
+    "title": "Homem é detido em Vitória após ofensas racistas e cumprimento de mandado de prisão"
+  },
   "source:88fe78c534006f778dcdc5241a12372e583f65fb": {
     "ts": 1785956066447,
     "url": "https://eshoje.com.br/esportes/2026/08/joao-fonseca-tsitsipas-canada",
@@ -7829,19 +7844,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f47801d7a2fcfe2f414ab089140fdb5c429105e7": {
-    "ts": 1785963267666,
-    "url": "https://eshoje.com.br/policia/2026/08/lider-comando-vermelho-em-mg-e-preso",
-    "title": "Líder do Comando Vermelho em Minas Gerais é preso em condomínio de Vila Velha"
+  "source:dbe57648558bdf7b3d20cf4160203424636e5ab6": {
+    "ts": 1785966866294,
+    "url": "https://eshoje.com.br/esportes/2026/08/paulo-andre-sul-americanos",
+    "title": "Paulo André é convocado para representar o Brasil nos Jogos Sul-Americanos de 2026"
   },
-  "source:0099a8b15436c7150951311e90d16a75cf04a768": {
-    "ts": 1785963267666,
-    "url": "https://eshoje.com.br/esportes/2026/08/selecao-sub15-capixabas-convocados",
-    "title": "Capixabas Valmir Gramelik e Pietro Gomes são convocados para Seleção Brasileira Sub-15"
-  },
-  "source:6cfefe9683ec401bc601f8e1b53ff08c1c0b7f78": {
-    "ts": 1785963267666,
-    "url": "https://eshoje.com.br/policia/2026/08/homem-e-detido-por-injuria-racial",
-    "title": "Homem é detido em Vitória após ofensas racistas e cumprimento de mandado de prisão"
+  "source:60d8edff9ada2c3a1c0da4294a9155db4734a72b": {
+    "ts": 1785966866294,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/pacto-pela-primeira-infancia-reune-poderes-e-municipios-para-garantir-direitos-no-es",
+    "title": "Sete instituições do Espírito Santo firmam pacto para proteção de crianças de zero a seis anos"
   }
 }
