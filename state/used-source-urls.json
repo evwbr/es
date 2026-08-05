@@ -1,4 +1,14 @@
 {
+  "source:dbe57648558bdf7b3d20cf4160203424636e5ab6": {
+    "ts": 1785966866294,
+    "url": "https://eshoje.com.br/esportes/2026/08/paulo-andre-sul-americanos",
+    "title": "Paulo André é convocado para representar o Brasil nos Jogos Sul-Americanos de 2026"
+  },
+  "source:60d8edff9ada2c3a1c0da4294a9155db4734a72b": {
+    "ts": 1785966866294,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/pacto-pela-primeira-infancia-reune-poderes-e-municipios-para-garantir-direitos-no-es",
+    "title": "Sete instituições do Espírito Santo firmam pacto para proteção de crianças de zero a seis anos"
+  },
   "source:f47801d7a2fcfe2f414ab089140fdb5c429105e7": {
     "ts": 1785963267666,
     "url": "https://eshoje.com.br/policia/2026/08/lider-comando-vermelho-em-mg-e-preso",
@@ -7844,14 +7854,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:dbe57648558bdf7b3d20cf4160203424636e5ab6": {
-    "ts": 1785966866294,
-    "url": "https://eshoje.com.br/esportes/2026/08/paulo-andre-sul-americanos",
-    "title": "Paulo André é convocado para representar o Brasil nos Jogos Sul-Americanos de 2026"
-  },
-  "source:60d8edff9ada2c3a1c0da4294a9155db4734a72b": {
-    "ts": 1785966866294,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/pacto-pela-primeira-infancia-reune-poderes-e-municipios-para-garantir-direitos-no-es",
-    "title": "Sete instituições do Espírito Santo firmam pacto para proteção de crianças de zero a seis anos"
+  "source:4037ffdafc005b2e03397c376b7977e5b4d90ca8": {
+    "ts": 1785970466567,
+    "url": "https://eshoje.com.br/politica/2026/08/federacao-uniao-progressita-lanca-chapas-completas-para-deputado-estadual-e-federal",
+    "title": "União Progressista oficializa candidatos para Assembleia Legislativa e Câmara dos Deputados nas eleições de 2026"
   }
 }
