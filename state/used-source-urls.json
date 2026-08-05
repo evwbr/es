@@ -1,4 +1,9 @@
 {
+  "source:7031424e0710721632e472e89351cba9da446d3d": {
+    "ts": 1785952475866,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/ventos-fortes-atingem-o-es",
+    "title": "Inmet alerta para vendaval em 21 municípios do Espírito Santo nesta quarta-feira"
+  },
   "source:f60980c5940c3a81adfbb2cc289c182ce7891837": {
     "ts": 1785945267016,
     "url": "https://eshoje.com.br/politica/2026/08/magno-malta-celebra-escolha-de-alfredo-gaspar-para-vice-em-chapa-puro-sangue-de-flavio-bolsonaro",
@@ -7809,9 +7814,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7031424e0710721632e472e89351cba9da446d3d": {
-    "ts": 1785952475866,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/ventos-fortes-atingem-o-es",
-    "title": "Inmet alerta para vendaval em 21 municípios do Espírito Santo nesta quarta-feira"
+  "source:88fe78c534006f778dcdc5241a12372e583f65fb": {
+    "ts": 1785956066447,
+    "url": "https://eshoje.com.br/esportes/2026/08/joao-fonseca-tsitsipas-canada",
+    "title": "João Fonseca vence Stefanos Tsitsipas na estreia do Masters 1000 de Montreal"
+  },
+  "source:6182aef70e59fdfef036b0e206c7ce7c3b870fb5": {
+    "ts": 1785956066447,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/br-101-tera-interdicao-serra",
+    "title": "BR-101 na Serra terá interdição para detonação nesta quinta-feira à tarde"
+  },
+  "source:74772ba9013175b07d0542b9e3e3f88c5d52aab3": {
+    "ts": 1785956066447,
+    "url": "https://eshoje.com.br/esportes/2026/08/capixaba-mundial-de-bodyboarding",
+    "title": "Atleta capixaba Bianca Simões disputa etapas finais do Circuito Mundial Feminino de Bodyboarding em agosto e setembro"
   }
 }
