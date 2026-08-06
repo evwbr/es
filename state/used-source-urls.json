@@ -1,4 +1,19 @@
 {
+  "source:edb970c8da43bb87fb380cccd80ef6591a4b06f7": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/policia/2026/08/policia-prende-suspeitos-fraude",
+    "title": "Operação Avaritia cumpre mandados contra suspeitos de fraude em Marataízes e Cachoeiro de Itapemirim"
+  },
+  "source:4200eebed76db44c244624637e913491bdb8a014": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/policia/2026/08/motorista-e-flagrado-a-184-km-br101",
+    "title": "Motorista é flagrado a 184 km/h na BR-101, na Serra, durante operação da PRF"
+  },
+  "source:2ac208392e5d19bc7c713c7ea91561641f75a209": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/esportes/2026/08/apos-titulo-nacional-irmaos-emerick",
+    "title": "Irmãos capixabas Miguel e Joaquim Emerick retornam ao kartismo estadual após destaque na Copa Brasil"
+  },
   "source:eb388896efb5c17952f6a70db801cc6115b9f4d5": {
     "ts": 1786035266611,
     "url": "https://eshoje.com.br/economia/2026/08/master-capixaba-plataforma-de-investimentos-do-es-enfrenta-rombo-estimado-em-r-500-milhoes",
@@ -7969,19 +7984,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:edb970c8da43bb87fb380cccd80ef6591a4b06f7": {
-    "ts": 1786042466739,
-    "url": "https://eshoje.com.br/policia/2026/08/policia-prende-suspeitos-fraude",
-    "title": "Operação Avaritia cumpre mandados contra suspeitos de fraude em Marataízes e Cachoeiro de Itapemirim"
+  "source:447006b56b08f07d3a7af59e16231cf09f5523e3": {
+    "ts": 1786046075985,
+    "url": "https://eshoje.com.br/policia/2026/08/suspeitos-golpe-de-r-200-mil-medico",
+    "title": "Três suspeitos são presos no Espírito Santo por golpe que causou prejuízo de R$ 200 mil a médico em Goiás"
   },
-  "source:4200eebed76db44c244624637e913491bdb8a014": {
-    "ts": 1786042466739,
-    "url": "https://eshoje.com.br/policia/2026/08/motorista-e-flagrado-a-184-km-br101",
-    "title": "Motorista é flagrado a 184 km/h na BR-101, na Serra, durante operação da PRF"
-  },
-  "source:2ac208392e5d19bc7c713c7ea91561641f75a209": {
-    "ts": 1786042466739,
-    "url": "https://eshoje.com.br/esportes/2026/08/apos-titulo-nacional-irmaos-emerick",
-    "title": "Irmãos capixabas Miguel e Joaquim Emerick retornam ao kartismo estadual após destaque na Copa Brasil"
+  "source:b52cda075e0c59d0c41ef594dffcf0b0a5122618": {
+    "ts": 1786046075985,
+    "url": "https://eshoje.com.br/economia/2026/08/orgaos-de-defesa-risco-bets",
+    "title": "CINDEC propõe obrigatoriedade de divulgação da probabilidade de perda em apostas esportivas no ES"
   }
 }
