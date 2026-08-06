@@ -1,4 +1,9 @@
 {
+  "source:c1dc560af088d9537db2f081acc9f1be5251f063": {
+    "ts": 1785984866873,
+    "url": "https://eshoje.com.br/politica/2026/08/casagrande-diz-que-confianca-em-ferraco-viabilizou-candidatura-ao-senado",
+    "title": "Renato Casagrande destaca continuidade administrativa e apoia Ricardo Ferraço na convenção do MDB em Cariacica"
+  },
   "source:86a59b607732e5d0cccfd49593cb6ab7441a4dfa": {
     "ts": 1785981266923,
     "url": "https://eshoje.com.br/politica/2026/08/ferraco-rose-de-freitas",
@@ -7894,9 +7899,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:c1dc560af088d9537db2f081acc9f1be5251f063": {
-    "ts": 1785984866873,
-    "url": "https://eshoje.com.br/politica/2026/08/casagrande-diz-que-confianca-em-ferraco-viabilizou-candidatura-ao-senado",
-    "title": "Renato Casagrande destaca continuidade administrativa e apoia Ricardo Ferraço na convenção do MDB em Cariacica"
+  "source:8a88dfec2c91b048739249528beef72bc5cf1f89": {
+    "ts": 1786013667347,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-avaritia-policia-civil-prende-quatro-suspeitos-de-fraude-de-mais-de-r-2-milhoes-contra-cooperativa-de-credito",
+    "title": "Quatro pessoas são presas em operação contra fraude eletrônica no Sul do Espírito Santo"
+  },
+  "source:305529440435927a38b177c4748db93d9f0dfc99": {
+    "ts": 1786013667347,
+    "url": "https://www.espiritosantonoticias.com.br/br-101-sera-totalmente-interditada-na-serra-nesta-quinta-feira-para-obras-de-duplicacao",
+    "title": "BR-101 terá interdições para fragmentação de rochas e obras de duplicação nesta quinta-feira"
   }
 }
