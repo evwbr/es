@@ -1,4 +1,14 @@
 {
+  "source:f96d719a5048fcd381b2f13b1505f76132edc4ef": {
+    "ts": 1785977666817,
+    "url": "https://eshoje.com.br/politica/2026/08/federacao-uniao-progressista-libera-segundo-voto-ao-senado",
+    "title": "União Progressista homologa apoio a Casagrande e libera"
+  },
+  "source:8f037caa6de719cdc826544e2c85b473a193e39f": {
+    "ts": 1785977666817,
+    "url": "https://eshoje.com.br/politica/2026/08/da-vitoria-apoio-a-ferraco",
+    "title": "Federação União Progressista lança campanha para ampliar bancadas no Congresso e Assembleia do ES"
+  },
   "source:d99071d4ae09cea82c01cb083043a4e6a6dd79f1": {
     "ts": 1785974066509,
     "url": "https://eshoje.com.br/politica/2026/08/nao-vamos-apenas-ganhar-vamos-governar-juntos-diz-ricardo-durante-evento-do-uniao-progressista",
@@ -7869,14 +7879,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f96d719a5048fcd381b2f13b1505f76132edc4ef": {
-    "ts": 1785977666817,
-    "url": "https://eshoje.com.br/politica/2026/08/federacao-uniao-progressista-libera-segundo-voto-ao-senado",
-    "title": "União Progressista homologa apoio a Casagrande e libera"
+  "source:86a59b607732e5d0cccfd49593cb6ab7441a4dfa": {
+    "ts": 1785981266923,
+    "url": "https://eshoje.com.br/politica/2026/08/ferraco-rose-de-freitas",
+    "title": "Ricardo Ferraço confirma Rose de Freitas como candidata ao Senado pelo MDB no Espírito Santo"
   },
-  "source:8f037caa6de719cdc826544e2c85b473a193e39f": {
-    "ts": 1785977666817,
-    "url": "https://eshoje.com.br/politica/2026/08/da-vitoria-apoio-a-ferraco",
-    "title": "Federação União Progressista lança campanha para ampliar bancadas no Congresso e Assembleia do ES"
+  "source:43ad8b5b3b2d68ef639c66d2ce6b98220c49112c": {
+    "ts": 1785981266923,
+    "url": "https://eshoje.com.br/politica/2026/08/ricardo-prega-neutralidade-nacional-e-foco-no-es",
+    "title": "MDB homologa candidatura de Ricardo Ferraço à reeleição no Espírito Santo com ampla aliança política"
+  },
+  "source:539cdaac03889d8ee52251ed177747c729f5d210": {
+    "ts": 1785981266923,
+    "url": "https://eshoje.com.br/economia/2026/08/imposto-presente-dia-pais",
+    "title": "Produtos para o Dia dos Pais no Espírito Santo têm alta carga tributária que impacta preço final"
   }
 }
