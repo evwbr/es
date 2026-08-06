@@ -1,4 +1,9 @@
 {
+  "source:eb388896efb5c17952f6a70db801cc6115b9f4d5": {
+    "ts": 1786035266611,
+    "url": "https://eshoje.com.br/economia/2026/08/master-capixaba-plataforma-de-investimentos-do-es-enfrenta-rombo-estimado-em-r-500-milhoes",
+    "title": "Plataforma de investimentos capixaba enfrenta crise com prejuízo de R$ 500 milhões"
+  },
   "source:9a6e7cbda3cd1a1c0280050b05d25a27a3652bfe": {
     "ts": 1786031666679,
     "url": "https://eshoje.com.br/policia/2026/08/motorista-de-aplicativo-e-rendido-por-criminosos-e-encontrado-no-porta-malas-em-cariacica",
@@ -7964,9 +7969,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:eb388896efb5c17952f6a70db801cc6115b9f4d5": {
-    "ts": 1786035266611,
-    "url": "https://eshoje.com.br/economia/2026/08/master-capixaba-plataforma-de-investimentos-do-es-enfrenta-rombo-estimado-em-r-500-milhoes",
-    "title": "Plataforma de investimentos capixaba enfrenta crise com prejuízo de R$ 500 milhões"
+  "source:edb970c8da43bb87fb380cccd80ef6591a4b06f7": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/policia/2026/08/policia-prende-suspeitos-fraude",
+    "title": "Operação Avaritia cumpre mandados contra suspeitos de fraude em Marataízes e Cachoeiro de Itapemirim"
+  },
+  "source:4200eebed76db44c244624637e913491bdb8a014": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/policia/2026/08/motorista-e-flagrado-a-184-km-br101",
+    "title": "Motorista é flagrado a 184 km/h na BR-101, na Serra, durante operação da PRF"
+  },
+  "source:2ac208392e5d19bc7c713c7ea91561641f75a209": {
+    "ts": 1786042466739,
+    "url": "https://eshoje.com.br/esportes/2026/08/apos-titulo-nacional-irmaos-emerick",
+    "title": "Irmãos capixabas Miguel e Joaquim Emerick retornam ao kartismo estadual após destaque na Copa Brasil"
   }
 }
