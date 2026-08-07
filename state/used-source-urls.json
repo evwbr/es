@@ -1,4 +1,29 @@
 {
+  "source:4a543a69a7ac9bc3081ed245ff2f356b42f29b9b": {
+    "ts": 1786128866980,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/premio-es-economia",
+    "title": "Corecon-ES celebra 51 anos com cerimônia em Vitória e homenageia professora da Ufes"
+  },
+  "source:e67cb4346c9b71b2491752256f57be76d784e231": {
+    "ts": 1786128866980,
+    "url": "https://eshoje.com.br/saude/2026/08/mudancas-temperatura-doenca",
+    "title": "Oscilações de temperatura no Espírito Santo aumentam riscos para pessoas com doenças respiratórias"
+  },
+  "source:bc556e7bb7c1ed04a4ae3a32a5574f6311c416c4": {
+    "ts": 1786128866980,
+    "url": "https://eshoje.com.br/policia/2026/08/invasao-hacker-prefeituras",
+    "title": "Ataque cibernético compromete dados de prefeituras e Câmara Municipal no Espírito Santo"
+  },
+  "source:e6bd389da47579582e42c0f84d6b2e340b85cb43": {
+    "ts": 1786128866980,
+    "url": "https://www.espiritosantonoticias.com.br/prefeitura-alerta-para-golpe-com-e-mails-falsos-enviados-em-nome-do-municipio-de-cachoeiro",
+    "title": "Prefeitura de Cachoeiro de Itapemirim alerta sobre golpes com uso indevido do nome do município"
+  },
+  "source:cd85e4aa29b62c408c7cb11c4cb82099ab8b3d09": {
+    "ts": 1786128866980,
+    "url": "https://eshoje.com.br/policia/2026/08/granadas-sao-destruidas-na-serra",
+    "title": "Granadas improvisadas são destruídas após prisão por tráfico e porte de submetralhadora na Serra"
+  },
   "source:40e6f2cb92b6091fe336eb27805ae197927c77ca": {
     "ts": 1786121666958,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/aquaviarios-horario-domingo",
@@ -8099,29 +8124,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:4a543a69a7ac9bc3081ed245ff2f356b42f29b9b": {
-    "ts": 1786128866980,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/premio-es-economia",
-    "title": "Corecon-ES celebra 51 anos com cerimônia em Vitória e homenageia professora da Ufes"
-  },
-  "source:e67cb4346c9b71b2491752256f57be76d784e231": {
-    "ts": 1786128866980,
-    "url": "https://eshoje.com.br/saude/2026/08/mudancas-temperatura-doenca",
-    "title": "Oscilações de temperatura no Espírito Santo aumentam riscos para pessoas com doenças respiratórias"
-  },
-  "source:bc556e7bb7c1ed04a4ae3a32a5574f6311c416c4": {
-    "ts": 1786128866980,
-    "url": "https://eshoje.com.br/policia/2026/08/invasao-hacker-prefeituras",
-    "title": "Ataque cibernético compromete dados de prefeituras e Câmara Municipal no Espírito Santo"
-  },
-  "source:e6bd389da47579582e42c0f84d6b2e340b85cb43": {
-    "ts": 1786128866980,
-    "url": "https://www.espiritosantonoticias.com.br/prefeitura-alerta-para-golpe-com-e-mails-falsos-enviados-em-nome-do-municipio-de-cachoeiro",
-    "title": "Prefeitura de Cachoeiro de Itapemirim alerta sobre golpes com uso indevido do nome do município"
-  },
-  "source:cd85e4aa29b62c408c7cb11c4cb82099ab8b3d09": {
-    "ts": 1786128866980,
-    "url": "https://eshoje.com.br/policia/2026/08/granadas-sao-destruidas-na-serra",
-    "title": "Granadas improvisadas são destruídas após prisão por tráfico e porte de submetralhadora na Serra"
+  "source:37ebea742436f94582bd7620353d2895cebea785": {
+    "ts": 1786136066631,
+    "url": "https://eshoje.com.br/saude/2026/08/guarapari-aumento-catapora",
+    "title": "Guarapari registra aumento de casos de catapora e reforça orientações à população"
   }
 }
