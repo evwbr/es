@@ -1,4 +1,9 @@
 {
+  "source:37ebea742436f94582bd7620353d2895cebea785": {
+    "ts": 1786136066631,
+    "url": "https://eshoje.com.br/saude/2026/08/guarapari-aumento-catapora",
+    "title": "Guarapari registra aumento de casos de catapora e reforça orientações à população"
+  },
   "source:4a543a69a7ac9bc3081ed245ff2f356b42f29b9b": {
     "ts": 1786128866980,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/premio-es-economia",
@@ -8124,9 +8129,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:37ebea742436f94582bd7620353d2895cebea785": {
-    "ts": 1786136066631,
-    "url": "https://eshoje.com.br/saude/2026/08/guarapari-aumento-catapora",
-    "title": "Guarapari registra aumento de casos de catapora e reforça orientações à população"
+  "source:6c8a0cec4a0cb7fff8af3ceb34c1ad449911afec": {
+    "ts": 1786139666712,
+    "url": "https://eshoje.com.br/esportes/2026/08/porto-vitoria-anuncia-rodrigo-cesar-como-novo-treinador",
+    "title": "Rodrigo César é anunciado como novo treinador do Porto Vitória"
+  },
+  "source:5e68e7f5e79d07e2bcb4ed7f9eb6ebfa994de118": {
+    "ts": 1786139666712,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/vitoria-vv-serra-bicicletas",
+    "title": "Sistemas de bicicletas compartilhadas em Vitória, Vila Velha e Serra terão uso gratuito em dois domingos de agosto"
+  },
+  "source:60905f17dce9b18e2c2ca1198ecf72f28452b722": {
+    "ts": 1786139666712,
+    "url": "https://eshoje.com.br/economia/2026/08/apex-crise-btg",
+    "title": "Crise na Apex Partners provoca suspensão de resgates em fundo administrado pelo BTG Pactual"
+  },
+  "source:c0e09b1cb9998cb343acfcf446fc2d5bba2df50b": {
+    "ts": 1786139666712,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/cidades-entram-alerta",
+    "title": "Inmet emite alertas de vendaval e ventos intensos para mais de 70 municípios do Espírito Santo"
   }
 }
