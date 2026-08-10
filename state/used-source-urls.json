@@ -1,4 +1,9 @@
 {
+  "source:f87173a0bcac0bd79da5fcbfab09122cbf9646df": {
+    "ts": 1786377266295,
+    "url": "https://eshoje.com.br/policia/2026/08/homens-sao-assassinados-a-tiros-enquanto-dormiam-em-sofas-deixados-na-rua-em-vila-velha",
+    "title": "Dois homens são mortos a tiros no bairro Jaburuna, em Vila Velha"
+  },
   "source:073c05b656bba5f10ef60ff04a76832af5295949": {
     "ts": 1786373666461,
     "url": "https://eshoje.com.br/policia/2026/08/homem-tenta-furtar-roupas-e-usa-oculos-para-gravar-acao-em-shopping-de-vitoria",
@@ -8234,9 +8239,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:f87173a0bcac0bd79da5fcbfab09122cbf9646df": {
-    "ts": 1786377266295,
-    "url": "https://eshoje.com.br/policia/2026/08/homens-sao-assassinados-a-tiros-enquanto-dormiam-em-sofas-deixados-na-rua-em-vila-velha",
-    "title": "Dois homens são mortos a tiros no bairro Jaburuna, em Vila Velha"
+  "source:93caafc50ca24afbfd9167dfb6ac2d8f90ac1201": {
+    "ts": 1786384466819,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/es-pacto-trabalho-escravo",
+    "title": "Espírito Santo adere a pactos nacionais para combater trabalho escravo contemporâneo"
+  },
+  "source:ff7e934d91baf113ef793b6d339a201dac37f99d": {
+    "ts": 1786384466819,
+    "url": "https://eshoje.com.br/esportes/2026/08/neymara-luna-bodyboarding",
+    "title": "Circuito Mundial Feminino de Bodyboarding começa nas Maldivas com capixabas entre as favoritas"
+  },
+  "source:56dca1c931c3a0db6bb31f8c748015a62bd4d71a": {
+    "ts": 1786384466819,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/irmaos-alfredo-chaves-morrem",
+    "title": "Dois irmãos de Alfredo Chaves morrem afogados após naufrágio no rio Xingu, no Pará"
   }
 }
