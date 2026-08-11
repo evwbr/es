@@ -1,4 +1,9 @@
 {
+  "source:10c74aa239f57b6bd7e9cc980de1533e1c16eb5b": {
+    "ts": 1786456466785,
+    "url": "https://eshoje.com.br/saude/2026/08/vila-velha-prepara-profissionais-de-saude-para-uso-de-nova-insulina-no-tratamento-do-diabetes",
+    "title": "Vila Velha inicia capacitação para uso da insulina glargina no tratamento de diabetes"
+  },
   "source:828d0d5d15338e133a4fcc58f4d5a71abb51a167": {
     "ts": 1786452867242,
     "url": "https://www.espiritosantonoticias.com.br/cachoeiro-prefeitura-fortalece-piscicultura-com-assistencia-tecnica-a-produtores-rurais",
@@ -8349,9 +8354,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:10c74aa239f57b6bd7e9cc980de1533e1c16eb5b": {
-    "ts": 1786456466785,
-    "url": "https://eshoje.com.br/saude/2026/08/vila-velha-prepara-profissionais-de-saude-para-uso-de-nova-insulina-no-tratamento-do-diabetes",
-    "title": "Vila Velha inicia capacitação para uso da insulina glargina no tratamento de diabetes"
+  "source:7111329451f64da62a5fa47c7516ea4e8d978531": {
+    "ts": 1786460068297,
+    "url": "https://eshoje.com.br/economia/2026/08/inflacao-da-grande-vitoria-supera-media-nacional-em-julho",
+    "title": "Inflação na Grande Vitória supera média nacional em julho com alta em moradia, saúde e transporte"
+  },
+  "source:596f83380f9e7011d9edb7a1881a00ceda6f2f6f": {
+    "ts": 1786460068297,
+    "url": "https://eshoje.com.br/policia/2026/08/policia-investiga-suposta-tentativa-de-sequestro-em-vitoria",
+    "title": "Polícia Civil investiga relato de abordagem suspeita envolvendo criança em Santa Lúcia, Vitória"
   }
 }
