@@ -1,4 +1,19 @@
 {
+  "source:b5e222bd9ff62373b5e4b46abbe0a9c5f8386295": {
+    "ts": 1786467266412,
+    "url": "https://eshoje.com.br/policia/2026/08/dois-homens-sao-presos-por-tentativa-de-homicidio-em-sao-gabriel-da-palha",
+    "title": "Dois homens são presos por tentativa de homicídio em São Gabriel da Palha"
+  },
+  "source:ab3389b186a0379c315d059ad539e3642d221196": {
+    "ts": 1786467266412,
+    "url": "https://www.espiritosantonoticias.com.br/empresario-morre-apos-carro-cair-em-ribanceira-na-br-262-em-marechal-floriano",
+    "title": "Empresário morre em acidente na rodovia entre Venda Nova do Imigrante e Vitória"
+  },
+  "source:1c617126b672e4a138f2750f5b7c3c678ea52b69": {
+    "ts": 1786467266412,
+    "url": "https://eshoje.com.br/policia/2026/08/homem-e-preso-com-carro-roubado-menos-de-um-mes-apos-sair-da-prisao-em-vitoria",
+    "title": "Homem é preso em Vitória com carro roubado na Praia de Santa Helena"
+  },
   "source:a8406e07e143385e9e6fbd4b9426e4319b212ef7": {
     "ts": 1786463667164,
     "url": "https://eshoje.com.br/policia/2026/08/mulher-e-encontrada-desacordada-apos-agressao-durante-briga-com-companheiro-em-vila-velha",
@@ -8379,19 +8394,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:b5e222bd9ff62373b5e4b46abbe0a9c5f8386295": {
-    "ts": 1786467266412,
-    "url": "https://eshoje.com.br/policia/2026/08/dois-homens-sao-presos-por-tentativa-de-homicidio-em-sao-gabriel-da-palha",
-    "title": "Dois homens são presos por tentativa de homicídio em São Gabriel da Palha"
-  },
-  "source:ab3389b186a0379c315d059ad539e3642d221196": {
-    "ts": 1786467266412,
-    "url": "https://www.espiritosantonoticias.com.br/empresario-morre-apos-carro-cair-em-ribanceira-na-br-262-em-marechal-floriano",
-    "title": "Empresário morre em acidente na rodovia entre Venda Nova do Imigrante e Vitória"
-  },
-  "source:1c617126b672e4a138f2750f5b7c3c678ea52b69": {
-    "ts": 1786467266412,
-    "url": "https://eshoje.com.br/policia/2026/08/homem-e-preso-com-carro-roubado-menos-de-um-mes-apos-sair-da-prisao-em-vitoria",
-    "title": "Homem é preso em Vitória com carro roubado na Praia de Santa Helena"
+  "source:fbebcdb9e150e4e22495ba0d4c1a79b35622feb7": {
+    "ts": 1786470866654,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/detran-es-suspensao-energia",
+    "title": "Atendimento presencial do Detran na Ciretran de Vitória é suspenso por queda de energia"
   }
 }
