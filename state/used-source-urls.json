@@ -1,4 +1,14 @@
 {
+  "source:7111329451f64da62a5fa47c7516ea4e8d978531": {
+    "ts": 1786460068297,
+    "url": "https://eshoje.com.br/economia/2026/08/inflacao-da-grande-vitoria-supera-media-nacional-em-julho",
+    "title": "Inflação na Grande Vitória supera média nacional em julho com alta em moradia, saúde e transporte"
+  },
+  "source:596f83380f9e7011d9edb7a1881a00ceda6f2f6f": {
+    "ts": 1786460068297,
+    "url": "https://eshoje.com.br/policia/2026/08/policia-investiga-suposta-tentativa-de-sequestro-em-vitoria",
+    "title": "Polícia Civil investiga relato de abordagem suspeita envolvendo criança em Santa Lúcia, Vitória"
+  },
   "source:10c74aa239f57b6bd7e9cc980de1533e1c16eb5b": {
     "ts": 1786456466785,
     "url": "https://eshoje.com.br/saude/2026/08/vila-velha-prepara-profissionais-de-saude-para-uso-de-nova-insulina-no-tratamento-do-diabetes",
@@ -8354,14 +8364,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7111329451f64da62a5fa47c7516ea4e8d978531": {
-    "ts": 1786460068297,
-    "url": "https://eshoje.com.br/economia/2026/08/inflacao-da-grande-vitoria-supera-media-nacional-em-julho",
-    "title": "Inflação na Grande Vitória supera média nacional em julho com alta em moradia, saúde e transporte"
+  "source:a8406e07e143385e9e6fbd4b9426e4319b212ef7": {
+    "ts": 1786463667164,
+    "url": "https://eshoje.com.br/policia/2026/08/mulher-e-encontrada-desacordada-apos-agressao-durante-briga-com-companheiro-em-vila-velha",
+    "title": "Mulher é encontrada desacordada após briga com companheiro em Vila Velha"
   },
-  "source:596f83380f9e7011d9edb7a1881a00ceda6f2f6f": {
-    "ts": 1786460068297,
-    "url": "https://eshoje.com.br/policia/2026/08/policia-investiga-suposta-tentativa-de-sequestro-em-vitoria",
-    "title": "Polícia Civil investiga relato de abordagem suspeita envolvendo criança em Santa Lúcia, Vitória"
+  "source:f03bd57003410b6a465645359dbb36cb75d503c0": {
+    "ts": 1786463667164,
+    "url": "https://eshoje.com.br/policia/2026/08/homem-e-morto-com-facada-no-pescoco-durante-briga-em-bar-de-vila-velha",
+    "title": "Homem é morto a facadas durante briga em bar no bairro Alecrim, Vila Velha"
+  },
+  "source:5e7c7b6d182211208b3ce3870464ad02670e040c": {
+    "ts": 1786463667164,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/assembleia-legislativa-do-es-vai-reabrir-restaurante-apos-seis-anos-fechado",
+    "title": "Assembleia Legislativa do Espírito Santo reabre restaurante após seis anos"
   }
 }
