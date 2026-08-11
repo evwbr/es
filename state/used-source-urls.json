@@ -1,4 +1,19 @@
 {
+  "source:40ff815abc1344fd84cefd97be27db8960d27d73": {
+    "ts": 1786481666456,
+    "url": "https://www.espiritosantonoticias.com.br/bnh-pm-apreende-ciclomotor-furtado-e-recupera-mais-de-r-3-mil-durante-cerco-em-cachoeiro",
+    "title": "Polícia Militar recupera dinheiro e ciclomotor furtados em ação em Cachoeiro de Itapemirim"
+  },
+  "source:2275c5e112199ebd529f9d251d5523dbb97dc10a": {
+    "ts": 1786481666456,
+    "url": "https://eshoje.com.br/policia/2026/08/homem-e-preso-apos-invadir-loja",
+    "title": "Homem é preso após roubar cerca de 40 pulseiras de ouro em loja no Centro de Colatina"
+  },
+  "source:46c9cbef2907725d9d310dc69da3723b187bbac2": {
+    "ts": 1786481666456,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/mutirao-de-saude-tera-dentistas",
+    "title": "Mutirão de saúde oferece atendimentos gratuitos no bairro Shell, em Linhares"
+  },
   "source:ca5c4728d78e20701d2912bb21c7ef7601ab46cd": {
     "ts": 1786474466312,
     "url": "https://www.espiritosantonoticias.com.br/aos-76-anos-moradora-da-serra-procura-familiares-que-nao-ve-ha-mais-de-40-anos",
@@ -8419,19 +8434,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:40ff815abc1344fd84cefd97be27db8960d27d73": {
-    "ts": 1786481666456,
-    "url": "https://www.espiritosantonoticias.com.br/bnh-pm-apreende-ciclomotor-furtado-e-recupera-mais-de-r-3-mil-durante-cerco-em-cachoeiro",
-    "title": "Polícia Militar recupera dinheiro e ciclomotor furtados em ação em Cachoeiro de Itapemirim"
+  "source:fc2491a53676c23110d28d0db0a1afdb775592fd": {
+    "ts": 1786485266775,
+    "url": "https://eshoje.com.br/economia/2026/08/es-e-o-6o-estado-eletropostos",
+    "title": "Espírito Santo é sexto estado com maior busca por eletropostos no Brasil"
   },
-  "source:2275c5e112199ebd529f9d251d5523dbb97dc10a": {
-    "ts": 1786481666456,
-    "url": "https://eshoje.com.br/policia/2026/08/homem-e-preso-apos-invadir-loja",
-    "title": "Homem é preso após roubar cerca de 40 pulseiras de ouro em loja no Centro de Colatina"
-  },
-  "source:46c9cbef2907725d9d310dc69da3723b187bbac2": {
-    "ts": 1786481666456,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/mutirao-de-saude-tera-dentistas",
-    "title": "Mutirão de saúde oferece atendimentos gratuitos no bairro Shell, em Linhares"
+  "source:9063b4e537abd0b2187fa444381b40c315fea39f": {
+    "ts": 1786485266775,
+    "url": "https://eshoje.com.br/policia/2026/08/policia-intima-500-pessoas-celulares",
+    "title": "Polícia Civil do ES intima 500 pessoas para apresentação de celulares com registro de roubo, furto ou perda"
   }
 }
