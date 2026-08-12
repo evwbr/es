@@ -1,4 +1,9 @@
 {
+  "source:ed7bad76a1565f85bea28df0b84148c4e955a589": {
+    "ts": 1786557266786,
+    "url": "https://www.espiritosantonoticias.com.br/operacao-falsa-gerente-prende-dois-suspeitos-de-fraude-bancaria-no-litoral-do-es",
+    "title": "Polícia prende dois suspeitos de golpe bancário no Sul do Espírito Santo em operação conjunta"
+  },
   "source:6512edfda6fa4f0ac680bc63c688b52e20acdce7": {
     "ts": 1786550067140,
     "url": "https://eshoje.com.br/economia/2026/08/serra-e-cariacica-terao-maiores-participacoes-no-icms-em-2027-aponta-ipm-provisorio",
@@ -8514,9 +8519,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:ed7bad76a1565f85bea28df0b84148c4e955a589": {
-    "ts": 1786557266786,
-    "url": "https://www.espiritosantonoticias.com.br/operacao-falsa-gerente-prende-dois-suspeitos-de-fraude-bancaria-no-litoral-do-es",
-    "title": "Polícia prende dois suspeitos de golpe bancário no Sul do Espírito Santo em operação conjunta"
+  "source:11e25cd049339990a0c169bfa670fda0b96bf84c": {
+    "ts": 1786564466581,
+    "url": "https://eshoje.com.br/policia/2026/08/dupla-presa-furto-7-mil-em-brejetuba",
+    "title": "Dois homens são presos por furto de R$ 7 mil em residência na zona rural de Brejetuba"
+  },
+  "source:a969a28c3df5065def2140ae895db0494c86cf54": {
+    "ts": 1786564466581,
+    "url": "https://eshoje.com.br/policia/2026/08/golpe-da-falsa-gerente-quadrilha",
+    "title": "Dois homens são presos no litoral Sul do ES por golpes bancários e lavagem de dinheiro"
   }
 }
