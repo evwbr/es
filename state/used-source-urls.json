@@ -1,4 +1,14 @@
 {
+  "source:46f0abaec31c18a0d423c550de4fdcb24ef71ea7": {
+    "ts": 1786532066133,
+    "url": "https://www.espiritosantonoticias.com.br/policia-intima-cerca-de-500-pessoas-no-es-para-devolver-celulares-com-registro-de-roubo-ou-furto",
+    "title": "Polícia Civil do Espírito Santo realiza operação para recuperar celulares irregulares em Vitória"
+  },
+  "source:7fb26cf32581f9b94b81532eb4ca14bcba6d9d24": {
+    "ts": 1786532066133,
+    "url": "https://www.espiritosantonoticias.com.br/policia-apreende-cocaina-maconha-e-crack-durante-operacao-em-cachoeiro",
+    "title": "Polícia apreende drogas e prende três pessoas em operação em Cachoeiro de Itapemirim"
+  },
   "source:fc2491a53676c23110d28d0db0a1afdb775592fd": {
     "ts": 1786485266775,
     "url": "https://eshoje.com.br/economia/2026/08/es-e-o-6o-estado-eletropostos",
@@ -8444,14 +8454,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:46f0abaec31c18a0d423c550de4fdcb24ef71ea7": {
-    "ts": 1786532066133,
-    "url": "https://www.espiritosantonoticias.com.br/policia-intima-cerca-de-500-pessoas-no-es-para-devolver-celulares-com-registro-de-roubo-ou-furto",
-    "title": "Polícia Civil do Espírito Santo realiza operação para recuperar celulares irregulares em Vitória"
+  "source:f7cce643f8c8ad4eafe2e155f88f4bdfae807899": {
+    "ts": 1786535666752,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/marataizes-supera-media-do-es-e-entra-no-top-10-da-qualidade-de-vida",
+    "title": "Marataízes é destaque no Índice de Progresso Social do Espírito Santo e lidera Região Sul"
   },
-  "source:7fb26cf32581f9b94b81532eb4ca14bcba6d9d24": {
-    "ts": 1786532066133,
-    "url": "https://www.espiritosantonoticias.com.br/policia-apreende-cocaina-maconha-e-crack-durante-operacao-em-cachoeiro",
-    "title": "Polícia apreende drogas e prende três pessoas em operação em Cachoeiro de Itapemirim"
+  "source:80fee58a0052b89206ab8a7ad6fccbac4e8b8edb": {
+    "ts": 1786535666752,
+    "url": "https://eshoje.com.br/esportes/2026/08/campeonato-brasileiro-de-judo-de-veteranos-comeca-sexta-feira-no-tartarugao",
+    "title": "Campeonato Brasileiro de Judô de Veteranos e Kata reúne 430 atletas em Vila Velha"
+  },
+  "source:465cbd5b7f2c6534678927707f81e10e946a7e2e": {
+    "ts": 1786535666752,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/vila-velha-retoma-regularizacao-de-imoveis-para-familias-de-dois-bairros",
+    "title": "Prefeitura de Vila Velha avança com regularização fundiária nos bairros Terra Vermelha e João Goulart"
+  },
+  "source:2aa78354d66df90509afb03d3642eb82be578a53": {
+    "ts": 1786535666752,
+    "url": "https://eshoje.com.br/politica/2026/08/casagrande-define-marcelo-coelho-como-primeiro-suplente-ao-senado",
+    "title": "Renato Casagrande escolhe Marcelo Coelho como primeiro suplente na chapa ao Senado"
   }
 }
