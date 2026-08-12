@@ -1,4 +1,9 @@
 {
+  "source:29d4c66d208a6d4e427b235b361ecc73991f1fad": {
+    "ts": 1786539266542,
+    "url": "https://eshoje.com.br/politica/2026/08/mulheres-vereadoras-tem-mais-chance-de-abandonar-a-politica-ou-de-nunca-se-reeleger-diz-estudo",
+    "title": "Estudo revela maior abandono e menor reeleição de mulheres vereadoras no Brasil"
+  },
   "source:f7cce643f8c8ad4eafe2e155f88f4bdfae807899": {
     "ts": 1786535666752,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/marataizes-supera-media-do-es-e-entra-no-top-10-da-qualidade-de-vida",
@@ -8474,9 +8479,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:29d4c66d208a6d4e427b235b361ecc73991f1fad": {
-    "ts": 1786539266542,
-    "url": "https://eshoje.com.br/politica/2026/08/mulheres-vereadoras-tem-mais-chance-de-abandonar-a-politica-ou-de-nunca-se-reeleger-diz-estudo",
-    "title": "Estudo revela maior abandono e menor reeleição de mulheres vereadoras no Brasil"
+  "source:a7f922358036428083ce579e08c1a5628b55e2ff": {
+    "ts": 1786542866853,
+    "url": "https://eshoje.com.br/policia/2026/08/segundo-suspeito-de-matar-mulher-na-frente-da-filha-e-preso-em-guriri",
+    "title": "Segundo suspeito de matar mulher na frente da filha e preso em guriri"
+  },
+  "source:b2fda0407b04bd447208473574c73fec7cbfd6e1": {
+    "ts": 1786542866853,
+    "url": "https://eshoje.com.br/policia/2026/08/dois-homens-sao-presos-por-furto-de-energia-eletrica-durante-operacao-em-marataizes",
+    "title": "Dois homens são presos em Itapemirim por furto de energia elétrica em imóveis com ligações clandestinas"
+  },
+  "source:7640f2c03ebb5a106c00532987ff15c1687ac0f8": {
+    "ts": 1786542866853,
+    "url": "https://eshoje.com.br/politica/2026/08/aracruz-aprova-regras-para-cobranca-de-couvert-artistico-e-consumacao",
+    "title": "Câmara de Aracruz aprova regras para transparência em cobranças de consumação mínima e couvert artístico"
   }
 }
