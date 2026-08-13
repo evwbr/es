@@ -1,4 +1,19 @@
 {
+  "source:793d35e316338a0936dd6f6533ba441e5ead3fca": {
+    "ts": 1786650866770,
+    "url": "https://eshoje.com.br/policia/2026/08/dupla-vendia-emagrecedores",
+    "title": "Dois homens são presos em Colatina por venda ilegal de tirzepatida para emagrecimento"
+  },
+  "source:ba9d23206611fff753b551df18676363f3202e75": {
+    "ts": 1786650866770,
+    "url": "https://eshoje.com.br/esportes/2026/08/vitoria-es-inicia-obra-no-gramado",
+    "title": "Vitória-ES inicia revitalização do gramado do Estádio Salvador Costa em setembro"
+  },
+  "source:493296d0adc762b21d109f9afe8f74ec7822f3e6": {
+    "ts": 1786650866770,
+    "url": "https://eshoje.com.br/saude/2026/08/saude-mental-vira-gestao-de-risco",
+    "title": "Empresas da Serra discutem riscos psicossociais e saúde mental no trabalho"
+  },
   "source:bea17db171965614e632baf33d27261cd71fde1f": {
     "ts": 1786647267226,
     "url": "https://eshoje.com.br/esportes/2026/08/clubes-criam-liga-desenvolvimento",
@@ -8634,19 +8649,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:793d35e316338a0936dd6f6533ba441e5ead3fca": {
-    "ts": 1786650866770,
-    "url": "https://eshoje.com.br/policia/2026/08/dupla-vendia-emagrecedores",
-    "title": "Dois homens são presos em Colatina por venda ilegal de tirzepatida para emagrecimento"
-  },
-  "source:ba9d23206611fff753b551df18676363f3202e75": {
-    "ts": 1786650866770,
-    "url": "https://eshoje.com.br/esportes/2026/08/vitoria-es-inicia-obra-no-gramado",
-    "title": "Vitória-ES inicia revitalização do gramado do Estádio Salvador Costa em setembro"
-  },
-  "source:493296d0adc762b21d109f9afe8f74ec7822f3e6": {
-    "ts": 1786650866770,
-    "url": "https://eshoje.com.br/saude/2026/08/saude-mental-vira-gestao-de-risco",
-    "title": "Empresas da Serra discutem riscos psicossociais e saúde mental no trabalho"
+  "source:7dae11d0cf8e3d8a4ee88e27bd76053fb6e22eb6": {
+    "ts": 1786654466884,
+    "url": "https://eshoje.com.br/saude/2026/08/cirurgias-eletivas-es-opera",
+    "title": "Rede estadual de saúde do Espírito Santo realiza mais de 100 mil cirurgias eletivas em 2024"
   }
 }
