@@ -1,4 +1,14 @@
 {
+  "source:920fbee66ea61f48fb8570669b006fa34a5f66fd": {
+    "ts": 1786625666710,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/serra-conhece-nova-miss-2026-nesta-quinta-feira-13",
+    "title": "Serra escolhe nova representante para o Miss Universo 2026 em evento no Teatro da Estação"
+  },
+  "source:dc72261fb7c9f9bf573d3ead84bf0f76486af0cf": {
+    "ts": 1786625666710,
+    "url": "https://eshoje.com.br/saude/2026/08/pessoas-com-fibromialgia-devem-solicitar-carteira-de-prioridade-pela-internet",
+    "title": "Vila Velha oferece carteira de identificação para pessoas com fibromialgia com solicitação online"
+  },
   "source:64343b54be3fa1df83a15abc1159f4aec3472c4a": {
     "ts": 1786622066398,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/festival-na-prainha-muda-transito-e-tera-quatro-barreiras-confira",
@@ -8584,14 +8594,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:920fbee66ea61f48fb8570669b006fa34a5f66fd": {
-    "ts": 1786625666710,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/serra-conhece-nova-miss-2026-nesta-quinta-feira-13",
-    "title": "Serra escolhe nova representante para o Miss Universo 2026 em evento no Teatro da Estação"
+  "source:4e0595dd5850b57c413cebffb1802eac598b2d38": {
+    "ts": 1786629266844,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/carros-de-aplicativo-terao-fiscalizacao-reforcada-durante-a-expo-aracruz",
+    "title": "Prefeitura de Aracruz reforça fiscalização de veículos de aplicativo durante Expo Aracruz 2026"
   },
-  "source:dc72261fb7c9f9bf573d3ead84bf0f76486af0cf": {
-    "ts": 1786625666710,
-    "url": "https://eshoje.com.br/saude/2026/08/pessoas-com-fibromialgia-devem-solicitar-carteira-de-prioridade-pela-internet",
-    "title": "Vila Velha oferece carteira de identificação para pessoas com fibromialgia com solicitação online"
+  "source:5059110571f847a91014137a8d33a6ed9b1757fd": {
+    "ts": 1786629266844,
+    "url": "https://eshoje.com.br/policia/2026/08/tonel-escondido-sob-a-lama-de-manguezal-guardava-carregamento-de-maconha-em-cariacica",
+    "title": "Dois homens são presos com drogas enterradas em tonel no manguezal de Cariacica"
+  },
+  "source:e74d739e24fb30339200dd8ea814e28bba1fd13c": {
+    "ts": 1786629266844,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/es-tera-primeiro-hospital-publico-veterinario-do-estado",
+    "title": "Espírito Santo terá primeiro hospital público veterinário para atendimento gratuito"
   }
 }
