@@ -1,4 +1,14 @@
 {
+  "source:dd39d3fa22ea05a82801d78b01cd67c4c5de4325": {
+    "ts": 1786740866722,
+    "url": "https://eshoje.com.br/politica/2026/08/meneguelli-escolhe-dois-medicos-como-suplentes-um-dos-norte-e-um-do-sul",
+    "title": "Sergio Meneguelli anuncia médicos Pedro Pagotto e Rogério Rezende como suplentes ao Senado pelo Espírito Santo"
+  },
+  "source:d4ddd6fa03cf184c5bdfb51d8b635dde58b11ced": {
+    "ts": 1786740866722,
+    "url": "https://eshoje.com.br/politica/2026/08/patrimonio-helder-salomao",
+    "title": "Helder Salomão oficializa candidatura ao governo do Espírito Santo com patrimônio superior a R$ 1,2 milhão"
+  },
   "source:8ecee0e43d92af0b578feab7d05650a8b45a05ea": {
     "ts": 1786737266554,
     "url": "https://eshoje.com.br/politica/2026/08/solange-lube-voltar-ales",
@@ -8754,14 +8764,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:dd39d3fa22ea05a82801d78b01cd67c4c5de4325": {
-    "ts": 1786740866722,
-    "url": "https://eshoje.com.br/politica/2026/08/meneguelli-escolhe-dois-medicos-como-suplentes-um-dos-norte-e-um-do-sul",
-    "title": "Sergio Meneguelli anuncia médicos Pedro Pagotto e Rogério Rezende como suplentes ao Senado pelo Espírito Santo"
+  "source:8eb4bc6b93e0ad6370970e6d5ea74742aa4a47ae": {
+    "ts": 1786744467044,
+    "url": "https://eshoje.com.br/politica/2026/08/bispa-eliane-vice-pazolini",
+    "title": "Bispa Eliane é anunciada como vice na chapa de Lorenzo Pazolini para governo do Espírito Santo"
   },
-  "source:d4ddd6fa03cf184c5bdfb51d8b635dde58b11ced": {
-    "ts": 1786740866722,
-    "url": "https://eshoje.com.br/politica/2026/08/patrimonio-helder-salomao",
-    "title": "Helder Salomão oficializa candidatura ao governo do Espírito Santo com patrimônio superior a R$ 1,2 milhão"
+  "source:539713b5e3f713ee3a1b72f820f202d634e0b29c": {
+    "ts": 1786744467044,
+    "url": "https://eshoje.com.br/esportes/2026/08/jovens-capixabas-disputam-o-brasileiro-de-taekwondo-em-brasilia",
+    "title": "Delegação capixaba disputa Super Campeonato Brasileiro de Taekwondo em Brasília"
+  },
+  "source:9adaf6adf2d064909f83c793d6a1107f623fb497": {
+    "ts": 1786744467044,
+    "url": "https://eshoje.com.br/politica/2026/08/patrimonio-ricardo-27-mi",
+    "title": "Ricardo Ferraço registra candidatura à reeleição ao governo do Espírito Santo com patrimônio superior a R$ 27 milhões"
   }
 }
