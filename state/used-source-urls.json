@@ -1,4 +1,9 @@
 {
+  "source:3a4487b9e2862295f15e2a0dd8400a1020369a23": {
+    "ts": 1786722867530,
+    "url": "https://eshoje.com.br/politica/2026/08/ppm-oficializa-apoio-a-reeleicao-de-marcos-do-val-ao-senado-e-integra-chapa-do-avante",
+    "title": "Projeto Político Militar oficializa apoio à reeleição de Marcos do Val ao Senado em 2026"
+  },
   "source:3a6e3f221a3902dd2f95824841640c22ac686bbd": {
     "ts": 1786719266617,
     "url": "https://eshoje.com.br/seguranca/policia/2026/08/vitima-tribunal-do-crime",
@@ -8719,9 +8724,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3a4487b9e2862295f15e2a0dd8400a1020369a23": {
-    "ts": 1786722867530,
-    "url": "https://eshoje.com.br/politica/2026/08/ppm-oficializa-apoio-a-reeleicao-de-marcos-do-val-ao-senado-e-integra-chapa-do-avante",
-    "title": "Projeto Político Militar oficializa apoio à reeleição de Marcos do Val ao Senado em 2026"
+  "source:e42520613096708ed287bcef259b6db70e102c3c": {
+    "ts": 1786726466926,
+    "url": "https://eshoje.com.br/politica/2026/08/novo-mantem-plano-original-e-confirma-monjardim-na-disputa-pelo-senado-no-es",
+    "title": "Partido Novo confirma Monjardim como candidato ao Senado no Espírito Santo"
+  },
+  "source:da2300f6d20d3bcadece4ad094a781b42aa7f62f": {
+    "ts": 1786726466926,
+    "url": "https://eshoje.com.br/esportes/2026/08/open-beach-tennis-vitoria",
+    "title": "Vitória recebe etapa regional do Track e Field Open Beach Tennis com 360 atletas"
   }
 }
