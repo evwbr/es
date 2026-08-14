@@ -1,4 +1,9 @@
 {
+  "source:01c7aedba93f4a22ba851313f56df97f835e665a": {
+    "ts": 1786672466286,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/acao-em-cariacica-servicos",
+    "title": "Cariacica recebe ação itinerante com emissão de RG e atendimento do Procon"
+  },
   "source:7dae11d0cf8e3d8a4ee88e27bd76053fb6e22eb6": {
     "ts": 1786654466884,
     "url": "https://eshoje.com.br/saude/2026/08/cirurgias-eletivas-es-opera",
@@ -8654,9 +8659,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:01c7aedba93f4a22ba851313f56df97f835e665a": {
-    "ts": 1786672466286,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/acao-em-cariacica-servicos",
-    "title": "Cariacica recebe ação itinerante com emissão de RG e atendimento do Procon"
+  "source:103295c8852d26095b2bbe0badd7792b20a60053": {
+    "ts": 1786704866744,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-perde-r-675-apos-levar-tres-passageiras-de-minas-gerais-ao-espirito-santo",
+    "title": "Motorista de aplicativo é vítima de golpe após viagem de Belo Horizonte a Cariacica"
+  },
+  "source:8ba11f3ddb144d29839ff9aad17be475625554b7": {
+    "ts": 1786704866744,
+    "url": "https://www.espiritosantonoticias.com.br/foragida-da-justica-de-mato-grosso-e-localizada-e-presa-pela-policia-civil-em-guarapari",
+    "title": "Mulher é presa em Nova Guarapari por suspeita de crimes relacionados a abuso sexual infantil"
   }
 }
