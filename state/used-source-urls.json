@@ -1,4 +1,14 @@
 {
+  "source:103295c8852d26095b2bbe0badd7792b20a60053": {
+    "ts": 1786704866744,
+    "url": "https://www.espiritosantonoticias.com.br/motorista-perde-r-675-apos-levar-tres-passageiras-de-minas-gerais-ao-espirito-santo",
+    "title": "Motorista de aplicativo é vítima de golpe após viagem de Belo Horizonte a Cariacica"
+  },
+  "source:8ba11f3ddb144d29839ff9aad17be475625554b7": {
+    "ts": 1786704866744,
+    "url": "https://www.espiritosantonoticias.com.br/foragida-da-justica-de-mato-grosso-e-localizada-e-presa-pela-policia-civil-em-guarapari",
+    "title": "Mulher é presa em Nova Guarapari por suspeita de crimes relacionados a abuso sexual infantil"
+  },
   "source:01c7aedba93f4a22ba851313f56df97f835e665a": {
     "ts": 1786672466286,
     "url": "https://eshoje.com.br/espirito-santo/2026/08/acao-em-cariacica-servicos",
@@ -8659,14 +8669,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:103295c8852d26095b2bbe0badd7792b20a60053": {
-    "ts": 1786704866744,
-    "url": "https://www.espiritosantonoticias.com.br/motorista-perde-r-675-apos-levar-tres-passageiras-de-minas-gerais-ao-espirito-santo",
-    "title": "Motorista de aplicativo é vítima de golpe após viagem de Belo Horizonte a Cariacica"
+  "source:d52f1cf3b1b1bb955bd5b5a81def545959f7345b": {
+    "ts": 1786712066296,
+    "url": "https://eshoje.com.br/politica/2026/08/projeto-preve-que-a-assembleia-de-deus-seja-declarada-patrimonio-do-es",
+    "title": "Projeto na Assembleia Legislativa propõe declarar Assembleia de Deus Patrimônio Histórico Imaterial do Espírito Santo"
   },
-  "source:8ba11f3ddb144d29839ff9aad17be475625554b7": {
-    "ts": 1786704866744,
-    "url": "https://www.espiritosantonoticias.com.br/foragida-da-justica-de-mato-grosso-e-localizada-e-presa-pela-policia-civil-em-guarapari",
-    "title": "Mulher é presa em Nova Guarapari por suspeita de crimes relacionados a abuso sexual infantil"
+  "source:8a7f64eb49f0e545b3b0ec834b8b52b79f582606": {
+    "ts": 1786712066296,
+    "url": "https://eshoje.com.br/economia/2026/08/desemprego-cai-no-es",
+    "title": "Taxa de desemprego no Espírito Santo cai para 2,3% no"
+  },
+  "source:363ea1c129b6994ee66ce47277778c86396ebeda": {
+    "ts": 1786712066296,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/inscricoes-minha-casa",
+    "title": "Inscrições para 250 unidades do Minha Casa, Minha Vida em Cariacica terminam nesta sexta-feira"
+  },
+  "source:706b9cc6de57b717f88c1aea09f6020937867ad5": {
+    "ts": 1786712066296,
+    "url": "https://eshoje.com.br/saude/2026/08/vacina-sem-agendamento-vv",
+    "title": "Vila Velha amplia vacinação sem agendamento com ações em Glória e Itaparica"
   }
 }
