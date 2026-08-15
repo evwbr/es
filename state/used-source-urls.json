@@ -1,4 +1,14 @@
 {
+  "source:68fa1dd097d9cb01b1a54509a5b31c661ba97b61": {
+    "ts": 1786751667385,
+    "url": "https://eshoje.com.br/politica/2026/08/candidatura-senado-bens",
+    "title": "Patrimônio declarado dos candidatos ao Senado no Espírito Santo quase dobra em relação a 2018"
+  },
+  "source:0d5f753967146b2f53afc4d0d760649b94cb523a": {
+    "ts": 1786751667385,
+    "url": "https://eshoje.com.br/saude/2026/08/dia-do-cardiologista-coracao-pode-envelhecer-antes-alerta-especialista",
+    "title": "Cardiologista destaca avanços e importância da prevenção no Dia do Cardiologista em Vila Velha"
+  },
   "source:f62d67500952a41ed5efe07580b8de1d87ea56eb": {
     "ts": 1786748066271,
     "url": "https://eshoje.com.br/seguranca/policia/2026/08/foragido-procurado-pela-justica-capixaba-ha-oito-anos-e-preso-no-peru",
@@ -8794,14 +8804,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:68fa1dd097d9cb01b1a54509a5b31c661ba97b61": {
-    "ts": 1786751667385,
-    "url": "https://eshoje.com.br/politica/2026/08/candidatura-senado-bens",
-    "title": "Patrimônio declarado dos candidatos ao Senado no Espírito Santo quase dobra em relação a 2018"
-  },
-  "source:0d5f753967146b2f53afc4d0d760649b94cb523a": {
-    "ts": 1786751667385,
-    "url": "https://eshoje.com.br/saude/2026/08/dia-do-cardiologista-coracao-pode-envelhecer-antes-alerta-especialista",
-    "title": "Cardiologista destaca avanços e importância da prevenção no Dia do Cardiologista em Vila Velha"
+  "source:770055d42605230d7088116a8c3e2e9e342f2c6e": {
+    "ts": 1786755277312,
+    "url": "https://www.espiritosantonoticias.com.br/primeira-noite-do-festival-de-inverno-agitou-marataizes",
+    "title": "Primeira noite do Festival de Inverno agitou Marataízes"
   }
 }
