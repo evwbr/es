@@ -1,4 +1,9 @@
 {
+  "source:934e63bfdcbb4cd5f7f85d55eb55971e32a5f761": {
+    "ts": 1786910066444,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/soldado-morto-apos-abordagem-e-enterrado-em-cachoeiro-governador-decreta-luto",
+    "title": "Soldado da Polícia Militar é morto a tiros durante abordagem em Cachoeiro de Itapemirim"
+  },
   "source:01bb9127e16d4e53f6cf9f3eb8f453a897b8da6c": {
     "ts": 1786888466265,
     "url": "https://eshoje.com.br/politica/2026/08/um-terco-da-ales-tera-novos-deputados-em-2027",
@@ -8874,9 +8879,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:934e63bfdcbb4cd5f7f85d55eb55971e32a5f761": {
-    "ts": 1786910066444,
-    "url": "https://eshoje.com.br/seguranca/policia/2026/08/soldado-morto-apos-abordagem-e-enterrado-em-cachoeiro-governador-decreta-luto",
-    "title": "Soldado da Polícia Militar é morto a tiros durante abordagem em Cachoeiro de Itapemirim"
+  "source:cfa66dff0e73dc99a9a14d7cafcf1174519c1c6a": {
+    "ts": 1786967667323,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/vila-velha-faz-visitas-domiciliares-para-atualizar-cadunico",
+    "title": "Prefeitura de Vila Velha inicia atualização do CadÚnico para manutenção do BPC"
+  },
+  "source:5fcdea46e2f4b52e6f86e122d10c9e684e9e89dc": {
+    "ts": 1786967667323,
+    "url": "https://eshoje.com.br/politica/2026/08/mulheres-da-rede-estadual-de-ensino-irao-aprender-defesa-pessoal",
+    "title": "Projeto na Assembleia prevê atividades de defesa pessoal para estudantes mulheres da rede pública estadual"
+  },
+  "source:d0a8a68b28b39feede05874b9796e9702239f255": {
+    "ts": 1786967667323,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/operacao-expurgo-mira-trafico-ligado-ao-tcp-em-vitoria",
+    "title": "Polícia Civil realiza operação com 20 mandados de busca e apreensão em Vitória"
   }
 }
