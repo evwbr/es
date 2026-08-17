@@ -1,4 +1,9 @@
 {
+  "source:fbd04d9327f9cd5a94f402d850326404649c81fd": {
+    "ts": 1787000066487,
+    "url": "https://eshoje.com.br/esportes/2026/08/novas-regras-contra-cera-brasileiro",
+    "title": "Novas regras contra cera aumentam tempo de bola rolando no Brasileirão Série A"
+  },
   "source:221d293c29268644648b454fd202f6b286fa4790": {
     "ts": 1786996467757,
     "url": "https://eshoje.com.br/seguranca/policia/2026/08/criminoso-matou-soldado-pm",
@@ -8989,9 +8994,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:fbd04d9327f9cd5a94f402d850326404649c81fd": {
-    "ts": 1787000066487,
-    "url": "https://eshoje.com.br/esportes/2026/08/novas-regras-contra-cera-brasileiro",
-    "title": "Novas regras contra cera aumentam tempo de bola rolando no Brasileirão Série A"
+  "source:a7770ec9d66ab06a062351babde03893a94940c8": {
+    "ts": 1787003666419,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/palhacos-sao-presos-pedindo-doacao-em-semaforo-de-vitoria",
+    "title": "Dois homens vestidos de palhaço são presos por suspeita de fraude em doações no semáforo em Vitória"
+  },
+  "source:667a00896e599dc8954284e1abead4b3dcd58d7d": {
+    "ts": 1787003666419,
+    "url": "https://eshoje.com.br/economia/2026/08/juros-altos-e-endividamento",
+    "title": "Economista do Espírito Santo alerta para desequilíbrio fiscal e crescimento do endividamento das famílias"
   }
 }
