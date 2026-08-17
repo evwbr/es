@@ -1,4 +1,19 @@
 {
+  "source:221d293c29268644648b454fd202f6b286fa4790": {
+    "ts": 1786996467757,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/criminoso-matou-soldado-pm",
+    "title": "Comandante da PMES critica liberdade de foragido que matou soldado em Cachoeiro de Itapemirim"
+  },
+  "source:5a5c5939bc8eaef2cf9a72175f6235e9bb78e236": {
+    "ts": 1786996467757,
+    "url": "https://eshoje.com.br/politica/2026/08/rose-marcus-vicente-senado",
+    "title": "Rose de Freitas altera primeiro suplente para candidatura ao Senado no Espírito Santo"
+  },
+  "source:30bf7e76f0867f46b2717d4f5e0daad5465fce09": {
+    "ts": 1786996467757,
+    "url": "https://www.espiritosantonoticias.com.br/marataizes-em-acao-cidade-nova-recebe-mutirao-na-quinta-feira-20",
+    "title": "Mutirão de Serviços em Marataízes oferece atendimentos gratuitos na Cidade Nova"
+  },
   "source:0075566d63c90380cd4fdd749d0f1a6a27a1f7f1": {
     "ts": 1786992866717,
     "url": "https://eshoje.com.br/politica/2026/08/morte-de-pm-repercute-na-ales",
@@ -8974,19 +8989,9 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:221d293c29268644648b454fd202f6b286fa4790": {
-    "ts": 1786996467757,
-    "url": "https://eshoje.com.br/seguranca/policia/2026/08/criminoso-matou-soldado-pm",
-    "title": "Comandante da PMES critica liberdade de foragido que matou soldado em Cachoeiro de Itapemirim"
-  },
-  "source:5a5c5939bc8eaef2cf9a72175f6235e9bb78e236": {
-    "ts": 1786996467757,
-    "url": "https://eshoje.com.br/politica/2026/08/rose-marcus-vicente-senado",
-    "title": "Rose de Freitas altera primeiro suplente para candidatura ao Senado no Espírito Santo"
-  },
-  "source:30bf7e76f0867f46b2717d4f5e0daad5465fce09": {
-    "ts": 1786996467757,
-    "url": "https://www.espiritosantonoticias.com.br/marataizes-em-acao-cidade-nova-recebe-mutirao-na-quinta-feira-20",
-    "title": "Mutirão de Serviços em Marataízes oferece atendimentos gratuitos na Cidade Nova"
+  "source:fbd04d9327f9cd5a94f402d850326404649c81fd": {
+    "ts": 1787000066487,
+    "url": "https://eshoje.com.br/esportes/2026/08/novas-regras-contra-cera-brasileiro",
+    "title": "Novas regras contra cera aumentam tempo de bola rolando no Brasileirão Série A"
   }
 }
