@@ -1,4 +1,29 @@
 {
+  "source:13581eccbedc139225a528d85ad5dfbe1adb2323": {
+    "ts": 1787082866575,
+    "url": "https://eshoje.com.br/politica/2026/08/profissionais-de-saude-protecao",
+    "title": "Assembleia aprova programa Saúde Segura para proteger profissionais em unidades de saúde do ES"
+  },
+  "source:af31aec060f88f5e4710cff71eac9165de8f96e7": {
+    "ts": 1787082866575,
+    "url": "https://www.espiritosantonoticias.com.br/falesia-com-fissura-e-risco-de-queda-de-blocos-e-interditada-em-marataizes",
+    "title": "Defesa Civil interdita trecho de falésia em Marataízes por risco de deslizamento"
+  },
+  "source:71b61b927871f21bf71306a0bbb0c53c25232938": {
+    "ts": 1787082866575,
+    "url": "https://eshoje.com.br/politica/2026/08/da-vitoria-se-reune-com-marcus-vicente-e-outros-progressistas-e-esfria-rumores-de-desentendimento",
+    "title": "Federação União Progressista autoriza escolha de suplentes para chapa ao Senado no ES"
+  },
+  "source:f4f1847d79c64dd80e70f267ad179581a646eba0": {
+    "ts": 1787082866575,
+    "url": "https://eshoje.com.br/esportes/2026/08/hugo-cibien-copa-truck-2026",
+    "title": "Autódromo de Londrina recebe sexta etapa da Copa Truck com piloto capixaba em destaque"
+  },
+  "source:c6541402a238393bcf7fc83ffd0baa931877999e": {
+    "ts": 1787082866575,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/linhares-226-anos-1bilhao",
+    "title": "Linhares completa 226 anos com mais de R$ 1 bilhão em investimentos públicos do Governo do Estado"
+  },
   "source:927fe6970fda577564d4327030bb073ffd507435": {
     "ts": 1787079268190,
     "url": "https://eshoje.com.br/esportes/2026/08/idolo-do-basquete-capixaba-eua",
@@ -9049,29 +9074,24 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:13581eccbedc139225a528d85ad5dfbe1adb2323": {
-    "ts": 1787082866575,
-    "url": "https://eshoje.com.br/politica/2026/08/profissionais-de-saude-protecao",
-    "title": "Assembleia aprova programa Saúde Segura para proteger profissionais em unidades de saúde do ES"
+  "source:0b1063cb249061fed7e0b79ff2afc84cfe47d862": {
+    "ts": 1787086466491,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/vale-avalia-ceder-area-para-desvio-para-trafego-na-br-259-es-em-joao-neiva",
+    "title": "Deputado solicita desvio emergencial na BR-259 para minimizar impactos de interdição de ponte no ES"
   },
-  "source:af31aec060f88f5e4710cff71eac9165de8f96e7": {
-    "ts": 1787082866575,
-    "url": "https://www.espiritosantonoticias.com.br/falesia-com-fissura-e-risco-de-queda-de-blocos-e-interditada-em-marataizes",
-    "title": "Defesa Civil interdita trecho de falésia em Marataízes por risco de deslizamento"
+  "source:12acf7f7aced5e3fe45e51ae9ac3cd84a9fdcade": {
+    "ts": 1787086466491,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/cidadania-portuguesa-es",
+    "title": "Homem é preso no Aeroporto de Vitória por estelionato em processos de cidadania portuguesa"
   },
-  "source:71b61b927871f21bf71306a0bbb0c53c25232938": {
-    "ts": 1787082866575,
-    "url": "https://eshoje.com.br/politica/2026/08/da-vitoria-se-reune-com-marcus-vicente-e-outros-progressistas-e-esfria-rumores-de-desentendimento",
-    "title": "Federação União Progressista autoriza escolha de suplentes para chapa ao Senado no ES"
+  "source:024a08bbaf05a401d5c262f5fcc0089402c328a9": {
+    "ts": 1787086466491,
+    "url": "https://eshoje.com.br/politica/2026/08/armandinho-condenacao-tjes",
+    "title": "Vereador de Vitória Armandinho Fontoura pode ficar inelegível até 2034 após condenação por falsidade ideológica"
   },
-  "source:f4f1847d79c64dd80e70f267ad179581a646eba0": {
-    "ts": 1787082866575,
-    "url": "https://eshoje.com.br/esportes/2026/08/hugo-cibien-copa-truck-2026",
-    "title": "Autódromo de Londrina recebe sexta etapa da Copa Truck com piloto capixaba em destaque"
-  },
-  "source:c6541402a238393bcf7fc83ffd0baa931877999e": {
-    "ts": 1787082866575,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/linhares-226-anos-1bilhao",
-    "title": "Linhares completa 226 anos com mais de R$ 1 bilhão em investimentos públicos do Governo do Estado"
+  "source:951eeb145e6ceeb0f1140482271df9d28d085175": {
+    "ts": 1787086466491,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/prf-cumpre-mandado-por-trafico-de-drogas-durante-fiscalizacao-na-br-101-em-viana",
+    "title": "Homem com mandado de prisão é detido em operação da PRF em Cariacica"
   }
 }
