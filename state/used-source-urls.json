@@ -1,4 +1,9 @@
 {
+  "source:a067407acd5596b0bb486ee2057342d67a552518": {
+    "ts": 1787158466754,
+    "url": "https://eshoje.com.br/politica/2026/08/armandinho-reage-a-possivel-impugnacao-e-diz-que-vai-vencer-eleicao",
+    "title": "Vereador Armandinho Fontoura mantém candidatura a deputado estadual em 2026 apesar de ação do Ministério Público Eleitoral"
+  },
   "source:7c9a5d91d5733b7dcdf29c7bf80aafb3da9de9ae": {
     "ts": 1787154866973,
     "url": "https://eshoje.com.br/seguranca/policia/2026/08/suspeitos-roubam-celulares-na-orla-e-testemunhas-vao-atras-de-grupo-em-vila-velha",
@@ -9169,9 +9174,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:a067407acd5596b0bb486ee2057342d67a552518": {
-    "ts": 1787158466754,
-    "url": "https://eshoje.com.br/politica/2026/08/armandinho-reage-a-possivel-impugnacao-e-diz-que-vai-vencer-eleicao",
-    "title": "Vereador Armandinho Fontoura mantém candidatura a deputado estadual em 2026 apesar de ação do Ministério Público Eleitoral"
+  "source:700bb388547b7a0b8cfa7111f00e9e79191edd37": {
+    "ts": 1787162066528,
+    "url": "https://eshoje.com.br/esportes/2026/08/maracana-e-favorito-para-abrir-copa-feminina-apesar-de-tentativa-paulista",
+    "title": "Maracanã deve sediar abertura e final da Copa do Mundo Feminina no Rio de Janeiro"
+  },
+  "source:42c4b5766d228d76f9ed94210dc78c68e5990097": {
+    "ts": 1787162066528,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/congresso-educacional-ia",
+    "title": "Congresso Educacional das Escolas Particulares do Espírito Santo reúne 2 mil profissionais em Vitória"
   }
 }
