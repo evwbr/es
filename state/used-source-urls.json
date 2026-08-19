@@ -1,4 +1,19 @@
 {
+  "source:3a22627b23207f9dee73fcb6d8f97f80ae29721c": {
+    "ts": 1787140466923,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/operacao-contra-celulares-roubados-mobiliza-policia-no-es",
+    "title": "Polícia Civil realiza operação contra roubo e receptação de celulares na Região Metropolitana do ES"
+  },
+  "source:a59fb469e5a30d9dd9f78de818d56e56d8cd08be": {
+    "ts": 1787140466923,
+    "url": "https://www.espiritosantonoticias.com.br/iuna-pf-captura-foragido-por-homicidio-qualificado",
+    "title": "Polícia Federal prende homem em Iúna com mandado de prisão preventiva"
+  },
+  "source:d17a4bd83277d1d96843ed1ece696dec2af6acd2": {
+    "ts": 1787140466923,
+    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-recebe-projeto-que-leva-informacao-e-debate-sobre-violencia-contra-a-mulher-com-exibicao-gratuita-de-documentario-capixaba-premiado",
+    "title": "Projeto Ato Final em Debate promove reflexão sobre violência de gênero em Cachoeiro de Itapemirim"
+  },
   "source:ab17cd859f442cf2bab2ce15abfb5bd336d634d8": {
     "ts": 1787093667048,
     "url": "https://www.espiritosantonoticias.com.br/em-anchieta-homem-e-preso-suspeito-de-tentar-estuprar-a-propria-irma",
@@ -9109,19 +9124,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3a22627b23207f9dee73fcb6d8f97f80ae29721c": {
-    "ts": 1787140466923,
-    "url": "https://eshoje.com.br/seguranca/policia/2026/08/operacao-contra-celulares-roubados-mobiliza-policia-no-es",
-    "title": "Polícia Civil realiza operação contra roubo e receptação de celulares na Região Metropolitana do ES"
+  "source:c4b6dfbd0700ed8d6ec507b7516f118a4c99f305": {
+    "ts": 1787144066384,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/policia-civil-investiga-tentativa-de-homicidio-contra-adolescente-dentro-de-padaria-em-sao-mateus",
+    "title": "Adolescente é vítima de tentativa de homicídio em padaria de São Mateus"
   },
-  "source:a59fb469e5a30d9dd9f78de818d56e56d8cd08be": {
-    "ts": 1787140466923,
-    "url": "https://www.espiritosantonoticias.com.br/iuna-pf-captura-foragido-por-homicidio-qualificado",
-    "title": "Polícia Federal prende homem em Iúna com mandado de prisão preventiva"
-  },
-  "source:d17a4bd83277d1d96843ed1ece696dec2af6acd2": {
-    "ts": 1787140466923,
-    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-recebe-projeto-que-leva-informacao-e-debate-sobre-violencia-contra-a-mulher-com-exibicao-gratuita-de-documentario-capixaba-premiado",
-    "title": "Projeto Ato Final em Debate promove reflexão sobre violência de gênero em Cachoeiro de Itapemirim"
+  "source:9a3dfe5334b1f6837d961c2db3ee54f31f6a3ab2": {
+    "ts": 1787144066384,
+    "url": "https://www.espiritosantonoticias.com.br/cachoeiro-e-itapemirim-recebem-jornada-do-patrimonio-nesta-semana",
+    "title": "II Jornada do Patrimônio do Espírito Santo promove debate sobre preservação cultural em Cachoeiro e Itapemirim"
   }
 }
