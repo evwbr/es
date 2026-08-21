@@ -1,4 +1,9 @@
 {
+  "source:7e885574ebc5554013cf99b5b4968107901fd5a3": {
+    "ts": 1787313266524,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/passeio-ciclistico-une-23-escolas-da-regiao-5-de-vila-velha",
+    "title": "Passeio ciclístico une 23 escolas da Região 5 de Vila Velha"
+  },
   "source:c8d3b7ef97604af61a097153fd151c85e78ec52b": {
     "ts": 1787306067243,
     "url": "https://www.espiritosantonoticias.com.br/investigada-por-furto-e-encontrada-escondida-debaixo-de-cama-durante-operacao-em-guacui",
@@ -9304,9 +9309,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:7e885574ebc5554013cf99b5b4968107901fd5a3": {
-    "ts": 1787313266524,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/passeio-ciclistico-une-23-escolas-da-regiao-5-de-vila-velha",
-    "title": "Passeio ciclístico une 23 escolas da Região 5 de Vila Velha"
+  "source:f61477d4666611ab8e27a8ad46c7d6d189f13fe9": {
+    "ts": 1787316868284,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/haxixe-escondido-em-teto-de-carro-e-mais-prf-registra-apreensoes-na-br-101",
+    "title": "Haxixe escondido em teto de carro e mais: PRF registra apreensões na BR-101"
+  },
+  "source:053abb3fc24ba4aa165f37eb0916dd623f01781f": {
+    "ts": 1787316868284,
+    "url": "https://www.espiritosantonoticias.com.br/itapemirim-forca-tarefa-reune-orgaos-para-definir-acoes-sobre-pessoas-em-situacao-de-rua-nas-pedras-de-itaoca",
+    "title": "ITAPEMIRIM: Força-tarefa reúne órgãos para definir ações sobre pessoas em situação de rua nas Pedras de Itaoca"
+  },
+  "source:56d19c2db96041bc147102b325a8d03567616ff6": {
+    "ts": 1787316868284,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/evento-muda-transito-em-colatina-nesta-sexta-e-sabado-confira",
+    "title": "Evento muda trânsito em Colatina nesta sexta e sábado"
   }
 }
