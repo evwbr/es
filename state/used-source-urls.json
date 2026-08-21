@@ -1,4 +1,9 @@
 {
+  "source:9e01bfa14c2012719905d9f487ae51cba1baf975": {
+    "ts": 1787334866473,
+    "url": "https://eshoje.com.br/esportes/2026/08/rio-branco-enfrenta-o-vasco-pela-copa-do-brasil-sub-20",
+    "title": "Rio Branco enfrenta o Vasco pela Copa do Brasil Sub-20"
+  },
   "source:7776dfe1846e2c3e4decdc9fdadd60c75619f162": {
     "ts": 1787327666540,
     "url": "https://eshoje.com.br/esportes/2026/08/linhares-recebe-campeonato-de-motocross-com-entrada-gratuita-neste-domingo",
@@ -9359,9 +9364,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:9e01bfa14c2012719905d9f487ae51cba1baf975": {
-    "ts": 1787334866473,
-    "url": "https://eshoje.com.br/esportes/2026/08/rio-branco-enfrenta-o-vasco-pela-copa-do-brasil-sub-20",
-    "title": "Rio Branco enfrenta o Vasco pela Copa do Brasil Sub-20"
+  "source:209ef83b2404c992899e7a642ffb00dafee44b30": {
+    "ts": 1787338466756,
+    "url": "https://eshoje.com.br/seguranca/policia/2026/08/mochila-explode-veiculo",
+    "title": "Mochila em cima de viatura explode e destroi veículo no ES"
+  },
+  "source:75e4dfddd60ea2b464bc4468206bed8688540a34": {
+    "ts": 1787338466756,
+    "url": "https://www.espiritosantonoticias.com.br/piuma-pf-investiga-crimes-ambientais-e-contrabando-na-operacao-conexao-oceano",
+    "title": "Piúma: PF investiga crimes ambientais e contrabando na Operação Conexão Oceano"
+  },
+  "source:c536b30cecb8a39b27476b4faaf8be936bff13c1": {
+    "ts": 1787338466756,
+    "url": "https://www.espiritosantonoticias.com.br/mulher-morre-atropelada-por-moto-em-jeronimo-monteiro",
+    "title": "Mulher morre atropelada por moto em Jerônimo Monteiro"
   }
 }
