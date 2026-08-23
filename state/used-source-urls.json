@@ -1,4 +1,9 @@
 {
+  "source:79176448e4d533615d1ec8d1a52dc5dc6c4d821b": {
+    "ts": 1787507666392,
+    "url": "https://eshoje.com.br/politica/2026/08/marcelo-santos-campanha",
+    "title": "Marcelo Santos lança campanha para deputado federal"
+  },
   "source:dbf2c69ada12e6817bf6285b3b702dfcca94a3de": {
     "ts": 1787493266575,
     "url": "https://www.espiritosantonoticias.com.br/mulher-e-morta-a-facada-em-vitoria-suspeito-detido-diz-a-pm-que-divida-de-r-70-motivou-crime",
@@ -9429,9 +9434,19 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:79176448e4d533615d1ec8d1a52dc5dc6c4d821b": {
-    "ts": 1787507666392,
-    "url": "https://eshoje.com.br/politica/2026/08/marcelo-santos-campanha",
-    "title": "Marcelo Santos lança campanha para deputado federal"
+  "source:2866820ef7383c7c2dd281c86d8c4f551534c2e7": {
+    "ts": 1787511266084,
+    "url": "https://www.espiritosantonoticias.com.br/identificado-agressor-de-cabeleireiro-em-anchieta-que-morreu-apos-ser-baleado-dentro-de-igreja",
+    "title": "Identificado agressor de cabeleireiro em Anchieta que morreu após ser baleado dentro de igreja"
+  },
+  "source:3c25302c5ea694ecfe749535d85f50c624141ef3": {
+    "ts": 1787511266084,
+    "url": "https://eshoje.com.br/esportes/2026/08/norris-vence-segunda-f1",
+    "title": "Norris passa Antonelli e vence pela segunda vez seguida"
+  },
+  "source:4dea6eb0a6366e7a880c441ea3ebead5de9b3a71": {
+    "ts": 1787511266084,
+    "url": "https://www.espiritosantonoticias.com.br/homem-em-situacao-de-rua-e-assassinado-com-facada-no-torax-no-bairro-ceu-azul-em-piuma",
+    "title": "Homem em situação de rua é assassinado com facada no tórax no bairro Céu Azul, em Piúma"
   }
 }
