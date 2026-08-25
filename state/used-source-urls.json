@@ -1,4 +1,9 @@
 {
+  "source:3c3b18a5ee307dc90919f4b175d5d889c705995d": {
+    "ts": 1787680467534,
+    "url": "https://eshoje.com.br/espirito-santo/2026/08/es-pode-ter-chuva-de-granizo",
+    "title": "ES pode ter chuva de granizo e rajadas de vento de até 60 km"
+  },
   "source:f67d1cfe999902efb30f999a240fea61ab739c06": {
     "ts": 1787676866418,
     "url": "https://www.espiritosantonoticias.com.br/policia-do-es-procura-homem-suspeito-de-matar-namorada-e-esconder-corpo-em-geladeira",
@@ -9609,9 +9614,14 @@
     "url": "https://eshoje.com.br/espirito-santo/2026/05/cidades-do-es-recebem-alerta-de-tempestade-e-queda-de-granizo-veja-lista",
     "title": "Cidades do ES recebem alerta de tempestade e queda de granizo; veja lista"
   },
-  "source:3c3b18a5ee307dc90919f4b175d5d889c705995d": {
-    "ts": 1787680467534,
-    "url": "https://eshoje.com.br/espirito-santo/2026/08/es-pode-ter-chuva-de-granizo",
-    "title": "ES pode ter chuva de granizo e rajadas de vento de até 60 km"
+  "source:c211036417d84fa3773d0c40171f6fd9863a8f13": {
+    "ts": 1787684066601,
+    "url": "https://eshoje.com.br/esportes/2026/08/guarapari-recebe-maior-competicao-de-basquete-de-base-do-brasil",
+    "title": "Guarapari recebe Brasileiro Sub-15 de Basquete até dia 31"
+  },
+  "source:63d9ee68b5ff4757dc05cd52b25b110eeb395e76": {
+    "ts": 1787684066601,
+    "url": "https://eshoje.com.br/politica/2026/08/hartung-alerta-para-futuro",
+    "title": "Hartung se pronuncia e faz alerta para futuro do ES"
   }
 }
